@@ -1,0 +1,249 @@
+{
+  "objectives": [
+    {
+      "objective_id": "2c062118z90adz3359zb447z8f3fdd32e490",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Brand Reputation & Sentiment dashboard set up,4 Priority Client Searches Built,MI FB Setup New,MI IG Setup New,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-06-25",
+      "Account ID": "081b7bba-5666-4b0b-8707-6bd2fd33cd55",
+      "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "db5e9649z954cz3a3aza182z6bae7e1a2ff6",
+      "display_name": null,
+      "Objective Name": "(FIP) Voice of Customer Segmentation",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Competitor and Market Intelligence Integrated,1. Audience Profiles and Segments Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-06-25",
+      "Account ID": "081b7bba-5666-4b0b-8707-6bd2fd33cd55",
+      "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": "Audiense Segmentation / Demographic insights reports"
+    },
+    {
+      "objective_id": "0b2af296z79f0z3b3azb3edzdae2428a7cdf",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 30,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 30,
+      "Milestone Names": "1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,3. Tracking of Competitor and Market Signals Fully Operational,MI IG Setup New,Mira Studio Usage,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Sarah Tenner",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "27073de9-e334-4e3e-a1a1-69ae7d2b4324",
+      "Salesforce Opportunity ID": "006PH00000m2jewYAA",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5c2ef6e5z32faz383az9af6z3e6efa8f47ee",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Austin Gilkey",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "15ed3a2c-c6b0-4f8f-9ede-b13518ff15a6",
+      "Salesforce Opportunity ID": "006PH00000m2mXyYAI",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "65317166z1728z3c07z8360za27a519583bd",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Jacqueline Mann",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
+      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8062f252z6910z357az947cz5343af383c4a",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Sarah Tenner",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "27073de9-e334-4e3e-a1a1-69ae7d2b4324",
+      "Salesforce Opportunity ID": "006PH00000m2jewYAA",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "da81a167zfb64z3913za50eze62f48e93cb0",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Jacqueline Mann",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
+      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "efedcc49ze1e2z351dzb0ccze75b0f782eef",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,,a. Brand Search Foundation Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Jacqueline Mann",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
+      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b6407bd9z996fz31a6z97c3zf9ab72ca9113",
+      "display_name": null,
+      "Objective Name": "z (FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "64e887d7-bef4-4464-b8f8-6e93f4186e58",
+      "Salesforce Opportunity ID": "006PH00000nRHq9YAG",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b6afde69z88f7z391dzbc64zdc13856e680b",
+      "display_name": null,
+      "Objective Name": "z (FIP) Competitive Benchmarking",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 30,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 30,
+      "Milestone Names": "Mira Studio Usage,MI FB Setup New,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "64e887d7-bef4-4464-b8f8-6e93f4186e58",
+      "Salesforce Opportunity ID": "006PH00000nRHq9YAG",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "55deac35z4169z324azbdaez6d3ab1dc8997",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "Wellcome View only users in-platform,Integrate Assets into a dashboard report,3 Pillar Search Foundations Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-05-04",
+      "Account ID": "ca2d2c10-8fe6-46c6-b939-db16a43ed128",
+      "Salesforce Opportunity ID": "006Rf00000Xs6obIAB",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    }
+  ],
+  "fetched_at": "2026-06-26T15:33:04.056Z",
+  "total": 11,
+  "im_name": "Brendan Leung"
+}
