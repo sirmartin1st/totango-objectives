@@ -1,0 +1,161 @@
+{
+  "objectives": [
+    {
+      "objective_id": "0e491f5bz8243z32d8z9fc8z1bf4f0864709",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Francisco Romero Brillembourg",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "cac66b21-6700-4a6a-b333-43f409f9f57c",
+      "Salesforce Opportunity ID": "006Rf00000Cr4PxIAJ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "73b6d650z2fa9z358cz9d69z999ad946b33d",
+      "display_name": null,
+      "Objective Name": "(FIP) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 6,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Isabella Conti",
+      "Objective Created Date": "2026-06-15",
+      "Account ID": "67044c55-55d6-4070-8a4a-9e56797d4e9c",
+      "Salesforce Opportunity ID": "006PH00000lrYgQYAU",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "2ae3876bz7525z3f9ez912ez3170fa6a8514",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,Streamline Critical Media Monitoring: Implement Meltwater to enhance the speed and efficiency of identifying and tracking news related to Tarrant County, elected officials, and departments,Initiate Proactive Research for Strategic Planning: Begin leveraging Meltwater's research tools to gather insights on legislation and government-related topics, providing the necessary data to start developing informed, proactive communication,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Cassia Meditz",
+      "Objective Created Date": "2026-06-12",
+      "Account ID": "cccf92cf-a222-4545-a6a6-075d3bc82bd5",
+      "Salesforce Opportunity ID": "006PH00000ebykXYAQ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e75850e6z88d6z37a7zab1fz4551364ab23e",
+      "display_name": null,
+      "Objective Name": "Brand Competitive Benchmarking",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "2. Monitor competitive landscape and benchmark performance across traditional and social media to inform strategic positioning and market response.,1. Consolidate traditional and social media intelligence in one platform. Streamline workflows by having news intelligence, broadcast and social listening in a unified system.,4. Enable efficient insight distribution and reporting, providing stakeholders with timely, actionable intelligence to support decision-making across the organization.,3. Leverage generative AI capabilities (Gen AI Lens) to synthesize insights and accelerate intelligence gathering and reporting. ",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "1ee15960-d397-4d6d-a5a5-13ef2c31e643",
+      "Salesforce Opportunity ID": "006PH00000hN0HtYAK",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "ec537244z3f58z38a0z9978z5d4155580099",
+      "display_name": null,
+      "Objective Name": "Reputation Management",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "Implement a crisis monitoring system with automated alerts to identify and respond quickly to potential brand threats or spikes in negative sentiment.,Track competitor activities, campaigns, and conversations to identify market positioning opportunities.,Monitor brand reputation and sentiment across social media channels in real time to proactively manage brand health and customer perception.,Optimize influencer marketing strategy by identifying relevant influencers, tracking partnerships, and measuring campaign effectiveness.",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Andre Fiechter",
+      "Objective Created Date": "2026-06-03",
+      "Account ID": "04d50256-e265-43d3-ad2d-906bcc3737f7",
+      "Salesforce Opportunity ID": "006PH00000m6o3JYAQ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "3764b143z5739z35b8zaf59z804ebb561912",
+      "display_name": null,
+      "Objective Name": "Misinformation & Risk Intelligence",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "Crisis Response: Set up immediate alerts for brand safety issues, fires, negative mentions,Reputation & Brand Health Monitoring: Track overall brand health, federal legislation and major media coverage, as well as mentions related to safety, and culture.",
+      "Onboarding Stage": "On Hold",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-04-17",
+      "Account ID": "fc1de2f9-2526-4a3a-9313-ed2d0e349342",
+      "Salesforce Opportunity ID": "006Rf00000Y7fZ7IAJ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "71dec5dez3104z3742z89f3zcf1b1dbcfc3b",
+      "display_name": null,
+      "Objective Name": "Media Contacts Discovery & Campaign ROI",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Build a journalist database, identify beat reporters, design data-driven outreach campaigns",
+      "Onboarding Stage": "On Hold",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-04-17",
+      "Account ID": "fc1de2f9-2526-4a3a-9313-ed2d0e349342",
+      "Salesforce Opportunity ID": "006Rf00000Y7fZ7IAJ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    }
+  ],
+  "fetched_at": "2026-06-26T15:33:04.056Z",
+  "total": 7,
+  "im_name": "Abril Mendoza Guillen"
+}
