@@ -1,0 +1,227 @@
+{
+  "objectives": [
+    {
+      "objective_id": "2135c253z7718z3886za121z0c482a8b7ea9",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Austin Gilkey",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "9cd4610e-1888-4878-b7f7-5cd287d776ab",
+      "Salesforce Opportunity ID": "006PH00000lpk49YAA",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "2355f490za790z323az9428z3b55010f9862",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 30,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 30,
+      "Milestone Names": "1. Brand Search Foundation Defined ,Mira Studio Usage,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,,,MI IG Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Bryan Pfeiffer",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
+      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "711c4038z5408z3b0fzab93z132c4cd4b6e5",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Bryan Pfeiffer",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "f7cf768c-52d6-4a2a-93d3-be2aaa6a1902",
+      "Salesforce Opportunity ID": "006PH00000n0oLaYAI",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8b7188a6zf631z3670zb657z2c7d46f197b9",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Wesley Howell",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
+      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "db880fe1z5c25z3467zaad5z936eaa7cffba",
+      "display_name": null,
+      "Objective Name": "Influencer Discovery & Campaign ROI",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "4. Campaign ROI and Performance Insights Delivered,2. Influencer Assessed & Selection Completed,3. Influencer Management & Activation Fully Operational,1. Influencer Discovery Framework Defined",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Victoria Tessmar",
+      "Objective Created Date": "2026-06-23",
+      "Account ID": "3f1f89c7-b533-4929-b232-0b413347aed0",
+      "Salesforce Opportunity ID": "006Rf00000FL43BIAT",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "3e1f6458zcfeez3daazb8edzc7c2767aec34",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Jenny Qin",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "ab796e6f-18d3-4060-ad2d-320e9d3751c4",
+      "Salesforce Opportunity ID": "006Rf00000TrfQvIAJ",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "565f4d68zaa9ez34d2za640zc0a23307a385",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Wesley Howell",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
+      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "e858f599z7fffz37f2za8d8z54a5311c747d",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Bryan Pfeiffer",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
+      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "091ffa80zcabaz3b07z9257zd5d78dfb9129",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Rob MacCormick",
+      "Objective Created Date": "2026-04-22",
+      "Account ID": "fd0e32b3-1c3e-4484-b6b6-0be328f92fb4",
+      "Salesforce Opportunity ID": "006Rf00000UVFeMIAX",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "48743306z18dez3589z98e1zdf88d879d112",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-04-22",
+      "Account ID": "c877f109-003d-4dad-a060-bd61236ad9b8",
+      "Salesforce Opportunity ID": "006Rf00000UgjAnIAJ",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    }
+  ],
+  "fetched_at": "2026-06-26T15:33:04.056Z",
+  "total": 10,
+  "im_name": "Tanner Schavey"
+}
