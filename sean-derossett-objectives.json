@@ -111,50 +111,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "de8fa012z7b89z31e1zb382z76e5100f5840",
-      "display_name": null,
-      "Objective Name": "Digital Mid-Market Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": "MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,MI Created Dashboards,users in community",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Owen Tracy",
-      "Objective Created Date": "2026-06-12",
-      "Account ID": "dde80b6a-0a75-4ece-befe-63caa3ff4c19",
-      "Salesforce Opportunity ID": "006PH00000j51RNYAY",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "0e88b2f1z78c5z35adza026ze438a6576ed8",
-      "display_name": null,
-      "Objective Name": "z (FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "1. Content Curation Defined,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "afa8e27b-7672-4141-85c5-c694cd4d1192",
-      "Salesforce Opportunity ID": "006PH00000mtsXCYAY",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2b46ee1dz0bc5z3962za8fbz73a696945c4f",
       "display_name": null,
       "Objective Name": "z (FIP) Content Distribution",
@@ -173,28 +129,6 @@
       "Objective Created Date": "2026-06-08",
       "Account ID": "91bd65cb-9083-4757-8f4f-8148787d3b59",
       "Salesforce Opportunity ID": "006PH00000onHcPYAU",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6f6545c7z722az3672zaf24zd59c63b21eee",
-      "display_name": null,
-      "Objective Name": "z (FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "afa8e27b-7672-4141-85c5-c694cd4d1192",
-      "Salesforce Opportunity ID": "006PH00000mtsXCYAY",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
     },
@@ -287,28 +221,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "cff37456z857az3327zbbfaz817c9cf1db70",
-      "display_name": null,
-      "Objective Name": "z (FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "afa8e27b-7672-4141-85c5-c694cd4d1192",
-      "Salesforce Opportunity ID": "006PH00000mtsXCYAY",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "10e03e1fz5f87z31cfza11dz35a2fb9e979e",
       "display_name": null,
       "Objective Name": "z (FIP) Influencer Marketing",
@@ -373,31 +285,9 @@
       "Salesforce Opportunity ID": "0065f00000IrfCxAAJ",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "a0a86687z04f8z3e64za267zf0bd03ec8b19",
-      "display_name": null,
-      "Objective Name": "Digital Mid-Market Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Anne-Claire Penvern",
-      "Objective Created Date": "2026-05-29",
-      "Account ID": "11063eed-a05a-4414-a9e9-7773ebc6d973",
-      "Salesforce Opportunity ID": "006PH00000mYKWvYAO",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-26T15:33:04.056Z",
-  "total": 18,
+  "fetched_at": "2026-06-27T10:51:08.292Z",
+  "total": 13,
   "im_name": "Sean DeRossett"
 }
