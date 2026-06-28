@@ -6,7 +6,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -197,31 +197,9 @@
       "Salesforce Opportunity ID": "006PH00000mtPoXYAU",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "ee064a56za85az35e1z9c48z21e7efe75655",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
-        "percentage_of_completed_milestones": 42.857143,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 42.857143,
-      "Milestone Names": "Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-05-29",
-      "Account ID": "80b3b8af-0d1e-4a4a-9898-3f897e244811",
-      "Salesforce Opportunity ID": "006PH00000kFzyLYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-27T10:51:08.292Z",
-  "total": 10,
+  "fetched_at": "2026-06-28T10:51:09.841Z",
+  "total": 9,
   "im_name": "Alison Mowry"
 }
