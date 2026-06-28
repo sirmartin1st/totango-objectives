@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "72d8eef6z75c3z3375za32eze29059384192",
+      "display_name": null,
+      "Objective Name": "(FIP) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "1. Risk Landscape Defined,HS20 Searches Completed 90D,,2. Crisis Detection & Monitoring Fully Operational,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Andre Fiechter",
+      "Objective Created Date": "2026-06-27",
+      "Account ID": "2cce3181-a008-4767-b9f9-b238fb5feb96",
+      "Salesforce Opportunity ID": "006PH00000nlZCcYAM",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0e491f5bz8243z32d8z9fc8z1bf4f0864709",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -89,28 +111,6 @@
       "Objective Description": "Why is this important to the customer?"
     },
     {
-      "objective_id": "ec537244z3f58z38a0z9978z5d4155580099",
-      "display_name": null,
-      "Objective Name": "Reputation Management",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "Implement a crisis monitoring system with automated alerts to identify and respond quickly to potential brand threats or spikes in negative sentiment.,Track competitor activities, campaigns, and conversations to identify market positioning opportunities.,Monitor brand reputation and sentiment across social media channels in real time to proactively manage brand health and customer perception.,Optimize influencer marketing strategy by identifying relevant influencers, tracking partnerships, and measuring campaign effectiveness.",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Andre Fiechter",
-      "Objective Created Date": "2026-06-03",
-      "Account ID": "04d50256-e265-43d3-ad2d-906bcc3737f7",
-      "Salesforce Opportunity ID": "006PH00000m6o3JYAQ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
       "objective_id": "3764b143z5739z35b8zaf59z804ebb561912",
       "display_name": null,
       "Objective Name": "Misinformation & Risk Intelligence",
@@ -155,7 +155,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-27T10:51:08.292Z",
+  "fetched_at": "2026-06-28T10:51:09.841Z",
   "total": 7,
   "im_name": "Abril Mendoza Guillen"
 }
