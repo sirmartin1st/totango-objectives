@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-06-15",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-06-15",
@@ -441,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-27T10:51:08.292Z",
+  "fetched_at": "2026-06-28T10:51:09.841Z",
   "total": 20,
   "im_name": "Albert Bright"
 }
