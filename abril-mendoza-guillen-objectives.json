@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "c4f2c2fczcacez3be9z9fd0z0d52065558c9",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",MI IG Setup New,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Catie Farwick",
+      "Objective Created Date": "2026-06-28",
+      "Account ID": "489b3327-f81f-4d7d-9757-f61914141f28",
+      "Salesforce Opportunity ID": "006PH00000oLhzdYAC",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e1d342a8z3c28z3779zb3a7za47dd5e56327",
+      "display_name": null,
+      "Objective Name": "(FIP) Market & Industry Research",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,1. Market & Industry Search Foundation Defined,,MI IG Setup New,HS20 Searches Completed 90D,,,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-06-28",
+      "Account ID": "5a0e2991-3f6c-42e2-8747-57a61f8c8f03",
+      "Salesforce Opportunity ID": "006PH00000nC1nJYAS",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "72d8eef6z75c3z3375za32eze29059384192",
       "display_name": null,
       "Objective Name": "(FIP) Risk & Crisis Management",
@@ -155,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-28T10:51:09.841Z",
-  "total": 7,
+  "fetched_at": "2026-06-29T10:51:11.023Z",
+  "total": 9,
   "im_name": "Abril Mendoza Guillen"
 }
