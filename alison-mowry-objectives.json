@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-06-23",
@@ -72,7 +72,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -199,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-28T10:51:09.841Z",
+  "fetched_at": "2026-06-29T10:51:11.023Z",
   "total": 9,
   "im_name": "Alison Mowry"
 }
