@@ -321,7 +321,7 @@
       },
       "Pct Milestones Completed": 85.71429,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-05-31",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 85.71429,
       "Milestone Names": "MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-05-29",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-28T10:51:09.841Z",
+  "fetched_at": "2026-06-29T10:51:11.023Z",
   "total": 16,
   "im_name": "Drew Lipscomb"
 }
