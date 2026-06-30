@@ -160,7 +160,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -174,28 +174,6 @@
       "Account ID": "0e848e6b-0a6b-4949-97d7-199cd1fead9c",
       "Salesforce Opportunity ID": "006PH00000oJmnJYAS",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "eb8b63f0zd3aaz33d2z8022z7647ec8e5bb6",
-      "display_name": null,
-      "Objective Name": "z (FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Connor Love",
-      "Objective Created Date": "2026-06-09",
-      "Account ID": "e8a6a2a3-de97-4b4b-a626-470382558078",
-      "Salesforce Opportunity ID": "006PH00000kddztYAA",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -285,75 +263,9 @@
       "Salesforce Opportunity ID": "006PH00000ijGNUYA2",
       "Objective Created By": "drew.lipscomb@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "c7198bd3zb3e0z39edz835ezc6c62b521fac",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 5,
-        "percentage_of_completed_milestones": 28.571428,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 28.571428,
-      "Milestone Names": "Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-06-01",
-      "Account ID": "99ec5a99-bd01-47a7-98d8-ec0630f15e38",
-      "Salesforce Opportunity ID": "006PH00000nPCMjYAO",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "618d6607zb477z35afzaf27z175c9a2acaa5",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-05-31",
-      "Account ID": "125fd1a8-2792-4858-9999-f20f9661e51b",
-      "Salesforce Opportunity ID": "006PH00000li86rYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8b227967z6196z3732z828fza46746ac5afb",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": "MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-05-29",
-      "Account ID": "6399b823-d7b7-4f2f-8505-933be6bef904",
-      "Salesforce Opportunity ID": "006PH00000nSTKfYAO",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-29T10:51:11.023Z",
-  "total": 16,
+  "fetched_at": "2026-06-30T10:51:12.869Z",
+  "total": 12,
   "im_name": "Drew Lipscomb"
 }
