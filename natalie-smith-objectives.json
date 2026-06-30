@@ -29,19 +29,19 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
+        "percentage_of_completed_milestones": 37.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 25,
+      "Pct Milestones Completed": 37.5,
       "Milestone Names": "Hosted Core Workshops for UK Team,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Josh Paradise",
       "Objective Created Date": "2026-06-04",
       "Account ID": "6cb16a62-9101-4e1e-8282-4e1c454d713b",
       "Salesforce Opportunity ID": "006Rf00000WdXPtIAN",
-      "Objective Created By": "marty.sloane@meltwater.com",
+      "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -117,13 +117,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Josh Paradise",
       "Objective Created Date": "2026-05-08",
@@ -177,7 +177,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-29T10:51:11.023Z",
+  "fetched_at": "2026-06-30T10:51:12.869Z",
   "total": 8,
   "im_name": "Natalie Smith"
 }
