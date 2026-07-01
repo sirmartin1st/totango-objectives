@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -89,50 +89,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "43ed2231za39ez30e9z9b44zdeccb59e6c66",
-      "display_name": null,
-      "Objective Name": "z (FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 22.222221,
-      "Milestone Names": "MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New,,,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Zachary Leibell",
-      "Objective Created Date": "2026-06-05",
-      "Account ID": "c4f24def-41c5-45d5-8181-eb2567f472e1",
-      "Salesforce Opportunity ID": "006PH00000mhQd7YAE",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "64b18267z4618z3bf1zbf0bza97d11a7d500",
-      "display_name": null,
-      "Objective Name": "z (FIP) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "MI FB Setup New,2. Crisis Detection & Monitoring Fully Operational,1. Risk Landscape Defined,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,Mira Studio Usage,MI IG Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Zachary Leibell",
-      "Objective Created Date": "2026-06-05",
-      "Account ID": "c4f24def-41c5-45d5-8181-eb2567f472e1",
-      "Salesforce Opportunity ID": "006PH00000mhQd7YAE",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9c1e0ce8zf819z34c0zada4z53a4963327b9",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -172,7 +128,7 @@
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-05-18",
       "Account ID": "ae60dcc2-cc65-4888-8e8e-82abd23f8ac7",
-      "Salesforce Opportunity ID": "006PH00000eByWTYA0",
+      "Salesforce Opportunity ID": "006PH00000osDMrYAM",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
     },
@@ -199,7 +155,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
-  "total": 9,
+  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "total": 7,
   "im_name": "Anna Genova"
 }
