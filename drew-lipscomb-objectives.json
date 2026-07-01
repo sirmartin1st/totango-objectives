@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "07bb6ddcz7e5ez3fd5z8b55z72ef0002ee26",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",users in community,MI Created Dashboards,Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,MI Daily Digest Sent,MI Created Searches",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-07-01",
+      "Account ID": "74697562-5748-4707-baba-f6b87e4e500b",
+      "Salesforce Opportunity ID": "006PH00000oq5mnYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7901def5zd9a7z3456zb567z9d10b75f7859",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": "Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-07-01",
+      "Account ID": "65236843-f376-46b6-9151-1a9267584e06",
+      "Salesforce Opportunity ID": "006PH00000n3PvJYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3b9cae87z9799z31b5zbffbz8ca5114917fc",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 28.571428,
+      "Milestone Names": "Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "18f8c070-df46-4454-8f8f-73e7abfe6e9c",
+      "Salesforce Opportunity ID": "006PH00000oCj4bYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c8f8d595zcf4az3ec0z85f1z2ac753653c8a",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": "MI Created Searches,MI Created Dashboards,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "b24495a2-0951-4454-a6e6-75e9aa52e18e",
+      "Salesforce Opportunity ID": "006PH00000omLlJYAU",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "36331926z011bz3b50zb510z11bac83eea31",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -265,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
-  "total": 12,
+  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "total": 16,
   "im_name": "Drew Lipscomb"
 }
