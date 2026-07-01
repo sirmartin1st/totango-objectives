@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "82cee9a1z9044z3711z9556z9682be8f7fcb",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Daily Digests Setup for Users ,a. Brand Search Foundation Defined (Agility Migration),MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Katherine Brown",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "edc9c984z71fez37bdz959ez58d1287baae1",
+      "display_name": null,
+      "Objective Name": "(FIP) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "HS20 Searches Completed 90D,,2. Crisis Detection & Monitoring Fully Operational,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New,1. Risk Landscape Defined (Crisis Queries + Alerts)",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Katherine Brown",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ee2c556cz9810z3b24z9469z4a6e75af4b2f",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Katherine Brown",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0b5e3e71zcb70z39e5zbf1eza326184a85d9",
       "display_name": null,
       "Objective Name": "z (FIP) Data Connections & Integrations",
@@ -12,8 +78,8 @@
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Connectors & Integrations Fully Operational,1. Data Scope Defined",
-      "Onboarding Stage": "Internal Alignment",
+      "Milestone Names": "2. Connectors & Integrations Fully Operational (MCP Setup + RBI Team Enabled),1. Data Scope Defined",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
       "CSM Owner": "Nicole Lively",
       "Objective Created Date": "2026-06-08",
@@ -35,7 +101,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,,B. Real Time Campaign Tracking Activated,A. Campaign plan and strategy Defined,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
       "CSM Owner": "Nicole Lively",
       "Objective Created Date": "2026-06-08",
@@ -73,13 +139,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 37.5,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 37.5,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "2. Competitor and Market Intelligence Integrated,1. Audience Profiles and Segments Defined,HS20 Articles Clicked 90D,3. Share of Voice Reporting Activated,HS20 Searches Completed 90D,,,MI API Exports 30d",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
       "CSM Owner": "Nicole Lively",
       "Objective Created Date": "2026-06-08",
@@ -123,7 +189,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Search(es) Created for each RBI brand,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards / MCP",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
       "CSM Owner": "Nicole Lively",
       "Objective Created Date": "2026-06-08",
@@ -227,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "2. Connectors & Integrations Fully Operational,1. Data Scope Defined - Export Data into Retool",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
@@ -249,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": ",MI IG Setup New,,MI FB Setup New,Mira Studio Usage,1. Competitor(s) Search Foundation Defined ,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
@@ -293,11 +359,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 16.666666,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 16.666666,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Katherine Brown",
@@ -337,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Katherine Brown",
@@ -353,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
-  "total": 16,
+  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "total": 19,
   "im_name": "Katherine Brown"
 }
