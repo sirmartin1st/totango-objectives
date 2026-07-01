@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Brand Reputation & Sentiment dashboard set up,4 Priority Client Searches Built,MI FB Setup New,MI IG Setup New,,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
@@ -243,7 +243,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
+  "fetched_at": "2026-07-01T10:51:09.169Z",
   "total": 11,
   "im_name": "Brendan Leung"
 }
