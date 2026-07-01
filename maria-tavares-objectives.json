@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "a9be1219z7171z3ba6zb173z8a98f5494538",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Alyson Harrington",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "46fada96-0190-4e3e-8e8e-0f8b3aef7f86",
+      "Salesforce Opportunity ID": "006PH00000hQvbNYAS",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ed5cc1d1ze9ffz39a9zbca8z6fb109e3520b",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Alyson Harrington",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "46fada96-0190-4e3e-8e8e-0f8b3aef7f86",
+      "Salesforce Opportunity ID": "006PH00000hQvbNYAS",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "db14d0d7z539ez3f41zb2caz9b0cf0d5fe14",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 12.5,
+        "percentage_of_completed_milestones": 37.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 12.5,
+      "Pct Milestones Completed": 37.5,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,,,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -73,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 30,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 30,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,,MI IG Setup New,HS20 Searches Completed 90D,,Mira Studio Usage,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -177,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
-  "total": 8,
+  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "total": 10,
   "im_name": "Maria Tavares"
 }
