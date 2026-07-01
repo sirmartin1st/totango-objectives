@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "249ab309zd227z3223zb2f9z942d33f25755",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "775a52a9-2214-4515-8646-f873610ddc8a",
+      "Salesforce Opportunity ID": "006Rf00000GOT65IAH",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2b9f29a9za944z370fzaa5bzff135df2d6bc",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -48,7 +70,7 @@
       "objective_id": "b91ca789zfb31z3ed1zb01dz024613cce4e8",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -287,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
-  "total": 13,
+  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "total": 14,
   "im_name": "Sean DeRossett"
 }
