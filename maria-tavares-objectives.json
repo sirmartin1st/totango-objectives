@@ -182,7 +182,7 @@
       "Objective Name": "Digital Mid-Market Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 5
@@ -221,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-01T10:51:09.169Z",
+  "fetched_at": "2026-07-02T10:51:14.578Z",
   "total": 10,
   "im_name": "Maria Tavares"
 }
