@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "39e543b4ze864z3191z96f2z412a2ef55d35",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 40,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 40,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Natalie Smith",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-01",
+      "Account ID": "0812b384-7164-4696-8787-8727b30bad14",
+      "Salesforce Opportunity ID": "006PH00000hlSksYAE",
+      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8c850c37z7a7fz345az8e2azd62bef4d72f2",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 70,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 7
+      },
+      "Pct Milestones Completed": 70,
+      "Milestone Names": "HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,1. Brand Search Foundation Defined ",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Natalie Smith",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-07-01",
+      "Account ID": "06ac662c-5581-4979-9898-a4aab8f9aec7",
+      "Salesforce Opportunity ID": "006Rf00000VtNJtIAN",
+      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e11edd52z96dbz3f2ezafacz8a0961b0df7b",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -29,13 +73,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Connor Sikora",
       "Objective Created Date": "2026-06-04",
@@ -155,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-01T10:51:09.169Z",
-  "total": 7,
+  "fetched_at": "2026-07-02T10:51:14.578Z",
+  "total": 9,
   "im_name": "Natalie Smith"
 }
