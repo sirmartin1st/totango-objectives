@@ -177,28 +177,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "b6407bd9z996fz31a6z97c3zf9ab72ca9113",
-      "display_name": null,
-      "Objective Name": "z (FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Rob Casper",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "64e887d7-bef4-4464-b8f8-6e93f4186e58",
-      "Salesforce Opportunity ID": "006PH00000nRHq9YAG",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "b6afde69z88f7z391dzbc64zdc13856e680b",
       "display_name": null,
       "Objective Name": "z (FIP) Competitive Benchmarking",
@@ -243,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-01T10:51:09.169Z",
-  "total": 11,
+  "fetched_at": "2026-07-02T10:51:14.578Z",
+  "total": 10,
   "im_name": "Brendan Leung"
 }
