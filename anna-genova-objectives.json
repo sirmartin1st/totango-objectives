@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "82cee9a1z9044z3711z9556z9682be8f7fcb",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Daily Digests Setup for Users ,a. Brand Search Foundation Defined (Agility Migration),MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "edc9c984z71fez37bdz959ez58d1287baae1",
+      "display_name": null,
+      "Objective Name": "(FIP) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "HS20 Searches Completed 90D,,2. Crisis Detection & Monitoring Fully Operational,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New,1. Risk Landscape Defined (Crisis Queries + Alerts)",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ee2c556cz9810z3b24z9469z4a6e75af4b2f",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "fc7b09d1-9fab-4ede-96d6-4bcd3e749924",
+      "Salesforce Opportunity ID": "006Rf00000XJytXIAT",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "328ff1bcza960z34cbz9b4bze93ea93b9c76",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -155,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-01T10:51:09.169Z",
-  "total": 7,
+  "fetched_at": "2026-07-02T10:51:14.578Z",
+  "total": 10,
   "im_name": "Anna Genova"
 }
