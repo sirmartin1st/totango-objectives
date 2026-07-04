@@ -73,11 +73,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Nbr of MI users Active 30d,users in community",
       "Onboarding Stage": null,
       "Implementation Manager": "Sean DeRossett",
@@ -287,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-03T10:51:11.020Z",
+  "fetched_at": "2026-07-04T10:51:12.115Z",
   "total": 13,
   "im_name": "Sean DeRossett"
 }
