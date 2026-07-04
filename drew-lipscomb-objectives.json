@@ -26,14 +26,14 @@
       "objective_id": "98724964zee10z3197z89c8zb6121cd82794",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 14.285714,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,",
       "Onboarding Stage": null,
       "Implementation Manager": "Drew Lipscomb",
@@ -353,28 +353,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "88a9b530zd61bz3f09zada0zc42a55bf217b",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 42.857143,
-      "Milestone Names": "Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-06-04",
-      "Account ID": "a7fdb57f-9eff-47f7-a969-66383983b9b2",
-      "Salesforce Opportunity ID": "006PH00000mDhoHYAS",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ccb5a115z5398z3c2az8700z57b94be19bd1",
       "display_name": null,
       "Objective Name": "z (FIP) Brand Monitoring",
@@ -419,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-03T10:51:11.020Z",
-  "total": 19,
+  "fetched_at": "2026-07-04T10:51:12.115Z",
+  "total": 18,
   "im_name": "Drew Lipscomb"
 }
