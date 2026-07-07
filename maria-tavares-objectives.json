@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "05163516zed93z377azba75z342de71b7e82",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,,,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-07-06",
+      "Account ID": "b19166ba-49b5-4d2d-8505-694994de1195",
+      "Salesforce Opportunity ID": "006PH00000jdzo5YAA",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a05904beza6e4z39f0z8c32zbadc3a3f1f41",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-07-06",
+      "Account ID": "b19166ba-49b5-4d2d-8505-694994de1195",
+      "Salesforce Opportunity ID": "006PH00000jdzo5YAA",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c675dc9dz1376z322az80bez3d957bd1c3ae",
+      "display_name": null,
+      "Objective Name": "(FIP) Integrated Paid/Earned/Owned Reporting",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 6,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Measurement Framework Established,2. Campaign Optimization Insights Activated,3. Cross Channel Synergy & Gap Analysis Completed,New Engage Profiles Setup,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-07-06",
+      "Account ID": "b19166ba-49b5-4d2d-8505-694994de1195",
+      "Salesforce Opportunity ID": "006PH00000jdzo5YAA",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0fb405fcz831dz3482zb0faz2be7e1a3cb88",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -117,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -139,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -331,7 +397,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-06T10:51:11.141Z",
-  "total": 15,
+  "fetched_at": "2026-07-07T10:51:12.574Z",
+  "total": 18,
   "im_name": "Maria Tavares"
 }
