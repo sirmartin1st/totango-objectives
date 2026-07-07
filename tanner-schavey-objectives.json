@@ -191,7 +191,7 @@
       "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Nicole Lively",
       "Objective Created Date": "2026-04-22",
       "Account ID": "c877f109-003d-4dad-a060-bd61236ad9b8",
       "Salesforce Opportunity ID": "006Rf00000UgjAnIAJ",
@@ -199,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-06T10:51:11.141Z",
+  "fetched_at": "2026-07-07T10:51:12.574Z",
   "total": 9,
   "im_name": "Tanner Schavey"
 }
