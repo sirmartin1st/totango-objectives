@@ -153,53 +153,9 @@
       "Salesforce Opportunity ID": "006PH00000hN0HtYAK",
       "Objective Created By": "abril.mendoza@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "3764b143z5739z35b8zaf59z804ebb561912",
-      "display_name": null,
-      "Objective Name": "Misinformation & Risk Intelligence",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "Crisis Response: Set up immediate alerts for brand safety issues, fires, negative mentions,Reputation & Brand Health Monitoring: Track overall brand health, federal legislation and major media coverage, as well as mentions related to safety, and culture.",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-04-17",
-      "Account ID": "fc1de2f9-2526-4a3a-9313-ed2d0e349342",
-      "Salesforce Opportunity ID": "006Rf00000Y7fZ7IAJ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "71dec5dez3104z3742z89f3zcf1b1dbcfc3b",
-      "display_name": null,
-      "Objective Name": "Media Contacts Discovery & Campaign ROI",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "Build a journalist database, identify beat reporters, design data-driven outreach campaigns",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-04-17",
-      "Account ID": "fc1de2f9-2526-4a3a-9313-ed2d0e349342",
-      "Salesforce Opportunity ID": "006Rf00000Y7fZ7IAJ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-06T10:51:11.141Z",
-  "total": 9,
+  "fetched_at": "2026-07-07T10:51:12.574Z",
+  "total": 7,
   "im_name": "Abril Mendoza Guillen"
 }
