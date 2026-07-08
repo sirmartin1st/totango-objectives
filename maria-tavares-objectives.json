@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "a4ce7440ze46bz377dza19cz7e66ed415445",
+      "display_name": null,
+      "Objective Name": "(FIP) Content & Campaign Optimization",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 16.666666,
+        "number_of_linked_milestones": 6,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 16.666666,
+      "Milestone Names": "1. Campaign plan and strategy Defined,2. Real Time Campaign Tracking Activated,HS20 Searches Completed 90D,,3. Insights Delivered with Optimization Recommendations,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-07",
+      "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
+      "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "df291f33zc850z383fzbbffzb7cd0359993f",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-07",
+      "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
+      "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "05163516zed93z377azba75z342de71b7e82",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -397,7 +441,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-07T10:51:12.574Z",
-  "total": 18,
+  "fetched_at": "2026-07-08T10:51:11.893Z",
+  "total": 20,
   "im_name": "Maria Tavares"
 }
