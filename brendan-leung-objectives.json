@@ -1,17 +1,39 @@
 {
   "objectives": [
     {
+      "objective_id": "3035052dza820z34fczb08dze0d1da5e37a5",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",Klear eCommerce Connected Nbr,,1. Influencer Discovery / Demographic Insights are key to their use case,2. Influencers vetted and tagging workflow defined,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-07-07",
+      "Account ID": "0739eb25-0cf3-4afa-9e9e-15560d44e583",
+      "Salesforce Opportunity ID": "0065f00000It2P2AAJ",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2c062118z90adz3359zb447z8f3fdd32e490",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Brand Reputation & Sentiment dashboard set up,4 Priority Client Searches Built,MI FB Setup New,MI IG Setup New,,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
@@ -43,28 +65,6 @@
       "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
       "Objective Created By": "brendan.leung@meltwater.com",
       "Objective Description": "Audiense Segmentation / Demographic insights reports"
-    },
-    {
-      "objective_id": "0b2af296z79f0z3b3azb3edzdae2428a7cdf",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 30,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 30,
-      "Milestone Names": "1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,3. Tracking of Competitor and Market Signals Fully Operational,MI IG Setup New,Mira Studio Usage,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Sarah Tenner",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "27073de9-e334-4e3e-a1a1-69ae7d2b4324",
-      "Salesforce Opportunity ID": "006PH00000m2jewYAA",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
     },
     {
       "objective_id": "5c2ef6e5z32faz383az9af6z3e6efa8f47ee",
@@ -107,28 +107,6 @@
       "Objective Created Date": "2026-06-23",
       "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
       "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8062f252z6910z357az947cz5343af383c4a",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 22.222221,
-      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Sarah Tenner",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "27073de9-e334-4e3e-a1a1-69ae7d2b4324",
-      "Salesforce Opportunity ID": "006PH00000m2jewYAA",
       "Objective Created By": "brendan.leung@meltwater.com",
       "Objective Description": ""
     },
@@ -221,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-07T10:51:12.574Z",
-  "total": 10,
+  "fetched_at": "2026-07-08T10:51:11.893Z",
+  "total": 9,
   "im_name": "Brendan Leung"
 }
