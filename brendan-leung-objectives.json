@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Brand Reputation & Sentiment dashboard set up,4 Priority Client Searches Built,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": null,
       "Objective Created Date": "2026-06-25",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Competitor and Market Intelligence Integrated,1. Audience Profiles and Segments Defined",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": null,
       "Objective Created Date": "2026-06-25",
@@ -199,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-08T10:51:11.893Z",
+  "fetched_at": "2026-07-09T10:51:11.733Z",
   "total": 9,
   "im_name": "Brendan Leung"
 }
