@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -109,28 +109,6 @@
       "Salesforce Opportunity ID": "006PH00000nCoOFYA0",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "9c1e0ce8zf819z34c0zada4z53a4963327b9",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-05-18",
-      "Account ID": "ef868c54-7ae5-45d5-9292-11da8ff03b61",
-      "Salesforce Opportunity ID": "006PH00000jRsnEYAS",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     },
     {
       "objective_id": "d824f01bz3e63z35afz9cd6z32e15823079c",
@@ -177,7 +155,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-08T10:51:11.893Z",
-  "total": 8,
+  "fetched_at": "2026-07-09T10:51:11.733Z",
+  "total": 7,
   "im_name": "Anna Genova"
 }
