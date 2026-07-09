@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Tanner Schavey",
@@ -199,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-08T10:51:11.893Z",
+  "fetched_at": "2026-07-09T10:51:11.733Z",
   "total": 9,
   "im_name": "Tanner Schavey"
 }
