@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "15493347z458cz337bzb09az3eb6e6b943b2",
+      "display_name": null,
+      "Objective Name": "(FIP) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,,1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-09",
+      "Account ID": "22b2d4c4-e0e3-4b9b-9959-9bbfe2e536b6",
+      "Salesforce Opportunity ID": "006PH00000ldaoXYAQ",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ebe3a2f8z15fbz3f8cz8bb7zc3edeb841f27",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-09",
+      "Account ID": "22b2d4c4-e0e3-4b9b-9959-9bbfe2e536b6",
+      "Salesforce Opportunity ID": "006PH00000ldaoXYAQ",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2a1133cfz9c52z31e3zb031zec287b8141a1",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -425,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,,MI IG Setup New,HS20 Searches Completed 90D,,Mira Studio Usage,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -507,7 +551,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-09T10:51:11.733Z",
-  "total": 23,
+  "fetched_at": "2026-07-10T10:51:12.133Z",
+  "total": 25,
   "im_name": "Maria Tavares"
 }
