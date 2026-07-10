@@ -4,14 +4,14 @@
       "objective_id": "5e855b4dz906cz359bzbffez41aa9633dbd6",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 0,
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 14.285714,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,users in community,Nbr of MI users Active 30d",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -375,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-09T10:51:11.733Z",
+  "fetched_at": "2026-07-10T10:51:12.133Z",
   "total": 17,
   "im_name": "Alison Mowry"
 }
