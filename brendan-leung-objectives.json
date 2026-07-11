@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c44141d2z2d60z39baz9e8czc70b7fd3d4bb",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-07-10",
+      "Account ID": "64e887d7-bef4-4464-b8f8-6e93f4186e58",
+      "Salesforce Opportunity ID": "006PH00000nRHq9YAG",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3035052dza820z34fczb08dze0d1da5e37a5",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -161,13 +183,13 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 30,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 30,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "Mira Studio Usage,MI FB Setup New,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Rob Casper",
       "Objective Created Date": "2026-06-08",
@@ -199,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-10T10:51:12.133Z",
-  "total": 9,
+  "fetched_at": "2026-07-11T10:51:13.596Z",
+  "total": 10,
   "im_name": "Brendan Leung"
 }
