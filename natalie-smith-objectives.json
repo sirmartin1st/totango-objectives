@@ -131,31 +131,9 @@
       "Salesforce Opportunity ID": "006PH00000hlSksYAE",
       "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "9e82e2bdzfd3dz3791z9957z021cffc9b7f0",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Georgia Girdler",
-      "Objective Created Date": "2026-05-08",
-      "Account ID": "0fd3e341-731c-4363-b737-7f8eeb2dddf1",
-      "Salesforce Opportunity ID": "006PH00000hpAJ7YAM",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-10T10:51:12.133Z",
-  "total": 7,
+  "fetched_at": "2026-07-11T10:51:13.596Z",
+  "total": 6,
   "im_name": "Natalie Smith"
 }
