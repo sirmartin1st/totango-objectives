@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,MI Created Searches,,users in community,MI Daily Digest Sent,MI Created Dashboards",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-07-02",
@@ -182,7 +182,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -211,7 +211,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-07-01",
@@ -226,7 +226,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,MI Created Dashboards,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-06-30",
@@ -375,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-11T10:51:13.596Z",
+  "fetched_at": "2026-07-12T10:51:11.339Z",
   "total": 17,
   "im_name": "Drew Lipscomb"
 }
