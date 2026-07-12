@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-07-06",
@@ -321,7 +321,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-06-29",
@@ -441,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-11T10:51:13.596Z",
+  "fetched_at": "2026-07-12T10:51:11.339Z",
   "total": 20,
   "im_name": "Sean DeRossett"
 }
