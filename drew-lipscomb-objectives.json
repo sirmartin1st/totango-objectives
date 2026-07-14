@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6b591c2ezc1b4z35a6zbbd7za345aebd1013",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 2,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "e0fca738-8e3a-4404-b9b9-ba988cc47bc5",
+      "Salesforce Opportunity ID": "006PH00000ndFFuYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "651942b5zb651z356cz9917z653dc6cf9654",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -331,28 +353,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "c6a37accz5cc7z35f9z959ez5e7fffd7adc6",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 5,
-        "percentage_of_completed_milestones": 28.571428,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 28.571428,
-      "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-06-16",
-      "Account ID": "0e848e6b-0a6b-4949-97d7-199cd1fead9c",
-      "Salesforce Opportunity ID": "006PH00000oJmnJYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ccb5a115z5398z3c2az8700z57b94be19bd1",
       "display_name": null,
       "Objective Name": "z (FIP) Brand Monitoring",
@@ -375,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-13T10:51:09.668Z",
+  "fetched_at": "2026-07-14T10:51:11.625Z",
   "total": 17,
   "im_name": "Drew Lipscomb"
 }
