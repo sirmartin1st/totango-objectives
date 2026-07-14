@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c7173b7cz1f7ez3b8fzae1ez65f16d02cf92",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "c344f1cf-559f-4dcd-8000-78e989e7a5e9",
+      "Salesforce Opportunity ID": "006PH00000nJtcVYAS",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "32b2c6a0z5576z3fcazbb47z78b742b1aa0b",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -257,7 +279,7 @@
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Keenan Langley",
+      "CSM Owner": null,
       "Objective Created Date": "2026-06-30",
       "Account ID": "775a52a9-2214-4515-8646-f873610ddc8a",
       "Salesforce Opportunity ID": "006Rf00000GOT65IAH",
@@ -314,7 +336,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -403,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -441,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-13T10:51:09.668Z",
-  "total": 20,
+  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "total": 21,
   "im_name": "Sean DeRossett"
 }
