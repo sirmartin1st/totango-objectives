@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "263eeca4z0d65z3935zbc19za13917d9ead7",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "f9130d4b-f279-4101-9b1b-415ea5672cf7",
+      "Salesforce Opportunity ID": "006PH00000kDn5FYAS",
+      "Objective Created By": "alison.mowry@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "72b1e303z24acz306dzb9fdzdb98ef625214",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Bridget Lindh",
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "51557eb3-d676-4aba-9151-0810484acfec",
+      "Salesforce Opportunity ID": "006PH00000nCM71YAG",
+      "Objective Created By": "alison.mowry@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "b66c4108z7c11z3cbfz8cc3z64e0c53e9402",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Camila Henriquez",
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "7f11f3da-2cdd-4161-8383-32e14e31f912",
+      "Salesforce Opportunity ID": "006PH00000mARxmYAG",
+      "Objective Created By": "alison.mowry@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "cb015271ze8c9z37ddz98f9z06c211f66da5",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-07-13",
+      "Account ID": "21db4357-49da-47b7-aa2a-a5faed13e5fd",
+      "Salesforce Opportunity ID": "006PH00000pF6kTYAS",
+      "Objective Created By": "alison.mowry@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
+    },
+    {
       "objective_id": "5e855b4dz906cz359bzbffez41aa9633dbd6",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -305,7 +393,7 @@
       "Objective Created Date": "2026-06-08",
       "Account ID": "d0f3773e-5269-4e6e-95d5-5be29c7f8557",
       "Salesforce Opportunity ID": "006PH00000m2ph7YAA",
-      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Created By": "alison.mowry@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -359,11 +447,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alison Mowry",
@@ -371,11 +459,11 @@
       "Objective Created Date": "2026-06-03",
       "Account ID": "d0f3773e-5269-4e6e-95d5-5be29c7f8557",
       "Salesforce Opportunity ID": "006PH00000m2ph7YAA",
-      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Created By": "alison.mowry@meltwater.com",
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-13T10:51:09.668Z",
-  "total": 17,
+  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "total": 21,
   "im_name": "Alison Mowry"
 }
