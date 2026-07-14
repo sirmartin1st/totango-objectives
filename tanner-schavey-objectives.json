@@ -111,6 +111,50 @@
       "Objective Description": "Why is this important to the customer?"
     },
     {
+      "objective_id": "0b5e3e71zcb70z39e5zbf1eza326184a85d9",
+      "display_name": null,
+      "Objective Name": "z (FIP) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Connectors & Integrations Fully Operational (MCP Setup + RBI Team Enabled),1. Data Scope Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "0cb3436b-a7cb-45b5-a2a2-a02efd63c20a",
+      "Salesforce Opportunity ID": "006PH00000l3elqYAA",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3d01fec7z8ba4z3a43za30fz8da8e9b2c86e",
+      "display_name": null,
+      "Objective Name": "z (FIP) Campaign Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,,B. Real Time Campaign Tracking Activated,A. Campaign plan and strategy Defined,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "0cb3436b-a7cb-45b5-a2a2-a02efd63c20a",
+      "Salesforce Opportunity ID": "006PH00000l3elqYAA",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3e1f6458zcfeez3daazb8edzc7c2767aec34",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -153,6 +197,50 @@
       "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
       "Objective Created By": "tanner.schavey@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
+    },
+    {
+      "objective_id": "a6bef9c6z4c99z327eza8f0zd53344783e42",
+      "display_name": null,
+      "Objective Name": "z (FIP) Voice of Customer Segmentation",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "2. Competitor and Market Intelligence Integrated,1. Audience Profiles and Segments Defined,HS20 Articles Clicked 90D,3. Share of Voice Reporting Activated,HS20 Searches Completed 90D,,,MI API Exports 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "0cb3436b-a7cb-45b5-a2a2-a02efd63c20a",
+      "Salesforce Opportunity ID": "006PH00000l3elqYAA",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "cde4e9bczdc72z3390zbbaez3e2c45bb5d6c",
+      "display_name": null,
+      "Objective Name": "z (FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "HS20 Articles Clicked 90D,a. Search(es) Created for each RBI brand,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards / MCP",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-06-08",
+      "Account ID": "0cb3436b-a7cb-45b5-a2a2-a02efd63c20a",
+      "Salesforce Opportunity ID": "006PH00000l3elqYAA",
+      "Objective Created By": "katherine.brown@meltwater.com",
+      "Objective Description": ""
     },
     {
       "objective_id": "e858f599z7fffz37f2za8d8z54a5311c747d",
@@ -199,7 +287,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-13T10:51:09.668Z",
-  "total": 9,
+  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "total": 13,
   "im_name": "Tanner Schavey"
 }
