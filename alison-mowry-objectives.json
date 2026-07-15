@@ -226,7 +226,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -270,7 +270,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -314,7 +314,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -463,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "fetched_at": "2026-07-15T10:51:11.831Z",
   "total": 21,
   "im_name": "Alison Mowry"
 }
