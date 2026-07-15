@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 10,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 10,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "1. Brand Search Foundation Defined ,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,MI IG Setup New,,MI FB Setup New,Mira Studio Usage",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sean DeRossett",
@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,B. Real Time Campaign Tracking Activated,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,A. Campaign plan and strategy Defined,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -463,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "fetched_at": "2026-07-15T10:51:11.831Z",
   "total": 21,
   "im_name": "Sean DeRossett"
 }
