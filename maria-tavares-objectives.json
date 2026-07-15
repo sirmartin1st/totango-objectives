@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 16.666666,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 16.666666,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "1. Campaign plan and strategy Defined,2. Real Time Campaign Tracking Activated,HS20 Searches Completed 90D,,3. Insights Delivered with Optimization Recommendations,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 16.666666,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 16.666666,
       "Milestone Names": "1. Measurement Framework Established,2. Campaign Optimization Insights Activated,3. Cross Channel Synergy & Gap Analysis Completed,New Engage Profiles Setup,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,,a. Brand Search Foundation Defined ",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -551,7 +551,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-14T10:51:11.625Z",
+  "fetched_at": "2026-07-15T10:51:11.831Z",
   "total": 25,
   "im_name": "Maria Tavares"
 }
