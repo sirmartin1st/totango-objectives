@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "26bb7bc1zcf74z3c34z97cdzd8d6ecb53ecc",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Ryan Dotter",
+      "Objective Created Date": "2026-07-14",
+      "Account ID": "81ea23ea-e3e3-4929-a323-dbf936fad5a0",
+      "Salesforce Opportunity ID": "006PH00000kZRqrYAG",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9fa4108bz08bcz3580z97baz08019e250637",
+      "display_name": null,
+      "Objective Name": "(FIP) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",MI IG Setup New,MI FB Setup New,1. Market & Industry Search Foundation Defined,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Cassia Meditz",
+      "Objective Created Date": "2026-07-14",
+      "Account ID": "990f6abc-e650-45d5-b939-f5d050caa660",
+      "Salesforce Opportunity ID": "006PH00000ont9rYAA",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "100ef94fz5affz3e52z9e5dz8c3a7543d4f2",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -177,7 +221,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-14T10:51:11.625Z",
-  "total": 8,
+  "fetched_at": "2026-07-15T10:51:11.831Z",
+  "total": 10,
   "im_name": "Abril Mendoza Guillen"
 }
