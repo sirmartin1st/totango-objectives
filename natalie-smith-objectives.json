@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "39e543b4ze864z3191z96f2z412a2ef55d35",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "0812b384-7164-4696-8787-8727b30bad14",
-      "Salesforce Opportunity ID": "006PH00000hlSksYAE",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "8c850c37z7a7fz345az8e2azd62bef4d72f2",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -109,31 +87,9 @@
       "Salesforce Opportunity ID": "006PH00000hOh4fYAC",
       "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "14366b48z5643z329bz9427z9fc7377a93f1",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-05-08",
-      "Account ID": "0812b384-7164-4696-8787-8727b30bad14",
-      "Salesforce Opportunity ID": "006PH00000hlSksYAE",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-15T10:51:11.831Z",
-  "total": 6,
+  "fetched_at": "2026-07-16T10:51:09.019Z",
+  "total": 4,
   "im_name": "Natalie Smith"
 }
