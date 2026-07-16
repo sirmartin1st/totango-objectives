@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 62.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 62.5,
       "Milestone Names": ",2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,3. Influencer Management and Activation Fully Operational,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,Klear eCommerce Connected Nbr",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sean DeRossett",
@@ -336,7 +336,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -463,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-15T10:51:11.831Z",
+  "fetched_at": "2026-07-16T10:51:09.019Z",
   "total": 21,
   "im_name": "Sean DeRossett"
 }
