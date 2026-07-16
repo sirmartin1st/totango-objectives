@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "309b50a8z0203z37baz8b75z81ec4b1d4ef2",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-07-15",
+      "Account ID": "e46f9ba1-1d52-46e6-9313-47b2e647cbe0",
+      "Salesforce Opportunity ID": "006PH00000l8nlFYAQ",
+      "Objective Created By": "alison.mowry@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "263eeca4z0d65z3935zbc19za13917d9ead7",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-13",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Bridget Lindh",
       "Objective Created Date": "2026-07-13",
@@ -94,7 +116,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -116,7 +138,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -138,7 +160,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -160,7 +182,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -182,7 +204,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -204,7 +226,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -248,7 +270,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -353,28 +375,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "27413026z9346z3c8eza89fz7ca0dbb51d1d",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 5,
-        "percentage_of_completed_milestones": 28.571428,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 28.571428,
-      "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Created Dashboards,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-06-13",
-      "Account ID": "efb5b7a5-a8f7-4646-9e5e-bdd23a6a0bdc",
-      "Salesforce Opportunity ID": "006PH00000nPh0jYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "84d8fd76z7441z36faza4e0zf7a5ee681397",
       "display_name": null,
       "Objective Name": "z (FIP) Media Relations Management",
@@ -395,50 +395,6 @@
       "Salesforce Opportunity ID": "006PH00000m2ph7YAA",
       "Objective Created By": "alison.mowry@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "1ac2877fzbc7dz3288za2e0zbd31828649d3",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Will Swift",
-      "Objective Created Date": "2026-06-03",
-      "Account ID": "d5cd6f78-091a-44b4-8505-36707a36bf8b",
-      "Salesforce Opportunity ID": "006PH00000llA8vYAE",
-      "Objective Created By": "alison.mowry@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "8a9489f7z5033z349czbc30z670a03cbcd57",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Will Swift",
-      "Objective Created Date": "2026-06-03",
-      "Account ID": "34ab2faf-9a87-4676-8c8c-c73c50adc5d6",
-      "Salesforce Opportunity ID": "006PH00000lhXdZYAU",
-      "Objective Created By": "alison.mowry@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     },
     {
       "objective_id": "df274babz67fdz334aza2f8z645558e323a2",
@@ -463,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-15T10:51:11.831Z",
-  "total": 21,
+  "fetched_at": "2026-07-16T10:51:09.019Z",
+  "total": 19,
   "im_name": "Alison Mowry"
 }
