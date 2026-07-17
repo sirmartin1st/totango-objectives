@@ -331,50 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "0d1c4acaz3f38z3e61z99fcz28105036f760",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
-        "percentage_of_completed_milestones": 42.857143,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 42.857143,
-      "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Created Dashboards,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-06-09",
-      "Account ID": "c9d9bb97-853b-4f1f-a0e0-f6cc6d1494ae",
-      "Salesforce Opportunity ID": "006PH00000o1tIbYAI",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5bded62azf3b3z3a64z9ab6z65563060046a",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": "MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME,users in community,Nbr of MI users Active 30d,MI Created Dashboards",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "017a599e-959d-42b2-9818-a95a3c2fe11c",
-      "Salesforce Opportunity ID": "006PH00000mV23XYAS",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "5f8d4c68z2b22z303fz9397z5ea15768d618",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -402,7 +358,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -424,7 +380,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -441,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-16T10:51:09.019Z",
-  "total": 20,
+  "fetched_at": "2026-07-17T10:51:12.450Z",
+  "total": 18,
   "im_name": "Albert Bright"
 }
