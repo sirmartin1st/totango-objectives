@@ -155,28 +155,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "73b6d650z2fa9z358cz9d69z999ad946b33d",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Isabella Conti",
-      "Objective Created Date": "2026-06-15",
-      "Account ID": "67044c55-55d6-4070-8a4a-9e56797d4e9c",
-      "Salesforce Opportunity ID": "006PH00000lrYgQYAU",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2ae3876bz7525z3f9ez912ez3170fa6a8514",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -221,7 +199,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-16T10:51:09.019Z",
-  "total": 10,
+  "fetched_at": "2026-07-17T10:51:12.450Z",
+  "total": 9,
   "im_name": "Abril Mendoza Guillen"
 }
