@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": null,
       "Implementation Manager": "Sean DeRossett",
@@ -331,28 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2ace03b6z70bcz3cfezb260z7b70fa8722ca",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Cassia Meditz",
-      "Objective Created Date": "2026-06-16",
-      "Account ID": "f8b21156-a567-4696-b1f1-493bcbd49902",
-      "Salesforce Opportunity ID": "006PH00000oKSZdYAO",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "57623076z4e77z3cf0z89e7zbcb9f3bd547f",
       "display_name": null,
       "Objective Name": "(FIP) Content & Campaign Optimization",
@@ -419,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-17T10:51:12.450Z",
-  "total": 19,
+  "fetched_at": "2026-07-18T10:51:15.115Z",
+  "total": 18,
   "im_name": "Sean DeRossett"
 }
