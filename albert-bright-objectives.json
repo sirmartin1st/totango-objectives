@@ -7,11 +7,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
@@ -28,7 +28,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -50,7 +50,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -72,7 +72,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -204,7 +204,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -336,7 +336,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -397,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-17T10:51:12.450Z",
+  "fetched_at": "2026-07-18T10:51:15.115Z",
   "total": 18,
   "im_name": "Albert Bright"
 }
