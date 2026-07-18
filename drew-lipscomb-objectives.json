@@ -1,19 +1,85 @@
 {
   "objectives": [
     {
+      "objective_id": "88310ad6z5b91z3fc0z9ed5z58face99be1d",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-07-17",
+      "Account ID": "96267774-de8e-4ece-8e4e-6f5df3db338a",
+      "Salesforce Opportunity ID": "006PH00000mo8A2YAI",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a3d7e1cfz7782z3d52zbecez38e36cd6b638",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-07-17",
+      "Account ID": "ef3ab48b-ac83-4dfd-b2b2-0a18df934ab0",
+      "Salesforce Opportunity ID": "006PH00000otxXJYAY",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e1a2b56bzce6fz3860zb0c3z07e2743451e6",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-07-17",
+      "Account ID": "298c91b9-a8ae-4c0c-9d5d-171d4cbe97a8",
+      "Salesforce Opportunity ID": "006PH00000q1MDRYA2",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "31d69f2fza170z34dfzbfcezfa1cfba86913",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Lyndsey Wallen",
       "Objective Created Date": "2026-07-15",
@@ -72,7 +138,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
+        "number_of_overdue_milestones": 5,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
@@ -204,7 +270,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -270,7 +336,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -292,7 +358,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -314,7 +380,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -358,7 +424,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -419,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-17T10:51:12.450Z",
-  "total": 19,
+  "fetched_at": "2026-07-18T10:51:15.115Z",
+  "total": 22,
   "im_name": "Drew Lipscomb"
 }
