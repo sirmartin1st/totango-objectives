@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,users in community,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-07-07",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-07-02",
@@ -463,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-19T10:51:10.503Z",
+  "fetched_at": "2026-07-20T10:51:11.526Z",
   "total": 21,
   "im_name": "Alison Mowry"
 }
