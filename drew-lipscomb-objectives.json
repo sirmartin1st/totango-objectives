@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": ",users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,MI Created Searches",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-07-17",
@@ -485,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-19T10:51:10.503Z",
+  "fetched_at": "2026-07-20T10:51:11.526Z",
   "total": 22,
   "im_name": "Drew Lipscomb"
 }
