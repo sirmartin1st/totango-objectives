@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "96da0466za39az3aa9za0dez0e39147c7f76",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-07-20",
+      "Account ID": "ca263ac3-d9b3-4c4c-a464-2ea2d41d4a4d",
+      "Salesforce Opportunity ID": "006PH00000q0Fh3YAE",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "32b2c6a0z5576z3fcazbb47z78b742b1aa0b",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -199,28 +221,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "266d17aczd837z351fz9dd5z692649986cb2",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 11.111111,
-      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Savanah Wilshire",
-      "Objective Created Date": "2026-07-06",
-      "Account ID": "1d324ada-1a31-4848-8888-71a6c8bf4029",
-      "Salesforce Opportunity ID": "006PH00000mAMI9YAO",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "84e9b44eza0ddz3feeza8a0z1f128f83355c",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -397,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-20T10:51:11.526Z",
+  "fetched_at": "2026-07-21T10:51:09.934Z",
   "total": 18,
   "im_name": "Sean DeRossett"
 }
