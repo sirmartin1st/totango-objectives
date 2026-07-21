@@ -175,31 +175,9 @@
       "Salesforce Opportunity ID": "006PH00000ebykXYAQ",
       "Objective Created By": "abril.mendoza@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "e75850e6z88d6z37a7zab1fz4551364ab23e",
-      "display_name": null,
-      "Objective Name": "Brand Competitive Benchmarking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "2. Monitor competitive landscape and benchmark performance across traditional and social media to inform strategic positioning and market response.,1. Consolidate traditional and social media intelligence in one platform. Streamline workflows by having news intelligence, broadcast and social listening in a unified system.,4. Enable efficient insight distribution and reporting, providing stakeholders with timely, actionable intelligence to support decision-making across the organization.,3. Leverage generative AI capabilities (Gen AI Lens) to synthesize insights and accelerate intelligence gathering and reporting. ",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Meredith Sutherland",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "1ee15960-d397-4d6d-a5a5-13ef2c31e643",
-      "Salesforce Opportunity ID": "006PH00000hN0HtYAK",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-20T10:51:11.526Z",
-  "total": 9,
+  "fetched_at": "2026-07-21T10:51:09.934Z",
+  "total": 8,
   "im_name": "Abril Mendoza Guillen"
 }
