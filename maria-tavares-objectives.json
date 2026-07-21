@@ -125,7 +125,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,2. Target Audience Assessed & Activated,1. Content Curation Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
-      "CSM Owner": null,
+      "CSM Owner": "Alyssa Biasucci",
       "Objective Created Date": "2026-07-16",
       "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
       "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
@@ -279,7 +279,7 @@
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
-      "CSM Owner": null,
+      "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-09",
       "Account ID": "22b2d4c4-e0e3-4b9b-9959-9bbfe2e536b6",
       "Salesforce Opportunity ID": "006PH00000ldaoXYAQ",
@@ -301,7 +301,7 @@
       "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
-      "CSM Owner": null,
+      "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-09",
       "Account ID": "22b2d4c4-e0e3-4b9b-9959-9bbfe2e536b6",
       "Salesforce Opportunity ID": "006PH00000ldaoXYAQ",
@@ -433,7 +433,7 @@
       "Milestone Names": "1. Campaign plan and strategy Defined,2. Real Time Campaign Tracking Activated,HS20 Searches Completed 90D,,3. Insights Delivered with Optimization Recommendations,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
-      "CSM Owner": null,
+      "CSM Owner": "Alyssa Biasucci",
       "Objective Created Date": "2026-07-07",
       "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
       "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
@@ -455,7 +455,7 @@
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
-      "CSM Owner": null,
+      "CSM Owner": "Alyssa Biasucci",
       "Objective Created Date": "2026-07-07",
       "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
       "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
@@ -579,11 +579,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -749,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-20T10:51:11.526Z",
+  "fetched_at": "2026-07-21T10:51:09.934Z",
   "total": 34,
   "im_name": "Maria Tavares"
 }
