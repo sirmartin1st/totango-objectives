@@ -155,28 +155,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3e1f6458zcfeez3daazb8edzc7c2767aec34",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "ab796e6f-18d3-4060-ad2d-320e9d3751c4",
-      "Salesforce Opportunity ID": "006Rf00000TrfQvIAJ",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
       "objective_id": "565f4d68zaa9ez34d2za640zc0a23307a385",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -287,7 +265,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-20T10:51:11.526Z",
-  "total": 13,
+  "fetched_at": "2026-07-21T10:51:09.934Z",
+  "total": 12,
   "im_name": "Tanner Schavey"
 }
