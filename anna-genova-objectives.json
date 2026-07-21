@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "be278c19z9580z3e10zaa0ez8069b227f1f5",
+      "display_name": null,
+      "Objective Name": "Vista Social Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "3. Client migrated from Spout to Vista by July 31,2. Vista Training and Onboarding,1. Introduce Customer to Vista Resource",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Marley Bratman",
+      "Objective Created Date": "2026-07-20",
+      "Account ID": "a68831a0-46dc-42b2-8505-1919c6ae91c5",
+      "Salesforce Opportunity ID": "006PH00000jF46DYAS",
+      "Objective Created By": "marty.sloane@meltwater.com",
+      "Objective Description": "Vista Social Onboarding"
+    },
+    {
       "objective_id": "82cee9a1z9044z3711z9556z9682be8f7fcb",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -109,53 +131,9 @@
       "Salesforce Opportunity ID": "006PH00000nCoOFYA0",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "d824f01bz3e63z35afz9cd6z32e15823079c",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-05-18",
-      "Account ID": "ae60dcc2-cc65-4888-8e8e-82abd23f8ac7",
-      "Salesforce Opportunity ID": "006PH00000osDMrYAM",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "f027745dzc8aaz3f37z97f6z8ffdcca7a780",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Marley Bratman",
-      "Objective Created Date": "2026-05-14",
-      "Account ID": "a68831a0-46dc-42b2-8505-1919c6ae91c5",
-      "Salesforce Opportunity ID": "006PH00000jF46DYAS",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-20T10:51:11.526Z",
-  "total": 7,
+  "fetched_at": "2026-07-21T10:51:09.934Z",
+  "total": 6,
   "im_name": "Anna Genova"
 }
