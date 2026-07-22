@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6516343dz7b4ez3926z95e6z769a0beae07c",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Natalie Smith",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "36550f5e-ccd3-4eae-bcbc-20667c715ee6",
+      "Salesforce Opportunity ID": "006PH00000khYC1YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b6a4a5ffz9112z3a58zbd14z3f2dbb7090c8",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Natalie Smith",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
+      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "8c850c37z7a7fz345az8e2azd62bef4d72f2",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -89,7 +133,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-21T10:51:09.934Z",
-  "total": 4,
+  "fetched_at": "2026-07-22T10:51:11.151Z",
+  "total": 6,
   "im_name": "Natalie Smith"
 }
