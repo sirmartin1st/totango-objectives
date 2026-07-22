@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "12e33a4az0723z388ez996azf985ff23b4fa",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "78c52464-2f36-4373-8242-b7fc2cdc44bf",
+      "Salesforce Opportunity ID": "006PH00000o3xbRYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "445bf85cz8c07z3320z9630za6b99a0c91a4",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Jacqueline Mann",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "22b2d4c4-e0e3-4b9b-9959-9bbfe2e536b6",
+      "Salesforce Opportunity ID": "006PH00000ldaoXYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "53a8da81z703fz33bfz9f20zddcd5d1c0307",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Ally Posey",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "5166f64d-fdaf-4dcd-9494-50eeda2ca27a",
+      "Salesforce Opportunity ID": "006PH00000nJy14YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8f00e849ze51fz3c3bzb25czd6aa9e633489",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "ad420680-a798-4484-9f1f-94a66bdebb66",
+      "Salesforce Opportunity ID": "006PH00000lLJEHYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d3d85f1azb6b7z3d3bz96e9z0183dcb565e7",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lyndsey Wallen",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "08ed1311-839c-4686-aded-006a68b91876",
+      "Salesforce Opportunity ID": "006PH00000iAV1CYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1385d552z905bz3776z9e19zb43dca92483c",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -29,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -51,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -73,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,,2. Target Audience Assessed & Activated",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -107,28 +217,6 @@
       "Objective Created Date": "2026-07-16",
       "Account ID": "b02e45bd-3447-4818-b939-5730fbafef03",
       "Salesforce Opportunity ID": "006PH00000pU2lNYAS",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "41c9f10dzf11dz3336z8d12z2f2358829e30",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,2. Target Audience Assessed & Activated,1. Content Curation Defined",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Alyssa Biasucci",
-      "Objective Created Date": "2026-07-16",
-      "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
-      "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
       "Objective Created By": "maria.tavares@meltwater.com",
       "Objective Description": ""
     },
@@ -271,11 +359,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -293,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -441,28 +529,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "df291f33zc850z383fzbbffzb7cd0359993f",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Alyssa Biasucci",
-      "Objective Created Date": "2026-07-07",
-      "Account ID": "26560d86-42b7-4c1c-afef-96997693af41",
-      "Salesforce Opportunity ID": "006PH00000oDMqkYAG",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "05163516zed93z377azba75z342de71b7e82",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -579,11 +645,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -635,50 +701,6 @@
       "Objective Created Date": "2026-07-03",
       "Account ID": "ad420680-a798-4484-9f1f-94a66bdebb66",
       "Salesforce Opportunity ID": "006PH00000lLJEHYA4",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a9be1219z7171z3ba6zb173z8a98f5494538",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Alyson Harrington",
-      "Objective Created Date": "2026-06-30",
-      "Account ID": "46fada96-0190-4e3e-8e8e-0f8b3aef7f86",
-      "Salesforce Opportunity ID": "006PH00000hQvbNYAS",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "ed5cc1d1ze9ffz39a9zbca8z6fb109e3520b",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Alyson Harrington",
-      "Objective Created Date": "2026-06-30",
-      "Account ID": "46fada96-0190-4e3e-8e8e-0f8b3aef7f86",
-      "Salesforce Opportunity ID": "006PH00000hQvbNYAS",
       "Objective Created By": "maria.tavares@meltwater.com",
       "Objective Description": ""
     },
@@ -749,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-21T10:51:09.934Z",
-  "total": 34,
+  "fetched_at": "2026-07-22T10:51:11.151Z",
+  "total": 35,
   "im_name": "Maria Tavares"
 }
