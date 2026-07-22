@@ -1,29 +1,29 @@
 {
   "objectives": [
     {
-      "objective_id": "769a889ez7c68z3b82z8909z1da6ea9a4009",
+      "objective_id": "a5c6105bz2133z3461za876z5a67fab16ade",
       "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Name": "(FIP) AI Visibility Tracking",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
       },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New,,,",
-      "Onboarding Stage": "Onboarding Closure",
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "Tayler McElvain",
-      "Objective Created Date": "2026-06-25",
-      "Account ID": "b8c13f8d-95e2-4b5b-9656-02e37caa0a8c",
-      "Salesforce Opportunity ID": "006Rf00000SmsUDIAZ",
-      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "3193ca6e-140e-4efe-a323-f9a2d69e44fe",
+      "Salesforce Opportunity ID": "006PH00000j2Oh4YAE",
+      "Objective Created By": null,
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-06-30T10:51:12.869Z",
+  "fetched_at": "2026-07-22T10:51:11.151Z",
   "total": 1,
   "im_name": "Zahrah Dungarwalla"
 }
