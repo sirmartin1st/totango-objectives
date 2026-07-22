@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "03db32c7ze790z3968zb7a1z7c755b247b49",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "92b7c19c-75de-4f5f-8707-f9a17acb597c",
+      "Salesforce Opportunity ID": "006PH00000moQbaYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "0be97189zcf9fz3597z894bzfa499131c6d3",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Kendra Igoe",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "415a4b96-145d-4999-a9e9-4688bc3b6a9f",
+      "Salesforce Opportunity ID": "006PH00000orlbtYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3dcc2e3fzc85cz3c68zb6d5z2aa02dd16645",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Austin Gilkey",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "9dc8cd43-beb6-4f2f-a626-eb94c6808ace",
+      "Salesforce Opportunity ID": "006PH00000jTZRuYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "72e06d4bzf1e0z3924z9b9dz832db7dc810d",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "e5a54827-5677-43d3-b373-8c5287284dfa",
+      "Salesforce Opportunity ID": "006PH00000mJWADYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a56ae582z0f54z34f9z89a5z7f1317e113aa",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Zachary Leibell",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "5146bf78-98be-4c7c-8404-93799c8a65fa",
+      "Salesforce Opportunity ID": "006PH00000lSuYrYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "17b07cc8z5f6cz3a3bzb012z0ef958e556bc",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -221,72 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "65317166z1728z3c07z8360za27a519583bd",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 22.222221,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
-      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "da81a167zfb64z3913za50eze62f48e93cb0",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
-      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "efedcc49ze1e2z351dzb0ccze75b0f782eef",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "ea08dde1-edaf-4f2f-8f8f-4e36f32a05f6",
-      "Salesforce Opportunity ID": "006PH00000hqsA3YAI",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "55deac35z4169z324azbdaez6d3ab1dc8997",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -309,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-21T10:51:09.934Z",
-  "total": 14,
+  "fetched_at": "2026-07-22T10:51:11.151Z",
+  "total": 16,
   "im_name": "Brendan Leung"
 }
