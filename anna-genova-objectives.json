@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "9e889827zeefbz3c18zb49fz859e01c215f4",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "25242028-59fe-4080-a9a9-847c5f56dcda",
+      "Salesforce Opportunity ID": "006PH00000pAKBNYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "eaaf093dz53e1z3d8dz942bz835004155ee3",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "96b90ca8-dea4-4919-9555-16a28530c491",
+      "Salesforce Opportunity ID": "006PH00000k8B2EYAU",
+      "Objective Created By": "marty.sloane@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f7244088z27b3z3ee8zaa9bz71294e067313",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Isabella Conti",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "9800afec-0f73-43b3-9e1e-a3f1465f7bed",
+      "Salesforce Opportunity ID": "006PH00000ocBgnYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "be278c19z9580z3e10zaa0ez8069b227f1f5",
       "display_name": null,
       "Objective Name": "Vista Social Onboarding",
@@ -133,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-21T10:51:09.934Z",
-  "total": 6,
+  "fetched_at": "2026-07-22T10:51:11.151Z",
+  "total": 9,
   "im_name": "Anna Genova"
 }
