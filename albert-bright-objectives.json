@@ -248,7 +248,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -387,7 +387,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": ",MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-06-24",
@@ -485,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-22T10:51:11.151Z",
+  "fetched_at": "2026-07-23T10:51:10.531Z",
   "total": 22,
   "im_name": "Albert Bright"
 }
