@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "22f4ffe6zf0c3z33cdz9ba8z54b1138fb68c",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Bryan Pfeiffer",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
+      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "8b36bfe7z5154z36a1z9bcaz1ab49507fd1d",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -331,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-22T10:51:11.151Z",
-  "total": 15,
+  "fetched_at": "2026-07-23T10:51:10.531Z",
+  "total": 16,
   "im_name": "Tanner Schavey"
 }
