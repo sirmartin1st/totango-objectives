@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "fabb8755z1fd9z31adzabb6zcda1c7f5dc1c",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Influencer Assessed and Selection Completed,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,,,1. Influencer Discovery Framework Defined ",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Cassia Meditz",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "07bbef4a-63f5-4d8d-ac6c-be9712841057",
+      "Salesforce Opportunity ID": "006PH00000pSS2PYAW",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "9e889827zeefbz3c18zb49fz859e01c215f4",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -199,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-22T10:51:11.151Z",
-  "total": 9,
+  "fetched_at": "2026-07-23T10:51:10.531Z",
+  "total": 10,
   "im_name": "Anna Genova"
 }
