@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6765ebd8z815cz389bz98cdz3176c92a0399",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "76aa6bca-f052-46c6-b272-e4bfc8f2114a",
+      "Salesforce Opportunity ID": "006PH00000o7lBtYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7ac754c3z380az3c38za6e8z18c0c0e4b0f2",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Jacqueline Mann",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "7d307418-4ae9-46b6-9191-49232f34c00f",
+      "Salesforce Opportunity ID": "006PH00000kUAkDYAW",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "204cdc17ze7fbz3a8ezaf91z64f3b89eb9b0",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -265,7 +309,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-22T10:51:11.151Z",
-  "total": 12,
+  "fetched_at": "2026-07-23T10:51:10.531Z",
+  "total": 14,
   "im_name": "Abril Mendoza Guillen"
 }
