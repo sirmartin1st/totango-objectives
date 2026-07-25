@@ -747,53 +747,9 @@
       "Salesforce Opportunity ID": "006PH00000nJy14YAC",
       "Objective Created By": "maria.tavares@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "704a7a8fze11ez3b99z812azac0b57b062e6",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "c9c0b745-0c94-43b3-9313-c56021733b0a",
-      "Salesforce Opportunity ID": "0065f00000It9C5AAJ",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9d67ee7czb7dbz3d24z82acz7ab44d20319a",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,,MI IG Setup New,HS20 Searches Completed 90D,,Mira Studio Usage,MI FB Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "c9c0b745-0c94-43b3-9313-c56021733b0a",
-      "Salesforce Opportunity ID": "0065f00000It9C5AAJ",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-24T10:51:10.581Z",
-  "total": 36,
+  "fetched_at": "2026-07-25T10:51:09.902Z",
+  "total": 34,
   "im_name": "Maria Tavares"
 }
