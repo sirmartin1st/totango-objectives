@@ -331,28 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "4ec5bc5fz376bz3a80z9b21z5ce5f7236cb2",
-      "display_name": null,
-      "Objective Name": "(FIP) Campaign Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "HS20 Searches Completed 90D,B. Real Time Campaign Tracking Activated,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,A. Campaign plan and strategy Defined,,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-06-29",
-      "Account ID": "5fe9e313-3e01-44c4-8e0e-a31b70a5c6fe",
-      "Salesforce Opportunity ID": "006PH00000oY1RVYA0",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "b91ca789zfb31z3ed1zb01dz024613cce4e8",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -397,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-24T10:51:10.581Z",
-  "total": 18,
+  "fetched_at": "2026-07-25T10:51:09.902Z",
+  "total": 17,
   "im_name": "Sean DeRossett"
 }
