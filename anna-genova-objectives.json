@@ -26,7 +26,7 @@
       "objective_id": "0fe50d57z347az39c5z9a1dz59ffd6a8c7dd",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -92,7 +92,7 @@
       "objective_id": "4933ab04zc6ccz3c07zadbdz7dde26548d4e",
       "display_name": null,
       "Objective Name": "(FIP) Misinformation & Risk Intelligence",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -136,7 +136,7 @@
       "objective_id": "580fc327z46d9z3ae0zb521zafcfba7a060d",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -158,7 +158,7 @@
       "objective_id": "60dd091fz1192z3fedz8b6cz11221784ef96",
       "display_name": null,
       "Objective Name": "(FIP) PR Media Impact Measurement",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -554,7 +554,7 @@
       "objective_id": "eaaf093dz53e1z3d8dz942bz835004155ee3",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
@@ -569,7 +569,7 @@
       "Objective Created Date": "2026-07-21",
       "Account ID": "96b90ca8-dea4-4919-9555-16a28530c491",
       "Salesforce Opportunity ID": "006PH00000k8B2EYAU",
-      "Objective Created By": "marty.sloane@meltwater.com",
+      "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -686,7 +686,7 @@
       "objective_id": "328ff1bcza960z34cbz9b4bze93ea93b9c76",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 22.222221,
@@ -727,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-24T10:51:10.581Z",
+  "fetched_at": "2026-07-25T10:51:09.902Z",
   "total": 33,
   "im_name": "Anna Genova"
 }
