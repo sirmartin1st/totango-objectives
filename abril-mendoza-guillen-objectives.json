@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
       "Onboarding Stage": null,
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -205,11 +205,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",MI IG Setup New,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -227,11 +227,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,1. Market & Industry Search Foundation Defined,,MI IG Setup New,HS20 Searches Completed 90D,,,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "1. Risk Landscape Defined,HS20 Searches Completed 90D,,2. Crisis Detection & Monitoring Fully Operational,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -271,11 +271,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,Streamline Critical Media Monitoring: Implement Meltwater to enhance the speed and efficiency of identifying and tracking news related to Tarrant County, elected officials, and departments,Initiate Proactive Research for Strategic Planning: Begin leveraging Meltwater's research tools to gather insights on legislation and government-related topics, providing the necessary data to start developing informed, proactive communication,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -309,7 +309,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-25T10:51:09.902Z",
+  "fetched_at": "2026-07-26T10:51:10.896Z",
   "total": 14,
   "im_name": "Abril Mendoza Guillen"
 }
