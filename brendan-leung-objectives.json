@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
@@ -353,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-26T10:51:10.896Z",
+  "fetched_at": "2026-07-27T10:51:10.280Z",
   "total": 16,
   "im_name": "Brendan Leung"
 }
