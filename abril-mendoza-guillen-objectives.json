@@ -309,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2ae3876bz7525z3f9ez912ez3170fa6a8514",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",,Streamline Critical Media Monitoring: Implement Meltwater to enhance the speed and efficiency of identifying and tracking news related to Tarrant County, elected officials, and departments,Initiate Proactive Research for Strategic Planning: Begin leveraging Meltwater's research tools to gather insights on legislation and government-related topics, providing the necessary data to start developing informed, proactive communication,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Cassia Meditz",
-      "Objective Created Date": "2026-06-12",
-      "Account ID": "cccf92cf-a222-4545-a6a6-075d3bc82bd5",
-      "Salesforce Opportunity ID": "006PH00000ebykXYAQ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "e75850e6z88d6z37a7zab1fz4551364ab23e",
       "display_name": null,
       "Objective Name": "Brand Competitive Benchmarking",
@@ -353,7 +331,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-27T10:51:10.280Z",
-  "total": 16,
+  "fetched_at": "2026-07-28T10:51:12.735Z",
+  "total": 15,
   "im_name": "Abril Mendoza Guillen"
 }
