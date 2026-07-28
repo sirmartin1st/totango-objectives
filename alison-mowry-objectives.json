@@ -48,7 +48,7 @@
       "objective_id": "ff2097d3z56d0z30b8za84fz48ab8f916a76",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 0,
@@ -94,7 +94,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-07-15",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined",
-      "Onboarding Stage": "On Hold",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Bridget Lindh",
       "Objective Created Date": "2026-07-13",
@@ -226,12 +226,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
-        "percentage_of_completed_milestones": 42.857143,
+        "number_of_overdue_milestones": 3,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,users in community,Nbr of MI users Active 30d",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -336,12 +336,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 85.71429,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "users in community,MI Created Dashboards,Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -349,28 +349,6 @@
       "Objective Created Date": "2026-07-01",
       "Account ID": "de884375-5426-4888-abab-528f884301c5",
       "Salesforce Opportunity ID": "006PH00000p6z3RYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "62bbbeadze24az35bbz990cz9656e979c31e",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "c320ba64-128e-4cac-b232-194884ab201a",
-      "Salesforce Opportunity ID": "006PH00000pDubhYAC",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -402,12 +380,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 5,
-        "percentage_of_completed_milestones": 28.571428,
+        "number_of_overdue_milestones": 4,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Nbr of MI users Active 30d,users in community",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -424,12 +402,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
-        "percentage_of_completed_milestones": 42.857143,
+        "number_of_overdue_milestones": 3,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Dashboards,MI Created Searches,,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -446,12 +424,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
+        "number_of_overdue_milestones": 2,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 57.142857,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME,users in community,Nbr of MI users Active 30d,MI Created Dashboards",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -507,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-27T10:51:10.280Z",
-  "total": 23,
+  "fetched_at": "2026-07-28T10:51:12.735Z",
+  "total": 22,
   "im_name": "Alison Mowry"
 }
