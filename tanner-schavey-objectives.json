@@ -1,39 +1,17 @@
 {
   "objectives": [
     {
-      "objective_id": "5d089f7dz2fe7z3c23zbe7bz5685cae053a8",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-07-23",
-      "Account ID": "ab796e6f-18d3-4060-ad2d-320e9d3751c4",
-      "Salesforce Opportunity ID": "006Rf00000TrfQvIAJ",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "6867c3c1za84bz38aczb89dz5526b2e210a9",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,,1. Market & Industry Search Foundation Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
@@ -51,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
@@ -395,31 +373,9 @@
       "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
       "Objective Created By": "tanner.schavey@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "48743306z18dez3589z98e1zdf88d879d112",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Nicole Lively",
-      "Objective Created Date": "2026-04-22",
-      "Account ID": "c877f109-003d-4dad-a060-bd61236ad9b8",
-      "Salesforce Opportunity ID": "006Rf00000UgjAnIAJ",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-28T10:51:12.735Z",
-  "total": 19,
+  "fetched_at": "2026-07-29T10:51:10.682Z",
+  "total": 17,
   "im_name": "Tanner Schavey"
 }
