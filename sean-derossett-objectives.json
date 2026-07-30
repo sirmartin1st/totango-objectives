@@ -513,11 +513,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -573,28 +573,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "266d17aczd837z351fz9dd5z692649986cb2",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Savanah Wilshire",
-      "Objective Created Date": "2026-07-06",
-      "Account ID": "1d324ada-1a31-4848-8888-71a6c8bf4029",
-      "Salesforce Opportunity ID": "006PH00000mAMI9YAO",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "84e9b44eza0ddz3feeza8a0z1f128f83355c",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -623,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -705,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-29T10:51:10.682Z",
-  "total": 32,
+  "fetched_at": "2026-07-30T10:51:09.305Z",
+  "total": 31,
   "im_name": "Sean DeRossett"
 }
