@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Media Coverage and Impact Measurement Fully Operational,1, Target Media Strategy and Contact List Established,HS20 Journalist Outreach 90D,3. Outreach and Earned Media Performance Reported,HS20 Searches Completed 90D,HS20 Media List Updates 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-07-23",
@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "MI IG Setup New,,MI FB Setup New,,HS20 Articles Clicked 90D,1. Reputation Pillars & Scoring Framework Defined,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-07-23",
@@ -507,6 +507,50 @@
       "Objective Description": ""
     },
     {
+      "objective_id": "3e76d90cz91a9z3aa9zba6bz228ab89101b0",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 60,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 60,
+      "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,Mira Studio Usage",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Danielle Lagman",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
+      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
+      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5bf8c77cz5ca5z349bz9f99z2b6a489c94f9",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Danielle Lagman",
+      "Objective Created Date": "2026-07-22",
+      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
+      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
+      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fabb8755z1fd9z31adzabb6zcda1c7f5dc1c",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -548,6 +592,28 @@
       "Account ID": "25242028-59fe-4080-a9a9-847c5f56dcda",
       "Salesforce Opportunity ID": "006PH00000pAKBNYA4",
       "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b6a4a5ffz9112z3a58zbd14z3f2dbb7090c8",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Danielle Lagman",
+      "Objective Created Date": "2026-07-21",
+      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
+      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
+      "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -727,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-29T10:51:10.682Z",
-  "total": 33,
+  "fetched_at": "2026-07-30T10:51:09.305Z",
+  "total": 36,
   "im_name": "Anna Genova"
 }
