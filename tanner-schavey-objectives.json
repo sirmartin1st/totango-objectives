@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-07-22",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-07-21",
@@ -151,28 +151,6 @@
       "Objective Created Date": "2026-06-23",
       "Account ID": "9cd4610e-1888-4878-b7f7-5cd287d776ab",
       "Salesforce Opportunity ID": "006PH00000lpk49YAA",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "2355f490za790z323az9428z3b55010f9862",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Brand Search Foundation Defined ,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
-      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
       "Objective Created By": "tanner.schavey@meltwater.com",
       "Objective Description": ""
     },
@@ -365,7 +343,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-06-08",
@@ -375,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-07-30T10:51:09.305Z",
-  "total": 17,
+  "fetched_at": "2026-07-31T10:51:08.642Z",
+  "total": 16,
   "im_name": "Tanner Schavey"
 }
