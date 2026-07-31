@@ -51,11 +51,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 12.5,
       "Milestone Names": "1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,,,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Anna Genova",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -469,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 12.5,
       "Milestone Names": "1, Target Media Strategy and Contact List Established,3. Outreach and Earned Media Performance Reported,2. Media Coverage and Impact Measurement Fully Operational,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Anna Genova",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-30T10:51:09.305Z",
+  "fetched_at": "2026-07-31T10:51:08.642Z",
   "total": 36,
   "im_name": "Anna Genova"
 }
