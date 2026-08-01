@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0550764czbab2z3bd9zbad7z851e4e9c6347",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Will Swift",
+      "Objective Created Date": "2026-07-31",
+      "Account ID": "456d138c-a385-4595-b3b3-6a6bbf225f89",
+      "Salesforce Opportunity ID": "006PH00000mFjyuYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "19126594za633z3645zb216z6daaafabdeff",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-07-31",
+      "Account ID": "12423850-7ef0-41e1-9f1f-c9f00f0cc785",
+      "Salesforce Opportunity ID": "006PH00000pxnFSYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6f06b839z9976z3d47za372z6d9da29cf092",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -205,13 +249,13 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-07-21",
@@ -249,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
@@ -485,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-07-31T10:51:08.642Z",
-  "total": 22,
+  "fetched_at": "2026-08-01T10:51:12.115Z",
+  "total": 24,
   "im_name": "Albert Bright"
 }
