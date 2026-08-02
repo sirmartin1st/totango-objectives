@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "47d5ca5ezf428z313ezab5bza7cd9851fb9e",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Kyle Hewitt",
+      "Objective Created Date": "2026-08-01",
+      "Account ID": "9af31b27-5a84-4eee-8a0a-67daed9e2a83",
+      "Salesforce Opportunity ID": "006PH00000oDmMzYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e0bab1cdze9a6z3e8az89b1z92aff443ae9a",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -535,11 +557,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -859,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-01T10:51:12.115Z",
-  "total": 39,
+  "fetched_at": "2026-08-02T10:51:12.442Z",
+  "total": 40,
   "im_name": "Maria Tavares"
 }
