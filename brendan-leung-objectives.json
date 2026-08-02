@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "80a18d7azb806z3912z9ee1zc0ad3d1643d5",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-01",
+      "Account ID": "7e4754e0-a05d-4242-abeb-6c6c66338f1d",
+      "Salesforce Opportunity ID": "006PH00000hl8FtYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f9d17a62zd6b0z36bez879ezf3bc85365c3f",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-01",
+      "Account ID": "7e4754e0-a05d-4242-abeb-6c6c66338f1d",
+      "Salesforce Opportunity ID": "006PH00000hl8FtYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0073a582z451bz36edzb8a4z80bec59919bb",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -771,7 +815,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-01T10:51:12.115Z",
-  "total": 35,
+  "fetched_at": "2026-08-02T10:51:12.442Z",
+  "total": 37,
   "im_name": "Brendan Leung"
 }
