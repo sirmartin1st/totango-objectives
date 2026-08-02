@@ -73,11 +73,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 62.5,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 62.5,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -315,11 +315,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-01T10:51:12.115Z",
+  "fetched_at": "2026-08-02T10:51:12.442Z",
   "total": 36,
   "im_name": "Anna Genova"
 }
