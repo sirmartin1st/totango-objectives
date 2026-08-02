@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "a28dd109za3cez3e6ez8775zef7eb61c0997",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-08-01",
+      "Account ID": "45ecaa8d-274b-4828-8808-0ccddde14220",
+      "Salesforce Opportunity ID": "006PH00000oXFRhYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0550764czbab2z3bd9zbad7z851e4e9c6347",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-07-31",
@@ -469,11 +491,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Albert Bright",
@@ -529,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-01T10:51:12.115Z",
-  "total": 24,
+  "fetched_at": "2026-08-02T10:51:12.442Z",
+  "total": 25,
   "im_name": "Albert Bright"
 }
