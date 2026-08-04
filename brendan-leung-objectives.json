@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-07-30",
@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": ",2. Target Audience Assessed & Activated,1. Content Curation Defined,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
@@ -337,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -365,7 +365,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -387,7 +387,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -815,7 +815,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-03T10:51:08.776Z",
+  "fetched_at": "2026-08-04T10:51:12.908Z",
   "total": 37,
   "im_name": "Brendan Leung"
 }
