@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "267233c0zdd9dz33cbzbc28zecfa04872596",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Cassia Meditz",
+      "Objective Created Date": "2026-08-03",
+      "Account ID": "d7546e2f-577d-4121-abab-300dae5281fa",
+      "Salesforce Opportunity ID": "006PH00000p6gf7YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0a888aa1z7585z3fcaz90f5z13cbe44663ed",
       "display_name": null,
       "Objective Name": "(FIP) Misinformation & Risk Intelligence",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Misinformation Risk Detection Activated",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-23",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 12.5,
       "Milestone Names": "1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-23",
@@ -793,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-03T10:51:08.776Z",
-  "total": 36,
+  "fetched_at": "2026-08-04T10:51:12.908Z",
+  "total": 37,
   "im_name": "Anna Genova"
 }
