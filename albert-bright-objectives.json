@@ -7,11 +7,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-03",
@@ -114,14 +114,14 @@
       "objective_id": "19126594za633z3645zb216z6daaafabdeff",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
@@ -375,28 +375,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5f0b10a7zc930z3918z9a0azf5f8e493555c",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "0694526c-2f34-4838-ac2c-cedf06a33a9c",
-      "Salesforce Opportunity ID": "006PH00000njtgsYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "adef515bz54f1z371czaa6az5364a2a0a85c",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -463,72 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5b494badzf65bz3e17z8588zf4fd3bd5f2f9",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "Total Num Workshop Registrations ALL TIME,MI Created Searches,Nbr of MI users Active 30d,,users in community,MI Daily Digest Sent,MI Created Dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-07-02",
-      "Account ID": "620de6db-b89b-4919-acec-aa9d567993e0",
-      "Salesforce Opportunity ID": "006PH00000nFLPhYAO",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4f7b1c5cz2f68z3a95zbbf9zc05ee50e0de8",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "Total Num Workshop Registrations ALL TIME,MI Daily Digest Sent,MI Created Searches,,users in community,MI Created Dashboards,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "0694526c-2f34-4838-ac2c-cedf06a33a9c",
-      "Salesforce Opportunity ID": "006PH00000njtgsYAA",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c44ec734zae53z3dbdz9eddzb4d62ae85f97",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "6a96c724-26ef-4d7d-b535-58368f70c95e",
-      "Salesforce Opportunity ID": "006PH00000oKPThYAO",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "c4c90cd5zd412z3ea5za45ezc65c59bbb36a",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -573,28 +485,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "009386cbz4a82z302bz8466z32bdf48b9d0e",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,users in community,MI Created Dashboards,Nbr of MI users Active 30d,MI Daily Digest Sent",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-06-24",
-      "Account ID": "7bf69548-23c4-4404-8040-f2ce55ca99bc",
-      "Salesforce Opportunity ID": "006PH00000kdyBVYAY",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "77792aaez0efbz3938zbc74z4d569bee4a30",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -617,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-04T10:51:12.908Z",
-  "total": 28,
+  "fetched_at": "2026-08-05T10:51:10.411Z",
+  "total": 23,
   "im_name": "Albert Bright"
 }
