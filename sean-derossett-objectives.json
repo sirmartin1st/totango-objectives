@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Simon Broadway",
       "Objective Created Date": "2026-07-31",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Bryan Bartolome",
       "Objective Created Date": "2026-07-30",
@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 88.888885,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,,MI FB Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Bryan Bartolome",
       "Objective Created Date": "2026-07-30",
@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 36.363636,
+        "percentage_of_completed_milestones": 45.454544,
         "number_of_linked_milestones": 11,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 36.363636,
+      "Pct Milestones Completed": 45.454544,
       "Milestone Names": "MI IG Setup New,,MI FB Setup New,Mira Studio Usage,1. Brand Search Foundation Defined ,Test,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sean DeRossett",
@@ -548,28 +548,6 @@
       "Account ID": "b81343d8-6c1d-4323-9cdc-fa92cf268f16",
       "Salesforce Opportunity ID": "006PH00000ovsBlYAI",
       "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d3560360z600az382az810bz66e82f1a3cfe",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "80c398f1-8253-41e1-9313-9207c39d874e",
-      "Salesforce Opportunity ID": "006PH00000pAClhYAG",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -859,28 +837,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "84e9b44eza0ddz3feeza8a0z1f128f83355c",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI IG Setup New,,b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,MI FB Setup New,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-07-06",
-      "Account ID": "949bd766-4b97-4fff-ab6b-960558ca7e89",
-      "Salesforce Opportunity ID": "006PH00000pKpyfYAC",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "249ab309zd227z3223zb2f9z942d33f25755",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -923,31 +879,9 @@
       "Salesforce Opportunity ID": "006PH00000nxiIXYAY",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "b91ca789zfb31z3ed1zb01dz024613cce4e8",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-06-29",
-      "Account ID": "80c398f1-8253-41e1-9313-9207c39d874e",
-      "Salesforce Opportunity ID": "006PH00000pAClhYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-04T10:51:12.908Z",
-  "total": 43,
+  "fetched_at": "2026-08-05T10:51:10.411Z",
+  "total": 40,
   "im_name": "Sean DeRossett"
 }
