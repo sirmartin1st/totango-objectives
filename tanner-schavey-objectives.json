@@ -133,28 +133,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2135c253z7718z3886za121z0c482a8b7ea9",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "9cd4610e-1888-4878-b7f7-5cd287d776ab",
-      "Salesforce Opportunity ID": "006PH00000lpk49YAA",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "711c4038z5408z3b0fzab93z132c4cd4b6e5",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -353,7 +331,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-04T10:51:12.908Z",
-  "total": 16,
+  "fetched_at": "2026-08-05T10:51:10.411Z",
+  "total": 15,
   "im_name": "Tanner Schavey"
 }
