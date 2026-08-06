@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "04082f0bz7b30z30cdz88c1ze1036b8afc58",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Alyssa Biasucci",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "da71a033-8612-4aca-9c9c-55ea77ab06a0",
-      "Salesforce Opportunity ID": "006PH00000mFgD0YAK",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "043f1e9bz7320z3a86z9800zf3089b976cf4",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -35,7 +13,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Owen Tracy",
       "Objective Created Date": "2026-07-22",
@@ -57,144 +35,12 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,3. Executive Insight Narrative Developed,2. Market & Competitive Context Added,,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Owen Tracy",
       "Objective Created Date": "2026-07-22",
       "Account ID": "36550f5e-ccd3-4eae-bcbc-20667c715ee6",
       "Salesforce Opportunity ID": "006PH00000khYC1YAM",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "13491625z593az3292z866azd39d3eff3429",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": ",,Mira Studio Usage,MI IG Setup New,MI FB Setup New,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Sarah Price",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "5e4d2275-edf9-4d4d-b838-51d69bc0fcfc",
-      "Salesforce Opportunity ID": "006PH00000n9BGAYA2",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "273f3de7zdf4ez3fd1z83a6z3dfafccc891a",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Alyssa Biasucci",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "da71a033-8612-4aca-9c9c-55ea77ab06a0",
-      "Salesforce Opportunity ID": "006PH00000mFgD0YAK",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4d3fb358zc392z390fzaed9zb39a18e978ca",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Tayler McElvain",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "616504dd-2b62-46b6-9898-8832e8b59a8e",
-      "Salesforce Opportunity ID": "006PH00000pLl1mYAC",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "60f26471z807az36e3z865cz777483dc6e78",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,3. Executive Insight Narrative Developed,2. Market & Competitive Context Added,,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Alyssa Biasucci",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "da71a033-8612-4aca-9c9c-55ea77ab06a0",
-      "Salesforce Opportunity ID": "006PH00000mFgD0YAK",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "907efc93zeadbz3a52zb984z88e6b71008a9",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI IG Setup New,MI FB Setup New,,,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Tayler McElvain",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "616504dd-2b62-46b6-9898-8832e8b59a8e",
-      "Salesforce Opportunity ID": "006PH00000pLl1mYAC",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b2bd83eaz0ef5z3268z8ce3z3449688c0c46",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Sarah Price",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "5e4d2275-edf9-4d4d-b838-51d69bc0fcfc",
-      "Salesforce Opportunity ID": "006PH00000n9BGAYA2",
       "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": ""
     },
@@ -211,7 +57,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Natalie Smith",
       "CSM Owner": "Owen Tracy",
       "Objective Created Date": "2026-07-21",
@@ -219,53 +65,9 @@
       "Salesforce Opportunity ID": "006PH00000khYC1YAM",
       "Objective Created By": "natalie.smith@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "744cd4f8zcb70z3cceza283zb7fc394dc066",
-      "display_name": null,
-      "Objective Name": "Brand Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,1. Brand Search Framework Defined,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Rob MacCormick",
-      "Objective Created Date": "2026-05-29",
-      "Account ID": "7ec3b912-96b3-4b0b-a4e4-15f141fb716c",
-      "Salesforce Opportunity ID": "006PH00000hOh4fYAC",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "cbd55f4cz4d42z3abczbfa9zc4ae53238afc",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Natalie Smith",
-      "CSM Owner": "Rob MacCormick",
-      "Objective Created Date": "2026-05-15",
-      "Account ID": "7ec3b912-96b3-4b0b-a4e4-15f141fb716c",
-      "Salesforce Opportunity ID": "006PH00000hOh4fYAC",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-05T10:51:10.411Z",
-  "total": 12,
+  "fetched_at": "2026-08-06T10:51:08.945Z",
+  "total": 3,
   "im_name": "Natalie Smith"
 }
