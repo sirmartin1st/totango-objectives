@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "2d06b4ecz26aez38c6zbd97z351909c0fbc7",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "b. Prompt Criteria Fully Operational,,a. Brand Search Foundation Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-06",
+      "Account ID": "e2c6c84d-93d2-4c6c-adad-e254c1e02bf3",
+      "Salesforce Opportunity ID": "006PH00000onlYrYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fb0ad162zf1ccz369aza492z48048c850b47",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -837,28 +859,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "249ab309zd227z3223zb2f9z942d33f25755",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-06-30",
-      "Account ID": "775a52a9-2214-4515-8646-f873610ddc8a",
-      "Salesforce Opportunity ID": "006Rf00000GOT65IAH",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2b9f29a9za944z370fzaa5bzff135df2d6bc",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -881,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-06T10:51:08.945Z",
+  "fetched_at": "2026-08-07T10:51:11.787Z",
   "total": 40,
   "im_name": "Sean DeRossett"
 }
