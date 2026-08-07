@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "ec179e96zaf07z3d60zba99zf87a9dbc7212",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Jenny Qin",
+      "Objective Created Date": "2026-08-06",
+      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
+      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1539768az1ab6z3caaz8411z4789c224ca26",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -579,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 50,
       "Milestone Names": ",Mira Studio Usage,MI IG Setup New,MI FB Setup New,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -601,11 +623,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 16.666666,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 16.666666,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,,2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -667,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",MI FB Setup New,1. Market & Industry Search Foundation Defined,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -969,7 +991,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-06T10:51:08.945Z",
-  "total": 44,
+  "fetched_at": "2026-08-07T10:51:11.787Z",
+  "total": 45,
   "im_name": "Anna Genova"
 }
