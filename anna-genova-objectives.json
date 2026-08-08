@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "33994c04z04e8z346ezaaffz07330acfa04a",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Jenny Qin",
+      "Objective Created Date": "2026-08-07",
+      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
+      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "782a341az0e6az3366zbc42z90579059f9c0",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Jenny Qin",
+      "Objective Created Date": "2026-08-07",
+      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
+      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ec179e96zaf07z3d60zba99zf87a9dbc7212",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -711,11 +755,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 70,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 70,
+      "Pct Milestones Completed": 80,
       "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,Mira Studio Usage",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -733,11 +777,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -991,7 +1035,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-07T10:51:11.787Z",
-  "total": 45,
+  "fetched_at": "2026-08-08T10:51:09.435Z",
+  "total": 47,
   "im_name": "Anna Genova"
 }
