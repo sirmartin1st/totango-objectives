@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Misinformation Risk Detection Activated",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-23",
@@ -299,7 +299,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Jacqueline Mann",
       "Objective Created Date": "2026-07-23",
@@ -1035,7 +1035,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-08T10:51:09.435Z",
+  "fetched_at": "2026-08-09T10:51:11.772Z",
   "total": 47,
   "im_name": "Anna Genova"
 }
