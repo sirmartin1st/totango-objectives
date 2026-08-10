@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6845f2bfzf5d4z3f64zb2c8z13c66508d48d",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-08-09",
+      "Account ID": "03a0b48e-0715-4d5d-b979-b86d743e4e2a",
+      "Salesforce Opportunity ID": "006PH00000pg9skYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ba123335za676z31c9zb258z843b9015ab41",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-08-09",
+      "Account ID": "03a0b48e-0715-4d5d-b979-b86d743e4e2a",
+      "Salesforce Opportunity ID": "006PH00000pg9skYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1d729f22ze072z3c5aza2c9zf30c11994703",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-08-04",
@@ -79,7 +123,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-08-04",
@@ -793,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-09T10:51:11.772Z",
-  "total": 36,
+  "fetched_at": "2026-08-10T10:51:12.563Z",
+  "total": 38,
   "im_name": "Drew Lipscomb"
 }
