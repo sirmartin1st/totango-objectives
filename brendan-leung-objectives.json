@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d3601345zc74dz33c2z891ezeec86b3c03d0",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Catie Farwick",
+      "Objective Created Date": "2026-08-09",
+      "Account ID": "d97919e0-4dbb-4515-9959-51c267b26f31",
+      "Salesforce Opportunity ID": "006PH00000l8fe1YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3d6ef4e8z45f8z3353z8bd0zbfc05fbb16df",
       "display_name": null,
       "Objective Name": "(FIP) Influencer Marketing",
@@ -431,7 +453,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -453,7 +475,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -859,7 +881,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-09T10:51:11.772Z",
-  "total": 39,
+  "fetched_at": "2026-08-10T10:51:12.563Z",
+  "total": 40,
   "im_name": "Brendan Leung"
 }
