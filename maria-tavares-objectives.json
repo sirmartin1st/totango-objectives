@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 12.5,
       "Milestone Names": ",MI IG Setup New,,MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-08-06",
@@ -837,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-09T10:51:11.772Z",
+  "fetched_at": "2026-08-10T10:51:12.563Z",
   "total": 38,
   "im_name": "Maria Tavares"
 }
