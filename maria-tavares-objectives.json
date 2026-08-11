@@ -371,7 +371,7 @@
       "Objective Created Date": "2026-07-22",
       "Account ID": "36550f5e-ccd3-4eae-bcbc-20667c715ee6",
       "Salesforce Opportunity ID": "006PH00000khYC1YAM",
-      "Objective Created By": "natalie.smith@meltwater.com",
+      "Objective Created By": "kayla.fenner@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -535,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -557,11 +557,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,,2. Target Audience Assessed & Activated",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -837,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-10T10:51:12.563Z",
+  "fetched_at": "2026-08-11T10:51:11.670Z",
   "total": 38,
   "im_name": "Maria Tavares"
 }
