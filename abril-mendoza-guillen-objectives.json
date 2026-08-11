@@ -243,28 +243,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "26bb7bc1zcf74z3c34z97cdzd8d6ecb53ecc",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Ryan Dotter",
-      "Objective Created Date": "2026-07-14",
-      "Account ID": "81ea23ea-e3e3-4929-a323-dbf936fad5a0",
-      "Salesforce Opportunity ID": "006PH00000kZRqrYAG",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9fa4108bz08bcz3580z97baz08019e250637",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
@@ -331,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-10T10:51:12.563Z",
-  "total": 15,
+  "fetched_at": "2026-08-11T10:51:11.670Z",
+  "total": 14,
   "im_name": "Abril Mendoza Guillen"
 }
