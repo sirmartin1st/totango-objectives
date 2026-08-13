@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
+        "percentage_of_completed_milestones": 37.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 25,
+      "Pct Milestones Completed": 37.5,
       "Milestone Names": ",MI IG Setup New,,MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -837,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-12T10:51:09.501Z",
+  "fetched_at": "2026-08-13T10:51:11.977Z",
   "total": 38,
   "im_name": "Maria Tavares"
 }
