@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Lyndsey Golden",
       "Objective Created Date": "2026-08-04",
@@ -183,13 +183,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 30,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 30,
       "Milestone Names": "MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Lyndsey Golden",
       "Objective Created Date": "2026-08-04",
@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 30,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 30,
       "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -365,7 +365,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,a. Brand Search Foundation Defined ,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Savanah Wilshire",
       "Objective Created Date": "2026-07-23",
@@ -717,7 +717,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,,Mira Studio Usage,MI IG Setup New,MI FB Setup New,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Savanah Wilshire",
       "Objective Created Date": "2026-07-23",
@@ -915,7 +915,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Daily Digests Setup for Users ,a. Brand Search Foundation Defined (Agility Migration),MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Sannia Iqbal",
       "Objective Created Date": "2026-06-30",
@@ -937,7 +937,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,,2. Crisis Detection & Monitoring Fully Operational,HS20 Articles Clicked 90D,Mira Studio Usage,MI FB Setup New,,MI IG Setup New,1. Risk Landscape Defined (Crisis Queries + Alerts)",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Sannia Iqbal",
       "Objective Created Date": "2026-06-30",
@@ -959,7 +959,7 @@
       },
       "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Sannia Iqbal",
       "Objective Created Date": "2026-06-30",
@@ -969,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-13T10:51:11.977Z",
+  "fetched_at": "2026-08-14T10:51:13.044Z",
   "total": 44,
   "im_name": "Anna Genova"
 }
