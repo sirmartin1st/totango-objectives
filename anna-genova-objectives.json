@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "ae8ccff1z5573z331bzbb55z64b414241e73",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-08-14",
+      "Account ID": "b8bc57f1-0ca9-4c6c-a262-47f9ce9d8e32",
+      "Salesforce Opportunity ID": "006PH00000pUC3CYAW",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c559cd80zf3baz3af6zaac7z93f8b196aa3f",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-08-14",
+      "Account ID": "b8bc57f1-0ca9-4c6c-a262-47f9ce9d8e32",
+      "Salesforce Opportunity ID": "006PH00000pUC3CYAW",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0c2e4f0ez8a29z35e2za665zb7c8affcf424",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -403,11 +447,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 87.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 87.5,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -535,13 +579,13 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Isabella Conti",
       "Objective Created Date": "2026-07-23",
@@ -893,7 +937,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Isabella Conti",
       "Objective Created Date": "2026-07-21",
@@ -969,7 +1013,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-14T10:51:13.044Z",
-  "total": 44,
+  "fetched_at": "2026-08-15T10:51:12.067Z",
+  "total": 46,
   "im_name": "Anna Genova"
 }
