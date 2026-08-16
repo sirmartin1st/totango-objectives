@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Sarah Tenner",
       "Objective Created Date": "2026-07-30",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Sarah Tenner",
       "Objective Created Date": "2026-07-30",
@@ -221,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-15T10:51:12.067Z",
+  "fetched_at": "2026-08-16T10:51:09.721Z",
   "total": 10,
   "im_name": "Abril Mendoza Guillen"
 }
