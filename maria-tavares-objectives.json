@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 62.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 62.5,
       "Milestone Names": ",MI IG Setup New,,MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
@@ -211,7 +211,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Jessie Page",
       "Objective Created Date": "2026-07-29",
@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Jessie Page",
       "Objective Created Date": "2026-07-29",
@@ -837,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-15T10:51:12.067Z",
+  "fetched_at": "2026-08-16T10:51:09.721Z",
   "total": 38,
   "im_name": "Maria Tavares"
 }
