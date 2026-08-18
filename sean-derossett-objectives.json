@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "79939b22z368fz3c11zab9dzb7752e5e1ad8",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "e8f8f29e-47a6-4414-8d4d-568d90ad3823",
+      "Salesforce Opportunity ID": "006PH00000kwIIDYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fba6619dzca59z35fez81bfz6f3fbad8991e",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "e8f8f29e-47a6-4414-8d4d-568d90ad3823",
+      "Salesforce Opportunity ID": "006PH00000kwIIDYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2d06b4ecz26aez38c6zbd97z351909c0fbc7",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -343,7 +387,7 @@
       },
       "Pct Milestones Completed": 54.545456,
       "Milestone Names": "MI IG Setup New,,MI FB Setup New,Mira Studio Usage,1. Brand Search Foundation Defined ,Test,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-07-28",
@@ -387,7 +431,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-07-28",
@@ -431,7 +475,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-07-28",
@@ -453,7 +497,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-07-28",
@@ -469,13 +513,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",1. Content Curation Defined,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-07-28",
@@ -585,7 +629,7 @@
       },
       "Pct Milestones Completed": 60,
       "Milestone Names": "1. Brand Search Foundation Defined ,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,MI IG Setup New,,MI FB Setup New,Mira Studio Usage",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-07-10",
@@ -629,7 +673,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,a. Brand Search Foundation Defined ,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-07-10",
@@ -705,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-17T10:51:11.914Z",
-  "total": 32,
+  "fetched_at": "2026-08-18T10:51:09.163Z",
+  "total": 34,
   "im_name": "Sean DeRossett"
 }
