@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "12992681za3f1z3ad9zbedbz8b4ead08e94d",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Isabella Conti",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "4e825a0f-f975-4ede-84c4-81e2eef1fa15",
+      "Salesforce Opportunity ID": "006PH00000qSHZRYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7676b0e8z35b4z330az8b7dz2e82d363e27b",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Isabella Conti",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "4e825a0f-f975-4ede-84c4-81e2eef1fa15",
+      "Salesforce Opportunity ID": "006PH00000qSHZRYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f35a224cz32e4z303az8a59zd314b4715ace",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -145,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Rob Casper",
       "Objective Created Date": "2026-08-11",
@@ -189,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Rob Casper",
       "Objective Created Date": "2026-08-11",
@@ -991,7 +1035,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-17T10:51:11.914Z",
-  "total": 45,
+  "fetched_at": "2026-08-18T10:51:09.163Z",
+  "total": 47,
   "im_name": "Brendan Leung"
 }
