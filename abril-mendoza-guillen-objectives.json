@@ -89,28 +89,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "27d3a482z4e36z3d00z9dabz7328fdd40310",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI IG Setup New,,,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Andre Fiechter",
-      "Objective Created Date": "2026-07-26",
-      "Account ID": "c0eec515-5eab-4c3c-9a9a-a77793d8777a",
-      "Salesforce Opportunity ID": "006PH00000pzd2HYAQ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "6765ebd8z815cz389bz98cdz3176c92a0399",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -221,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-17T10:51:11.914Z",
-  "total": 10,
+  "fetched_at": "2026-08-18T10:51:09.163Z",
+  "total": 9,
   "im_name": "Abril Mendoza Guillen"
 }
