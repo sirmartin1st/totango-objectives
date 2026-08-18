@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0e90d0bfzcd85z3b9bz8b77z1102383a4c02",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "0f85a7f2-5597-4e9e-aa6a-7547b1d9993e",
+      "Salesforce Opportunity ID": "006PH00000qj88LYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "54c8a892z42e1z3550zb94cz8d4b3ea80b54",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "2e3e9bed-f66f-42b2-aeae-5fa807f88858",
+      "Salesforce Opportunity ID": "006PH00000qmfkTYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "bd6c3823zee2cz39faz998ez472f217b0fd5",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -19,6 +63,28 @@
       "Objective Created Date": "2026-08-17",
       "Account ID": "2e3e9bed-f66f-42b2-aeae-5fa807f88858",
       "Salesforce Opportunity ID": "006PH00000qmfkTYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "eb301775z793dz3bc9za964zba803a4fb2a2",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Anastasia Severinets",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "69efe658-2359-4a5a-9c1c-3269df21d350",
+      "Salesforce Opportunity ID": "006PH00000qRJ8fYAG",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -551,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-17T10:51:11.914Z",
-  "total": 25,
+  "fetched_at": "2026-08-18T10:51:09.163Z",
+  "total": 28,
   "im_name": "Alison Mowry"
 }
