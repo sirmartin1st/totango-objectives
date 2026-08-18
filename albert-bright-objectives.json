@@ -331,28 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "adef515bz54f1z371czaa6az5364a2a0a85c",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Will Swift",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "887f3df9-9e7d-4676-8c8c-146138365afa",
-      "Salesforce Opportunity ID": "006PH00000oTVDJYA4",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "263eeca4z0d65z3935zbc19za13917d9ead7",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -373,28 +351,6 @@
       "Salesforce Opportunity ID": "006PH00000kDn5FYAS",
       "Objective Created By": "alison.mowry@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "c4c90cd5zd412z3ea5za45ezc65c59bbb36a",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Albert Bright",
-      "CSM Owner": "Will Swift",
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "887f3df9-9e7d-4676-8c8c-146138365afa",
-      "Salesforce Opportunity ID": "006PH00000oTVDJYA4",
-      "Objective Created By": "albert.bright@meltwater.com",
-      "Objective Description": ""
     },
     {
       "objective_id": "f7d570b6zaf63z3e1dz8ba0zd96fbf806e9c",
@@ -419,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-17T10:51:11.914Z",
-  "total": 19,
+  "fetched_at": "2026-08-18T10:51:09.163Z",
+  "total": 17,
   "im_name": "Albert Bright"
 }
