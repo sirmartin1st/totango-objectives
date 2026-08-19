@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "b. Prompt Criteria Fully Operational,,a. Brand Search Foundation Defined",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Connor Love",
       "Objective Created Date": "2026-08-06",
@@ -145,34 +145,12 @@
       },
       "Pct Milestones Completed": 70,
       "Milestone Names": "HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Lauren Zollo",
       "Objective Created Date": "2026-07-30",
       "Account ID": "9971b906-c193-4101-baba-63141db4a285",
       "Salesforce Opportunity ID": "006PH00000iBuWzYAK",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "3e6c1d7bz2beez36c1zab43z50ef326ef6b6",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,,MI FB Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Catie Farwick",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "57dbfd31-6b7f-4efe-ac2c-43424f78a4be",
-      "Salesforce Opportunity ID": "006PH00000pf1NmYAI",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
     },
@@ -233,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Jessie Page",
       "Objective Created Date": "2026-07-30",
@@ -277,7 +255,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Lauren Zollo",
       "Objective Created Date": "2026-07-30",
@@ -749,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-18T10:51:09.163Z",
-  "total": 34,
+  "fetched_at": "2026-08-19T10:51:10.574Z",
+  "total": 33,
   "im_name": "Sean DeRossett"
 }
