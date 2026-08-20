@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "593a112ez3809z332cz895ez1cdd25570f8b",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-08-19",
+      "Account ID": "6a9424c3-6f0b-4fdf-9393-8a4bb4aa9f65",
+      "Salesforce Opportunity ID": "006PH00000jRx5JYAS",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ae8ccff1z5573z331bzbb55z64b414241e73",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -139,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 10,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 10,
       "Milestone Names": ",MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -161,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -283,50 +305,6 @@
       "Objective Created Date": "2026-08-04",
       "Account ID": "d7546e2f-577d-4121-abab-300dae5281fa",
       "Salesforce Opportunity ID": "006PH00000p6gf7YAA",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6db3bb72zebd1z3293z8d88zdabf96edd412",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "973e2e74-16a9-49a9-9454-69d1bc6586c6",
-      "Salesforce Opportunity ID": "006PH00000qFTuzYAG",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a4e0f361zb130z3a4dz9db6zbc22e7ced1a4",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "973e2e74-16a9-49a9-9454-69d1bc6586c6",
-      "Salesforce Opportunity ID": "006PH00000qFTuzYAG",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
@@ -463,28 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "52332563z6e23z3871za024zd169d67d8a15",
-      "display_name": null,
-      "Objective Name": "(FIP) Data Connections & Integrations",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-07-23",
-      "Account ID": "4b96093e-dfd0-4cac-bcfc-f9e3ee277973",
-      "Salesforce Opportunity ID": "006PH00000qHdiAYAS",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "580fc327z46d9z3ae0zb521zafcfba7a060d",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -591,28 +547,6 @@
       "Objective Created Date": "2026-07-23",
       "Account ID": "bd9fdea3-e764-4b9b-acec-5730b45c641d",
       "Salesforce Opportunity ID": "006PH00000jPIhNYAW",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "774696f7zaa76z3afczb98czf7ba8df2ae56",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,b. Integration of Brand Search Analytics into dashboards,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Nikita Sharma",
-      "Objective Created Date": "2026-07-23",
-      "Account ID": "4b96093e-dfd0-4cac-bcfc-f9e3ee277973",
-      "Salesforce Opportunity ID": "006PH00000qHdiAYAS",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
@@ -969,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-19T10:51:10.574Z",
-  "total": 44,
+  "fetched_at": "2026-08-20T10:51:10.845Z",
+  "total": 41,
   "im_name": "Anna Genova"
 }
