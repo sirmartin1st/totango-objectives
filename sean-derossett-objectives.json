@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Connor Sikora",
       "Objective Created Date": "2026-08-17",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Connor Sikora",
       "Objective Created Date": "2026-08-17",
@@ -727,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-19T10:51:10.574Z",
+  "fetched_at": "2026-08-20T10:51:10.845Z",
   "total": 33,
   "im_name": "Sean DeRossett"
 }
