@@ -45,50 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "22f4ffe6zf0c3z33cdz9ba8z54b1138fb68c",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
-      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8b36bfe7z5154z36a1z9bcaz1ab49507fd1d",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
-      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9961ecb7z5c58z34b8z849fz6dd05addbb0b",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -145,7 +101,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-06-23",
@@ -307,31 +263,9 @@
       "Salesforce Opportunity ID": "006PH00000l3elqYAA",
       "Objective Created By": "katherine.brown@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "e858f599z7fffz37f2za8d8z54a5311c747d",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "222f9c3d-5335-40d0-8848-24ae77052b62",
-      "Salesforce Opportunity ID": "006PH00000lJ3NLYA0",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-20T10:51:10.845Z",
-  "total": 15,
+  "fetched_at": "2026-08-21T10:51:11.131Z",
+  "total": 12,
   "im_name": "Tanner Schavey"
 }
