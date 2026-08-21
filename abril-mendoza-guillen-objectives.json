@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "B. Real Time Campaign Tracking Activated,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,A. Campaign plan and strategy Defined",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Isabella Conti",
       "Objective Created Date": "2026-08-19",
@@ -431,7 +431,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Isabella Conti",
       "Objective Created Date": "2026-08-19",
@@ -683,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-20T10:51:10.845Z",
+  "fetched_at": "2026-08-21T10:51:11.131Z",
   "total": 31,
   "im_name": "Abril Mendoza Guillen"
 }
