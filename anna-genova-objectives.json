@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 30,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 30,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
@@ -771,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-21T10:51:11.131Z",
+  "fetched_at": "2026-08-22T10:51:10.209Z",
   "total": 35,
   "im_name": "Anna Genova"
 }
