@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-08-18",
@@ -375,28 +375,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1385d552z905bz3776z9e19zb43dca92483c",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Lyndsey Wallen",
-      "Objective Created Date": "2026-07-16",
-      "Account ID": "08ed1311-839c-4686-aded-006a68b91876",
-      "Salesforce Opportunity ID": "006PH00000iAV1CYAW",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2181203bz092dz3f94z9658z399ae19a43a5",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -551,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-21T10:51:11.131Z",
-  "total": 25,
+  "fetched_at": "2026-08-22T10:51:10.209Z",
+  "total": 24,
   "im_name": "Maria Tavares"
 }
