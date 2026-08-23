@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Bryan Bartolome",
       "Objective Created Date": "2026-07-30",
@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Bryan Bartolome",
       "Objective Created Date": "2026-07-30",
@@ -727,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-22T10:51:10.209Z",
+  "fetched_at": "2026-08-23T10:51:13.171Z",
   "total": 33,
   "im_name": "Sean DeRossett"
 }
