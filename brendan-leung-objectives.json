@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "3c498313z7793z3d10z8292zf61b0f3d673a",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Darby Tingue",
+      "Objective Created Date": "2026-08-24",
+      "Account ID": "b00b615d-5d76-4cfc-a323-ba2e54c4401d",
+      "Salesforce Opportunity ID": "006PH00000jNXpNYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "aaaaa5c3zd4c1z3f3fz8d4cz6eda5ced4cce",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Darby Tingue",
+      "Objective Created Date": "2026-08-24",
+      "Account ID": "b00b615d-5d76-4cfc-a323-ba2e54c4401d",
+      "Salesforce Opportunity ID": "006PH00000jNXpNYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "a9491574za13az3dc3zb307zd08dbc37cd7f",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Connor Sikora",
       "Objective Created Date": "2026-08-18",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Connor Sikora",
       "Objective Created Date": "2026-08-18",
@@ -315,13 +359,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 12.5,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 12.5,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "Klear eCommerce Connected Nbr,,,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-08-05",
@@ -343,7 +387,7 @@
       },
       "Pct Milestones Completed": 40,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-08-05",
@@ -563,7 +607,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": ",2. Target Audience Assessed & Activated,1. Content Curation Defined,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Kearstine Griffin",
       "Objective Created Date": "2026-07-28",
@@ -629,34 +673,12 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,HS20 Media List Updates 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Kearstine Griffin",
       "Objective Created Date": "2026-07-28",
       "Account ID": "6c127f45-0ca2-46f6-b171-fb9649458d06",
       "Salesforce Opportunity ID": "006PH00000idDDlYAM",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a1726fd2z18ccz35f8z8f33z0d52cc23dbc6",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "081b7bba-5666-4b0b-8707-6bd2fd33cd55",
-      "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -871,7 +893,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Kendra Igoe",
       "Objective Created Date": "2026-07-21",
@@ -1013,50 +1035,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2c062118z90adz3359zb447z8f3fdd32e490",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Brand Reputation & Sentiment dashboard set up,4 Priority Client Searches Built,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-06-25",
-      "Account ID": "081b7bba-5666-4b0b-8707-6bd2fd33cd55",
-      "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "db5e9649z954cz3a3aza182z6bae7e1a2ff6",
-      "display_name": null,
-      "Objective Name": "(FIP) Voice of Customer Segmentation",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Competitor and Market Intelligence Integrated,1. Audience Profiles and Segments Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-06-25",
-      "Account ID": "081b7bba-5666-4b0b-8707-6bd2fd33cd55",
-      "Salesforce Opportunity ID": "006PH00000o1XRlYAM",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": "Audiense Segmentation / Demographic insights reports"
-    },
-    {
       "objective_id": "55deac35z4169z324azbdaez6d3ab1dc8997",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -1079,7 +1057,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-24T10:51:13.483Z",
-  "total": 49,
+  "fetched_at": "2026-08-25T10:51:09.776Z",
+  "total": 48,
   "im_name": "Brendan Leung"
 }
