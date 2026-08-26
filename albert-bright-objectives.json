@@ -1,6 +1,292 @@
 {
   "objectives": [
     {
+      "objective_id": "0b070e28z30f6z3f45z884bz98079237e8ba",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 4,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": ",Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "45ecaa8d-274b-4828-8808-0ccddde14220",
+      "Salesforce Opportunity ID": "006PH00000oXFRhYAO",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "0bcc7506z4ba5z3c38za2ccz37dabec8d38a",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Bridget Lindh",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "b281bc7b-95e2-4292-b0f0-739cdb5fc78f",
+      "Salesforce Opportunity ID": "006PH00000rgNeRYAU",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "2b5a3fafz2513z3936z883azabf5a24bbeb8",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "0dd35278-140a-4676-b373-cf2878c94e60",
+      "Salesforce Opportunity ID": "006PH00000pyC2XYAU",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "360fbebbz9d2az325eza590z1685598ce9da",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
+      "Milestone Names": "Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "0dd35278-140a-4676-b373-cf2878c94e60",
+      "Salesforce Opportunity ID": "006PH00000pyC2XYAU",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3d31199bzc594z365fzbf65zef2181b74358",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
+      "Milestone Names": "MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "956cff29-8df9-4000-bd7d-49904d1009b2",
+      "Salesforce Opportunity ID": "006PH00000r5O4nYAE",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "71a230cdz486dz38c7za4cdze2f5f0855bf4",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "70187499-0381-44d4-a424-d4f32221ecf0",
+      "Salesforce Opportunity ID": "006PH00000ryx6jYAA",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8d209107zc289z3839z887ezc67f539a3d67",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
+      "Milestone Names": ",Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "01c8f63e-88d5-42f2-b676-8503398ed19c",
+      "Salesforce Opportunity ID": "006PH00000rl1i5YAA",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a1d122d8z3535z3abcz94f6zb70f1a33526c",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
+      "Milestone Names": "MI Created Dashboards,users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "6cc3d916-52e7-4474-a0a0-57bfd36181cf",
+      "Salesforce Opportunity ID": "006PH00000qYp71YAC",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a737981dz025ez39a6z9e05z4380f1e9955b",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Bridget Lindh",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "b281bc7b-95e2-4292-b0f0-739cdb5fc78f",
+      "Salesforce Opportunity ID": "006PH00000rgNeRYAU",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b1c4ead6z2862z3c10z9962za8f25f92af28",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "6cc3d916-52e7-4474-a0a0-57bfd36181cf",
+      "Salesforce Opportunity ID": "006PH00000qYp71YAC",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e62d4b14ze211z3a6cz8f7dz1422577c8c53",
+      "display_name": null,
+      "Objective Name": "(FIP) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,1. Market & Industry Search Foundation Defined,MI FB Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Bridget Lindh",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "33991434-ed34-4272-8040-b9caeab9d471",
+      "Salesforce Opportunity ID": "006PH00000qGHlKYAW",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f0cd5ed8za184z3728zb3d7z7aac808176a4",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "f39ee6c0-49ce-4494-bb3b-0996637ea809",
+      "Salesforce Opportunity ID": "006PH00000oucvRYAQ",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fed5d229z36ddz3c98zac16z07ecfab32eed",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "70187499-0381-44d4-a424-d4f32221ecf0",
+      "Salesforce Opportunity ID": "006PH00000ryx6jYAA",
+      "Objective Created By": "albert.bright@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "18f8710fz2138z3944zaae8zc7635b215c5a",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -617,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-25T10:51:09.776Z",
-  "total": 28,
+  "fetched_at": "2026-08-26T10:51:12.415Z",
+  "total": 41,
   "im_name": "Albert Bright"
 }
