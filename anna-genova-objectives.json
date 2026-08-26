@@ -469,11 +469,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 12.5,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 12.5,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "2. Media Coverage and Impact Measurement Fully Operational,1, Target Media Strategy and Contact List Established,HS20 Journalist Outreach 90D,3. Outreach and Earned Media Performance Reported,HS20 Searches Completed 90D,HS20 Media List Updates 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -535,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 62.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 62.5,
       "Milestone Names": "MI IG Setup New,,MI FB Setup New,,HS20 Articles Clicked 90D,1. Reputation Pillars & Scoring Framework Defined,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-25T10:51:09.776Z",
+  "fetched_at": "2026-08-26T10:51:12.415Z",
   "total": 36,
   "im_name": "Anna Genova"
 }
