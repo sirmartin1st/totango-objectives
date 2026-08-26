@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Austin Gilkey",
       "Objective Created Date": "2026-08-04",
@@ -1057,7 +1057,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-25T10:51:09.776Z",
+  "fetched_at": "2026-08-26T10:51:12.415Z",
   "total": 48,
   "im_name": "Brendan Leung"
 }
