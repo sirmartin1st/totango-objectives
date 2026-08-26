@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "2a555501z7f3ez3502zbc71zc8f3b8425c60",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-08-25",
+      "Account ID": "83d13021-9dff-4676-b8f8-bb0a6495054a",
+      "Salesforce Opportunity ID": "006PH00000pUYenYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3b3b785bz0ac8z3017z840ez4bbbf43941ce",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -727,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-25T10:51:09.776Z",
-  "total": 33,
+  "fetched_at": "2026-08-26T10:51:12.415Z",
+  "total": 34,
   "im_name": "Sean DeRossett"
 }
