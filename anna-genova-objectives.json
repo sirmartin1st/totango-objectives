@@ -601,11 +601,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,,,2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-26T10:51:12.415Z",
+  "fetched_at": "2026-08-27T10:51:13.524Z",
   "total": 36,
   "im_name": "Anna Genova"
 }
