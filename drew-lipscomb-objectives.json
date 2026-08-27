@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d86584ecz23a3z3513z956ez0e0f991d5908",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Catie Farwick",
+      "Objective Created Date": "2026-08-26",
+      "Account ID": "5ace1ced-2a63-4f1f-b434-9afb3db4273e",
+      "Salesforce Opportunity ID": "006PH00000mfQ1JYAU",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "08afd102z8953z32afzbee6z57798b152725",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -29,11 +51,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 14.285714,
       "Milestone Names": ",Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Drew Lipscomb",
@@ -95,13 +117,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-08-21",
@@ -123,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-08-20",
@@ -139,11 +161,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
@@ -277,7 +299,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-17",
@@ -468,7 +490,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -512,7 +534,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
+        "number_of_overdue_milestones": 5,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -639,28 +661,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8f8b141cz0836z3862z9c9fz041d8317cc61",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Rob Casper",
-      "Objective Created Date": "2026-07-29",
-      "Account ID": "8f0e973b-897d-4d9d-b737-9587647780aa",
-      "Salesforce Opportunity ID": "006PH00000pcT5FYAU",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "95e3c0b5z99f0z3b70z85cfzdd7dd583697f",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -727,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-26T10:51:12.415Z",
+  "fetched_at": "2026-08-27T10:51:13.524Z",
   "total": 33,
   "im_name": "Drew Lipscomb"
 }
