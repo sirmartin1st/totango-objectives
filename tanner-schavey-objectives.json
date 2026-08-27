@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "5a25ddc8z0570z38b9zaeabzf907f2f1065f",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Anne-Frederic Duval",
+      "Objective Created Date": "2026-08-26",
+      "Account ID": "84f6b9dd-f093-4010-9151-f246ee863ae8",
+      "Salesforce Opportunity ID": "006Rf00000DIgZDIA1",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dfe07975z6185z3794zb206z20057c3bdb7d",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New,",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Anne-Frederic Duval",
+      "Objective Created Date": "2026-08-26",
+      "Account ID": "84f6b9dd-f093-4010-9151-f246ee863ae8",
+      "Salesforce Opportunity ID": "006Rf00000DIgZDIA1",
+      "Objective Created By": "tanner.schavey@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6867c3c1za84bz38aczb89dz5526b2e210a9",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
@@ -73,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,,1. Market & Industry Search Foundation Defined,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Tanner Schavey",
@@ -265,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-26T10:51:12.415Z",
-  "total": 12,
+  "fetched_at": "2026-08-27T10:51:13.524Z",
+  "total": 14,
   "im_name": "Tanner Schavey"
 }
