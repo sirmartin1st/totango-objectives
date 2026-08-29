@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "4e399ae6z7f97z3fd5z9d53z09300bbd8bbe",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Kearstine Griffin",
+      "Objective Created Date": "2026-08-28",
+      "Account ID": "ad57fe9f-d216-4a6a-a5e5-eb363d5dedba",
+      "Salesforce Opportunity ID": "006PH00000oqKfNYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4f072590zed80z30c7z99b4z17df313224c8",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -321,7 +343,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-08-12",
@@ -343,7 +365,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-08-12",
@@ -381,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -827,7 +849,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -849,7 +871,7 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Ellen Silva",
       "Objective Created Date": "2026-07-28",
@@ -1101,7 +1123,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-08-28T10:51:13.185Z",
-  "total": 50,
+  "fetched_at": "2026-08-29T10:51:09.364Z",
+  "total": 51,
   "im_name": "Brendan Leung"
 }
