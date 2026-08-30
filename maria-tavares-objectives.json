@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",HS20 Articles Clicked 90D,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-08-27",
@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-08-27",
@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-08-27",
@@ -403,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -513,11 +513,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -727,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-29T10:51:09.364Z",
+  "fetched_at": "2026-08-30T10:51:17.917Z",
   "total": 33,
   "im_name": "Maria Tavares"
 }
