@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "664c9df6zed56z3dfcz8bc5zdb67eedc29ef",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Kearstine Griffin",
+      "Objective Created Date": "2026-08-29",
+      "Account ID": "e7dfc93e-50a7-42d2-b5f5-b65087a7a150",
+      "Salesforce Opportunity ID": "006PH00000nQ6f3YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c0d329c9zeb45z3594zbd4bz61a03c4bcb5f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Kearstine Griffin",
+      "Objective Created Date": "2026-08-29",
+      "Account ID": "e7dfc93e-50a7-42d2-b5f5-b65087a7a150",
+      "Salesforce Opportunity ID": "006PH00000nQ6f3YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1ac5de2dzcf50z353eza336z2113f3296db6",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -381,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
@@ -425,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1085,11 +1129,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,,,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1321,7 +1365,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-29T10:51:09.364Z",
-  "total": 60,
+  "fetched_at": "2026-08-30T10:51:17.917Z",
+  "total": 62,
   "im_name": "Anna Genova"
 }
