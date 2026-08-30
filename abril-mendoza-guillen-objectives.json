@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Andre Fiechter",
       "Objective Created Date": "2026-08-19",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-29T10:51:09.364Z",
+  "fetched_at": "2026-08-30T10:51:17.917Z",
   "total": 32,
   "im_name": "Abril Mendoza Guillen"
 }
