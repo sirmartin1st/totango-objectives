@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "1fff8d16z813dz32dcz8578zf3faf830bfd5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Lyndsey Wallen",
+      "Objective Created Date": "2026-08-30",
+      "Account ID": "1eb5188b-c746-4868-aa6a-1cfa7abcbe60",
+      "Salesforce Opportunity ID": "006PH00000rZV8rYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "43567eb8z6c38z3cadzbe6az2ad5b82d364e",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -595,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-30T10:51:17.917Z",
-  "total": 27,
+  "fetched_at": "2026-08-31T10:51:09.435Z",
+  "total": 28,
   "im_name": "Alison Mowry"
 }
