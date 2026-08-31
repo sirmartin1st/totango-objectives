@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "b995dbf4z0331z3350z889ez98ec88c48cb7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-08-30",
+      "Account ID": "07eab16b-39f4-4e0e-8505-1f67ff801b63",
+      "Salesforce Opportunity ID": "006PH00000rOmoCYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2a555501z7f3ez3502zbc71zc8f3b8425c60",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -661,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-30T10:51:17.917Z",
-  "total": 30,
+  "fetched_at": "2026-08-31T10:51:09.435Z",
+  "total": 31,
   "im_name": "Sean DeRossett"
 }
