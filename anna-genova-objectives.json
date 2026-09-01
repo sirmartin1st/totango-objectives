@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "7a688cb7zaaafz3af4zb3e2zbca380620220",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Klear Campaigns Opened 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "6a9424c3-6f0b-4fdf-9393-8a4bb4aa9f65",
+      "Salesforce Opportunity ID": "006PH00000jRx5JYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7be5347fz1286z34e6z95dbz63f0767aaeae",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "6a9424c3-6f0b-4fdf-9393-8a4bb4aa9f65",
+      "Salesforce Opportunity ID": "006PH00000jRx5JYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b945d4d0z4afdz3570z9149z8cdc0be54789",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "37031ed5-5026-4c1c-be7e-1a6ded882b30",
+      "Salesforce Opportunity ID": "006PH00000nCkdxYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "664c9df6zed56z3dfcz8bc5zdb67eedc29ef",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -107,28 +173,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "adf6fb3c-0da1-4121-92d2-27cf64a4191e",
       "Salesforce Opportunity ID": "006PH00000l9JYEYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4570ceecza361z3367zbb03zc544412380ab",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "00df05db-5bd5-4282-bd3d-5a1544c0efb6",
-      "Salesforce Opportunity ID": "006Rf00000SDGgLIAX",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -419,28 +463,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "baac4accz2d9dz3720zb71azf578a695c3bf",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "00df05db-5bd5-4282-bd3d-5a1544c0efb6",
-      "Salesforce Opportunity ID": "006Rf00000SDGgLIAX",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "bcd5c5d4z11f7z3b0cza914z14289df7ae72",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -629,7 +651,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Carina Zamudio",
       "Objective Created Date": "2026-08-19",
@@ -689,11 +711,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 10,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 10,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -859,28 +881,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6217c02czd9d9z383dz9098zd865be173e0c",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Cassia Meditz",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "d7546e2f-577d-4121-abab-300dae5281fa",
-      "Salesforce Opportunity ID": "006PH00000p6gf7YAA",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ff328aa7zb955z377ezbdfcz6bec13a3c480",
       "display_name": null,
       "Objective Name": "(FIP) Executive Reporting & Dashboards",
@@ -899,72 +899,6 @@
       "Objective Created Date": "2026-08-04",
       "Account ID": "e3f0daa3-9a8a-4929-9ede-690eb97cbb2c",
       "Salesforce Opportunity ID": "006PH00000kUxHuYAK",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "267233c0zdd9dz33cbzbc28zecfa04872596",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Cassia Meditz",
-      "Objective Created Date": "2026-08-03",
-      "Account ID": "d7546e2f-577d-4121-abab-300dae5281fa",
-      "Salesforce Opportunity ID": "006PH00000p6gf7YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "0a888aa1z7585z3fcaz90f5z13cbe44663ed",
-      "display_name": null,
-      "Objective Name": "(FIP) Misinformation & Risk Intelligence",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Misinformation Risk Detection Activated",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-07-23",
-      "Account ID": "00df05db-5bd5-4282-bd3d-5a1544c0efb6",
-      "Salesforce Opportunity ID": "006Rf00000SDGgLIAX",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "2685e464z409bz3044zb7e3z763a87dc4ea5",
-      "display_name": null,
-      "Objective Name": "(FIP) Reputation Management",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jacqueline Mann",
-      "Objective Created Date": "2026-07-23",
-      "Account ID": "00df05db-5bd5-4282-bd3d-5a1544c0efb6",
-      "Salesforce Opportunity ID": "006Rf00000SDGgLIAX",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
@@ -1365,7 +1299,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-31T10:51:09.435Z",
-  "total": 62,
+  "fetched_at": "2026-09-01T10:51:12.781Z",
+  "total": 59,
   "im_name": "Anna Genova"
 }
