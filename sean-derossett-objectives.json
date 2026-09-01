@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "50764fa7z5f51z3ad0z819bza07fd1926acd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "5d61162d-b5f9-46a6-bbbb-6fb6eb1d72d4",
+      "Salesforce Opportunity ID": "006PH00000rSDTdYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f03107bazf718z3fa3zb9a9z3b971610d214",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "5d61162d-b5f9-46a6-bbbb-6fb6eb1d72d4",
+      "Salesforce Opportunity ID": "006PH00000rSDTdYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b995dbf4z0331z3350z889ez98ec88c48cb7",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -139,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -683,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-31T10:51:09.435Z",
-  "total": 31,
+  "fetched_at": "2026-09-01T10:51:12.781Z",
+  "total": 33,
   "im_name": "Sean DeRossett"
 }
