@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0b332803z964dz3f02zb64azab6d6a9bfbb9",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI Created Dashboards,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-09-01",
+      "Account ID": "a6f9b796-4010-41a1-8848-acefb10ef215",
+      "Salesforce Opportunity ID": "006PH00000s1bBJYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2204ec49z63ebz3094za8f1ze57ffc616a52",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -13,7 +35,29 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,,MI Created Searches",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-09-01",
+      "Account ID": "a30551c3-d1aa-42f2-ab2b-cf2a58c689ca",
+      "Salesforce Opportunity ID": "006PH00000pWgTNYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "62084f27z18c2z3803z8a0az5937c743ab47",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-01",
@@ -79,7 +123,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-17",
@@ -277,34 +321,12 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-08-04",
       "Account ID": "cedbe493-5105-4f3f-b979-911c844bec07",
       "Salesforce Opportunity ID": "006PH00000qQzJdYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8cb72513z3bb0z3a12zac37zcaff7d17ce0a",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": ",Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "3ea479a4-c233-4ece-abab-e3f9f156920c",
-      "Salesforce Opportunity ID": "006PH00000qtyX3YAI",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -321,34 +343,12 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-08-04",
       "Account ID": "0aaae5c6-223a-4b3b-ad6d-a0b5be2681fe",
       "Salesforce Opportunity ID": "006PH00000qZo7FYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c59a3ef7z92f8z3c84z8de0z5fb817040dfc",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": ",Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "9f2912de-6e9e-42f2-b333-1971a9bbfec1",
-      "Salesforce Opportunity ID": "006PH00000qGGxJYAW",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -397,28 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "43a61bb0z57c4z32c8zbcd2z7c83df607534",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-08-02",
-      "Account ID": "9f2912de-6e9e-42f2-b333-1971a9bbfec1",
-      "Salesforce Opportunity ID": "006PH00000qGGxJYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "44c71d35z9292z322dzb070z70eadc51eca9",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -459,28 +437,6 @@
       "Objective Created Date": "2026-08-02",
       "Account ID": "a074c7fc-71ba-4f6f-9d1d-08cc0ebf01c8",
       "Salesforce Opportunity ID": "006PH00000qYdH7YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "52f71b1bz4143z3678z9ceaz1a55797e1034",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-08-02",
-      "Account ID": "9f2912de-6e9e-42f2-b333-1971a9bbfec1",
-      "Salesforce Opportunity ID": "006PH00000qGGxJYAW",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -639,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-01T10:51:12.781Z",
-  "total": 29,
+  "fetched_at": "2026-09-02T10:51:09.872Z",
+  "total": 27,
   "im_name": "Alison Mowry"
 }
