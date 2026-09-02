@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-08-30",
@@ -947,28 +947,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "0be97189zcf9fz3597z894bzfa499131c6d3",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Kendra Igoe",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "415a4b96-145d-4999-a9e9-4688bc3b6a9f",
-      "Salesforce Opportunity ID": "006PH00000orlbtYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "72e06d4bzf1e0z3924z9b9dz832db7dc810d",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -1101,7 +1079,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-01T10:51:12.781Z",
-  "total": 50,
+  "fetched_at": "2026-09-02T10:51:09.872Z",
+  "total": 49,
   "im_name": "Brendan Leung"
 }
