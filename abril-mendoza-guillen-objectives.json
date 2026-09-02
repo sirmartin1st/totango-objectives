@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-08-27",
@@ -337,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -609,7 +609,7 @@
       "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Sarah Tenner",
+      "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-07-30",
       "Account ID": "f1712949-d0ad-4828-b2b2-0540a3573d1a",
       "Salesforce Opportunity ID": "006PH00000p9gPFYAY",
@@ -631,7 +631,7 @@
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Sarah Tenner",
+      "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-07-30",
       "Account ID": "f1712949-d0ad-4828-b2b2-0540a3573d1a",
       "Salesforce Opportunity ID": "006PH00000p9gPFYAY",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-01T10:51:12.781Z",
+  "fetched_at": "2026-09-02T10:51:09.872Z",
   "total": 32,
   "im_name": "Abril Mendoza Guillen"
 }
