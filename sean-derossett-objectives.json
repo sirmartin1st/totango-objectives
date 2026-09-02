@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d3a15e89z25daz3a25z9833z659c3ceb10e8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-09-01",
+      "Account ID": "5d61162d-b5f9-46a6-bbbb-6fb6eb1d72d4",
+      "Salesforce Opportunity ID": "006PH00000rSDTdYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "50764fa7z5f51z3ad0z819bza07fd1926acd",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -139,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -727,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-01T10:51:12.781Z",
-  "total": 33,
+  "fetched_at": "2026-09-02T10:51:09.872Z",
+  "total": 34,
   "im_name": "Sean DeRossett"
 }
