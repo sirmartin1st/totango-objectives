@@ -397,28 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "db880fe1z5c25z3467zaad5z936eaa7cffba",
-      "display_name": null,
-      "Objective Name": "Influencer Discovery & Campaign ROI",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "4. Campaign ROI and Performance Insights Delivered,2. Influencer Assessed & Selection Completed,3. Influencer Management & Activation Fully Operational,1. Influencer Discovery Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Victoria Tessmar",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "3f1f89c7-b533-4929-b232-0b413347aed0",
-      "Salesforce Opportunity ID": "006Rf00000FL43BIAT",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
-    },
-    {
       "objective_id": "0b5e3e71zcb70z39e5zbf1eza326184a85d9",
       "display_name": null,
       "Objective Name": "z (FIP) Data Connections & Integrations",
@@ -529,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-02T10:51:09.872Z",
-  "total": 24,
+  "fetched_at": "2026-09-03T10:51:10.933Z",
+  "total": 23,
   "im_name": "Tanner Schavey"
 }
