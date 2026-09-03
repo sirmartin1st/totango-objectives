@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "46c21b76z8b10z3b83z894az949b54242d36",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Miranda Mart",
+      "Objective Created Date": "2026-09-02",
+      "Account ID": "b684e79c-644b-4949-b131-84b7e9adb315",
+      "Salesforce Opportunity ID": "006PH00000o0b9FYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "20a405c9z38f1z340fzb876z0315744d8605",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -337,13 +359,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Andre Fiechter",
       "Objective Created Date": "2026-08-19",
@@ -705,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-02T10:51:09.872Z",
-  "total": 32,
+  "fetched_at": "2026-09-03T10:51:10.933Z",
+  "total": 33,
   "im_name": "Abril Mendoza Guillen"
 }
