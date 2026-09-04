@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "665914d9z42d1z3e55za53azdff831285555",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-09-03",
+      "Account ID": "8d53a599-f0a1-49c9-8f0f-4a5843eece12",
+      "Salesforce Opportunity ID": "006PH00000oM4zRYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "88082247z01a5z330czadadzc59ac39fa91f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-09-03",
+      "Account ID": "8d53a599-f0a1-49c9-8f0f-4a5843eece12",
+      "Salesforce Opportunity ID": "006PH00000oM4zRYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b4114871z6f86z3f35z8610zaf8342e67c36",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-09-03",
+      "Account ID": "8d53a599-f0a1-49c9-8f0f-4a5843eece12",
+      "Salesforce Opportunity ID": "006PH00000oM4zRYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "c60b430ezd5adz3f18za84fz0f236cf3f3a4",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -95,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -409,7 +475,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-08-18",
@@ -617,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-03T10:51:10.933Z",
-  "total": 28,
+  "fetched_at": "2026-09-04T10:51:16.810Z",
+  "total": 31,
   "im_name": "Maria Tavares"
 }
