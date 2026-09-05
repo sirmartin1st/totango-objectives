@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "9599270bz6a5az3104z91ebz9a6f5d39d36d",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 7,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-09-04",
+      "Account ID": "15156e23-56ee-4737-a222-e5c8556c3a62",
+      "Salesforce Opportunity ID": "006PH00000mcCfdYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6dc19fbez1fcdz356dz8f23z7499a8007f27",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-09-03",
@@ -617,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-04T10:51:16.810Z",
-  "total": 28,
+  "fetched_at": "2026-09-05T10:51:14.601Z",
+  "total": 29,
   "im_name": "Alison Mowry"
 }
