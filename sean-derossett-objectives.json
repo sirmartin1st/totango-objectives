@@ -485,28 +485,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6ee1bc29z4ed0z3307z8325z6d5e5b6a51e2",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "7c560a4dz7bd3z39fez8080z94bf18c8e369",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -526,138 +504,6 @@
       "Account ID": "27d1f61e-2f8a-4d8d-bd7d-4fcddd54cf1e",
       "Salesforce Opportunity ID": "006PH00000nMlIbYAK",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "95f7713azabf9z3560z993fz4adb901e4b50",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b126cad2z2af4z32c1zaeefz5f392f9b34c8",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "cd625b0az63a2z3ebez9229z70059d3d6b95",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d72b5e69ze102z3055z8017z15ac64beee41",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e83bbc56z3359z33f1zb1d7z7991d036747b",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ellen Silva",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "98895590-94ed-4dcd-8ece-bc71c94c64bf",
-      "Salesforce Opportunity ID": "006PH00000oa5Z3YAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "02ad92cfz0781z3aadzac03zefbde6e523b1",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 54.545456,
-        "number_of_linked_milestones": 11,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 54.545456,
-      "Milestone Names": "MI IG Setup New,,MI FB Setup New,Mira Studio Usage,1. Brand Search Foundation Defined ,Test,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "b81343d8-6c1d-4323-9cdc-fa92cf268f16",
-      "Salesforce Opportunity ID": "006PH00000ovsBlYAI",
-      "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -701,50 +547,6 @@
       "Objective Created Date": "2026-07-28",
       "Account ID": "e38cacfd-bbc2-4909-9111-cbce8d2b7eb8",
       "Salesforce Opportunity ID": "006PH00000m9swnYAA",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "89c5684dz1d9az3385zb50dzb586fec7b7ef",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "b81343d8-6c1d-4323-9cdc-fa92cf268f16",
-      "Salesforce Opportunity ID": "006PH00000ovsBlYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d193e2c3z8568z3a29za614zce300b42035d",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",1. Content Curation Defined,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "b81343d8-6c1d-4323-9cdc-fa92cf268f16",
-      "Salesforce Opportunity ID": "006PH00000ovsBlYAI",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
     },
@@ -837,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-04T10:51:16.810Z",
-  "total": 38,
+  "fetched_at": "2026-09-05T10:51:14.601Z",
+  "total": 29,
   "im_name": "Sean DeRossett"
 }
