@@ -1,17 +1,39 @@
 {
   "objectives": [
     {
-      "objective_id": "9599270bz6a5az3104z91ebz9a6f5d39d36d",
+      "objective_id": "76d90edaz2572z39c5z9989z39054ae5d9de",
       "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Name": "(Onboarding) Content Distribution",
       "Objective Status": "1",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 7,
+        "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 7,
+        "number_of_linked_milestones": 3,
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Will Swift",
+      "Objective Created Date": "2026-09-06",
+      "Account ID": "2b646013-b2d2-4a9a-a5a5-155f9c214c0a",
+      "Salesforce Opportunity ID": "006PH00000nay33YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9599270bz6a5az3104z91ebz9a6f5d39d36d",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 6,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -160,14 +182,14 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "1",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 0,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,,MI Created Searches",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-01",
@@ -189,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-01",
@@ -639,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-06T10:51:14.567Z",
-  "total": 29,
+  "fetched_at": "2026-09-07T10:51:10.536Z",
+  "total": 30,
   "im_name": "Alison Mowry"
 }
