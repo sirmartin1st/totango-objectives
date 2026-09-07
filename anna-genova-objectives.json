@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-01",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-08-31",
@@ -205,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 25,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "2. Target Audience Assessed & Activated,1. Content Curation Defined,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -689,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1101,7 +1101,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-06T10:51:14.567Z",
+  "fetched_at": "2026-09-07T10:51:10.536Z",
   "total": 50,
   "im_name": "Anna Genova"
 }
