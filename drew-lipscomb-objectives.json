@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "MI Daily Digest Sent,MI Created Dashboards,Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-03",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-03",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-02",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-07T10:51:10.536Z",
+  "fetched_at": "2026-09-08T10:51:14.530Z",
   "total": 32,
   "im_name": "Drew Lipscomb"
 }
