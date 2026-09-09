@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "095f2406z2b91z3bf2z8bc8zf17e8651d33e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-08",
+      "Account ID": "4e4d59c5-a5f2-4535-a424-1b1124b8ed95",
+      "Salesforce Opportunity ID": "006PH00000r7acvYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0de5ce2cz6625z3d0eza475z8e50d07cf36a",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -623,11 +645,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -727,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-08T10:51:14.530Z",
-  "total": 33,
+  "fetched_at": "2026-09-09T10:51:11.090Z",
+  "total": 34,
   "im_name": "Maria Tavares"
 }
