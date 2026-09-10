@@ -1,0 +1,95 @@
+{
+  "objectives": [
+    {
+      "objective_id": "0905175fzad0az39cfzab1cz3af97c54c098",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": "Cynthia Tian",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "ecbd29cd-19f6-4707-8d8d-be55440f2f6c",
+      "Salesforce Opportunity ID": "006Rf00000XIZifIAH",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5f075c15z7870z3b96zbee9zc9a7dbc71bb3",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "2f540bf2-7871-44f4-9f5f-c2eefbec3875",
+      "Salesforce Opportunity ID": "006PH00000hpa2HYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7df07b93z91a9z3779za0e3zaa63aaa556ba",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "6c2a62a0-befe-4707-b030-b13b94482aaa",
+      "Salesforce Opportunity ID": "006PH00000opOBbYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d30857bdzd0ddz3714z91b0z1d44211fb87e",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "6c2a62a0-befe-4707-b030-b13b94482aaa",
+      "Salesforce Opportunity ID": "006PH00000opOBbYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 4,
+  "im_name": "Shen Haig"
+}
