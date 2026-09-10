@@ -1,0 +1,51 @@
+{
+  "objectives": [
+    {
+      "objective_id": "7c265c25z701fz3649za980z6f90540a966c",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "J Mui",
+      "CSM Owner": "Chloe Zhu",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "656c5729-7fc2-4d2d-8707-ed25269c021b",
+      "Salesforce Opportunity ID": "006PH00000kfRjJYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e444aaf8z7f50z3d97z8d9ezdc5bad71b45b",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "J Mui",
+      "CSM Owner": "Chloe Zhu",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "656c5729-7fc2-4d2d-8707-ed25269c021b",
+      "Salesforce Opportunity ID": "006PH00000kfRjJYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 2,
+  "im_name": "J Mui"
+}
