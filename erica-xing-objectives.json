@@ -1,0 +1,117 @@
+{
+  "objectives": [
+    {
+      "objective_id": "204e7e27z03daz3d39z846dzfe1afd8d03a9",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 88.888885,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 8
+      },
+      "Pct Milestones Completed": 88.888885,
+      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-08-20",
+      "Account ID": "5261e333-1cef-4bfb-a3e3-576e7ede7a3f",
+      "Salesforce Opportunity ID": "006PH00000op02oYAA",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f57ccfbfz364dz3a79z872bz7a760aa4093e",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 80,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 8
+      },
+      "Pct Milestones Completed": 80,
+      "Milestone Names": "MI FB Setup New,Mira Studio Usage,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-08-20",
+      "Account ID": "5261e333-1cef-4bfb-a3e3-576e7ede7a3f",
+      "Salesforce Opportunity ID": "006PH00000op02oYAA",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "23461d68zb550z3860za04dzf15a8bb157fe",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 88.888885,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 8
+      },
+      "Pct Milestones Completed": 88.888885,
+      "Milestone Names": "MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-07-27",
+      "Account ID": "b1b2e795-3182-4eee-aaaa-bddb36f5aff1",
+      "Salesforce Opportunity ID": "006PH00000oZ47BYAS",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9506d7d0z281bz36b1zbc5dz42b01753faf8",
+      "display_name": null,
+      "Objective Name": "(FIP) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-07-27",
+      "Account ID": "b1b2e795-3182-4eee-aaaa-bddb36f5aff1",
+      "Salesforce Opportunity ID": "006PH00000oZ47BYAS",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ab7b655ez4670z3ce9za581z273ed23f4b6f",
+      "display_name": null,
+      "Objective Name": "(FIP) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-07-27",
+      "Account ID": "b1b2e795-3182-4eee-aaaa-bddb36f5aff1",
+      "Salesforce Opportunity ID": "006PH00000oZ47BYAS",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 5,
+  "im_name": "Erica Xing"
+}
