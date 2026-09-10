@@ -1,0 +1,139 @@
+{
+  "objectives": [
+    {
+      "objective_id": "48959f7ezbf1cz3c14z84e3z2b69f64082f8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Patricia Victoria",
+      "Objective Created Date": "2026-09-02",
+      "Account ID": "4574801e-7419-4949-9757-d834bab4b4c9",
+      "Salesforce Opportunity ID": "006PH00000sZfnbYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "aaecc5dfza19fz3e4cz89d9zd0eddceda3b5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Jannelle Leong",
+      "Objective Created Date": "2026-09-02",
+      "Account ID": "577e8644-2931-49c9-91d1-1ef6d11bb38d",
+      "Salesforce Opportunity ID": "006PH00000o7SCVYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ec7f1698z0f20z30c9z86d8z22ea1b7633df",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Jannelle Leong",
+      "Objective Created Date": "2026-09-02",
+      "Account ID": "577e8644-2931-49c9-91d1-1ef6d11bb38d",
+      "Salesforce Opportunity ID": "006PH00000o7SCVYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ceb4d8c1z7084z33e5za4d1z880efbfe1d9f",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 40,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 40,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Fiona Gu",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "a370e116-0e39-4aba-a3a3-9bc86674b7c3",
+      "Salesforce Opportunity ID": "006PH00000m0QoXYAU",
+      "Objective Created By": "evan.zhao@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "95a1f4adz03ecz3e9ezaa8fz7de8351bb3df",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 77.77778,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 7
+      },
+      "Pct Milestones Completed": 77.77778,
+      "Milestone Names": ",MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Fiona Gu",
+      "Objective Created Date": "2026-08-26",
+      "Account ID": "a370e116-0e39-4aba-a3a3-9bc86674b7c3",
+      "Salesforce Opportunity ID": "006PH00000m0QoXYAU",
+      "Objective Created By": "evan.zhao@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b9e8a4efze602z3787z9870z08a083124f30",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 85.71429,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 85.71429,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Stella Zhang",
+      "Objective Created Date": "2026-08-26",
+      "Account ID": "c7bcb84c-2e2d-4909-b4f4-98e6e8455ad4",
+      "Salesforce Opportunity ID": "006PH00000q2gjZYAQ",
+      "Objective Created By": "evan.zhao@meltwater.com",
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 6,
+  "im_name": "Evan Zhao"
+}
