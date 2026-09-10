@@ -1,0 +1,205 @@
+{
+  "objectives": [
+    {
+      "objective_id": "06d77629zd988z3993zb77cz68db345753cb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Kozue Irei",
+      "Objective Created Date": "2026-09-03",
+      "Account ID": "5b81f0d4-3d53-4171-81c1-6f8839a93d8b",
+      "Salesforce Opportunity ID": "006PH00000kjb2XYAQ",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "746a8721z3ebaz314ezb9bczabc5c539be31",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Kozue Irei",
+      "Objective Created Date": "2026-09-03",
+      "Account ID": "5b81f0d4-3d53-4171-81c1-6f8839a93d8b",
+      "Salesforce Opportunity ID": "006PH00000kjb2XYAQ",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "30c23afezc1b0z331bza492zd401cd9fde7c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Enika Liu",
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "9418ed4a-5af5-4b6b-bfbf-f7a15b09bbf4",
+      "Salesforce Opportunity ID": "006PH00000oBGawYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "1f42c68dz3959z37bbz89a5z694c2e564742",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Enika Liu",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "9418ed4a-5af5-4b6b-bfbf-f7a15b09bbf4",
+      "Salesforce Opportunity ID": "006PH00000oBGawYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3c719a69z9fd1z3a3az8465zb222bc6b1d7c",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shoko Enomoto",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
+      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c51554d3zee8fz32adzb922zb3b3ab669579",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shoko Enomoto",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
+      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3f5cbb03z32ddz3238z8647z406e2e058cf2",
+      "display_name": null,
+      "Objective Name": "(FIP) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 2,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shoko Enomoto",
+      "Objective Created Date": "2026-08-06",
+      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
+      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "426a7d04z2355z3d42za2bdzf520438e2c74",
+      "display_name": null,
+      "Objective Name": "(FIP) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 10,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Enika Liu",
+      "Objective Created Date": "2026-08-03",
+      "Account ID": "9418ed4a-5af5-4b6b-bfbf-f7a15b09bbf4",
+      "Salesforce Opportunity ID": "006PH00000oBGawYAG",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c21ad212z7a06z3f91za12aza435f7582e4c",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Enika Liu",
+      "Objective Created Date": "2026-08-03",
+      "Account ID": "9418ed4a-5af5-4b6b-bfbf-f7a15b09bbf4",
+      "Salesforce Opportunity ID": "006PH00000oBGawYAG",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 9,
+  "im_name": "Aimi Hatayama"
+}
