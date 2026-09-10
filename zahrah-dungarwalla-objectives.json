@@ -1,7 +1,161 @@
 {
   "objectives": [
     {
-      "objective_id": "a5c6105bz2133z3461za876z5a67fab16ade",
+      "objective_id": "0c18dc4bzf45ez3621zaa2dz1db08d88fe18",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "David Spelbos",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d76be123-d2a5-4010-9717-6e4c19d56aff",
+      "Salesforce Opportunity ID": "006PH00000kD5XIYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3f1b820bz118ez3991zbcc8z3f9418c216f0",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Lauren Hales",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "32570195-1536-4f2f-b6b6-2acf94536e17",
+      "Salesforce Opportunity ID": "006PH00000ohYMbYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "532c0470z152cz3e21zacc4z63b076add7fe",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Katherin Duque",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "aaae23f4-7ddf-4b2b-aa6a-c845e91874bd",
+      "Salesforce Opportunity ID": "006PH00000hTz8zYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6cb9c6e3z727cz3577za26ez391115a5880c",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 25,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 25,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Niyireth Aponte Sandoval",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "b1b52141-5202-4cfc-b939-766e63809dba",
+      "Salesforce Opportunity ID": "006PH00000kfZ7OYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "703c7e94z353az3b6azb55bzb8f22c7829cb",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "David Spelbos",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d76be123-d2a5-4010-9717-6e4c19d56aff",
+      "Salesforce Opportunity ID": "006PH00000kD5XIYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "950cdee0zda7az3ecdzb612z58e16f3f5f93",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "660f6a55-029d-4585-97d7-51d07a59cd40",
+      "Salesforce Opportunity ID": "006PH00000lFM3aYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c3a52bf8z7817z3d43z8e50z86df28982e6c",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,,,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "David Spelbos",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d76be123-d2a5-4010-9717-6e4c19d56aff",
+      "Salesforce Opportunity ID": "006PH00000kD5XIYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f59b273ez411bz3a6fz938dz978962bc3a08",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
       "Objective Status": "1",
@@ -12,18 +166,18 @@
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
+      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Zahrah Dungarwalla",
-      "CSM Owner": "Tayler McElvain",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "3193ca6e-140e-4efe-a323-f9a2d69e44fe",
-      "Salesforce Opportunity ID": "006PH00000j2Oh4YAE",
+      "CSM Owner": "Malin Jiremark",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "638161d4-6c2f-4ccc-a424-c4713a49b14d",
+      "Salesforce Opportunity ID": "006PH00000k9Mq1YAE",
       "Objective Created By": null,
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-08-08T10:51:09.435Z",
-  "total": 1,
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 8,
   "im_name": "Zahrah Dungarwalla"
 }
