@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "4689d008za954z3d4bzaa04z8481536a9bde",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-09-09",
+      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
+      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "705538cfzffccz30a0zaa80z4dd77e2380f1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-09-09",
+      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
+      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "14fe683fz79dbz343az8062zbe77920a1344",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -705,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-09T10:51:11.090Z",
-  "total": 32,
+  "fetched_at": "2026-09-10T10:51:09.179Z",
+  "total": 34,
   "im_name": "Abril Mendoza Guillen"
 }
