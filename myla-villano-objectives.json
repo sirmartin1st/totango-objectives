@@ -1,0 +1,95 @@
+{
+  "objectives": [
+    {
+      "objective_id": "249e727fz833cz33bfza547z85ce5a8b9e1e",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Myla Villano",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "a5a414ed-04d5-4393-9757-c6598f022268",
+      "Salesforce Opportunity ID": "006PH00000oortyYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "58dc0e2fz6b78z3f26zb842za79e29565b87",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Myla Villano",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "c46a38a0-8201-4111-a767-5ccac2ffb061",
+      "Salesforce Opportunity ID": "006PH00000kyXEjYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8dcae4e9z9938z3b06z8c6fz1e2ee9e133d5",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Myla Villano",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "c46a38a0-8201-4111-a767-5ccac2ffb061",
+      "Salesforce Opportunity ID": "006PH00000kyXEjYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "abd4e511zaf13z3a54z9737z755cd9b8ea4d",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Myla Villano",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "9868818a-1182-4eee-9393-da3245198305",
+      "Salesforce Opportunity ID": "006PH00000op57JYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 4,
+  "im_name": "Myla Villano"
+}
