@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "c592ca4azdf0bz30e0zb88az6c919d3d642a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 88.888885,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 8
+      },
+      "Pct Milestones Completed": 88.888885,
+      "Milestone Names": ",,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Alyson Harrington",
+      "Objective Created Date": "2026-09-09",
+      "Account ID": "ca7268b0-a668-4d8d-9515-26bf9c54213d",
+      "Salesforce Opportunity ID": "006PH00000s2Fa9YAE",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e140f632zac50z3bf2z81f9z4eb8b2858c98",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 88.888885,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 8
+      },
+      "Pct Milestones Completed": 88.888885,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Alyson Harrington",
+      "Objective Created Date": "2026-09-09",
+      "Account ID": "ca7268b0-a668-4d8d-9515-26bf9c54213d",
+      "Salesforce Opportunity ID": "006PH00000s2Fa9YAE",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3337a8cfz96dez33c2z9533z277247b75baa",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -639,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-09T10:51:11.090Z",
-  "total": 29,
+  "fetched_at": "2026-09-10T10:51:09.179Z",
+  "total": 31,
   "im_name": "Sean DeRossett"
 }
