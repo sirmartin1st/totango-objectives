@@ -1,0 +1,95 @@
+{
+  "objectives": [
+    {
+      "objective_id": "8ce33cdaz1141z3083zaf91zad214c34290a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-31",
+      "Account ID": "8334c886-33f1-41b1-bb7b-ab5bdd091512",
+      "Salesforce Opportunity ID": "006PH00000ndweDYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "366f0242zdb9cz3257z953fz1e1e3feeace5",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": "Cynthia Tian",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "157999f0-c8e5-4313-bc7c-278e187143b3",
+      "Salesforce Opportunity ID": "006PH00000nDSdOYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9ee73b13z7710z344cz8ae0zf1b0b81ff40c",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d83c4056-407f-4474-ab2b-982ece967571",
+      "Salesforce Opportunity ID": "006PH00000jkjcvYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ea4f9ef1z53f7z3cd8z9bb1z49c68cd4ae63",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d83c4056-407f-4474-ab2b-982ece967571",
+      "Salesforce Opportunity ID": "006PH00000jkjcvYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 4,
+  "im_name": "Sherries Enriquez"
+}
