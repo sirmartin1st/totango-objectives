@@ -1,0 +1,95 @@
+{
+  "objectives": [
+    {
+      "objective_id": "05702a5fz4b2fz305fz9885za2e8864b7986",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "dfa12ad0-e070-4000-9292-01bc27d8f862",
+      "Salesforce Opportunity ID": "006PH00000p8RyXYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "079682b8zb470z3045za91ezbbdb5f6de469",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "e7de875c-f0f7-4c6c-be7e-b1f3fe453752",
+      "Salesforce Opportunity ID": "006PH00000p5cVVYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7155b532zaea3z3a34z9351zb78fcd1e83b7",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "e805ffb5-0555-43b3-85c5-61a5a39c941f",
+      "Salesforce Opportunity ID": "006PH00000pWHTNYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bea922cbz78b2z3be6za84azd711b1333e10",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "e7de875c-f0f7-4c6c-be7e-b1f3fe453752",
+      "Salesforce Opportunity ID": "006PH00000p5cVVYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 4,
+  "im_name": "Kyle Appolis"
+}
