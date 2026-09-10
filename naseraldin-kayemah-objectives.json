@@ -1,0 +1,29 @@
+{
+  "objectives": [
+    {
+      "objective_id": "2c1cc056zcf3dz3f96z8062zcea4bcaac48e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Maria Hakim",
+      "Objective Created Date": "2026-09-06",
+      "Account ID": "64f316f9-6a6f-4242-8d0d-9296c9214f9f",
+      "Salesforce Opportunity ID": "006PH00000rwhakYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "total": 1,
+  "im_name": "Naseraldin Kayemah"
+}
