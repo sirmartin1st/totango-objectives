@@ -453,7 +453,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Connor Love",
       "Objective Created Date": "2026-08-27",
@@ -827,7 +827,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Connor Love",
       "Objective Created Date": "2026-08-19",
@@ -1025,7 +1025,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Connor Love",
       "Objective Created Date": "2026-07-30",
@@ -1101,7 +1101,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-10T10:51:09.179Z",
+  "fetched_at": "2026-09-10T14:17:30.228Z",
   "total": 50,
   "im_name": "Albert Bright"
 }
