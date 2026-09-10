@@ -6,7 +6,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "1",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 0,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 0
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-04",
@@ -160,7 +160,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
+        "number_of_overdue_milestones": 5,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -336,7 +336,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
+        "number_of_overdue_milestones": 5,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -371,50 +371,6 @@
       "Objective Created Date": "2026-08-17",
       "Account ID": "69efe658-2359-4a5a-9c1c-3269df21d350",
       "Salesforce Opportunity ID": "006PH00000qRJ8fYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "24426398ze4aez3b3bzb3eez9fc1b70f4e7b",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-08-10",
-      "Account ID": "8af768db-e1cd-4606-b333-74b948b02fef",
-      "Salesforce Opportunity ID": "006PH00000r009ZYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "28521a19z1e21z3b68zbc2fz316932bbf4a2",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-08-10",
-      "Account ID": "8af768db-e1cd-4606-b333-74b948b02fef",
-      "Salesforce Opportunity ID": "006PH00000r009ZYAQ",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -617,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-09T10:51:11.090Z",
-  "total": 28,
+  "fetched_at": "2026-09-10T10:51:09.179Z",
+  "total": 26,
   "im_name": "Alison Mowry"
 }
