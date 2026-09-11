@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "04a2c192z1badz3c41za13azd3f8f1d6d849",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-10",
+      "Account ID": "ca257b63-410e-44f4-bbfb-ab93845093ac",
+      "Salesforce Opportunity ID": "006PH00000rZebxYAC",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4689d008za954z3d4bzaa04z8481536a9bde",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -183,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -195,7 +217,7 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "eb221b5e-df1e-4313-9454-f8b73486dfbd",
       "Salesforce Opportunity ID": "006PH00000s93ahYAA",
-      "Objective Created By": null,
+      "Objective Created By": "abril.mendoza@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -293,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -513,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -579,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -749,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-10T14:17:30.228Z",
-  "total": 34,
+  "fetched_at": "2026-09-11T10:51:12.684Z",
+  "total": 35,
   "im_name": "Abril Mendoza Guillen"
 }
