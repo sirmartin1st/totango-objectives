@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -177,39 +177,17 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "976d6e05z0f35z35aazb94az622769baef62",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "f69c1d0d-effe-4787-af2f-a306bc50c839",
-      "Salesforce Opportunity ID": "006PH00000h1caMYAQ",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "c4e82505z61ebz33e8z9867z33222e4c2b37",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
@@ -221,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-10T14:17:30.228Z",
-  "total": 10,
+  "fetched_at": "2026-09-11T10:51:12.684Z",
+  "total": 9,
   "im_name": "Taneil Mindham"
 }
