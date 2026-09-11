@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Searches Completed 90D,,,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Marley Bratman",
       "Objective Created Date": "2026-09-09",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,,HS20 Klear Campaigns Opened 90D,,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Anastasia Severinets",
       "Objective Created Date": "2026-09-09",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Marley Bratman",
       "Objective Created Date": "2026-09-08",
@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -683,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "fetched_at": "2026-09-11T10:51:12.684Z",
   "total": 31,
   "im_name": "Maria Tavares"
 }
