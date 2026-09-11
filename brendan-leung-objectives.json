@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-08-30",
@@ -645,11 +645,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 12.5,
       "Milestone Names": "1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -1035,7 +1035,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "fetched_at": "2026-09-11T10:51:12.684Z",
   "total": 47,
   "im_name": "Brendan Leung"
 }
