@@ -293,13 +293,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 70,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 70,
+      "Pct Milestones Completed": 80,
       "Milestone Names": "1. Brand Search Foundation Defined ,Mira Studio Usage,MI FB Setup New,HS20 Articles Clicked 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,,MI IG Setup New,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": null,
       "Objective Created Date": "2026-07-01",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-10T14:17:30.228Z",
+  "fetched_at": "2026-09-11T10:51:12.684Z",
   "total": 14,
   "im_name": "Alejandra Arismendi"
 }
