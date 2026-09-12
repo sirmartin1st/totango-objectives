@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-08-30",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 12.5,
       "Milestone Names": ",1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Brendan Leung",
@@ -507,28 +507,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "c16157a9z7002z362az8ff3zd42cc873c51f",
-      "display_name": null,
-      "Objective Name": "(FIP) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "0e1abce7-1c2d-4191-aaea-cf24c521fbd3",
-      "Salesforce Opportunity ID": "006PH00000nCnyPYAS",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "80a18d7azb806z3912z9ee1zc0ad3d1643d5",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -592,50 +570,6 @@
       "Account ID": "7fb9f207-8855-4010-a929-2a95c30f91f3",
       "Salesforce Opportunity ID": "006PH00000nCc5JYAS",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "42f3c479zff59z3832z8947zf3dd2b44385c",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 11.111111,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jessie Page",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "92b7c19c-75de-4f5f-8707-f9a17acb597c",
-      "Salesforce Opportunity ID": "006PH00000moQbaYAE",
-      "Objective Created By": "marty.sloane@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "57e49f16z376ez3b8dzb674z17f46998c713",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 10,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 10,
-      "Milestone Names": ",MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jessie Page",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "92b7c19c-75de-4f5f-8707-f9a17acb597c",
-      "Salesforce Opportunity ID": "006PH00000moQbaYAE",
-      "Objective Created By": "marty.sloane@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -881,28 +815,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "03db32c7ze790z3968zb7a1z7c755b247b49",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Jessie Page",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "92b7c19c-75de-4f5f-8707-f9a17acb597c",
-      "Salesforce Opportunity ID": "006PH00000moQbaYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "72e06d4bzf1e0z3924z9b9dz832db7dc810d",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -1035,7 +947,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-11T10:51:12.684Z",
-  "total": 47,
+  "fetched_at": "2026-09-12T10:51:12.640Z",
+  "total": 43,
   "im_name": "Brendan Leung"
 }
