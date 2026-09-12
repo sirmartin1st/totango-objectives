@@ -117,11 +117,11 @@
       "Objective Status": "6",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -485,50 +485,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "23bca5bcz5b77z3a02z99daza2c7257baa5b",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",,1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Bryan Bartolome",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "951c216e-f976-4f9f-9b9b-069519025ab1",
-      "Salesforce Opportunity ID": "006PH00000qBnU6YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5348e467z6196z3a08zbfd0z5da7af004379",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Bryan Bartolome",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "951c216e-f976-4f9f-9b9b-069519025ab1",
-      "Salesforce Opportunity ID": "006PH00000qBnU6YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "7c560a4dz7bd3z39fez8080z94bf18c8e369",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -601,11 +557,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -639,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-11T10:51:12.684Z",
-  "total": 29,
+  "fetched_at": "2026-09-12T10:51:12.640Z",
+  "total": 27,
   "im_name": "Sean DeRossett"
 }
