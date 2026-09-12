@@ -667,11 +667,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -689,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -711,11 +711,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -755,11 +755,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,1. Market & Industry Search Foundation Defined,MI FB Setup New,,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -1013,7 +1013,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-11T10:51:12.684Z",
+  "fetched_at": "2026-09-12T10:51:12.640Z",
   "total": 46,
   "im_name": "Sabhari Bala"
 }
