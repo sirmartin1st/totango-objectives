@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "3e475dafza961z3a28z90fbzc39f3d46e431",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 28.571428,
-      "Milestone Names": ",Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Jannelle Leong",
-      "CSM Owner": "Jannelle Leong",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "08c89fe9-2340-4333-a626-a2d882663275",
-      "Salesforce Opportunity ID": "006PH00000kRiqTYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "77747ee3z6958z30a8zbb3fzcb78c4735c35",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -353,7 +331,7 @@
       "Objective Description": "Trend analysis: eg: anti-American sentiment,Earnings coverage"
     }
   ],
-  "fetched_at": "2026-09-11T10:51:12.684Z",
-  "total": 16,
+  "fetched_at": "2026-09-12T10:51:12.640Z",
+  "total": 15,
   "im_name": "Jannelle Leong"
 }
