@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-09",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-09",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-09",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Haruka Matsuzaki",
       "Objective Created Date": "2026-08-31",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Haruka Matsuzaki",
       "Objective Created Date": "2026-08-31",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-11T10:51:12.684Z",
+  "fetched_at": "2026-09-12T10:51:12.640Z",
   "total": 14,
   "im_name": "Ma Concepcion Zapanta"
 }
