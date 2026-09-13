@@ -227,11 +227,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-12T10:51:12.640Z",
+  "fetched_at": "2026-09-13T10:51:10.180Z",
   "total": 14,
   "im_name": "Ma Concepcion Zapanta"
 }
