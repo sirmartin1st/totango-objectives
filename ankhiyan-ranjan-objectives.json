@@ -419,28 +419,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8fdc0dd4z4363z3801z9288z6aa238818b27",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Yashasvi Tandon",
-      "Objective Created Date": "2026-07-12",
-      "Account ID": "ca62513e-915e-4e6e-8585-9b38d008a010",
-      "Salesforce Opportunity ID": "006PH00000oBaOLYA0",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "05f72494z8495z3826z9864zfb0ffbe756d0",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
@@ -507,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 23,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 22,
   "im_name": "Ankhiyan Ranjan"
 }
