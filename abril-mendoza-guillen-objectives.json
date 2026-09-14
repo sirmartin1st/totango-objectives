@@ -199,28 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "20a405c9z38f1z340fzb876z0315744d8605",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Isabella Conti",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8cfabe6f-69ce-49a9-bcbc-9a1f56da243c",
-      "Salesforce Opportunity ID": "006PH00000l8K1hYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "237d6054z0f4fz36aezb413z965dd242de53",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -239,50 +217,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "b0f8411b-755f-4282-83c3-15f41a91dec1",
       "Salesforce Opportunity ID": "006PH00000nw98LYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "35526607z4f24z3232z9b18zabf6f0781753",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "eb221b5e-df1e-4313-9454-f8b73486dfbd",
-      "Salesforce Opportunity ID": "006PH00000s93ahYAA",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9d7ef056z7d54z3bb3z8effzeffee5be9094",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Isabella Conti",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8cfabe6f-69ce-49a9-bcbc-9a1f56da243c",
-      "Salesforce Opportunity ID": "006PH00000l8K1hYAE",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -350,28 +284,6 @@
       "Account ID": "f80eb452-64da-40a0-ad2d-b057da6aadca",
       "Salesforce Opportunity ID": "006PH00000oayYlYAI",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "34dbbbe6z48dcz39b6zb6d8z0a7a64cfc3d7",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-08-19",
-      "Account ID": "eb221b5e-df1e-4313-9454-f8b73486dfbd",
-      "Salesforce Opportunity ID": "006PH00000s93ahYAA",
-      "Objective Created By": "abril.mendoza@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -507,28 +419,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "a1d65b78z6017z3029z803cz8b34f683f611",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Mike Mauldin",
-      "Objective Created Date": "2026-08-19",
-      "Account ID": "69225ce2-73e7-4b3b-8949-7e6be6ada7b6",
-      "Salesforce Opportunity ID": "0065f00000IstudAAB",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a61d04ebz9034z35dazb8a2z9d2e8871fdd8",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -617,28 +507,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "d112a323z1846z3025z8579z3b384ceb9faa",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Isabella Conti",
-      "Objective Created Date": "2026-08-19",
-      "Account ID": "8cfabe6f-69ce-49a9-bcbc-9a1f56da243c",
-      "Salesforce Opportunity ID": "006PH00000l8K1hYAE",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "f952e17ez827fz34fdzbc1ez90c63900f506",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -657,50 +525,6 @@
       "Objective Created Date": "2026-08-19",
       "Account ID": "52eb58c9-51ec-4353-a525-48a33908911a",
       "Salesforce Opportunity ID": "006PH00000nRDWPYA4",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b610d438zbc3ez398dza06czd31c533459bf",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Ryan Dotter",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "f1712949-d0ad-4828-b2b2-0540a3573d1a",
-      "Salesforce Opportunity ID": "006PH00000p9gPFYAY",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "bb3d4491z6e4ez38fcz9ba4z388d7815f0de",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Ryan Dotter",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "f1712949-d0ad-4828-b2b2-0540a3573d1a",
-      "Salesforce Opportunity ID": "006PH00000p9gPFYAY",
       "Objective Created By": "abril.mendoza@meltwater.com",
       "Objective Description": ""
     },
@@ -771,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 35,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 27,
   "im_name": "Abril Mendoza Guillen"
 }
