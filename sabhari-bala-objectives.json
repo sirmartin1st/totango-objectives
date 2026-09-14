@@ -403,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -425,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,Mira Studio Usage,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -447,11 +447,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -491,11 +491,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -727,28 +727,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3e997e6dz010fz3892z98d4z5eeb45683ce7",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational,1. Market & Industry Search Foundation Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Gabby Mason",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "12fa7a3e-4dd4-4ded-9a5a-a36e62bf9f94",
-      "Salesforce Opportunity ID": "006PH00000g5X4pYAE",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "61fc3beaz4ee6z3723zb5b6zcb42bf14e642",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
@@ -767,94 +745,6 @@
       "Objective Created Date": "2026-08-26",
       "Account ID": "cd625dbe-6420-40e0-8bcb-966e7d2e8424",
       "Salesforce Opportunity ID": "006PH00000gZ5B7YAK",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "aa2488acz57a2z3b9czbeb3z7d083a38357c",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Gabby Mason",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "12fa7a3e-4dd4-4ded-9a5a-a36e62bf9f94",
-      "Salesforce Opportunity ID": "006PH00000g5X4pYAE",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "bb6c34d3z87aaz39cbz8408z94f5103567ec",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Gabby Mason",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "12fa7a3e-4dd4-4ded-9a5a-a36e62bf9f94",
-      "Salesforce Opportunity ID": "006PH00000g5X4pYAE",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c00ada64z8ab2z33d4z8adfz35c82233a10b",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",,HS20 Searches Completed 90D,3. Executive Insight Narrative Developed,2. Market & Competitive Context Added,1. Executive Dashboard & Alerts Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Gabby Mason",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "12fa7a3e-4dd4-4ded-9a5a-a36e62bf9f94",
-      "Salesforce Opportunity ID": "006PH00000g5X4pYAE",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e294c679z0cdez3b30za0c8z56883e02b580",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 80,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 80,
-      "Milestone Names": "MI FB Setup New,Mira Studio Usage,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Gabby Mason",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "12fa7a3e-4dd4-4ded-9a5a-a36e62bf9f94",
-      "Salesforce Opportunity ID": "006PH00000g5X4pYAE",
       "Objective Created By": "sabhari.bala@meltwater.com",
       "Objective Description": ""
     },
@@ -1013,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 46,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 41,
   "im_name": "Sabhari Bala"
 }
