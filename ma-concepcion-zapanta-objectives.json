@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "5117c5a3z2c0dz35aez9772z7c497b2f7b1f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "d7762efa-1fa5-4040-bd7d-fb4a4706dd20",
+      "Salesforce Opportunity ID": "006PH00000qkyBLYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bc11692dz18fcz3274z81a6z87dd5e54cbc0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "d7762efa-1fa5-4040-bd7d-fb4a4706dd20",
+      "Salesforce Opportunity ID": "006PH00000qkyBLYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "552cc6aazc7e5z3266zb847z292eda15d03a",
       "display_name": null,
       "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
@@ -309,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 14,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 16,
   "im_name": "Ma Concepcion Zapanta"
 }
