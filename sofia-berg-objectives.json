@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0fa35f16zad69z3cbez982bz4bcf3d6e783e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Lorant Herczeg",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "d892a768-a5a5-4b3b-9d5d-90466427a8ea",
+      "Salesforce Opportunity ID": "006PH00000qYW9BYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "40f0279fz6d4az3bffz9274z68a28fe99ced",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Lorant Herczeg",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "d892a768-a5a5-4b3b-9d5d-90466427a8ea",
+      "Salesforce Opportunity ID": "006PH00000qYW9BYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "604b1c45z52cez33a9z9d6fz2a0ac83da9a3",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -63,28 +107,6 @@
       "Objective Created Date": "2026-08-31",
       "Account ID": "da8a3791-ff51-45e5-af2f-f868b38be7c8",
       "Salesforce Opportunity ID": "006PH00000oW257YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5b3b0050z4dfbz354fz8ccczab13aeda0130",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "31c0185c-0bcd-4090-8080-ca20c95a2737",
-      "Salesforce Opportunity ID": "006PH00000mv9hGYAQ",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -177,28 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "a3d694b4zfc8ez37c3zb015zec769662c219",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-20",
-      "Account ID": "31c0185c-0bcd-4090-8080-ca20c95a2737",
-      "Salesforce Opportunity ID": "006PH00000mv9hGYAQ",
-      "Objective Created By": "sofia.aberg@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ba295bdfze7f9z32a4zb3d5z9c1dd0cc05b0",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -243,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
+  "fetched_at": "2026-09-14T10:51:10.842Z",
   "total": 11,
   "im_name": "Sofia ?berg"
 }
