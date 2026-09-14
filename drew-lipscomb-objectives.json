@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "8d5cc10azf9daz3f01z8233z1c199b45a9b7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "352435b5-c580-4aca-9111-c79148a0989d",
+      "Salesforce Opportunity ID": "006PH00000mZMBiYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "c1eceae2zcd50z3c5az8753z2f261ca9f1f5",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-09",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-09",
@@ -73,13 +95,13 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-04",
@@ -299,7 +321,7 @@
       },
       "Pct Milestones Completed": 71.42857,
       "Milestone Names": "Nbr of MI users Active 30d,,MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,users in community",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-01",
@@ -321,7 +343,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-01",
@@ -749,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 34,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 35,
   "im_name": "Drew Lipscomb"
 }
