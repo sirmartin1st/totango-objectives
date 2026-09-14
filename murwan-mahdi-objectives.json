@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "20dd4e5bzf330z377eza6b2zf5ed7f24065a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Nada Alsaad",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "3bee7e21-ef3c-42e2-b8b8-89cde8d22e0b",
+      "Salesforce Opportunity ID": "006PH00000t1yk2YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3791f481z2262z385czbe0azdebf6dcb889e",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -221,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 10,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 11,
   "im_name": "Murwan Mahdi"
 }
