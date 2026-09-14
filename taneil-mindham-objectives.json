@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "e8dcf25bz8f7dz32e3zba7dz795b110d0a06",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Sapna Tej Manglani",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "c1f60b0c-6b58-4313-81c1-b3e8d998f5b8",
+      "Salesforce Opportunity ID": "006PH00000igvoXYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "145828f4zeb5az3bb0zadcfz47fc420a214f",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -199,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 9,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 10,
   "im_name": "Taneil Mindham"
 }
