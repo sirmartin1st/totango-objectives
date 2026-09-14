@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0201b903z9649z3cdcz81cfzba333d249d24",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "6b13afa9-70c1-44b4-b737-428ac864f8a7",
+      "Salesforce Opportunity ID": "006PH00000qF7UfYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4a46dd37z2c1dz32c6zb638z2a9b1a234feb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-09-13",
+      "Account ID": "6b13afa9-70c1-44b4-b737-428ac864f8a7",
+      "Salesforce Opportunity ID": "006PH00000qF7UfYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5e5aa0f3zff7fz3ee0z82afzea51446b8b5f",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Julien Levet-Labry",
       "Objective Created Date": "2026-09-09",
@@ -145,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-01",
@@ -211,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-08-31",
@@ -881,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-13T10:51:10.180Z",
-  "total": 40,
+  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "total": 42,
   "im_name": "Anna Genova"
 }
