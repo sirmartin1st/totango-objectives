@@ -177,28 +177,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "57b08fdez3ec4z3aa7z8dc7z09020640917d",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Maria Hakim",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "bf8c5610-ba02-4727-a3a3-77ec2dbb461b",
-      "Salesforce Opportunity ID": "006PH00000llOlNYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "75829e1czcca2z3ac8za39az35a82adaf850",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -217,28 +195,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "9c76ee6f-e84b-4000-8949-89f004c041ac",
       "Salesforce Opportunity ID": "006PH00000qIBzzYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7b1156b8zba1fz3d75z8f80zbb1bdc287ef9",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Maria Hakim",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "bf8c5610-ba02-4727-a3a3-77ec2dbb461b",
-      "Salesforce Opportunity ID": "006PH00000llOlNYAU",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -321,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Yasmina Khelfellah",
       "CSM Owner": "Nada Alsaad",
       "Objective Created Date": "2026-08-27",
@@ -387,7 +343,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Yasmina Khelfellah",
       "CSM Owner": "Nada Alsaad",
       "Objective Created Date": "2026-08-26",
@@ -441,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
-  "total": 20,
+  "fetched_at": "2026-09-15T10:51:11.014Z",
+  "total": 18,
   "im_name": "Yasmina Khelfellah"
 }
