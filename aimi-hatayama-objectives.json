@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "ef2872a6zc4a5z3e5bzbd56z5b458548bdd7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Kozue Irei",
+      "Objective Created Date": "2026-09-14",
+      "Account ID": "bf5b82fe-853c-4e3e-b878-22b74425d1f6",
+      "Salesforce Opportunity ID": "006PH00000r6gPRYAY",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "06d77629zd988z3993zb77cz68db345753cb",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-09-03",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-09-03",
@@ -199,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
-  "total": 9,
+  "fetched_at": "2026-09-15T10:51:11.014Z",
+  "total": 10,
   "im_name": "Aimi Hatayama"
 }
