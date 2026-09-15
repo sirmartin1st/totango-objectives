@@ -491,11 +491,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -595,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "fetched_at": "2026-09-15T10:51:11.014Z",
   "total": 27,
   "im_name": "Abril Mendoza Guillen"
 }
