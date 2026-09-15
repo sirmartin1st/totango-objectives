@@ -6,7 +6,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-09-03",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-02",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "MI Created Searches,MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-02",
@@ -182,7 +182,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "1",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 4,
         "percentage_of_completed_milestones": 0,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 0
@@ -279,7 +279,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Alison Mowry",
-      "CSM Owner": null,
+      "CSM Owner": "Connor Love",
       "Objective Created Date": "2026-08-29",
       "Account ID": "4ae1ad2c-331c-4282-bd7d-94f3efca4036",
       "Salesforce Opportunity ID": "006PH00000sGalBYAS",
@@ -299,7 +299,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-17",
@@ -321,7 +321,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-17",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-08-17",
@@ -573,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "fetched_at": "2026-09-15T10:51:11.014Z",
   "total": 26,
   "im_name": "Alison Mowry"
 }
