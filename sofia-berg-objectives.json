@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0d697d80z7884z3c55zb4b3zf96de9a5bcbd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-09-14",
+      "Account ID": "de5f1686-66c9-47e7-9e9e-1e8180430801",
+      "Salesforce Opportunity ID": "006PH00000mbAMYYA2",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0fa35f16zad69z3cbez982bz4bcf3d6e783e",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Lorant Herczeg",
       "Objective Created Date": "2026-09-13",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Lorant Herczeg",
       "Objective Created Date": "2026-09-13",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": null,
       "Objective Created Date": "2026-08-31",
@@ -79,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": null,
       "Objective Created Date": "2026-08-31",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "David Samuelsson",
       "Objective Created Date": "2026-08-31",
@@ -177,28 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6f08a587z9c78z3ddaz9e30z34eb6c06c31d",
-      "display_name": null,
-      "Objective Name": "(FIP) Misinformation & Risk Intelligence",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Misinformation Risk Detection Activated",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Katherin Duque",
-      "Objective Created Date": "2026-08-20",
-      "Account ID": "a214fc0a-e0b4-42e2-a4e4-3f9eeae9a442",
-      "Salesforce Opportunity ID": "006PH00000oJJWnYAO",
-      "Objective Created By": "sofia.aberg@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ba295bdfze7f9z32a4zb3d5z9c1dd0cc05b0",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -243,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "fetched_at": "2026-09-15T10:51:11.014Z",
   "total": 11,
   "im_name": "Sofia ?berg"
 }
