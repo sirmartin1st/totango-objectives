@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "e863e789z9976z3bf2z8ed9ze1087522443d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-09-14",
+      "Account ID": "352435b5-c580-4aca-9111-c79148a0989d",
+      "Salesforce Opportunity ID": "006PH00000mZMBiYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "8d5cc10azf9daz3f01z8233z1c199b45a9b7",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -20,6 +42,28 @@
       "Account ID": "352435b5-c580-4aca-9111-c79148a0989d",
       "Salesforce Opportunity ID": "006PH00000mZMBiYAO",
       "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "990f0c94z16dcz380eza0baz4bd2ab2adade",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": "MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-09-10",
+      "Account ID": "1eb881a8-d47d-4999-9616-2d2c6ba37c71",
+      "Salesforce Opportunity ID": "006PH00000rzCLtYAM",
+      "Objective Created By": "drew.lipscomb@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -73,13 +117,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Nikita Sharma",
       "Objective Created Date": "2026-09-08",
@@ -123,7 +167,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Daily Digest Sent,MI Created Dashboards,Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-03",
@@ -145,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-03",
@@ -167,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-03",
@@ -182,7 +226,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -211,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-03",
@@ -248,14 +292,14 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
+        "number_of_overdue_milestones": 2,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-02",
@@ -639,28 +683,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "7aed55a0z88d4z3962z80d6z278bfaf0193d",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
-        "percentage_of_completed_milestones": 42.857143,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 42.857143,
-      "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-08-13",
-      "Account ID": "aa80a703-15a5-4a7a-a323-3991d6f5ecdd",
-      "Salesforce Opportunity ID": "006PH00000obienYAA",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "6845f2bfzf5d4z3f64zb2c8z13c66508d48d",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -705,50 +727,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1d729f22ze072z3c5aza2c9zf30c11994703",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Catie Farwick",
-      "Objective Created Date": "2026-08-06",
-      "Account ID": "6e1a2349-8ed1-43c3-b0f0-1a7436348c9b",
-      "Salesforce Opportunity ID": "006PH00000poZEvYAM",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6674bd90z80bbz3326z888dzc3b3b4d16525",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Catie Farwick",
-      "Objective Created Date": "2026-08-06",
-      "Account ID": "6e1a2349-8ed1-43c3-b0f0-1a7436348c9b",
-      "Salesforce Opportunity ID": "006PH00000poZEvYAM",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "445e1f54zf4c6z37a9zbc5bza5db8a482c76",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -771,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
-  "total": 35,
+  "fetched_at": "2026-09-15T10:51:11.014Z",
+  "total": 34,
   "im_name": "Drew Lipscomb"
 }
