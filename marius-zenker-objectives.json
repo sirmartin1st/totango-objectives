@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -365,7 +365,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-08-27",
@@ -419,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-14T10:51:10.842Z",
+  "fetched_at": "2026-09-15T10:51:11.014Z",
   "total": 19,
   "im_name": "Marius Zenker"
 }
