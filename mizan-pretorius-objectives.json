@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "9e2fdfb6z2b7fz33edz858bz695da908d15c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-15",
+      "Account ID": "70848bbb-2a67-4beb-81c1-b8324312ee5f",
+      "Salesforce Opportunity ID": "006PH00000nejwgYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3057d18cza2d7z3925za4e6zb4c78e79031e",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
-  "total": 19,
+  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "total": 20,
   "im_name": "Mizan Pretorius"
 }
