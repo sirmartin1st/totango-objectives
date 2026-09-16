@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-09",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-09",
@@ -947,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
+  "fetched_at": "2026-09-16T10:51:09.758Z",
   "total": 43,
   "im_name": "Anna Genova"
 }
