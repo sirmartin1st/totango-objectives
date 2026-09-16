@@ -89,28 +89,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "774f0dfbz1bcaz3891za04dza67f878ab24c",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 12.5,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 12.5,
-      "Milestone Names": "2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Wesley Howell",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
-      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "8075134bzb51bz39a8za1faz454c21de8989",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -133,28 +111,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "83908698z142fz3b88zb1e3z19cf206333fa",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Wesley Howell",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
-      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9c9e25efzcdb3z3f84z9f57z83d62529e269",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -173,28 +129,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "5dde1448-8538-4ede-99d9-925f30128080",
       "Salesforce Opportunity ID": "006Rf00000RNwTZIA1",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a4718735z41f2z3ea9z9a7cz4c61ce688280",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Wesley Howell",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
-      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -375,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8b7188a6zf631z3670zb657z2c7d46f197b9",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,,,HS20 Searches Completed 90D,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Wesley Howell",
-      "Objective Created Date": "2026-06-23",
-      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
-      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "0b5e3e71zcb70z39e5zbf1eza326184a85d9",
       "display_name": null,
       "Objective Name": "z (FIP) Data Connections & Integrations",
@@ -439,28 +351,6 @@
       "Salesforce Opportunity ID": "006PH00000l3elqYAA",
       "Objective Created By": "katherine.brown@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "565f4d68zaa9ez34d2za640zc0a23307a385",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Integration of Brand Search Analytics into Dashboards,1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Wesley Howell",
-      "Objective Created Date": "2026-06-08",
-      "Account ID": "07b4c966-de0c-4d8d-b5b5-026839cf4755",
-      "Salesforce Opportunity ID": "006PH00000gtaQsYAI",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     },
     {
       "objective_id": "a6bef9c6z4c99z327eza8f0zd53344783e42",
@@ -507,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
-  "total": 23,
+  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "total": 18,
   "im_name": "Tanner Schavey"
 }
