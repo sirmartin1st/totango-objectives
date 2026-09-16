@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "8074631fz31b4z3049z8bacz443f1a46e565",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-09-15",
+      "Account ID": "2ba18acd-c9e6-45b5-9757-eee5dd641fe2",
+      "Salesforce Opportunity ID": "006PH00000oZkhXYAS",
+      "Objective Created By": "alejandra.arismendi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "19e32662zd933z363eza2cfza74aee74b525",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -309,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
-  "total": 14,
+  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "total": 15,
   "im_name": "Alejandra Arismendi"
 }
