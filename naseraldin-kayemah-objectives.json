@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Naseraldin Kayemah",
@@ -89,7 +89,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
+  "fetched_at": "2026-09-16T10:51:09.758Z",
   "total": 4,
   "im_name": "Naseraldin Kayemah"
 }
