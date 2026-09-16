@@ -199,28 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "237d6054z0f4fz36aezb413z965dd242de53",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Jordan Cooper",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b0f8411b-755f-4282-83c3-15f41a91dec1",
-      "Salesforce Opportunity ID": "006PH00000nw98LYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d24d2e67z8605z36a5zb7d5z3e50e840a567",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -277,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-08-27",
@@ -529,50 +507,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2286abd0z7e42z341bzbc05zb0a59d5df451",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Jordan Cooper",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "b0f8411b-755f-4282-83c3-15f41a91dec1",
-      "Salesforce Opportunity ID": "006PH00000nw98LYAQ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "2444e2f1ze56az3ea3zaa48za744c9ac3d1c",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "6",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Jordan Cooper",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "b0f8411b-755f-4282-83c3-15f41a91dec1",
-      "Salesforce Opportunity ID": "006PH00000nw98LYAQ",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9fa4108bz08bcz3580z97baz08019e250637",
       "display_name": null,
       "Objective Name": "(FIP) Market & Industry Research",
@@ -595,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
-  "total": 27,
+  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "total": 24,
   "im_name": "Abril Mendoza Guillen"
 }
