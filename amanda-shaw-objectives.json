@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "77747ee3z6958z30a8zbb3fzcb78c4735c35",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Christina Coogan",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "8ae5f514-92be-46b6-9393-79b809c57c0f",
+      "Salesforce Opportunity ID": "006PH00000gFBr0YAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "90f879d7zdee7z3b71z8d52z111a88e4c33d",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Christina Coogan",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "8ae5f514-92be-46b6-9393-79b809c57c0f",
+      "Salesforce Opportunity ID": "006PH00000gFBr0YAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b40c67a0zdef1z3951z9159zf020bade57e6",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -20,6 +64,116 @@
       "Account ID": "707d8207-7d12-4434-bcbc-af4795447313",
       "Salesforce Opportunity ID": "006PH00000g9zFNYAY",
       "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "10e93d95zde7az3ccbzbd24z4ce60931c116",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 12.5,
+      "Milestone Names": "1. Influencer Discovery Framework Defined ,2. Influencer Assessed and Selection Completed,3. Influencer Management and Activation Fully Operational,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Catherine Innocenzi",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "41d88f98-aaf7-4cec-a626-70f38fc74b1d",
+      "Salesforce Opportunity ID": "0065f00000Irw0KAAR",
+      "Objective Created By": "amanda.shaw@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4307062dz2f78z3db9za6cbz507a46985366",
+      "display_name": null,
+      "Objective Name": "(FIP) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": ",a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Stuart Oldham",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "b818f676-cce7-45c5-9313-de81386236e8",
+      "Salesforce Opportunity ID": "006Rf00000Hw3JvIAJ",
+      "Objective Created By": "amanda.shaw@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d091bd93z6fb9z37a4z95e6z12514d7a3b9e",
+      "display_name": null,
+      "Objective Name": "(FIP) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 6,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,,,1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Catherine Innocenzi",
+      "Objective Created Date": "2026-08-17",
+      "Account ID": "41d88f98-aaf7-4cec-a626-70f38fc74b1d",
+      "Salesforce Opportunity ID": "0065f00000Irw0KAAR",
+      "Objective Created By": "amanda.shaw@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "01d8dc3ezeebcz3bbfzbc2bz97b6a9c90aa2",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Christina Coogan",
+      "Objective Created Date": "2026-08-02",
+      "Account ID": "8ae5f514-92be-46b6-9393-79b809c57c0f",
+      "Salesforce Opportunity ID": "006PH00000gFBr0YAG",
+      "Objective Created By": "jannelle.leong@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "46366b97z96a8z3ec9za54cze7c1faf3806e",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Christina Coogan",
+      "Objective Created Date": "2026-08-02",
+      "Account ID": "8ae5f514-92be-46b6-9393-79b809c57c0f",
+      "Salesforce Opportunity ID": "006PH00000gFBr0YAG",
+      "Objective Created By": "jannelle.leong@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -89,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-15T10:51:11.014Z",
-  "total": 4,
+  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "total": 11,
   "im_name": "Amanda Shaw"
 }
