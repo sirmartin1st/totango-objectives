@@ -579,11 +579,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,1. Market & Industry Search Foundation Defined,,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -601,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,MI IG Setup New,Mira Studio Usage,,,MI FB Setup New,1. Brand Search Foundation Defined ",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -623,11 +623,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -639,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "fetched_at": "2026-09-17T10:51:14.482Z",
   "total": 29,
   "im_name": "Ankhiyan Ranjan"
 }
