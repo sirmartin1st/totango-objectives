@@ -425,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Brendan Leung",
@@ -639,28 +639,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "662c131dz11ecz33fbzbb7azedb2e1e0d6c2",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": ",2. Target Audience Assessed & Activated,1. Content Curation Defined,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Kearstine Griffin",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "6c127f45-0ca2-46f6-b171-fb9649458d06",
-      "Salesforce Opportunity ID": "006PH00000idDDlYAM",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "72687aa7z372cz37afz98e9z42896cb1a749",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -701,28 +679,6 @@
       "Objective Created Date": "2026-07-28",
       "Account ID": "5146bf78-98be-4c7c-8404-93799c8a65fa",
       "Salesforce Opportunity ID": "006PH00000lSuYrYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "984e0adbz7b9az39d6z87e3z9107fd18b5be",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Kearstine Griffin",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "6c127f45-0ca2-46f6-b171-fb9649458d06",
-      "Salesforce Opportunity ID": "006PH00000idDDlYAM",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -925,7 +881,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
-  "total": 42,
+  "fetched_at": "2026-09-17T10:51:14.482Z",
+  "total": 40,
   "im_name": "Brendan Leung"
 }
