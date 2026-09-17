@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Evan Zhao",
       "CSM Owner": "Patricia Victoria",
       "Objective Created Date": "2026-09-02",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Evan Zhao",
       "CSM Owner": "Jannelle Leong",
       "Objective Created Date": "2026-09-02",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Evan Zhao",
       "CSM Owner": "Jannelle Leong",
       "Objective Created Date": "2026-09-02",
@@ -177,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "fetched_at": "2026-09-17T10:51:14.482Z",
   "total": 8,
   "im_name": "Evan Zhao"
 }
