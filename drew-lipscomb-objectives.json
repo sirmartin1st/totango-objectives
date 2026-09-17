@@ -204,7 +204,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -248,7 +248,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
@@ -425,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 88.888885,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -595,28 +595,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3e6209abz1169z3f6cz992dz750e57aac0cd",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Bridget Lindh",
-      "Objective Created Date": "2026-08-19",
-      "Account ID": "1a191c20-2d87-4d3d-be3e-7fdf528b3c3d",
-      "Salesforce Opportunity ID": "006PH00000qkMqoYAE",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "4e9b03bez2c18z32d2z82aez7dad8a99dad9",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -705,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
-  "total": 32,
+  "fetched_at": "2026-09-17T10:51:14.482Z",
+  "total": 31,
   "im_name": "Drew Lipscomb"
 }
