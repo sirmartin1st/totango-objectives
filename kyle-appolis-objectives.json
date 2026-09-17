@@ -95,15 +95,15 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Kyle Appolis",
-      "CSM Owner": null,
+      "CSM Owner": "Alex Malin",
       "Objective Created Date": "2026-08-27",
       "Account ID": "e7de875c-f0f7-4c6c-be7e-b1f3fe453752",
       "Salesforce Opportunity ID": "006PH00000p5cVVYAY",
@@ -147,7 +147,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Kyle Appolis",
-      "CSM Owner": null,
+      "CSM Owner": "Alex Malin",
       "Objective Created Date": "2026-08-27",
       "Account ID": "e7de875c-f0f7-4c6c-be7e-b1f3fe453752",
       "Salesforce Opportunity ID": "006PH00000p5cVVYAY",
@@ -155,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
+  "fetched_at": "2026-09-17T10:51:14.482Z",
   "total": 7,
   "im_name": "Kyle Appolis"
 }
