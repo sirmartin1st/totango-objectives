@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "43cd46daz77abz3ba2z9916z6524a34f1ffa",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Lisa Igarashi Vanderhoof",
+      "Objective Created Date": "2026-09-16",
+      "Account ID": "c2bb9522-79a4-4e9e-b171-c81b6bd9cd20",
+      "Salesforce Opportunity ID": "006PH00000na5crYAA",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "cf9a58d2z1470z3200zbd85z09868e93bbc8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Lisa Igarashi Vanderhoof",
+      "Objective Created Date": "2026-09-16",
+      "Account ID": "c2bb9522-79a4-4e9e-b171-c81b6bd9cd20",
+      "Salesforce Opportunity ID": "006PH00000na5crYAA",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f86cf8a9z7e83z38e7zbed4z7890e2a2ea77",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Lisa Igarashi Vanderhoof",
+      "Objective Created Date": "2026-09-16",
+      "Account ID": "c2bb9522-79a4-4e9e-b171-c81b6bd9cd20",
+      "Salesforce Opportunity ID": "006PH00000na5crYAA",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ef2872a6zc4a5z3e5bzbd56z5b458548bdd7",
       "display_name": null,
       "Objective Name": "(Onboarding) Risk & Crisis Management",
@@ -221,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-16T10:51:09.758Z",
-  "total": 10,
+  "fetched_at": "2026-09-17T10:51:14.482Z",
+  "total": 13,
   "im_name": "Aimi Hatayama"
 }
