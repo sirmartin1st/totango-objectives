@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "fb3de254z8c07z3e78z8741z403e85fd351f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Cassia Meditz",
+      "Objective Created Date": "2026-09-17",
+      "Account ID": "e2e0d6be-9f90-40c0-b676-c3e351c0650c",
+      "Salesforce Opportunity ID": "006PH00000sIdwfYAC",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "09fbfb03z50b9z3e6azb278zfa3bf6dc4c79",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -881,7 +903,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
-  "total": 40,
+  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "total": 41,
   "im_name": "Brendan Leung"
 }
