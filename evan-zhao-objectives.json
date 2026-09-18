@@ -15,7 +15,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Evan Zhao",
-      "CSM Owner": null,
+      "CSM Owner": "Patricia Victoria",
       "Objective Created Date": "2026-09-15",
       "Account ID": "3bd7e391-248d-43e3-8c8c-2956c7e8aab7",
       "Salesforce Opportunity ID": "006PH00000oB17FYAS",
@@ -37,7 +37,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Evan Zhao",
-      "CSM Owner": null,
+      "CSM Owner": "Patricia Victoria",
       "Objective Created Date": "2026-09-15",
       "Account ID": "3bd7e391-248d-43e3-8c8c-2956c7e8aab7",
       "Salesforce Opportunity ID": "006PH00000oB17FYAS",
@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 88.888885,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Evan Zhao",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 85.71429,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Evan Zhao",
       "CSM Owner": "Stella Zhang",
       "Objective Created Date": "2026-08-26",
@@ -177,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
+  "fetched_at": "2026-09-18T10:51:12.628Z",
   "total": 8,
   "im_name": "Evan Zhao"
 }
