@@ -155,28 +155,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1ca1a3fez98afz3d57z830fz7997b5bc6d07",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8c0e9abd-2302-4eee-b131-35dfcde0b29a",
-      "Salesforce Opportunity ID": "006PH00000kTOixYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "352ee95bzb7f8z3b95za940ze99aa298ecea",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -309,28 +287,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "cec2d5afz8fdcz312ezb1d3z761260cde405",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "1d67f85a-d1c7-4252-b0f0-51872ca16b64",
-      "Salesforce Opportunity ID": "006PH00000hix65YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d46c1beazf721z3e07z9c39zb3ce76179a7a",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -349,28 +305,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "0a0653b6-7683-4494-a222-9df3738bb2a5",
       "Salesforce Opportunity ID": "006PH00000otvGzYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d7f1ae71z3bfbz318azab1cz5b60e907bafd",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Target Audience Assessed & Activated,1. Content Curation Defined,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8c0e9abd-2302-4eee-b131-35dfcde0b29a",
-      "Salesforce Opportunity ID": "006PH00000kTOixYAG",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -549,31 +483,9 @@
       "Salesforce Opportunity ID": "006PH00000pWkbpYAC",
       "Objective Created By": "jamie.korah@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "5461e130z17bez3098za1e2zfceb10b2cc8e",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-07-08",
-      "Account ID": "1d67f85a-d1c7-4252-b0f0-51872ca16b64",
-      "Salesforce Opportunity ID": "006PH00000hix65YAA",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
-  "total": 26,
+  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "total": 22,
   "im_name": "Jamie Korah"
 }
