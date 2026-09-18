@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -219,75 +219,9 @@
       "Salesforce Opportunity ID": "006PH00000s43OPYAY",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "37ce387ez3e20z3d6fz8b3bz6aa74acfbda4",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-28",
-      "Account ID": "fa422a74-d92b-4aba-8040-a1b2209e45a0",
-      "Salesforce Opportunity ID": "006PH00000kLbEzYAK",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "32b3cbf6zb6e5z33a5za910zb39a17eaa241",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "fa422a74-d92b-4aba-8040-a1b2209e45a0",
-      "Salesforce Opportunity ID": "006PH00000kLbEzYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c4e82505z61ebz33e8z9867z33222e4c2b37",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "fa422a74-d92b-4aba-8040-a1b2209e45a0",
-      "Salesforce Opportunity ID": "006PH00000kLbEzYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
-  "total": 13,
+  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "total": 10,
   "im_name": "Taneil Mindham"
 }
