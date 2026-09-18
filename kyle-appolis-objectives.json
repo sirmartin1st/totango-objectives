@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "34318192z6a46z3b53z9a7bz05454004456b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-09-18",
+      "Account ID": "e7de875c-f0f7-4c6c-be7e-b1f3fe453752",
+      "Salesforce Opportunity ID": "006PH00000p5cVVYAY",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "d3c062daz735dz3544zba1czff2b514596ba",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -155,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
-  "total": 7,
+  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "total": 8,
   "im_name": "Kyle Appolis"
 }
