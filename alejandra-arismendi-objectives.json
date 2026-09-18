@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "ea0497e6zce83z3acaz99acz47f3c8482df2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Emilie Wiersma",
+      "Objective Created Date": "2026-09-18",
+      "Account ID": "cd1c0ec6-aadc-4999-80c0-3cec26f95651",
+      "Salesforce Opportunity ID": "006Rf00000RrY7FIAV",
+      "Objective Created By": "alejandra.arismendi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "8074631fz31b4z3049z8bacz443f1a46e565",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Alex Malin",
       "Objective Created Date": "2026-09-15",
@@ -205,13 +227,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Ana Mart?nez P?rez",
       "Objective Created Date": "2026-07-31",
@@ -331,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-17T10:51:14.482Z",
-  "total": 15,
+  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "total": 16,
   "im_name": "Alejandra Arismendi"
 }
