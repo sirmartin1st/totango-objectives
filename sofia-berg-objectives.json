@@ -169,7 +169,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": null,
+      "CSM Owner": "Tanja Huhta-Koivisto",
       "Objective Created Date": "2026-08-27",
       "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
       "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
@@ -191,7 +191,7 @@
       "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": null,
+      "CSM Owner": "Tanja Huhta-Koivisto",
       "Objective Created Date": "2026-08-27",
       "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
       "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
@@ -235,7 +235,7 @@
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": null,
+      "CSM Owner": "Tanja Huhta-Koivisto",
       "Objective Created Date": "2026-08-20",
       "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
       "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
@@ -243,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "fetched_at": "2026-09-19T10:51:11.695Z",
   "total": 11,
   "im_name": "Sofia ?berg"
 }
