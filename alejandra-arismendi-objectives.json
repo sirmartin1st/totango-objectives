@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-18T10:51:12.628Z",
+  "fetched_at": "2026-09-19T10:51:11.695Z",
   "total": 16,
   "im_name": "Alejandra Arismendi"
 }
