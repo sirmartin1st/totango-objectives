@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI IG Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Erica Xing",
       "CSM Owner": "Kelvin Fok",
       "Objective Created Date": "2026-07-27",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Erica Xing",
       "CSM Owner": "Kelvin Fok",
       "Objective Created Date": "2026-07-27",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Erica Xing",
       "CSM Owner": "Kelvin Fok",
       "Objective Created Date": "2026-07-27",
@@ -111,7 +111,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-19T10:51:11.695Z",
+  "fetched_at": "2026-09-20T10:51:11.189Z",
   "total": 5,
   "im_name": "Erica Xing"
 }
