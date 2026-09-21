@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "21de257ez03cdz3b21zb4c6z26636da6e17a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-09-20",
+      "Account ID": "c6afd8c3-bfa4-42a2-b131-be2b6659e1dc",
+      "Salesforce Opportunity ID": "006PH00000lIndVYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "23e01f6dza0efz3290zaa03zf54a7910ad7f",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -359,19 +381,19 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Helena Herzberg",
       "Objective Created Date": "2026-08-27",
       "Account ID": "5b22a1c4-1a44-4555-abab-c958eca0979d",
       "Salesforce Opportunity ID": "006PH00000oZSB8YAO",
-      "Objective Created By": null,
+      "Objective Created By": "marius.zenker@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -461,9 +483,31 @@
       "Salesforce Opportunity ID": "006PH00000paoTxYAI",
       "Objective Created By": null,
       "Objective Description": ""
+    },
+    {
+      "objective_id": "15eda6f4z9b96z3372zb09azce6e9f874823",
+      "display_name": null,
+      "Objective Name": "Brand Narrative Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "1. Brand Search Foundation Defined,3. Brand Search Tracking Fully Operational,2. Integration of Brand Search Analytics into Dashboards",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Helena Herzberg",
+      "Objective Created Date": "2026-08-23",
+      "Account ID": "5b22a1c4-1a44-4555-abab-c958eca0979d",
+      "Salesforce Opportunity ID": "006PH00000oZSB8YAO",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-20T10:51:11.189Z",
-  "total": 21,
+  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "total": 23,
   "im_name": "Marius Zenker"
 }
