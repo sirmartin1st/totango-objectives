@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "104c9d03z2151z322az8766ze8e71c6a399b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Emma Witting",
+      "Objective Created Date": "2026-09-20",
+      "Account ID": "7db514c7-05f0-4797-aded-79972357d771",
+      "Salesforce Opportunity ID": "006PH00000rskVaYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1645f351z557bz31d2z84cazf6abcfaceae5",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-20T10:51:11.189Z",
-  "total": 19,
+  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "total": 20,
   "im_name": "Ma Concepcion Zapanta"
 }
