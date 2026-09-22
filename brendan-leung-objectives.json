@@ -453,7 +453,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-08-12",
@@ -497,7 +497,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-08-09",
@@ -903,7 +903,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "fetched_at": "2026-09-22T10:51:11.780Z",
   "total": 41,
   "im_name": "Brendan Leung"
 }
