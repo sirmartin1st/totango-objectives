@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "169d78c1z8474z3902zbbd3zedf85a460584",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-21",
+      "Account ID": "84b148d9-2858-46f6-bb3b-17c3ad922832",
+      "Salesforce Opportunity ID": "006PH00000jNDXJYA4",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "1eae1220zf40dz3a40zb879z4e7c87c67d98",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-09-21",
+      "Account ID": "dc8d3d77-27b4-4828-8707-5ec76454b649",
+      "Salesforce Opportunity ID": "006PH00000qElxBYAS",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "52758ca6ze152z3d5cz8414zbcf4a435ed35",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "On Hold",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Riikka Viitanen",
+      "Objective Created Date": "2026-09-21",
+      "Account ID": "d86ecfbb-27de-40b0-a565-fea5e02f5bf7",
+      "Salesforce Opportunity ID": "006PH00000rtAczYAE",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0d697d80z7884z3c55zb4b3zf96de9a5bcbd",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -243,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
-  "total": 11,
+  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "total": 14,
   "im_name": "Sofia ?berg"
 }
