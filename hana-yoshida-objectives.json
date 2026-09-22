@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6bbaae64zd560z3a01z9bffz8ba560fef588",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "0bb562ee-24e3-40e0-82c2-e4c1bab318fd",
+      "Salesforce Opportunity ID": "006PH00000s7FjBYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b55826afz97cfz381cz9b52z2bfc4137cf78",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -183,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -529,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
-  "total": 24,
+  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "total": 25,
   "im_name": "Hana Yoshida"
 }
