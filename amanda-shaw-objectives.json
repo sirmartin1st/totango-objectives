@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Catherine Innocenzi",
       "Objective Created Date": "2026-08-27",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Catherine Innocenzi",
       "Objective Created Date": "2026-07-31",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Catherine Innocenzi",
       "Objective Created Date": "2026-07-31",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Catherine Innocenzi",
       "Objective Created Date": "2026-07-31",
@@ -89,7 +89,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "fetched_at": "2026-09-22T10:51:11.780Z",
   "total": 4,
   "im_name": "Amanda Shaw"
 }
