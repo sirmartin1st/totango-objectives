@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "8892fb4czd520z3811z86ebz1ebe87e2cde2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "169d3f93-4f40-48c8-ba7a-1485b0b4e978",
+      "Salesforce Opportunity ID": "006PH00000lLPefYAG",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ea86da29za979z330cz8325z8f3a69650060",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Sapna Tej Manglani",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "c1f60b0c-6b58-4313-81c1-b3e8d998f5b8",
+      "Salesforce Opportunity ID": "006PH00000igvoXYAQ",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ecdf538ezc4e1z3f33zb02bz86ee3a8280ad",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "169d3f93-4f40-48c8-ba7a-1485b0b4e978",
+      "Salesforce Opportunity ID": "006PH00000lLPefYAG",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "48db8439z0f15z3f5czb3c2z45841de8fc60",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -57,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-09-14",
@@ -79,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-09-13",
@@ -117,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -221,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
-  "total": 10,
+  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "total": 13,
   "im_name": "Taneil Mindham"
 }
