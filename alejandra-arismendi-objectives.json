@@ -169,7 +169,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
+      "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-08-27",
       "Account ID": "b269dc22-e290-4bfb-b676-659eb3ef6d7e",
       "Salesforce Opportunity ID": "006PH00000i6NtRYAU",
@@ -257,7 +257,7 @@
       "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
+      "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-07-03",
       "Account ID": "b269dc22-e290-4bfb-b676-659eb3ef6d7e",
       "Salesforce Opportunity ID": "006PH00000i6NtRYAU",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "fetched_at": "2026-09-22T10:51:11.780Z",
   "total": 16,
   "im_name": "Alejandra Arismendi"
 }
