@@ -20,7 +20,7 @@
       "Account ID": "79e2828d-3b88-4979-aaaa-28d659cdd90b",
       "Salesforce Opportunity ID": "006PH00000oKG2DYAW",
       "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
+      "Objective Description": "1-Brand & Campaign & Industry monitoring 2- Reporting & Dashboards\n\nCompetitive intelligence & benchmarking (Explore how competitors are positioned)\n3- Journalist discovery & outreach (media relations)"
     },
     {
       "objective_id": "140e8912z19fdz326azbd90z6ca0372585bd",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Jaimey-Ann Dyers",
       "Objective Created Date": "2026-09-15",
@@ -73,13 +73,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Nada Alsaad",
       "Objective Created Date": "2026-09-15",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Nada Alsaad",
       "Objective Created Date": "2026-09-13",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Jaimey-Ann Dyers",
       "Objective Created Date": "2026-09-04",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-21T10:51:13.499Z",
+  "fetched_at": "2026-09-22T10:51:11.780Z",
   "total": 16,
   "im_name": "Murwan Mahdi"
 }
