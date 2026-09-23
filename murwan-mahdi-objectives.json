@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-07",
@@ -299,7 +299,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Katherin Duque",
       "Objective Created Date": "2026-08-31",
@@ -321,7 +321,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Katherin Duque",
       "Objective Created Date": "2026-08-27",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Katherin Duque",
       "Objective Created Date": "2026-08-27",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "fetched_at": "2026-09-23T10:51:12.090Z",
   "total": 16,
   "im_name": "Murwan Mahdi"
 }
