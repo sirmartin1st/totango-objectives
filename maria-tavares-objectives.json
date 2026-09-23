@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "a98946aaze72bz35f0zac4dza39d9c504403",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "4c7df8de-d1bc-4121-8282-8b9d8551ebde",
+      "Salesforce Opportunity ID": "006PH00000rti3WYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "62797b66z2ee0z3021zadb6z1a96d671b0a2",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -95,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,,,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Maria Tavares",
@@ -227,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -529,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
-  "total": 24,
+  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "total": 25,
   "im_name": "Maria Tavares"
 }
