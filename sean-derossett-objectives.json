@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "879c6f9ez5c4az35a5za5a7z2f9d3b11b5b8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "34e39f43-0317-4050-9454-90723cc17592",
+      "Salesforce Opportunity ID": "0065f00000It5pKAAR",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "dc59dc87z7658z3f82z802az714f515eaa2e",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -321,7 +343,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-09-02",
@@ -667,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -683,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
-  "total": 31,
+  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "total": 32,
   "im_name": "Sean DeRossett"
 }
