@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6060f4b2z5c03z3cc1z8122zf7a565d63c40",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "5d102a4e-5845-4aaa-bcfc-24f549a2daf2",
+      "Salesforce Opportunity ID": "006PH00000jxMKYYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ea0497e6zce83z3acaz99acz47f3c8482df2",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -353,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
-  "total": 16,
+  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "total": 17,
   "im_name": "Alejandra Arismendi"
 }
