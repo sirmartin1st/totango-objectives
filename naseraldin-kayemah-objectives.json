@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "1476f3b5z0644z3d2fz87f1z12a75d2d7bd0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-22",
+      "Account ID": "2a3bb7c6-646b-40b0-84c4-928d53e3e4f9",
+      "Salesforce Opportunity ID": "006Rf00000XTYEbIAP",
+      "Objective Created By": "naseraldin.kayemah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "a51d9d59zaea1z368fzbe7czcd3e061b968e",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-20",
@@ -133,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
-  "total": 6,
+  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "total": 7,
   "im_name": "Naseraldin Kayemah"
 }
