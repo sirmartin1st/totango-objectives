@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "da780815ze348z394fz995bzb3752181cb32",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "c6afd8c3-bfa4-42a2-b131-be2b6659e1dc",
+      "Salesforce Opportunity ID": "006PH00000lIndVYAS",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f4f78cc1z6683z35f8zac58zb08e685f1a22",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Katja Gottfried",
       "Objective Created Date": "2026-09-21",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Katja Gottfried",
       "Objective Created Date": "2026-09-20",
@@ -139,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -359,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -395,28 +417,6 @@
       "Salesforce Opportunity ID": "006Rf00000U6yrSIAR",
       "Objective Created By": "marius.zenker@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "aa02dbd6z517bz318ez8923z3ff3211483c7",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Dilara Barthel",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "aeb61802-82a0-4555-9ada-f280d068c28a",
-      "Salesforce Opportunity ID": "006PH00000l2xovYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
     },
     {
       "objective_id": "aaff306cz2b16z3857zb937z2eff43f80c74",
@@ -485,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "fetched_at": "2026-09-23T10:51:12.090Z",
   "total": 22,
   "im_name": "Marius Zenker"
 }
