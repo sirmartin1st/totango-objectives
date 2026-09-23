@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-21",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "On Hold",
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Riikka Viitanen",
       "Objective Created Date": "2026-09-21",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-14",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Lorant Herczeg",
       "Objective Created Date": "2026-09-13",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Lorant Herczeg",
       "Objective Created Date": "2026-09-13",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "fetched_at": "2026-09-23T10:51:12.090Z",
   "total": 14,
   "im_name": "Sofia ?berg"
 }
