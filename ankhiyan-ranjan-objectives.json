@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,Mira Studio Usage,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -265,28 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "19da4cccz5d64z33c1zbbe0z54cf9cae31bc",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b1bf060f-70a4-49a9-b4f4-c7ee0482c085",
-      "Salesforce Opportunity ID": "006PH00000qzV4AYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "b0cacf54z8660z3775z997bze2a5bbd15231",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -305,28 +283,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "f93b2298-7f1d-4343-aeee-3de19677908e",
       "Salesforce Opportunity ID": "006PH00000mSWirYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c23dcee7z7553z3ee5z85d1z24ab80b66dd1",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d50c5ab7-9022-42a2-8b0b-c76900176ffb",
-      "Salesforce Opportunity ID": "006PH00000kHhSgYAK",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -353,94 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3506612az6a63z3cb1z83c9z996966e45aae",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-18",
-      "Account ID": "b1bf060f-70a4-49a9-b4f4-c7ee0482c085",
-      "Salesforce Opportunity ID": "006PH00000qzV4AYAU",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "41239663z8500z3e06za4a6z6a79338c8ffe",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-18",
-      "Account ID": "b1bf060f-70a4-49a9-b4f4-c7ee0482c085",
-      "Salesforce Opportunity ID": "006PH00000qzV4AYAU",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "60c2bbbdzdc58z3657za58dz37a2490f55c4",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-18",
-      "Account ID": "b1bf060f-70a4-49a9-b4f4-c7ee0482c085",
-      "Salesforce Opportunity ID": "006PH00000qzV4AYAU",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "749ada39zeda6z3950z89b6z766202439838",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-10",
-      "Account ID": "d50c5ab7-9022-42a2-8b0b-c76900176ffb",
-      "Salesforce Opportunity ID": "006PH00000kHhSgYAK",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9c54b3faze6f7z3e21z9d3az012cf3517ef3",
       "display_name": null,
       "Objective Name": "(FIP) PR Media Impact Measurement",
@@ -459,28 +327,6 @@
       "Objective Created Date": "2026-08-10",
       "Account ID": "280c07be-6661-4ece-9494-34b719b5aae4",
       "Salesforce Opportunity ID": "006PH00000qIA7rYAG",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b9b65584z3622z325dzabbbz5374e245cc94",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Aayushi Mittal",
-      "Objective Created Date": "2026-08-10",
-      "Account ID": "d50c5ab7-9022-42a2-8b0b-c76900176ffb",
-      "Salesforce Opportunity ID": "006PH00000kHhSgYAK",
       "Objective Created By": "ankhiyan.ranjan@meltwater.com",
       "Objective Description": ""
     },
@@ -639,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
-  "total": 29,
+  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "total": 22,
   "im_name": "Ankhiyan Ranjan"
 }
