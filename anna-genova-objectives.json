@@ -755,11 +755,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 30,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 30,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Searches Completed 90D,,,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -799,11 +799,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 16.666666,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 16.666666,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -947,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-22T10:51:11.780Z",
+  "fetched_at": "2026-09-23T10:51:12.090Z",
   "total": 43,
   "im_name": "Anna Genova"
 }
