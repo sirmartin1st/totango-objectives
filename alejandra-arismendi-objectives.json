@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "09fd4f87z523bz32eaz9e73z7deafb0fa5dd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Margaux Befort",
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "c7bcf8b5-ec54-4171-b5f5-23945e885668",
+      "Salesforce Opportunity ID": "006Rf00000VbUN7IAN",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ea00ed01zb911z334dza981z7950581640fa",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Margaux Befort",
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "c7bcf8b5-ec54-4171-b5f5-23945e885668",
+      "Salesforce Opportunity ID": "006Rf00000VbUN7IAN",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6060f4b2z5c03z3cc1z8122zf7a565d63c40",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -111,28 +155,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3d4429aaz93caz3763za531zcc8b6e1f1a6d",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Margaux Befort",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "c7bcf8b5-ec54-4171-b5f5-23945e885668",
-      "Salesforce Opportunity ID": "006Rf00000VbUN7IAN",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "42c172d8zb2d4z3158zb278z71ad978e7d50",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -151,28 +173,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "b4ceb373-9e58-4ede-8d0d-27b504f5e585",
       "Salesforce Opportunity ID": "006PH00000m1CmlYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "82bf4de8z62a0z334ez887bz9b32b4adb431",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Margaux Befort",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "c7bcf8b5-ec54-4171-b5f5-23945e885668",
-      "Salesforce Opportunity ID": "006Rf00000VbUN7IAN",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -321,7 +321,7 @@
       },
       "Pct Milestones Completed": 83.333336,
       "Milestone Names": "HS20 Searches Completed 90D,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,,,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Margaux Befort",
       "Objective Created Date": "2026-07-03",
@@ -375,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "fetched_at": "2026-09-24T10:51:12.140Z",
   "total": 17,
   "im_name": "Alejandra Arismendi"
 }
