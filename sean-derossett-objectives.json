@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Jessie Page",
       "Objective Created Date": "2026-09-21",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-09-02",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "fetched_at": "2026-09-24T10:51:12.140Z",
   "total": 32,
   "im_name": "Sean DeRossett"
 }
