@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "914f3ab5z0f40z3a58za988z96cb2eca0244",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "53cdbe49-ecff-44f4-ba3a-f68b75809a3a",
+      "Salesforce Opportunity ID": "006PH00000tgi09YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6bbaae64zd560z3a01z9bffz8ba560fef588",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Hana Yoshida",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-22",
@@ -551,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
-  "total": 25,
+  "fetched_at": "2026-09-24T10:51:12.140Z",
+  "total": 26,
   "im_name": "Hana Yoshida"
 }
