@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
@@ -463,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
+  "fetched_at": "2026-09-24T10:51:12.140Z",
   "total": 21,
   "im_name": "Mizan Pretorius"
 }
