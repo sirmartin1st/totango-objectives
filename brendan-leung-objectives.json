@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "05b7a792z2d02z36b0za792z5aed228b451e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Savanah Wilshire",
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "5ab6fff8-1fd2-42b2-9ada-b9a46f22c92d",
+      "Salesforce Opportunity ID": "006PH00000r0uN3YAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a72d1ab2zdeb8z30fbza3efz305d77939591",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI API Articles Exported 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-23",
+      "Account ID": "6af99ec3-b55c-4a7a-97d7-fca1de281a47",
+      "Salesforce Opportunity ID": "006PH00000ndbOTYAY",
+      "Objective Created By": "marty.sloane@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fb3de254z8c07z3e78z8741z403e85fd351f",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -123,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": null,
       "Objective Created Date": "2026-08-30",
@@ -815,7 +859,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
-  "total": 37,
+  "fetched_at": "2026-09-24T10:51:12.140Z",
+  "total": 39,
   "im_name": "Brendan Leung"
 }
