@@ -133,72 +133,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "552cc6aazc7e5z3266zb847z292eda15d03a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "6f7d6074-d956-4fff-bdfd-0e3d5c21a2cb",
-      "Salesforce Opportunity ID": "006PH00000kxtsPYAQ",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c0ace9f6z85c6z3b34zbbedz20873ef7b1e9",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "6f7d6074-d956-4fff-bdfd-0e3d5c21a2cb",
-      "Salesforce Opportunity ID": "006PH00000kxtsPYAQ",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "cbde734czf5f9z3a61zb504z0686093d6774",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "6f7d6074-d956-4fff-bdfd-0e3d5c21a2cb",
-      "Salesforce Opportunity ID": "006PH00000kxtsPYAQ",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "3700cd91zab2fz3e5bz9b0azb72ee0123bfb",
       "display_name": null,
       "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
@@ -249,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -441,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-23T10:51:12.090Z",
-  "total": 20,
+  "fetched_at": "2026-09-24T10:51:12.140Z",
+  "total": 17,
   "im_name": "Ma Concepcion Zapanta"
 }
