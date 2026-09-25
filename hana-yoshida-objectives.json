@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "4e146f56zcf8dz3521z9363z0d7c81310ad9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-24",
+      "Account ID": "341379d0-e44c-4f5f-a6a6-73025748b2a0",
+      "Salesforce Opportunity ID": "006PH00000qPA7uYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "914f3ab5z0f40z3a58za988z96cb2eca0244",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -37,7 +59,7 @@
       "Milestone Names": ",HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Hana Yoshida",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-22",
       "Account ID": "0bb562ee-24e3-40e0-82c2-e4c1bab318fd",
       "Salesforce Opportunity ID": "006PH00000s7FjBYAU",
@@ -227,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -573,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-24T10:51:12.140Z",
-  "total": 26,
+  "fetched_at": "2026-09-25T10:51:13.336Z",
+  "total": 27,
   "im_name": "Hana Yoshida"
 }
