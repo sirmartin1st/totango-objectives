@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "34564df1za611z3e37z882dz7c24dc687f37",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Kearstine Griffin",
+      "Objective Created Date": "2026-09-24",
+      "Account ID": "b4960228-8ab1-4575-9919-22f2f2975a72",
+      "Salesforce Opportunity ID": "006PH00000kKoURYA0",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "89eddeffz6c7fz306fza4cez9edf9cff6633",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Kearstine Griffin",
+      "Objective Created Date": "2026-09-24",
+      "Account ID": "b4960228-8ab1-4575-9919-22f2f2975a72",
+      "Salesforce Opportunity ID": "006PH00000kKoURYA0",
+      "Objective Created By": "anna.genova@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "956e57cbz55c4z30dez993cz7a8848f13031",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-24",
+      "Account ID": "bf746b82-e8ad-44e4-a060-dfc771501141",
+      "Salesforce Opportunity ID": "006PH00000tW5JRYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "d4ecc1cfza306z3b48zabc5z557f229c563e",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -79,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-09",
@@ -101,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-09",
@@ -837,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-24T10:51:12.140Z",
-  "total": 38,
+  "fetched_at": "2026-09-25T10:51:13.336Z",
+  "total": 41,
   "im_name": "Anna Genova"
 }
