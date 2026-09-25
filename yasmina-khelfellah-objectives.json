@@ -45,28 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "e03bcfa5zc441z3a19z894dzb55348d0a097",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Jaimey-Ann Dyers",
-      "Objective Created Date": "2026-09-07",
-      "Account ID": "d1b650d2-7961-4060-abab-e1f94556365b",
-      "Salesforce Opportunity ID": "006PH00000qbDQ9YAM",
-      "Objective Created By": "yasmina.khelfellah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "27534ecfzdc99z394az8c8bz2120f9e545e1",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -85,50 +63,6 @@
       "Objective Created Date": "2026-08-31",
       "Account ID": "8e7399c6-877b-4373-b6b6-b99cf8e06846",
       "Salesforce Opportunity ID": "006PH00000qwBbRYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "31f71bacz9226z34ccz9b09z79ff77f86173",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Nada Alsaad",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "9c76ee6f-e84b-4000-8949-89f004c041ac",
-      "Salesforce Opportunity ID": "006PH00000qIBzzYAG",
-      "Objective Created By": "yasmina.khelfellah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "75829e1czcca2z3ac8za39az35a82adaf850",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Nada Alsaad",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "9c76ee6f-e84b-4000-8949-89f004c041ac",
-      "Salesforce Opportunity ID": "006PH00000qIBzzYAG",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -331,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-24T10:51:12.140Z",
-  "total": 15,
+  "fetched_at": "2026-09-25T10:51:13.336Z",
+  "total": 12,
   "im_name": "Yasmina Khelfellah"
 }
