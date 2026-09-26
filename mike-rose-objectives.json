@@ -1,0 +1,29 @@
+{
+  "objectives": [
+    {
+      "objective_id": "30f85020z3687z3d58za57fz76c6c58b9158",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-09-25",
+      "Account ID": "fe7b4b01-e5e0-4979-9fdf-40a628bd6fb1",
+      "Salesforce Opportunity ID": "006PH00000rnV49YAE",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-09-26T10:51:12.772Z",
+  "total": 1,
+  "im_name": "Mike Rose"
+}
