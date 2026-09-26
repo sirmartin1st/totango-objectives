@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,,Total Num Workshop Registrations ALL TIME",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-24",
@@ -249,11 +249,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
@@ -512,12 +512,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
+        "number_of_overdue_milestones": 2,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 57.142857,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": "MI Created Dashboards,MI Daily Digest Sent,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,,MI Created Searches",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
@@ -771,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-25T10:51:13.336Z",
+  "fetched_at": "2026-09-26T10:51:12.772Z",
   "total": 35,
   "im_name": "Alison Mowry"
 }
