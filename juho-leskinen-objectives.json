@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Juho Leskinen",
       "CSM Owner": "Gina Kempen",
       "Objective Created Date": "2026-08-27",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Juho Leskinen",
       "CSM Owner": "Gina Kempen",
       "Objective Created Date": "2026-08-27",
@@ -287,28 +287,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "15bdc9d4z30d8z3d06zac14z846d75ff3605",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "49b1700f-034c-41b1-a929-2e02c1707ad1",
-      "Salesforce Opportunity ID": "006PH00000nAVfpYAG",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2d5bccffz2567z3d9bz87e0z1909008a6910",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -331,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "75b49c09z78ecz3df5zb7e9zda1835366623",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Maher Karrit",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "bc777868-6ea7-4929-a565-4f5ab37404d3",
-      "Salesforce Opportunity ID": "006PH00000hA2cTYAS",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a4bc9b38z3fb1z39a0z99b7zebaa04630d2f",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -365,7 +321,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Juho Leskinen",
       "CSM Owner": "Gina Kempen",
       "Objective Created Date": "2026-08-04",
@@ -375,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-25T10:51:13.336Z",
-  "total": 17,
+  "fetched_at": "2026-09-26T10:51:12.772Z",
+  "total": 15,
   "im_name": "Juho Leskinen"
 }
