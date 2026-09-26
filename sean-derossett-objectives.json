@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "3dc3fb34z026bz3505za102zcbd4a8ec6668",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-09-25",
+      "Account ID": "55e2b66d-dcec-4ccc-9f5f-024a2a075854",
+      "Salesforce Opportunity ID": "006PH00000sGbvmYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c35b78e9z9867z3731zb6cfza37d54247c13",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-09-25",
+      "Account ID": "55e2b66d-dcec-4ccc-9f5f-024a2a075854",
+      "Salesforce Opportunity ID": "006PH00000sGbvmYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1b81af07z954dz3825z9827z5d4405715423",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -659,97 +703,9 @@
       "Salesforce Opportunity ID": "006PH00000kwIIDYA2",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "7c560a4dz7bd3z39fez8080z94bf18c8e369",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Jessie Page",
-      "Objective Created Date": "2026-07-30",
-      "Account ID": "27d1f61e-2f8a-4d8d-bd7d-4fcddd54cf1e",
-      "Salesforce Opportunity ID": "006PH00000nMlIbYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "334e873ez8877z3ecezbea0z8da9309b1f61",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "cd367de7-ceb0-4212-8dcd-67ef1aecf4d9",
-      "Salesforce Opportunity ID": "006PH00000lq0iPYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d56c64e2z25bcz385dzbd32z5728e9f31f2f",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-28",
-      "Account ID": "cd367de7-ceb0-4212-8dcd-67ef1aecf4d9",
-      "Salesforce Opportunity ID": "006PH00000lq0iPYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "498b27d3z7601z3ef0z842az3b3da7eaceec",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Gene Lim",
-      "Objective Created Date": "2026-07-10",
-      "Account ID": "cd367de7-ceb0-4212-8dcd-67ef1aecf4d9",
-      "Salesforce Opportunity ID": "006PH00000lq0iPYAQ",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-25T10:51:13.336Z",
-  "total": 34,
+  "fetched_at": "2026-09-26T10:51:12.772Z",
+  "total": 32,
   "im_name": "Sean DeRossett"
 }
