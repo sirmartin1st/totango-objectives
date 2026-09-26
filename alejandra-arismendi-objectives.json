@@ -177,28 +177,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8cb6d466zfd37z3123za7c1zd66ce7ff9173",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Linh Ha",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b269dc22-e290-4bfb-b676-659eb3ef6d7e",
-      "Salesforce Opportunity ID": "006PH00000i6NtRYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a8f691a2z2512z3c00z875ez7c6986f93176",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -261,28 +239,6 @@
       "Objective Created Date": "2026-07-31",
       "Account ID": "ec4cefce-d45c-4cac-b070-b2ecaabcdaee",
       "Salesforce Opportunity ID": "006PH00000eF7BqYAK",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "15849878z0113z3696z8495z8924e202a7e4",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Linh Ha",
-      "Objective Created Date": "2026-07-03",
-      "Account ID": "b269dc22-e290-4bfb-b676-659eb3ef6d7e",
-      "Salesforce Opportunity ID": "006PH00000i6NtRYAU",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
     },
@@ -351,31 +307,9 @@
       "Salesforce Opportunity ID": "006PH00000m1CmlYAE",
       "Objective Created By": "kristina.merten@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "70e04503zc13fz36f7z9fbez9a481db46379",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 80,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 80,
-      "Milestone Names": "1. Brand Search Foundation Defined ,Mira Studio Usage,MI FB Setup New,HS20 Articles Clicked 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,,MI IG Setup New,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "f0af5f5f-4c5c-48b8-a2e2-3dc7312dd7e7",
-      "Salesforce Opportunity ID": "006PH00000jd1TmYAI",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-25T10:51:13.336Z",
-  "total": 17,
+  "fetched_at": "2026-09-26T10:51:12.772Z",
+  "total": 14,
   "im_name": "Alejandra Arismendi"
 }
