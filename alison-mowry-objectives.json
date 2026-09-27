@@ -1,17 +1,39 @@
 {
   "objectives": [
     {
-      "objective_id": "4dd19d77zd863z38c4z962ez34fe2c514ab9",
+      "objective_id": "0aacd148z5b93z3b2ezba34z427f14a4a5c3",
       "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "4ae1ad2c-331c-4282-bd7d-94f3efca4036",
+      "Salesforce Opportunity ID": "006PH00000sGalBYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4dd19d77zd863z38c4z962ez34fe2c514ab9",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 1,
+        "percentage_of_completed_milestones": 28.571428,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -48,14 +70,14 @@
       "objective_id": "61d0289fz9798z37e4z86d3ze7a1299feff8",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "users in community,MI Created Dashboards,Nbr of MI users Active 30d,MI Created Searches,Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -189,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-17",
@@ -233,7 +255,7 @@
       },
       "Pct Milestones Completed": 71.42857,
       "Milestone Names": "Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-17",
@@ -431,7 +453,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-09-03",
@@ -771,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-26T10:51:12.772Z",
-  "total": 35,
+  "fetched_at": "2026-09-27T10:51:13.856Z",
+  "total": 36,
   "im_name": "Alison Mowry"
 }
