@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "20c7297az4b69z340cz96e6zd514161d41cf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "1dbc463f-407b-4434-a929-36f7e2b7dad0",
+      "Salesforce Opportunity ID": "006PH00000s2WhSYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "67d4a25bzf6cfz3671zb4f9z7f8f8395959a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Zachary Leibell",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "c69f5c43-79b3-4848-8808-faafc1013af6",
+      "Salesforce Opportunity ID": "006PH00000qKDCtYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "34564df1za611z3e37z882dz7c24dc687f37",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -903,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-26T10:51:12.772Z",
-  "total": 41,
+  "fetched_at": "2026-09-27T10:51:13.856Z",
+  "total": 43,
   "im_name": "Anna Genova"
 }
