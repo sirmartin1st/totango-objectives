@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "34584f9fz8dd5z3f6eza6fczac3eb12bbe9b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "7ae1bd88-5837-4999-bcbc-1d25389210f6",
+      "Salesforce Opportunity ID": "006PH00000mytZ5YAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "707b70f0z4cbbz3affz9eedzc8a5d7cd5e22",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "de5f1686-66c9-47e7-9e9e-1e8180430801",
+      "Salesforce Opportunity ID": "006PH00000mbAMYYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5441b0dez793az3447zb129z9b95436a6876",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -353,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-26T10:51:12.772Z",
-  "total": 16,
+  "fetched_at": "2026-09-27T10:51:13.856Z",
+  "total": 18,
   "im_name": "Sofia ?berg"
 }
