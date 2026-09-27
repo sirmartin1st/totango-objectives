@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "3f400c74zacf1z3f4fzb2f7z5c46242a95ad",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Kelvin Fok",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "5261e333-1cef-4bfb-a3e3-576e7ede7a3f",
+      "Salesforce Opportunity ID": "006PH00000op02oYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "204e7e27z03daz3d39z846dzfe1afd8d03a9",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -111,7 +133,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-26T10:51:12.772Z",
-  "total": 5,
+  "fetched_at": "2026-09-27T10:51:13.856Z",
+  "total": 6,
   "im_name": "Erica Xing"
 }
