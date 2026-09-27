@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "e54fcbaazf347z3e1dz9547z4685756ed5ab",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Ana Mart?nez P?rez",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "ec4cefce-d45c-4cac-b070-b2ecaabcdaee",
+      "Salesforce Opportunity ID": "006PH00000eF7BqYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ea651a6bz67ecz3517z94f7z9eeb525628b5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-09-26",
+      "Account ID": "5d102a4e-5845-4aaa-bcfc-24f549a2daf2",
+      "Salesforce Opportunity ID": "006PH00000jxMKYYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "09fd4f87z523bz32eaz9e73z7deafb0fa5dd",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -309,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-26T10:51:12.772Z",
-  "total": 14,
+  "fetched_at": "2026-09-27T10:51:13.856Z",
+  "total": 16,
   "im_name": "Alejandra Arismendi"
 }
