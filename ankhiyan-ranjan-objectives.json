@@ -265,28 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "b0cacf54z8660z3775z997bze2a5bbd15231",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "f93b2298-7f1d-4343-aeee-3de19677908e",
-      "Salesforce Opportunity ID": "006PH00000mSWirYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "cc16dfc9ze44ez350bzb065zbe3dc0967ede",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -485,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 22,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 21,
   "im_name": "Ankhiyan Ranjan"
 }
