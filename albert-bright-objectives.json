@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "c20acec1z2cb4z33c8z8926z9d79d9e73328",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 14.285714,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 14.285714,
+      "Milestone Names": ",Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "f43d5088-4c3d-41f1-bf7f-a4ff710a84e0",
+      "Salesforce Opportunity ID": "006PH00000r5DsXYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a8dbfd3czb602z3ad4zaccezff7eddb886f6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-09-27",
+      "Account ID": "f43d5088-4c3d-41f1-bf7f-a4ff710a84e0",
+      "Salesforce Opportunity ID": "006PH00000r5DsXYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c1f16246z8d4az3a10z9d3az19e7aa7012dd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-09-27",
+      "Account ID": "f43d5088-4c3d-41f1-bf7f-a4ff710a84e0",
+      "Salesforce Opportunity ID": "006PH00000r5DsXYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5f90ee26zabb2z396az8359zc1ea91350c80",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -29,11 +95,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,,users in community,Nbr of MI users Active 30d",
       "Onboarding Stage": null,
       "Implementation Manager": "Albert Bright",
@@ -299,7 +365,7 @@
       },
       "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-07",
@@ -343,7 +409,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-04",
@@ -365,7 +431,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-04",
@@ -815,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 37,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 40,
   "im_name": "Albert Bright"
 }
