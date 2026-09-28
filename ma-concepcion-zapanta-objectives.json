@@ -177,50 +177,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3700cd91zab2fz3e5bz9b0azb72ee0123bfb",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Searches Completed 90D,,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-09-08",
-      "Account ID": "c4ab66aa-ceeb-4cac-bbbb-0609de1b1f6c",
-      "Salesforce Opportunity ID": "006PH00000efzq5YAA",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "3cb729e8zd617z3217z9315z072f7f0db18a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-09-08",
-      "Account ID": "c4ab66aa-ceeb-4cac-bbbb-0609de1b1f6c",
-      "Salesforce Opportunity ID": "006PH00000efzq5YAA",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "0c4ca612z1e64z3087zb038zdd594baa7af6",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -255,7 +211,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Haruka Matsuzaki",
       "Objective Created Date": "2026-08-31",
@@ -277,7 +233,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Haruka Matsuzaki",
       "Objective Created Date": "2026-08-31",
@@ -375,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 17,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 15,
   "im_name": "Ma Concepcion Zapanta"
 }
