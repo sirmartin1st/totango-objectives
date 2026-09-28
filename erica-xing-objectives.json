@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "2caf02f7z1dc4z33d3zaf55zee7bce1dc267",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Miki Hamakawa",
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "6fb3f92d-81d7-4959-8444-006befe39cc1",
+      "Salesforce Opportunity ID": "006PH00000oN5GmYAK",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3f400c74zacf1z3f4fzb2f7z5c46242a95ad",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -133,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 6,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 7,
   "im_name": "Erica Xing"
 }
