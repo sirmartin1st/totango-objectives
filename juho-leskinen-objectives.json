@@ -89,28 +89,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2f2e928fz7d89z344azb7a5z95a1eb8a4c69",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "414a83d5-a4ef-48b8-8848-1ae5c4aa9dcc",
-      "Salesforce Opportunity ID": "006PH00000mHtZ7YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "45ce05f1z67e7z35caz8dbaz7f48172bbc9d",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -151,28 +129,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "f726a277-e86f-4e2e-8888-9a72d8a91850",
       "Salesforce Opportunity ID": "006PH00000kMDaQYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "91ea4be3z5513z35eez92e8z1fe76785a130",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "414a83d5-a4ef-48b8-8848-1ae5c4aa9dcc",
-      "Salesforce Opportunity ID": "006PH00000mHtZ7YAK",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -307,31 +263,9 @@
       "Salesforce Opportunity ID": "006PH00000sy09JYAQ",
       "Objective Created By": "juho.leskinen@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "a4bc9b38z3fb1z39a0z99b7zebaa04630d2f",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "414a83d5-a4ef-48b8-8848-1ae5c4aa9dcc",
-      "Salesforce Opportunity ID": "006PH00000mHtZ7YAK",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 15,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 12,
   "im_name": "Juho Leskinen"
 }
