@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "adc99cbfzc17az3c55za811z815c2b55d6ba",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-09-27",
+      "Account ID": "fe7b4b01-e5e0-4979-9fdf-40a628bd6fb1",
+      "Salesforce Opportunity ID": "006PH00000rnV49YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ce341c7ez7700z3119zbcd9zd265cf1bfb24",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-09-27",
+      "Account ID": "fe7b4b01-e5e0-4979-9fdf-40a628bd6fb1",
+      "Salesforce Opportunity ID": "006PH00000rnV49YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "30f85020z3687z3d58za57fz76c6c58b9158",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -23,7 +67,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-27T10:51:13.856Z",
-  "total": 1,
+  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "total": 3,
   "im_name": "Mike Rose"
 }
