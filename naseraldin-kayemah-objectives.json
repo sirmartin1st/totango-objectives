@@ -15,7 +15,7 @@
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,,,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": null,
+      "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-22",
       "Account ID": "2a3bb7c6-646b-40b0-84c4-928d53e3e4f9",
       "Salesforce Opportunity ID": "006Rf00000XTYEbIAP",
@@ -59,7 +59,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": null,
+      "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-20",
       "Account ID": "2a3bb7c6-646b-40b0-84c4-928d53e3e4f9",
       "Salesforce Opportunity ID": "006Rf00000XTYEbIAP",
@@ -155,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "fetched_at": "2026-09-29T10:51:23.858Z",
   "total": 7,
   "im_name": "Naseraldin Kayemah"
 }
