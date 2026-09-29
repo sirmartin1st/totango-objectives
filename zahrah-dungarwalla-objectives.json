@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Zahrah Dungarwalla",
@@ -63,28 +63,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "32570195-1536-4f2f-b6b6-2acf94536e17",
       "Salesforce Opportunity ID": "006PH00000ohYMbYAM",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6cb9c6e3z727cz3577za26ez391115a5880c",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Zahrah Dungarwalla",
-      "CSM Owner": "Niyireth Aponte Sandoval",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b1b52141-5202-4cfc-b939-766e63809dba",
-      "Salesforce Opportunity ID": "006PH00000kfZ7OYAU",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -177,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
-  "total": 8,
+  "fetched_at": "2026-09-29T10:51:23.858Z",
+  "total": 7,
   "im_name": "Zahrah Dungarwalla"
 }
