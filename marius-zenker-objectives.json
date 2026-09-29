@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -507,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "fetched_at": "2026-09-29T10:51:23.858Z",
   "total": 23,
   "im_name": "Marius Zenker"
 }
