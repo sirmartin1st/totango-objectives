@@ -45,6 +45,50 @@
       "Objective Description": ""
     },
     {
+      "objective_id": "7d61bffbz1472z3c43zaeefzcbb70fc1d933",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "4c4297d1-faa7-4ede-8a8a-cc39dbc86648",
+      "Salesforce Opportunity ID": "006PH00000r09rCYAQ",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c43cf3cdz635az30adza7f5zc644f50aa0fa",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "4c4297d1-faa7-4ede-8a8a-cc39dbc86648",
+      "Salesforce Opportunity ID": "006PH00000r09rCYAQ",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "34584f9fz8dd5z3f6eza6fczac3eb12bbe9b",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -321,7 +365,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "David Samuelsson",
       "Objective Created Date": "2026-08-31",
@@ -441,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
-  "total": 20,
+  "fetched_at": "2026-09-29T10:51:23.858Z",
+  "total": 22,
   "im_name": "Sofia ?berg"
 }
