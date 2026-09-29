@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Yasmina Khelfellah",
@@ -265,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
+  "fetched_at": "2026-09-29T10:51:23.858Z",
   "total": 12,
   "im_name": "Yasmina Khelfellah"
 }
