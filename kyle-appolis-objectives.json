@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "43196806z3473z3209z93e8z17d941574704",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "b9a74d09-4449-4505-9717-af9adcb9df2b",
+      "Salesforce Opportunity ID": "006PH00000shghdYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6d2910a3z3ba1z3741z8720zdb100959a475",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-28",
+      "Account ID": "b9a74d09-4449-4505-9717-af9adcb9df2b",
+      "Salesforce Opportunity ID": "006PH00000shghdYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "34318192z6a46z3b53z9a7bz05454004456b",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -133,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-28T10:51:14.323Z",
-  "total": 6,
+  "fetched_at": "2026-09-29T10:51:23.858Z",
+  "total": 8,
   "im_name": "Kyle Appolis"
 }
