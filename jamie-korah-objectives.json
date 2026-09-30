@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "7da0798bz13dez34ecz9ba8z40c76ed63706",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Integrated Paid/Earned/Owned Reporting",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "New Engage Profiles Setup,HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Kiki Fabel",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "c2f815d0-3713-4828-a363-99787ab59d24",
+      "Salesforce Opportunity ID": "006PH00000nZ9FWYA0",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dc89c03bz16efz3d85z9d07z4666ba729737",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Alessia Anichini",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "d61cc9d0-e065-4898-9252-b932b79664e0",
+      "Salesforce Opportunity ID": "006PH00000hLzcPYAS",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "feceec26zab40z32fcz9301zdb2023d26ad4",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -73,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Mira Studio Usage,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -95,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -293,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -461,31 +505,9 @@
       "Salesforce Opportunity ID": "006Rf00000UU9kXIAT",
       "Objective Created By": "jamie.korah@meltwater.com",
       "Objective Description": "Why is this important to the customer?"
-    },
-    {
-      "objective_id": "4e866278z5939z3954z80b8zb560be535fce",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 22.222221,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Tirza Lammers",
-      "Objective Created Date": "2026-07-09",
-      "Account ID": "484b16f3-2542-47f7-8ece-aceab0eef45b",
-      "Salesforce Opportunity ID": "006PH00000pWkbpYAC",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 22,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 23,
   "im_name": "Jamie Korah"
 }
