@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "47e284f6za92az316bz86e6z6f1aced29898",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Simon Broadway",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "4a0ad332-917c-4131-adad-728483499310",
+      "Salesforce Opportunity ID": "006PH00000s666rYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "542470a6zd9d5z378bza673zd255a923439c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "1f410565-726f-46a6-b0b0-d96e3e37a464",
+      "Salesforce Opportunity ID": "006PH00000qjJ2AYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "df14faaczc48ez31bdz952cz0bce0251622b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "1f410565-726f-46a6-b0b0-d96e3e37a464",
+      "Salesforce Opportunity ID": "006PH00000qjJ2AYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fa3eb62bz02e5z3105zbd37z97fcc9b361bf",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -183,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -579,11 +645,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Sean DeRossett",
@@ -727,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 33,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 36,
   "im_name": "Sean DeRossett"
 }
