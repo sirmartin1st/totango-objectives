@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "23f2d830z1b1fz3839z8cd6z3e9c91fb1629",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Savanah Wilshire",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "753b69db-6478-4848-a6e6-e6a3e6d38911",
+      "Salesforce Opportunity ID": "006PH00000ovbm2YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "35a192d2zf458z31eez9f54z852a34c885f3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Savanah Wilshire",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "753b69db-6478-4848-a6e6-e6a3e6d38911",
+      "Salesforce Opportunity ID": "006PH00000ovbm2YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "20c7297az4b69z340cz96e6zd514161d41cf",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -337,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",HS20 Klear Campaigns Opened 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -881,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 40,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 42,
   "im_name": "Anna Genova"
 }
