@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "1309c484zb4f5z3c3dzaf53z41f1c9704db1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "77ef68a5-7c68-4d4d-8c8c-66fb155e57b9",
+      "Salesforce Opportunity ID": "006PH00000qwMF7YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "1daef5a3z91efz3d4fza31dz807cc3164d7e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Olivia Chickering",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "73a4fd2f-4260-4828-85c5-173fadc15586",
+      "Salesforce Opportunity ID": "006PH00000ncKhSYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "65b1937ez0a99z37b4z97e0z3a9a377655b7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "77ef68a5-7c68-4d4d-8c8c-66fb155e57b9",
+      "Salesforce Opportunity ID": "006PH00000qwMF7YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d6b7145dzee7dz3b4fzbf33zdc225f07d9e4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Olivia Chickering",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "73a4fd2f-4260-4828-85c5-173fadc15586",
+      "Salesforce Opportunity ID": "006PH00000ncKhSYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e6df4c53z2e66z3e6fz882azd1b92d3a5162",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Sydney Plovsky",
+      "Objective Created Date": "2026-09-29",
+      "Account ID": "b1603d00-0f08-45c5-b333-ebc346d25e1c",
+      "Salesforce Opportunity ID": "006PH00000tqfdhYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "28c4baa7z52bbz3df7zbe20zdd21ce513367",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -29,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -309,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 14,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 19,
   "im_name": "Abril Mendoza Guillen"
 }
