@@ -111,28 +111,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "19e32662zd933z363eza2cfza74aee74b525",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b4ceb373-9e58-4ede-8d0d-27b504f5e585",
-      "Salesforce Opportunity ID": "006PH00000m1CmlYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "286f02a4zacc7z303dza01cz2bd6edcfeb52",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -151,28 +129,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "3c4a09f8-1899-47d7-9252-e51039f3b2c8",
       "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "42c172d8zb2d4z3158zb278z71ad978e7d50",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b4ceb373-9e58-4ede-8d0d-27b504f5e585",
-      "Salesforce Opportunity ID": "006PH00000m1CmlYAE",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -213,7 +169,7 @@
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Ana Mart?nez P?rez",
+      "CSM Owner": "Patricia Moreno",
       "Objective Created Date": "2026-08-12",
       "Account ID": "06e0a594-8f1c-4232-8585-ead52e194d7e",
       "Salesforce Opportunity ID": "006PH00000pCTorYAG",
@@ -263,31 +219,9 @@
       "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "2f6d5c12zca77z3d38z9cf7z57fb6d604a92",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-07-01",
-      "Account ID": "b4ceb373-9e58-4ede-8d0d-27b504f5e585",
-      "Salesforce Opportunity ID": "006PH00000m1CmlYAE",
-      "Objective Created By": "kristina.merten@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 13,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 10,
   "im_name": "Alejandra Arismendi"
 }
