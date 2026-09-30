@@ -37,7 +37,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": null,
+      "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-09-15",
       "Account ID": "70848bbb-2a67-4beb-81c1-b8324312ee5f",
       "Salesforce Opportunity ID": "006PH00000nejwgYAA",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Mizan Pretorius",
@@ -373,31 +373,9 @@
       "Salesforce Opportunity ID": "006PH00000igZT5YAM",
       "Objective Created By": "mizan.pretorius@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "526c9f8dza679z3edaza34az7ce9a3134ee2",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-07-06",
-      "Account ID": "7839cbcd-980f-4bfb-8a8a-eeac35c59da3",
-      "Salesforce Opportunity ID": "006PH00000otau5YAA",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-29T10:51:23.858Z",
-  "total": 18,
+  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "total": 17,
   "im_name": "Mizan Pretorius"
 }
