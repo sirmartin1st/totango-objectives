@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "3f2f73b4z296cz302fz933fz288f486ab44c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "11d96d16-6d79-4b4b-8383-dc7822ca916c",
+      "Salesforce Opportunity ID": "006PH00000s1OsPYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "62759bc3zf146z3119zaf30z9a95519e3fc8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "7772bba5-4388-4dfd-bb3b-9bae7a495c61",
+      "Salesforce Opportunity ID": "006PH00000lpYm9YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "cb075773z29c4z362aza726zc69e93721db0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "11d96d16-6d79-4b4b-8383-dc7822ca916c",
+      "Salesforce Opportunity ID": "006PH00000s1OsPYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "43196806z3473z3209z93e8z17d941574704",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -177,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 8,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 11,
   "im_name": "Kyle Appolis"
 }
