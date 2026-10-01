@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-29",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-29",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-29",
@@ -353,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "fetched_at": "2026-10-01T10:51:15.350Z",
   "total": 16,
   "im_name": "Taneil Mindham"
 }
