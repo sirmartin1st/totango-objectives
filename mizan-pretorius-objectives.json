@@ -1,17 +1,61 @@
 {
   "objectives": [
     {
+      "objective_id": "34c79349z7bfaz3639z9808zf44ce940fd05",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Helena Ossanna",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "bad37174-b2b7-4606-aa6a-e0da59fd2af1",
+      "Salesforce Opportunity ID": "006Rf00000SNDywIAH",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d85faf01zcd66z3c35z9a5azd99c7c5ae33a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "b3d4840c-409e-4979-8848-bd536db0473c",
+      "Salesforce Opportunity ID": "006PH00000s43UrYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4cd7c504z2c5az3407z87b3z5e4875086f03",
       "display_name": null,
       "Objective Name": "(Onboarding) Campaign Management - Sponsorship Analysis",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -177,50 +221,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "7bd39d77z85dbz3f19zacbfzb4b63258e6d9",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "cc7226ac-ec07-4d2d-92d2-48140cb066e9",
-      "Salesforce Opportunity ID": "006PH00000igZT5YAM",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9e97f623zfbcbz3274z9588z07cdbe058aa1",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "cc7226ac-ec07-4d2d-92d2-48140cb066e9",
-      "Salesforce Opportunity ID": "006PH00000igZT5YAM",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "f2ffa189zc00bz334fzb03az39222873449f",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 10,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 10,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -329,53 +329,9 @@
       "Salesforce Opportunity ID": "006PH00000pebBZYAY",
       "Objective Created By": "mizan.pretorius@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "431ab1fezf143z3e13zbf7az46e66e66f69d",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "cc7226ac-ec07-4d2d-92d2-48140cb066e9",
-      "Salesforce Opportunity ID": "006PH00000igZT5YAM",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f7a79e1bz8e05z3ab8zaa90ze19d9d4d4653",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "a. Brand Search Foundation Defined,,b. Prompt Criteria - samples added; client to complete",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "cc7226ac-ec07-4d2d-92d2-48140cb066e9",
-      "Salesforce Opportunity ID": "006PH00000igZT5YAM",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 17,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 15,
   "im_name": "Mizan Pretorius"
 }
