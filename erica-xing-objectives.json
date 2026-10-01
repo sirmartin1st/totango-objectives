@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "02266b9bzf7efz31c8zab3bz84bc1ebbd564",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Miki Hamakawa",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "6fb3f92d-81d7-4959-8444-006befe39cc1",
+      "Salesforce Opportunity ID": "006PH00000oN5GmYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2caf02f7z1dc4z33d3zaf55zee7bce1dc267",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -155,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 7,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 8,
   "im_name": "Erica Xing"
 }
