@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "93bca395z63c0z3572za222z271ba42fc3fe",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "bb7999fb-d17f-45e5-a6e6-2c42a64fc14c",
+      "Salesforce Opportunity ID": "006PH00000r3TWnYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d799d1f9z5367z317bz8cf2za77048efa0b2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "bb7999fb-d17f-45e5-a6e6-2c42a64fc14c",
+      "Salesforce Opportunity ID": "006PH00000r3TWnYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d9371609zd624z39cbz89eazb4576d6470df",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "92e0cf53-fcf6-4484-a6a6-65b73e2fe3bb",
+      "Salesforce Opportunity ID": "006PH00000iDaNhYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "35719e24z04bcz3044za8afz560c30d88a54",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -551,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 25,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 28,
   "im_name": "Marius Zenker"
 }
