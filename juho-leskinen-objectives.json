@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6ae105c9zadd5z3938z9055z23547f2d3ec1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "963f6819-5b40-4fff-8e8e-a96761844e2e",
+      "Salesforce Opportunity ID": "006PH00000nApwHYAS",
+      "Objective Created By": "juho.leskinen@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4adf746bz80d0z3bedzb47cz3c9711022947",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Jesse Kiuru",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "e6a2f5a8-7d21-4d7d-8a0a-ec90ae871f73",
+      "Salesforce Opportunity ID": "006Rf00000X35ubIAB",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "a2c24b55z1cd3z3b98zbf10z5666b794b5aa",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -219,53 +263,9 @@
       "Salesforce Opportunity ID": "006PH00000gtT2nYAE",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "30b2ef31z4d92z30afz860dz60a714a20be2",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Linda Wallin",
-      "Objective Created Date": "2026-08-07",
-      "Account ID": "85124a6f-45f3-47d7-9b9b-8c2a59c0268d",
-      "Salesforce Opportunity ID": "0065f00000IsK27AAF",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "2d5bccffz2567z3d9bz87e0z1909008a6910",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": ",,MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "David Spelbos",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "e4430720-3de6-4aea-8949-4cd9e5c54323",
-      "Salesforce Opportunity ID": "006PH00000sy09JYAQ",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
+  "fetched_at": "2026-10-01T10:51:15.350Z",
   "total": 12,
   "im_name": "Juho Leskinen"
 }
