@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "24af4823z47d8z3053z9704z451e2a2e4bf4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "246c4136-1447-4595-8787-5f26fde15db1",
+      "Salesforce Opportunity ID": "006PH00000sKRplYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3cbdcf1ez30e3z3ac6zbae7z0403595d9d1a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "246c4136-1447-4595-8787-5f26fde15db1",
+      "Salesforce Opportunity ID": "006PH00000sKRplYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "49124b37z5fdbz3a91z8710z01ac43ed4eb3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Wesley Howell",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "5f48310e-3bc6-4c1c-a222-ebbb416b9f9b",
+      "Salesforce Opportunity ID": "006PH00000tLwcQYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "85633703z41c2z3928zbe16z5400cb21a3e6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Wesley Howell",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "5f48310e-3bc6-4c1c-a222-ebbb416b9f9b",
+      "Salesforce Opportunity ID": "006PH00000tLwcQYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1447161fzb1a6z3db4zb24fz290763b35884",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -287,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 13,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 17,
   "im_name": "Tanner Schavey"
 }
