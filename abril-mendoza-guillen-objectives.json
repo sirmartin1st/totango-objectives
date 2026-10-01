@@ -1,6 +1,204 @@
 {
   "objectives": [
     {
+      "objective_id": "29fff6bczc2f4z3c71z9915z8a814f834288",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "29615461-3ab7-4626-82c2-a244f336bcd7",
+      "Salesforce Opportunity ID": "006PH00000syS8nYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "56bd4835z80d7z37a1z8c58z251dc3b8a8bb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Ron Nocek",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "c172e991-4db8-4656-bd3d-3851295cc97a",
+      "Salesforce Opportunity ID": "006PH00000ksdptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b2fd0039zb345z318fz8102z18d55d8eca60",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "429fba91-a829-4eae-9212-d7ef2004cd3e",
+      "Salesforce Opportunity ID": "006PH00000pzekjYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b4293768z7282z3899zaa2cz62edcd4bb1af",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "a1159fbb-fe57-4b7b-8383-f01fb0fdd39f",
+      "Salesforce Opportunity ID": "006PH00000tlnonYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d89e182dz0c83z399czbdecz18ad54482bde",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "429fba91-a829-4eae-9212-d7ef2004cd3e",
+      "Salesforce Opportunity ID": "006PH00000pzekjYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ec02743czdf55z3ef9zaa85za71df01011f8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "29615461-3ab7-4626-82c2-a244f336bcd7",
+      "Salesforce Opportunity ID": "006PH00000syS8nYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f33197cfzbc63z35dez8d39zb9d89b960805",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "77ef68a5-7c68-4d4d-8c8c-66fb155e57b9",
+      "Salesforce Opportunity ID": "006PH00000qwMF7YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f65b81d3zb47ez31eaza4c6z0f6599ab21d7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Ron Nocek",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "c172e991-4db8-4656-bd3d-3851295cc97a",
+      "Salesforce Opportunity ID": "006PH00000ksdptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f73b5a65zd7a1z3142zb9f2z81b47a4b28dd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "29615461-3ab7-4626-82c2-a244f336bcd7",
+      "Salesforce Opportunity ID": "006PH00000syS8nYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1309c484zb4f5z3c3dzaf53z41f1c9704db1",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -213,7 +411,7 @@
       "Milestone Names": ",,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": null,
+      "CSM Owner": "Isabella Conti",
       "Objective Created Date": "2026-09-10",
       "Account ID": "ca257b63-410e-44f4-bbfb-ab93845093ac",
       "Salesforce Opportunity ID": "006PH00000rZebxYAC",
@@ -419,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 19,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 28,
   "im_name": "Abril Mendoza Guillen"
 }
