@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "4e394c66z5cf7z3878z921az6cf5d2a6a898",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "0e50529c-7517-48c8-86c6-8e967df9b51f",
+      "Salesforce Opportunity ID": "006PH00000tLdJdYAK",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dc9a6bccz8bd8z36adza009z3828ab45017d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-09-30",
+      "Account ID": "0e50529c-7517-48c8-86c6-8e967df9b51f",
+      "Salesforce Opportunity ID": "006PH00000tLdJdYAK",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ed8d186czc973z3667z850cz4f83412f2b99",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Mike Mauldin",
       "Objective Created Date": "2026-09-27",
@@ -23,7 +67,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-09-30T10:51:12.591Z",
-  "total": 1,
+  "fetched_at": "2026-10-01T10:51:15.350Z",
+  "total": 3,
   "im_name": "Emma Ekeroth"
 }
