@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "19fd381bzcda1z3962zab20z9c2dee266670",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "3ddbe66a-70cb-4484-bebe-5929c696939b",
+      "Salesforce Opportunity ID": "006Rf00000J7F4EIAV",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "544fa3d0z5c82z390cz925az4e977562243d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "8ac1815d-dd0d-4e8e-9353-4f32aecda2e4",
+      "Salesforce Opportunity ID": "006PH00000tz0mqYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b9078d0dz16fbz3625zb2eazde993f699df6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "8ac1815d-dd0d-4e8e-9353-4f32aecda2e4",
+      "Salesforce Opportunity ID": "006PH00000tz0mqYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c78eb308z708az39c3zb2f8z4ee72ed11f60",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "3ddbe66a-70cb-4484-bebe-5929c696939b",
+      "Salesforce Opportunity ID": "006Rf00000J7F4EIAV",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f4f49febz5eebz3e95z992az27337da2bb0e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "3ddbe66a-70cb-4484-bebe-5929c696939b",
+      "Salesforce Opportunity ID": "006Rf00000J7F4EIAV",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "96b9327dzc466z308czbc30z49a85800c1bf",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -243,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 11,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 16,
   "im_name": "Mike Rogan"
 }
