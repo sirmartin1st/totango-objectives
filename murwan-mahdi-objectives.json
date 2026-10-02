@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "bb4f3014z1802z3820z838azec0590b3ea5f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
+      "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "23797f02zed79z3a7fza209z236815c91c69",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -15,7 +37,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": null,
+      "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-30",
       "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
       "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
@@ -307,75 +329,9 @@
       "Salesforce Opportunity ID": "006PH00000shyY6YAI",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "0bc91170z7c4ez3a22za524za8d2c09ef58f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Katherin Duque",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "42cb5a66-ba3f-4707-8747-58bd532bcc52",
-      "Salesforce Opportunity ID": "006PH00000oAyskYAC",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": "1 - Monitor brand, projects & leadership &Monitor industry (Track industry \nconversations for newsjacking).\n2 - Monthly coverage report with share of voice sentiment analysis. & Daily Alerts.\n3 - Journalist discovery & outreach (media relations, tracking journalist moves)"
-    },
-    {
-      "objective_id": "0b79ce8ez3378z3e4fza9fez03d190220f06",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Katherin Duque",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "42cb5a66-ba3f-4707-8747-58bd532bcc52",
-      "Salesforce Opportunity ID": "006PH00000oAyskYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "dc5de255zb363z3783z8a6dz26f897a31723",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Katherin Duque",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "42cb5a66-ba3f-4707-8747-58bd532bcc52",
-      "Salesforce Opportunity ID": "006PH00000oAyskYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 17,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 15,
   "im_name": "Murwan Mahdi"
 }
