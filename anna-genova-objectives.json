@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "2f7d6e76z10b4z3c1fzb4edz8231e090d457",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Asfara Noormohammed",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "f9596e46-0bcc-4b6b-9090-5e34c876bc7e",
+      "Salesforce Opportunity ID": "006PH00000hRCfRYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "34b4b089z1727z3826zb54az8c6f9c715629",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Asfara Noormohammed",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "f9596e46-0bcc-4b6b-9090-5e34c876bc7e",
+      "Salesforce Opportunity ID": "006PH00000hRCfRYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b46ee0d3z3878z3fdbzb076z195b4147a148",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Kendra Igoe",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "b58acbf0-4006-4262-9797-8dc940c663cb",
+      "Salesforce Opportunity ID": "006PH00000k8CCnYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "01e8bf9czbc74z38b5zbb47zc6d7825b1808",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -623,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -755,11 +821,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
@@ -1321,7 +1387,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 60,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 63,
   "im_name": "Anna Genova"
 }
