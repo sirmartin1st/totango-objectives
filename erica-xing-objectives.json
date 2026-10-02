@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "17177656z978dz30eezab95z2487ce318d4d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Miki Hamakawa",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "6fb3f92d-81d7-4959-8444-006befe39cc1",
+      "Salesforce Opportunity ID": "006PH00000oN5GmYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "02266b9bzf7efz31c8zab3bz84bc1ebbd564",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -177,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 8,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 9,
   "im_name": "Erica Xing"
 }
