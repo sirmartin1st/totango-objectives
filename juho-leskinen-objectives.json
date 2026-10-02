@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "16cebbe4zd91cz3589z8e70za5de16b02994",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Jesse Kiuru",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "e6a2f5a8-7d21-4d7d-8a0a-ec90ae871f73",
+      "Salesforce Opportunity ID": "006Rf00000X35ubIAB",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6ae105c9zadd5z3938z9055z23547f2d3ec1",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -20,6 +42,28 @@
       "Account ID": "963f6819-5b40-4fff-8e8e-a96761844e2e",
       "Salesforce Opportunity ID": "006PH00000nApwHYAS",
       "Objective Created By": "juho.leskinen@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ae45e1f0ze0caz3e53z99a3zeaf3412b7f2b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "963f6819-5b40-4fff-8e8e-a96761844e2e",
+      "Salesforce Opportunity ID": "006PH00000nApwHYAS",
+      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Juho Leskinen",
@@ -73,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Juho Leskinen",
@@ -95,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Juho Leskinen",
@@ -265,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 12,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 14,
   "im_name": "Juho Leskinen"
 }
