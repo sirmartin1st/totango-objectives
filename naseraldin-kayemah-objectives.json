@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6633548czd2f3z3afdza95fz8205657401c2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "3cb161cb-98a4-4111-90d0-4d642a672ec1",
+      "Salesforce Opportunity ID": "006PH00000qLwO1YAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a0b6d9b6zbc52z3ad2zaa05z3c878b421925",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "3cb161cb-98a4-4111-90d0-4d642a672ec1",
+      "Salesforce Opportunity ID": "006PH00000qLwO1YAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2647f573z213dz330ez9dccz91c6a261c439",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -177,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 8,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 10,
   "im_name": "Naseraldin Kayemah"
 }
