@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "32e4cd59z447cz3f1dzb82dz979815da0ef8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-02",
+      "Account ID": "4ea50a79-aeb8-4efe-aa6a-fa638b78fdd3",
+      "Salesforce Opportunity ID": "006PH00000rxXz8YAE",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "13be80c2z2acdz3edcza145z0c20273701a2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Evelina Delsing",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "038c44ff-0a53-4808-9656-1c57f8760e35",
+      "Salesforce Opportunity ID": "006PH00000m4aR3YAI",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "992c2ee6z0355z3639zb24bzcd358c5a00c8",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-09-30",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-09-30",
@@ -255,7 +299,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-21",
@@ -397,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 18,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 20,
   "im_name": "Sofia ?berg"
 }
