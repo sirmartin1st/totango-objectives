@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "1a280beaz2dadz3ab5za060z3e361dc6ef67",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "R?my Da Costa",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "782f89db-f39e-4f9f-a020-f7ad233fab9c",
+      "Salesforce Opportunity ID": "006PH00000o3EfxYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "43ede5b9z42f1z3e5azb16bza6042fd28780",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Patricia Moreno",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "04c77cae-869a-4c2c-8202-6a8723374f7c",
+      "Salesforce Opportunity ID": "006PH00000rLONNYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f057bb88za7f6z3f3az9b6az453f470bc070",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Patricia Moreno",
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "04c77cae-869a-4c2c-8202-6a8723374f7c",
+      "Salesforce Opportunity ID": "006PH00000rLONNYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e54fcbaazf347z3e1dz9547z4685756ed5ab",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -73,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
@@ -183,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alejandra Arismendi",
@@ -221,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 10,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 13,
   "im_name": "Alejandra Arismendi"
 }
