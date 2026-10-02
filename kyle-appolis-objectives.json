@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "7531b2b3zfb94z37b6z9a59z88f548c8ccd3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "89d31fa6-05cb-4202-80c0-5895fe418b26",
+      "Salesforce Opportunity ID": "006PH00000hTW5NYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f5119d54z65b9z3e83zb092ze96a9d2347dd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "7772bba5-4388-4dfd-bb3b-9bae7a495c61",
+      "Salesforce Opportunity ID": "006PH00000lpYm9YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3f2f73b4z296cz302fz933fz288f486ab44c",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -243,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 11,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 13,
   "im_name": "Kyle Appolis"
 }
