@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "0dc73f91z85cfz3d29zb102za6b14f7a9d0c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
+      "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bbdb2e54zfc32z34acza476zb52370e38788",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
+      "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dafbcaadz53daz38ccz9b07za852115b6cef",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
+      "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ed628c64zb531z3be0za816z68b8c4a8a9d3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-01",
+      "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
+      "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "24af4823z47d8z3053z9704z451e2a2e4bf4",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -35,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -57,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Wesley Howell",
       "Objective Created Date": "2026-09-30",
@@ -79,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Wesley Howell",
       "Objective Created Date": "2026-09-30",
@@ -111,50 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "0ae0c41czf29cz37abz95dcz5a53d6d16da8",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "bd1da1a5-9081-4747-9858-fe1ca98ef590",
-      "Salesforce Opportunity ID": "006PH00000pF3MnYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5229a4f6z62bfz37e1zba94z7c16ccccf254",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "bd1da1a5-9081-4747-9858-fe1ca98ef590",
-      "Salesforce Opportunity ID": "006PH00000pF3MnYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "5d4fcb75zf47dz357cz8388z7883498943d5",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -167,7 +211,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-08-27",
@@ -195,28 +239,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "5dde1448-8538-4ede-99d9-925f30128080",
       "Salesforce Opportunity ID": "006Rf00000RNwTZIA1",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "db76619cza579z3733z8750z5e36e88ed388",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Content Curation Defined,,HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "bd1da1a5-9081-4747-9858-fe1ca98ef590",
-      "Salesforce Opportunity ID": "006PH00000pF3MnYAK",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -309,50 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "9961ecb7z5c58z34b8z849fz6dd05addbb0b",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "bd1da1a5-9081-4747-9858-fe1ca98ef590",
-      "Salesforce Opportunity ID": "006PH00000pF3MnYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9e97b0a6zd041z3645z8bcaz5b3467ea62d9",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,,1. Market & Industry Search Foundation Defined,HS20 Articles Clicked 90D,2. Tracking of Market and Industry Signals Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": "Bryan Pfeiffer",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "bd1da1a5-9081-4747-9858-fe1ca98ef590",
-      "Salesforce Opportunity ID": "006PH00000pF3MnYAK",
-      "Objective Created By": "tanner.schavey@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "711c4038z5408z3b0fzab93z132c4cd4b6e5",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -365,7 +343,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,,b. Integration of Brand Search Analytics into dashboards,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Bryan Pfeiffer",
       "Objective Created Date": "2026-06-23",
@@ -375,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-01T10:51:15.350Z",
-  "total": 17,
+  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "total": 16,
   "im_name": "Tanner Schavey"
 }
