@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -331,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "fetched_at": "2026-10-03T10:51:16.941Z",
   "total": 15,
   "im_name": "Murwan Mahdi"
 }
