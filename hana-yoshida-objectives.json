@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Hana Yoshida",
@@ -595,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "fetched_at": "2026-10-03T10:51:16.941Z",
   "total": 27,
   "im_name": "Hana Yoshida"
 }
