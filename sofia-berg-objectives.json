@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
@@ -441,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "fetched_at": "2026-10-03T10:51:16.941Z",
   "total": 20,
   "im_name": "Sofia ?berg"
 }
