@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Patricia Moreno",
       "Objective Created Date": "2026-10-01",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Patricia Moreno",
       "Objective Created Date": "2026-10-01",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-26",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-22",
@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
@@ -287,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "fetched_at": "2026-10-03T10:51:16.941Z",
   "total": 13,
   "im_name": "Alejandra Arismendi"
 }
