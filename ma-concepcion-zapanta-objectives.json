@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -403,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 60,
+      "Pct Milestones Completed": 80,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-02T10:51:12.477Z",
+  "fetched_at": "2026-10-03T10:51:16.941Z",
   "total": 24,
   "im_name": "Ma Concepcion Zapanta"
 }
