@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "27c89deez88c3z3fd0zb646z47de93422abf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-03",
+      "Account ID": "ec7249ea-9341-4848-9494-c5d190375a78",
+      "Salesforce Opportunity ID": "006PH00000rdrvZYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "932a1e7bzd118z3092z8398z249845d8406a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-03",
+      "Account ID": "258565f3-46f5-4c7c-a4e4-e70faad9e2df",
+      "Salesforce Opportunity ID": "006PH00000kM9YPYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3b8d14bbz7be8z3e04zb0eczc32b049a9dd5",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -1409,7 +1453,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-03T10:51:16.941Z",
-  "total": 64,
+  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "total": 66,
   "im_name": "Anna Genova"
 }
