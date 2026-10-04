@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
+        "percentage_of_completed_milestones": 50,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 25,
+      "Pct Milestones Completed": 50,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -375,7 +375,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-03T10:51:16.941Z",
+  "fetched_at": "2026-10-04T10:51:20.619Z",
   "total": 17,
   "im_name": "Jamie Korah"
 }
