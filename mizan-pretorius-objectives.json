@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Mizan Pretorius",
@@ -419,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-03T10:51:16.941Z",
+  "fetched_at": "2026-10-04T10:51:20.619Z",
   "total": 19,
   "im_name": "Mizan Pretorius"
 }
