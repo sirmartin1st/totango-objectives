@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "9dfaa2dezc32fz335azb799z077cfb4c748a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Keenan Langley",
+      "Objective Created Date": "2026-10-03",
+      "Account ID": "5dd7656c-996f-4f8f-9313-5dab9e74ad00",
+      "Salesforce Opportunity ID": "006PH00000szAplYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "64e2b29fz924dz3463zac9dz9d509cd7a558",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Sarah Price",
       "Objective Created Date": "2026-10-02",
@@ -37,7 +59,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": null,
+      "CSM Owner": "Keenan Langley",
       "Objective Created Date": "2026-10-02",
       "Account ID": "5dd7656c-996f-4f8f-9313-5dab9e74ad00",
       "Salesforce Opportunity ID": "006PH00000szAplYAE",
@@ -859,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-03T10:51:16.941Z",
-  "total": 39,
+  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "total": 40,
   "im_name": "Sean DeRossett"
 }
