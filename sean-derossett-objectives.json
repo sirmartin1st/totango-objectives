@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Simon Broadway",
       "Objective Created Date": "2026-09-29",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-09-26",
@@ -475,7 +475,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ryan Dotter",
       "Objective Created Date": "2026-09-21",
@@ -881,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "fetched_at": "2026-10-05T10:51:12.431Z",
   "total": 40,
   "im_name": "Sean DeRossett"
 }
