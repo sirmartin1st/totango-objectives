@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-10-01",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-30",
@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-07",
@@ -331,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "fetched_at": "2026-10-05T10:51:12.431Z",
   "total": 15,
   "im_name": "Murwan Mahdi"
 }
