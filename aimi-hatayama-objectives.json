@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-02",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-02",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-01",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-30",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-30",
@@ -639,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "fetched_at": "2026-10-05T10:51:12.431Z",
   "total": 29,
   "im_name": "Aimi Hatayama"
 }
