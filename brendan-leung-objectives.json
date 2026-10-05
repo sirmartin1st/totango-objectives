@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Brendan Leung",
@@ -211,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Savanah Wilshire",
       "Objective Created Date": "2026-09-23",
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-04T10:51:20.619Z",
+  "fetched_at": "2026-10-05T10:51:12.431Z",
   "total": 24,
   "im_name": "Brendan Leung"
 }
