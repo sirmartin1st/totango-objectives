@@ -15,7 +15,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-10-02",
       "Account ID": "7cee57fd-48b6-4777-b3b3-8d10b16d0f6a",
       "Salesforce Opportunity ID": "006PH00000mqMyTYAU",
@@ -37,7 +37,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-10-02",
       "Account ID": "7cee57fd-48b6-4777-b3b3-8d10b16d0f6a",
       "Salesforce Opportunity ID": "006PH00000mqMyTYAU",
@@ -81,7 +81,7 @@
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-30",
       "Account ID": "507a9d7a-e890-45a5-b434-b4fe02ecc710",
       "Salesforce Opportunity ID": "006PH00000oQvttYAC",
@@ -125,7 +125,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-30",
       "Account ID": "57cf6ba8-f513-4cac-9999-ede959fd120d",
       "Salesforce Opportunity ID": "006PH00000ta1ifYAA",
@@ -147,7 +147,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
+      "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-09-30",
       "Account ID": "507a9d7a-e890-45a5-b434-b4fe02ecc710",
       "Salesforce Opportunity ID": "006PH00000oQvttYAC",
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
+  "fetched_at": "2026-10-06T10:51:15.234Z",
   "total": 24,
   "im_name": "Ma Concepcion Zapanta"
 }
