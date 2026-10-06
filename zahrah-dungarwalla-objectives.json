@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "20564065z7dd2z357cz8fadzba4562cf8712",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Dilara Barthel",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "43208ed1-c793-4111-9494-a359d9eb351d",
+      "Salesforce Opportunity ID": "006PH00000o33UQYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fa1c1737za66az35f5zb0a8z4f8623d9bda3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "Dilara Barthel",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "43208ed1-c793-4111-9494-a359d9eb351d",
+      "Salesforce Opportunity ID": "006PH00000o33UQYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0c18dc4bzf45ez3621zaa2dz1db08d88fe18",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -111,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 5,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 7,
   "im_name": "Zahrah Dungarwalla"
 }
