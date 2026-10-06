@@ -221,39 +221,17 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "9b042cb5z1c41z3bcbz80e6z539dda86689c",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Patricia Moreno",
-      "Objective Created Date": "2026-08-12",
-      "Account ID": "06e0a594-8f1c-4232-8585-ead52e194d7e",
-      "Salesforce Opportunity ID": "006PH00000pCTorYAG",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "1e1df9e3z05c2z3388z97eczf2679e7edf88",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alejandra Arismendi",
@@ -287,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 13,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 12,
   "im_name": "Alejandra Arismendi"
 }
