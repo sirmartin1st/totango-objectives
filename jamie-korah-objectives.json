@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6cbaf50dz1e6bz3b37z84fezbf6fb79d28a5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
+      "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "011bd35fz1826z38ffzaeb8z8d655aa5cece",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -57,35 +79,13 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-09-30",
       "Account ID": "53ba78c4-7b27-4636-91d1-23d2b2d8087b",
       "Salesforce Opportunity ID": "006PH00000mc0OLYAY",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7da0798bz13dez34ecz9ba8z40c76ed63706",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Integrated Paid/Earned/Owned Reporting",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "New Engage Profiles Setup,HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Kiki Fabel",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "c2f815d0-3713-4828-a363-99787ab59d24",
-      "Salesforce Opportunity ID": "006PH00000nZ9FWYA0",
-      "Objective Created By": "jamie.korah@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 60,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
@@ -283,29 +283,7 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
       "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "91ef5791z92c7z3156zb79aza361db5cd654",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
-      "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
-      "Objective Created By": null,
+      "Objective Created By": "jamie.korah@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -375,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 17,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 16,
   "im_name": "Jamie Korah"
 }
