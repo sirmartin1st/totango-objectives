@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "57b75a28zae32z3cf7z8623z923054545a76",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "d4717ca2-f6fa-4d8d-ad6d-82fa6ccef27f",
+      "Salesforce Opportunity ID": "006PH00000rYyzJYAS",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "899e3329z2f1bz362az8fdfz927ede9309ed",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "d4717ca2-f6fa-4d8d-ad6d-82fa6ccef27f",
+      "Salesforce Opportunity ID": "006PH00000rYyzJYAS",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "32e4cd59z447cz3f1dzb82dz979815da0ef8",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -441,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 20,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 22,
   "im_name": "Sofia ?berg"
 }
