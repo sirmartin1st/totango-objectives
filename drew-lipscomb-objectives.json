@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "beefb3bazc5bfz31a3z89dbz451dba932d95",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Walker Prince",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "635c0599-297b-4343-9555-a8a7bdddd13b",
+      "Salesforce Opportunity ID": "006PH00000stjjlYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f46f8ca9z49f2z3924za7bcz0c4e4b20f89b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "2624709f-61af-4bab-9696-94c14b97d38b",
+      "Salesforce Opportunity ID": "006PH00000saky7YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0121bce8z913fz3039z84ebz4aa42f87cb69",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -59,7 +103,7 @@
       "Milestone Names": "",
       "Onboarding Stage": null,
       "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": null,
+      "CSM Owner": "Lyndsey Wallen",
       "Objective Created Date": "2026-10-01",
       "Account ID": "53f124c8-94d7-44e4-b838-1b0a15c87dc2",
       "Salesforce Opportunity ID": "006PH00000ra0KmYAI",
@@ -147,7 +191,7 @@
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": null,
+      "CSM Owner": "Lyndsey Wallen",
       "Objective Created Date": "2026-10-01",
       "Account ID": "53f124c8-94d7-44e4-b838-1b0a15c87dc2",
       "Salesforce Opportunity ID": "006PH00000ra0KmYAI",
@@ -387,9 +431,9 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ellen Bruns",
+      "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-29",
       "Account ID": "e27952db-d1d0-4929-b535-3a728700ae8c",
       "Salesforce Opportunity ID": "006PH00000tBS1JYAW",
@@ -453,7 +497,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-29",
@@ -475,9 +519,9 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ellen Bruns",
+      "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-29",
       "Account ID": "e27952db-d1d0-4929-b535-3a728700ae8c",
       "Salesforce Opportunity ID": "006PH00000tBS1JYAW",
@@ -497,7 +541,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-29",
@@ -622,7 +666,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -636,50 +680,6 @@
       "Account ID": "635c0599-297b-4343-9555-a8a7bdddd13b",
       "Salesforce Opportunity ID": "006PH00000stjjlYAA",
       "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "247c3ffazf7b8z3c1dz8944z669d23409ee0",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-09-25",
-      "Account ID": "635c0599-297b-4343-9555-a8a7bdddd13b",
-      "Salesforce Opportunity ID": "006PH00000stjjlYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "982c7952zb08fz3e5fz9baaz8a7aee58865b",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 42.857143,
-      "Milestone Names": "MI Created Dashboards,users in community,Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-09-25",
-      "Account ID": "635c0599-297b-4343-9555-a8a7bdddd13b",
-      "Salesforce Opportunity ID": "006PH00000stjjlYAA",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -859,50 +859,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "c1eceae2zcd50z3c5az8753z2f261ca9f1f5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "2624709f-61af-4bab-9696-94c14b97d38b",
-      "Salesforce Opportunity ID": "006PH00000saky7YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f9df0946zcdacz3dccz828dzf48f14463d29",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 85.71429,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 85.71429,
-      "Milestone Names": "MI Created Searches,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "2624709f-61af-4bab-9696-94c14b97d38b",
-      "Salesforce Opportunity ID": "006PH00000saky7YAA",
-      "Objective Created By": "drew.lipscomb@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "580899dcz61c1z3f97z9218z6547a3d6a5d2",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -1057,7 +1013,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 48,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 46,
   "im_name": "Drew Lipscomb"
 }
