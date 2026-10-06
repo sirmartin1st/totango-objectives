@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Simon Broadway",
       "Objective Created Date": "2026-09-30",
@@ -147,7 +147,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Josh Paradise",
       "Objective Created Date": "2026-09-27",
       "Account ID": "426ea59b-c358-4111-84c4-ece8cd3cedf2",
       "Salesforce Opportunity ID": "006PH00000mcq5BYAQ",
@@ -169,7 +169,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Josh Paradise",
       "Objective Created Date": "2026-09-27",
       "Account ID": "426ea59b-c358-4111-84c4-ece8cd3cedf2",
       "Salesforce Opportunity ID": "006PH00000mcq5BYAQ",
@@ -235,7 +235,7 @@
       "Milestone Names": "MI API Articles Exported 30d",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Lyndsey Golden",
       "Objective Created Date": "2026-09-23",
       "Account ID": "6af99ec3-b55c-4a7a-97d7-fca1de281a47",
       "Salesforce Opportunity ID": "006PH00000ndbOTYAY",
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
+  "fetched_at": "2026-10-06T10:51:15.234Z",
   "total": 24,
   "im_name": "Brendan Leung"
 }
