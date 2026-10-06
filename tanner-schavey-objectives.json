@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "79fe0c3cz35b2z3b4ezb686zc58dba8b8b4f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-05",
+      "Account ID": "00d297da-b9b3-4575-9898-604c3a228793",
+      "Salesforce Opportunity ID": "006PH00000jpGFJYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "14b20c84z6dabz3b11za70fzef2b2ddba021",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -37,7 +59,7 @@
       "Milestone Names": "",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
       "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
       "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
@@ -59,7 +81,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
       "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
       "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
@@ -81,7 +103,7 @@
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
       "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
       "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
@@ -103,7 +125,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
       "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
       "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
@@ -125,7 +147,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-09-30",
       "Account ID": "246c4136-1447-4595-8787-5f26fde15db1",
       "Salesforce Opportunity ID": "006PH00000sKRplYAG",
@@ -147,7 +169,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-09-30",
       "Account ID": "246c4136-1447-4595-8787-5f26fde15db1",
       "Salesforce Opportunity ID": "006PH00000sKRplYAG",
@@ -375,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-05T10:51:12.431Z",
-  "total": 17,
+  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "total": 18,
   "im_name": "Tanner Schavey"
 }
