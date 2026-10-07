@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "fddc3ac6z006dz389dz8498z396a3de3b4ce",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "f055d6fb-dff4-4353-9f5f-21917f9adbe7",
+      "Salesforce Opportunity ID": "006PH00000tlNfpYAE",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "57b75a28zae32z3cf7z8623z923054545a76",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-02",
@@ -123,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -365,7 +387,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "On Hold",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Riikka Viitanen",
       "Objective Created Date": "2026-09-21",
@@ -485,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 22,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 23,
   "im_name": "Sofia ?berg"
 }
