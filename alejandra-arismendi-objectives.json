@@ -1,7 +1,29 @@
 {
   "objectives": [
     {
-      "objective_id": "1a280beaz2dadz3ab5za060z3e361dc6ef67",
+      "objective_id": "41f8a5bdz80a1z3594zaf99z294dbd10454d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "R?my Da Costa",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "e9ab1851-62d5-4cac-9090-c99d8356bb6f",
+      "Salesforce Opportunity ID": "006PH00000gViqzYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b1de1e3az0a2bz3f03z8439z1693dbfeac53",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
       "Objective Status": "1",
@@ -12,13 +34,13 @@
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
-      "Milestone Names": ",,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": null,
+      "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,,",
+      "Onboarding Stage": "Live",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "R?my Da Costa",
-      "Objective Created Date": "2026-10-01",
-      "Account ID": "782f89db-f39e-4f9f-a020-f7ad233fab9c",
-      "Salesforce Opportunity ID": "006PH00000o3EfxYAE",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "e9ab1851-62d5-4cac-9090-c99d8356bb6f",
+      "Salesforce Opportunity ID": "006PH00000gViqzYAC",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-26",
@@ -123,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-22",
@@ -263,9 +285,31 @@
       "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
+    },
+    {
+      "objective_id": "5663ff2bzad07z31caz96e5zcb74b5e8c5bf",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "b. Integration of Brand Search Analytics into dashboards,HS20 Searches Completed 90D,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "R?my Da Costa",
+      "Objective Created Date": "2026-06-30",
+      "Account ID": "e9ab1851-62d5-4cac-9090-c99d8356bb6f",
+      "Salesforce Opportunity ID": "006PH00000gViqzYAC",
+      "Objective Created By": "alejandra.arismendi@meltwater.com",
+      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 12,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 14,
   "im_name": "Alejandra Arismendi"
 }
