@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0d1431a4z5966z3a32z8e06z97593d1843f8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "910db322-f6d4-4929-bcbc-35869553a5ae",
+      "Salesforce Opportunity ID": "006PH00000qcmSHYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "96181411zfffez3ca9z9475ze4703502d548",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "910db322-f6d4-4929-bcbc-35869553a5ae",
+      "Salesforce Opportunity ID": "006PH00000qcmSHYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4e394c66z5cf7z3878z921az6cf5d2a6a898",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Mike Mauldin",
       "Objective Created Date": "2026-09-30",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Mike Mauldin",
       "Objective Created Date": "2026-09-30",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Mike Mauldin",
       "Objective Created Date": "2026-09-27",
@@ -67,7 +111,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 3,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 5,
   "im_name": "Emma Ekeroth"
 }
