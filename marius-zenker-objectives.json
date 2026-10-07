@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "5dd7c6a4z1185z3f99z8d10z87fe750441e1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "545dc616-15b6-4929-8f0f-3c030d82e195",
+      "Salesforce Opportunity ID": "006PH00000pzm5ZYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fc470d44zda3bz303ezb137z475ea5123206",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "545dc616-15b6-4929-8f0f-3c030d82e195",
+      "Salesforce Opportunity ID": "006PH00000pzm5ZYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "437f0483zfb11z3beez9ea7z348cb062398e",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -123,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -145,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": null,
       "Objective Created Date": "2026-09-30",
@@ -425,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": ",HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -681,53 +725,9 @@
       "Salesforce Opportunity ID": "006PH00000oWEmDYAW",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "c03a0e69zdcdcz3a1ez8badz9d8e4495adde",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "374892b6-7fe3-4d6d-8808-d3879b0fe7cd",
-      "Salesforce Opportunity ID": "006PH00000paoTxYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f8fc8b03z4423z35cczb028zfdc63d5bc10b",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "374892b6-7fe3-4d6d-8808-d3879b0fe7cd",
-      "Salesforce Opportunity ID": "006PH00000paoTxYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "fetched_at": "2026-10-07T10:51:13.128Z",
   "total": 33,
   "im_name": "Marius Zenker"
 }
