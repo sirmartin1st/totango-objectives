@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -147,7 +147,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Josh Paradise",
+      "CSM Owner": "Georgia Girdler",
       "Objective Created Date": "2026-09-27",
       "Account ID": "426ea59b-c358-4111-84c4-ece8cd3cedf2",
       "Salesforce Opportunity ID": "006PH00000mcq5BYAQ",
@@ -169,7 +169,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Josh Paradise",
+      "CSM Owner": "Georgia Girdler",
       "Objective Created Date": "2026-09-27",
       "Account ID": "426ea59b-c358-4111-84c4-ece8cd3cedf2",
       "Salesforce Opportunity ID": "006PH00000mcq5BYAQ",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Brendan Leung",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-09-24",
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
+  "fetched_at": "2026-10-07T10:51:13.128Z",
   "total": 24,
   "im_name": "Brendan Leung"
 }
