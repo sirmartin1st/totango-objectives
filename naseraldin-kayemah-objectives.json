@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Naseraldin Kayemah",
       "CSM Owner": "Anna Bergling",
       "Objective Created Date": "2026-09-30",
@@ -175,9 +175,75 @@
       "Salesforce Opportunity ID": "006PH00000rwhakYAA",
       "Objective Created By": null,
       "Objective Description": ""
+    },
+    {
+      "objective_id": "b7075a5cze57dz3dc6zb5d9zec74ff3399c9",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Marina Shafik",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "69be6247-4aa4-44b4-a060-105e5799fb8b",
+      "Salesforce Opportunity ID": "006PH00000o6z5fYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bc175441zc3eaz31c5z9c51z7ab4823707d2",
+      "display_name": null,
+      "Objective Name": "(FIP) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 25,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 25,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Marina Shafik",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d30c8d1f-e773-4686-9f1f-306edc18a28c",
+      "Salesforce Opportunity ID": "006PH00000mgIbBYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e29d6ed4z0afaz3278z83e8zfffdc4ebde5b",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Marina Shafik",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "d30c8d1f-e773-4686-9f1f-306edc18a28c",
+      "Salesforce Opportunity ID": "006PH00000mgIbBYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 8,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 11,
   "im_name": "Naseraldin Kayemah"
 }
