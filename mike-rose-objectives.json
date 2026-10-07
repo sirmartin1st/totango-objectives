@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "ade466f5z3a80z35b5z9b50zbd0850aba309",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "3d9c03a6-72f3-4b6b-a363-0fc41139dae7",
+      "Salesforce Opportunity ID": "006PH00000pLRKnYAO",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b94bfba0z4dbdz34aczbdd5z637451bdce59",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "c3e9556d-c0c2-4757-b8f8-a2637cdd2240",
+      "Salesforce Opportunity ID": "006PH00000sz7tVYAQ",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "adc99cbfzc17az3c55za811z815c2b55d6ba",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -67,7 +111,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 3,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 5,
   "im_name": "Mike Rose"
 }
