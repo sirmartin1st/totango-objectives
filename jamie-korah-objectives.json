@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "6cbaf50dz1e6bz3b37z84fezbf6fb79d28a5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-10-06",
-      "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
-      "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "011bd35fz1826z38ffzaeb8z8d655aa5cece",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -35,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-02",
@@ -57,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Kiki Fabel",
       "Objective Created Date": "2026-10-01",
@@ -101,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Emilie Wiersma",
       "Objective Created Date": "2026-09-11",
@@ -117,13 +95,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-09-04",
@@ -145,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Emilie Wiersma",
       "Objective Created Date": "2026-09-04",
@@ -161,13 +139,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,Mira Studio Usage,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-09-04",
@@ -183,13 +161,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-09-04",
@@ -265,28 +243,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "7616eec3z1947z3c78zb63dz20ff909f1b28",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
-      "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d46c1beazf721z3e07z9c39zb3ce76179a7a",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -307,28 +263,6 @@
       "Salesforce Opportunity ID": "006PH00000otvGzYAI",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "728c0defz16c8z3ea0zacefzc5343a060464",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-11",
-      "Account ID": "76c934c5-6384-4a3a-9090-3a583ec205f5",
-      "Salesforce Opportunity ID": "006PH00000jrG1VYAU",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     },
     {
       "objective_id": "bfbf5473z5103z3575zaad4ze28f6f36e4ce",
@@ -353,7 +287,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 16,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 13,
   "im_name": "Jamie Korah"
 }
