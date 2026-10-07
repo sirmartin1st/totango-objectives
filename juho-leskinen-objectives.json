@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "8c31787bz891bz31a3z89b4z513d2bdd2507",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-10-06",
+      "Account ID": "963f6819-5b40-4fff-8e8e-a96761844e2e",
+      "Salesforce Opportunity ID": "006PH00000nApwHYAS",
+      "Objective Created By": "juho.leskinen@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "16cebbe4zd91cz3589z8e70za5de16b02994",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-10-01",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-10-01",
@@ -309,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-06T10:51:15.234Z",
-  "total": 14,
+  "fetched_at": "2026-10-07T10:51:13.128Z",
+  "total": 15,
   "im_name": "Juho Leskinen"
 }
