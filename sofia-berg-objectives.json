@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "2d3cfaddz848dz32dfzb90cz48390a3031cd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Robin Karlsson",
+      "Objective Created Date": "2026-10-07",
+      "Account ID": "354867be-6c61-4f8f-9313-75acf610438b",
+      "Salesforce Opportunity ID": "006PH00000sI8XtYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9bdbb480zddbcz37bez901ezbad92547be47",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Robin Karlsson",
+      "Objective Created Date": "2026-10-07",
+      "Account ID": "354867be-6c61-4f8f-9313-75acf610438b",
+      "Salesforce Opportunity ID": "006PH00000sI8XtYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fddc3ac6z006dz389dz8498z396a3de3b4ce",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -359,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
@@ -507,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-07T10:51:13.128Z",
-  "total": 23,
+  "fetched_at": "2026-10-08T10:51:14.199Z",
+  "total": 25,
   "im_name": "Sofia ?berg"
 }
