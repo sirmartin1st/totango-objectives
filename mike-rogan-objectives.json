@@ -133,28 +133,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "fe62b946ze43ez35dfz806azce75058636d5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mike Rogan",
-      "CSM Owner": "Michel Huber",
-      "Objective Created Date": "2026-09-26",
-      "Account ID": "2382ebf1-285a-41b1-9ada-199c7bb65c55",
-      "Salesforce Opportunity ID": "006Rf00000MMCp3IAH",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "28f6514bz5e19z3b33za4e8z4c20fd39da43",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -221,28 +199,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "af0da1edzd05dz3ccdzaf62zaa441290afd0",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mike Rogan",
-      "CSM Owner": "Michel Huber",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "2382ebf1-285a-41b1-9ada-199c7bb65c55",
-      "Salesforce Opportunity ID": "006Rf00000MMCp3IAH",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "b5a58daczff35z30ffzb691z047bd554180d",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -261,28 +217,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "5f7a936c-1b2a-4c3c-8c0c-2505b7036ef3",
       "Salesforce Opportunity ID": "006PH00000phlSvYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "cb4d88f8z4325z31a4z86adz8debc5d7d72c",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mike Rogan",
-      "CSM Owner": "Michel Huber",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "2382ebf1-285a-41b1-9ada-199c7bb65c55",
-      "Salesforce Opportunity ID": "006Rf00000MMCp3IAH",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -309,28 +243,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "301fced6z0074z3a18z81ceza035102e503f",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mike Rogan",
-      "CSM Owner": "Michel Huber",
-      "Objective Created Date": "2026-07-08",
-      "Account ID": "2382ebf1-285a-41b1-9ada-199c7bb65c55",
-      "Salesforce Opportunity ID": "006Rf00000MMCp3IAH",
-      "Objective Created By": "michael.rogan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "497ca9fczb479z3dd5z9529z77d1be36fbc5",
       "display_name": null,
       "Objective Name": "(FIP) Brand Monitoring",
@@ -353,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-07T10:51:13.128Z",
-  "total": 16,
+  "fetched_at": "2026-10-08T10:51:14.199Z",
+  "total": 12,
   "im_name": "Mike Rogan"
 }
