@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "Dilara Barthel",
       "Objective Created Date": "2026-10-05",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "Dilara Barthel",
       "Objective Created Date": "2026-10-05",
@@ -81,7 +81,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
-      "CSM Owner": "Lauren Hales",
+      "CSM Owner": null,
       "Objective Created Date": "2026-08-27",
       "Account ID": "32570195-1536-4f2f-b6b6-2acf94536e17",
       "Salesforce Opportunity ID": "006PH00000ohYMbYAM",
@@ -155,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-08T10:51:14.199Z",
+  "fetched_at": "2026-10-09T10:51:19.154Z",
   "total": 7,
   "im_name": "Zahrah Dungarwalla"
 }
