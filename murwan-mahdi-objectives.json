@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "616141b2zf217z3ee0zbb49zfc9eaa978c97",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-10-09",
+      "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
+      "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3341e0f0zc73ez3ec3zbb06z2e5033adba8b",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -15,7 +37,7 @@
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": null,
+      "CSM Owner": "Maria Hakim",
       "Objective Created Date": "2026-10-07",
       "Account ID": "536e810d-c3ec-4888-8646-06214f52e4ea",
       "Salesforce Opportunity ID": "006PH00000tbwoXYAQ",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,Mira Studio Usage,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-10-01",
@@ -123,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-30",
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-09T10:51:19.154Z",
-  "total": 19,
+  "fetched_at": "2026-10-10T10:51:12.515Z",
+  "total": 20,
   "im_name": "Murwan Mahdi"
 }
