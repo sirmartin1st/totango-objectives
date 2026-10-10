@@ -7,11 +7,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -205,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Drew Lipscomb",
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -359,11 +359,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -491,11 +491,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 42.857143,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -600,7 +600,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -688,12 +688,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 42.857143,
+        "number_of_overdue_milestones": 2,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 42.857143,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": ",Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
@@ -931,11 +931,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -947,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-09T10:51:19.154Z",
+  "fetched_at": "2026-10-10T10:51:12.515Z",
   "total": 43,
   "im_name": "Drew Lipscomb"
 }
