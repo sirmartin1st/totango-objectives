@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "e373fb99z910dz3044z8ebcze482c1fa5b1e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-10-09",
+      "Account ID": "6a53a874-af4d-45d5-acec-400adb31ecbc",
+      "Salesforce Opportunity ID": "006PH00000uS7RJYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f95f05c4z67b3z3618zb576zcedcaf94a903",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-10-09",
+      "Account ID": "6a53a874-af4d-45d5-acec-400adb31ecbc",
+      "Salesforce Opportunity ID": "006PH00000uS7RJYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b551999dz5a16z35a6z90aezb66e60263728",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -1563,7 +1607,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-09T10:51:19.154Z",
-  "total": 71,
+  "fetched_at": "2026-10-10T10:51:12.515Z",
+  "total": 73,
   "im_name": "Anna Genova"
 }
