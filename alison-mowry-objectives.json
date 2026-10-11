@@ -293,11 +293,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-10T10:51:12.515Z",
+  "fetched_at": "2026-10-11T10:51:14.251Z",
   "total": 32,
   "im_name": "Alison Mowry"
 }
