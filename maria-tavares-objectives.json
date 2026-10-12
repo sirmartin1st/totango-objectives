@@ -111,6 +111,28 @@
       "Objective Description": ""
     },
     {
+      "objective_id": "9782a454z1e6bz323bz80c9z587d4670b934",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-02",
+      "Account ID": "466a376e-bf83-4747-9d5d-87eec861f1b9",
+      "Salesforce Opportunity ID": "006PH00000njCdVYAU",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f4b083bfzd81ez33bbzbc2fz9eb15423ff88",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -629,7 +651,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-09-23",
@@ -673,7 +695,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-09-16",
@@ -837,7 +859,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-11T10:51:14.251Z",
-  "total": 38,
+  "fetched_at": "2026-10-12T10:51:13.702Z",
+  "total": 39,
   "im_name": "Maria Tavares"
 }
