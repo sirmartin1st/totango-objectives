@@ -270,7 +270,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 3
@@ -903,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-11T10:51:14.251Z",
+  "fetched_at": "2026-10-12T10:51:13.702Z",
   "total": 41,
   "im_name": "Albert Bright"
 }
