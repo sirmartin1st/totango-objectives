@@ -23,28 +23,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "366f0242zdb9cz3257z953fz1e1e3feeace5",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sherries Enriquez",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "157999f0-c8e5-4313-bc7c-278e187143b3",
-      "Salesforce Opportunity ID": "006PH00000nDSdOYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9ee73b13z7710z344cz8ae0zf1b0b81ff40c",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -89,7 +67,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-11T10:51:14.251Z",
-  "total": 4,
+  "fetched_at": "2026-10-12T10:51:13.702Z",
+  "total": 3,
   "im_name": "Sherries Enriquez"
 }
