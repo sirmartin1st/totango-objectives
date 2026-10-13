@@ -50,12 +50,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 1,
-        "percentage_of_completed_milestones": 28.571428,
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
@@ -519,7 +519,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-09-03",
@@ -705,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-12T10:51:13.702Z",
+  "fetched_at": "2026-10-13T10:51:20.445Z",
   "total": 32,
   "im_name": "Alison Mowry"
 }
