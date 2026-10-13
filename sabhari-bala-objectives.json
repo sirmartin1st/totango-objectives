@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "03f43831z89fcz31c2z948bzad69a9b3d913",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Stuart Oldham",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
+      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6deca5e8zd9c4z3729z829azd5c7a4a21f28",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "a350f336-ee57-4b1b-8ece-539dc22613ef",
+      "Salesforce Opportunity ID": "006PH00000pZnN3YAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "719b7ddcz4d13z31a2zb241zcb471b31b7da",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Cynthia Tian",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "dd8bfa97-fa31-4141-b474-2a6f83e78566",
+      "Salesforce Opportunity ID": "006PH00000oAyXZYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a08e3c83z5f70z3cf2zbe7bz7f93a5adaba5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Cynthia Tian",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "dd8bfa97-fa31-4141-b474-2a6f83e78566",
+      "Salesforce Opportunity ID": "006PH00000oAyXZYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1ab8411dzf572z332fzabd9z5da7c3773dc2",
       "display_name": null,
       "Objective Name": "(Onboarding) Content & Campaign Optimization",
@@ -227,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -249,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -271,11 +359,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -293,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Searches Completed 90D,,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -315,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -387,7 +475,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Cynthia Tian",
       "Objective Created Date": "2026-09-02",
@@ -441,28 +529,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "4647dfaaz5893z35f5z9a93z69a0f1ba3da2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-09-02",
-      "Account ID": "dd8bfa97-fa31-4141-b474-2a6f83e78566",
-      "Salesforce Opportunity ID": "006PH00000oAyXZYA0",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "48af2e95z79f8z3692zb3bcz14a0215f2619",
       "display_name": null,
       "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
@@ -475,7 +541,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Searches Completed 90D,,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Cynthia Tian",
       "Objective Created Date": "2026-09-02",
@@ -497,7 +563,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Cynthia Tian",
       "Objective Created Date": "2026-09-02",
@@ -519,7 +585,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Cynthia Tian",
       "Objective Created Date": "2026-09-02",
@@ -541,7 +607,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Cynthia Tian",
       "Objective Created Date": "2026-09-02",
@@ -563,28 +629,6 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-09-02",
-      "Account ID": "a350f336-ee57-4b1b-8ece-539dc22613ef",
-      "Salesforce Opportunity ID": "006PH00000pZnN3YAK",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "facce11fz3da5z3814z8fa7zdc6d5bab0c39",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Campaign Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 11.111111,
-      "Milestone Names": ",,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Jess Andrews",
@@ -733,11 +777,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -745,7 +789,7 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
       "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": null,
+      "Objective Created By": "sabhari.bala@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -771,28 +815,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "be10c1cfz3e09z3c62z95f4z76ea8d5010de",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d90e9fe2zae2ez3108z9d50z9566167914b9",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -811,50 +833,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "7fc48113-8a57-4020-8949-208a67eb5e6f",
       "Salesforce Opportunity ID": "006PH00000mRwCLYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e04259ffz8f2az311dz8bacz5a7fe1c7b218",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "a350f336-ee57-4b1b-8ece-539dc22613ef",
-      "Salesforce Opportunity ID": "006PH00000pZnN3YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e89a9851z12acz395eza12ez0d0fe396e04b",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "dd8bfa97-fa31-4141-b474-2a6f83e78566",
-      "Salesforce Opportunity ID": "006PH00000oAyXZYA0",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -953,11 +931,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 87.5,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 87.5,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,Mira Studio Usage,MI FB Setup New,1. Risk Landscape Defined,2. Crisis Detection & Monitoring Fully Operational",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -975,11 +953,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 87.5,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 87.5,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -1019,11 +997,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 83.333336,
         "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 83.333336,
       "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -1085,11 +1063,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Searches Completed 90D,,,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -1101,7 +1079,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-12T10:51:13.702Z",
-  "total": 50,
+  "fetched_at": "2026-10-13T10:51:20.445Z",
+  "total": 49,
   "im_name": "Sabhari Bala"
 }
