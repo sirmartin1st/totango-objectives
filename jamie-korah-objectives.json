@@ -45,28 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "b1d1f8dfz5b17z3587z9d6fze0add8449bc3",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "31d6721f-c584-49e9-9b1b-2c1622d0fc17",
-      "Salesforce Opportunity ID": "0065f00000IrsTBAAZ",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "011bd35fz1826z38ffzaeb8z8d655aa5cece",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -147,7 +125,7 @@
       "Milestone Names": "1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards,3. Brand Search Tracking Fully Operational",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
-      "CSM Owner": null,
+      "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-09-11",
       "Account ID": "6b41382d-8e78-43a3-bebe-40d10e8d6228",
       "Salesforce Opportunity ID": "006PH00000ou7WfYAI",
@@ -191,7 +169,7 @@
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
-      "CSM Owner": null,
+      "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-09-04",
       "Account ID": "6b41382d-8e78-43a3-bebe-40d10e8d6228",
       "Salesforce Opportunity ID": "006PH00000ou7WfYAI",
@@ -287,50 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "383f65fdz650fz3deaz94afzde0d53f36278",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "0a0653b6-7683-4494-a222-9df3738bb2a5",
-      "Salesforce Opportunity ID": "006PH00000otvGzYAI",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d46c1beazf721z3e07z9c39zb3ce76179a7a",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "0a0653b6-7683-4494-a222-9df3738bb2a5",
-      "Salesforce Opportunity ID": "006PH00000otvGzYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "bfbf5473z5103z3575zaad4ze28f6f36e4ce",
       "display_name": null,
       "Objective Name": "Brand Narrative Tracking",
@@ -353,7 +287,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-12T10:51:13.702Z",
-  "total": 16,
+  "fetched_at": "2026-10-13T10:51:20.445Z",
+  "total": 13,
   "im_name": "Jamie Korah"
 }
