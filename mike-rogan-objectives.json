@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "15c4625az088cz35d8zabcbz02121082fcce",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "3ddbe66a-70cb-4484-bebe-5929c696939b",
+      "Salesforce Opportunity ID": "006Rf00000J7F4EIAV",
+      "Objective Created By": "michael.rogan@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "19fd381bzcda1z3962zab20z9c2dee266670",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rogan",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-01",
@@ -79,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rogan",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-01",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rogan",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-01",
@@ -265,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-12T10:51:13.702Z",
-  "total": 12,
+  "fetched_at": "2026-10-13T10:51:20.445Z",
+  "total": 13,
   "im_name": "Mike Rogan"
 }
