@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "14ada168z2d36z3a6dz8dabz96dafc097d90",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shoko Enomoto",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "d8b68bb6-a1d4-4f6f-be3e-b458ec4e3e46",
+      "Salesforce Opportunity ID": "006PH00000tTNEVYA4",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7d318751z8120z3f9dzb72fz767fe6119bee",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shizuku Takayama",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "91609fda-08fe-4f1f-8b8b-e703677c061a",
+      "Salesforce Opportunity ID": "006PH00000rK81KYAS",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a78ae6b6z5303z3e8fz9837z66e28d2fafa0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shizuku Takayama",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "e2883264-62ab-4949-8848-f14f7828a650",
+      "Salesforce Opportunity ID": "006PH00000pdeHxYAI",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c96fae47zdc16z346fz8b7fz16b4819ac258",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shoko Enomoto",
+      "Objective Created Date": "2026-10-12",
+      "Account ID": "d8b68bb6-a1d4-4f6f-be3e-b458ec4e3e46",
+      "Salesforce Opportunity ID": "006PH00000tTNEVYA4",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "16e1facdz1147z3787z96c0z60efe7483d9c",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -145,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-02",
@@ -167,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-02",
@@ -189,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shoko Enomoto",
       "Objective Created Date": "2026-10-01",
@@ -211,7 +299,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-01",
@@ -507,28 +595,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ef2872a6zc4a5z3e5bzbd56z5b458548bdd7",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Kozue Irei",
-      "Objective Created Date": "2026-09-14",
-      "Account ID": "bf5b82fe-853c-4e3e-b878-22b74425d1f6",
-      "Salesforce Opportunity ID": "006PH00000r6gPRYAY",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "06d77629zd988z3993zb77cz68db345753cb",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -727,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-12T10:51:13.702Z",
-  "total": 33,
+  "fetched_at": "2026-10-13T10:51:20.445Z",
+  "total": 36,
   "im_name": "Aimi Hatayama"
 }
