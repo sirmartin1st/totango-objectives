@@ -175,31 +175,9 @@
       "Salesforce Opportunity ID": "006PH00000m51xVYAQ",
       "Objective Created By": "yasmina.khelfellah@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "70ccf2adz0b83z3814z8d67z45a8e82acf93",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 11.111111,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Linh Ha",
-      "Objective Created Date": "2026-08-13",
-      "Account ID": "5e285d6b-1595-4a2a-bfff-f8bbec7753b4",
-      "Salesforce Opportunity ID": "006PH00000opgoPYAQ",
-      "Objective Created By": "yasmina.khelfellah@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-13T10:51:20.445Z",
-  "total": 9,
+  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "total": 8,
   "im_name": "Yasmina Khelfellah"
 }
