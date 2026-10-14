@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c49cbffdz4835z30a0z81c9z28a4d9592a7e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content & Campaign Optimization",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "06304605-6975-4171-ae6e-8ee5becd0650",
+      "Salesforce Opportunity ID": "006PH00000uKllhYAC",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0745cecczb847z34fazb6f0z1bc838729e6b",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -89,7 +111,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-13T10:51:20.445Z",
-  "total": 4,
+  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "total": 5,
   "im_name": "Emma Ekeroth"
 }
