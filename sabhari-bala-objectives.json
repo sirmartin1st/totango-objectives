@@ -799,11 +799,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,,1. Content Curation Defined",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
@@ -1079,7 +1079,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-13T10:51:20.445Z",
+  "fetched_at": "2026-10-14T10:51:26.923Z",
   "total": 49,
   "im_name": "Sabhari Bala"
 }
