@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "202d99a3zd60bz39bfzb6e6z20d0c01db369",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Nada Alsaad",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "cf2e4e18-7ada-48a8-bdfd-69a14261ecad",
+      "Salesforce Opportunity ID": "006PH00000ttsjGYAQ",
+      "Objective Created By": "naseraldin.kayemah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "40c91208z7d01z373bzab9bzd280433d032a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "3cb161cb-98a4-4111-90d0-4d642a672ec1",
+      "Salesforce Opportunity ID": "006PH00000qLwO1YAK",
+      "Objective Created By": "naseraldin.kayemah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6633548czd2f3z3afdza95fz8205657401c2",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-10-01",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-10-01",
@@ -221,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-13T10:51:20.445Z",
-  "total": 10,
+  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "total": 12,
   "im_name": "Naseraldin Kayemah"
 }
