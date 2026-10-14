@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "60911cf3z98d8z369cz88b0zdd48b6cbd872",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": "Shalini Govindasamy",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "f94f5ab6-ef59-4f7f-88c8-fb76f1a812d7",
+      "Salesforce Opportunity ID": "006PH00000h9FqHYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "aa3eaf3az2aecz3bf9za730zadcf8478151c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": "Shalini Govindasamy",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "f94f5ab6-ef59-4f7f-88c8-fb76f1a812d7",
+      "Salesforce Opportunity ID": "006PH00000h9FqHYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ad03709dz44b1z308czada0zb410cbff1d8e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": "Shalini Govindasamy",
+      "Objective Created Date": "2026-10-13",
+      "Account ID": "f94f5ab6-ef59-4f7f-88c8-fb76f1a812d7",
+      "Salesforce Opportunity ID": "006PH00000h9FqHYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5e830e92z3359z3a51zb75dz80d36ce42e3e",
       "display_name": null,
       "Objective Name": "(Onboarding) PR Media Impact Measurement",
@@ -557,11 +623,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -881,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-13T10:51:20.445Z",
-  "total": 40,
+  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "total": 43,
   "im_name": "Ankhiyan Ranjan"
 }
