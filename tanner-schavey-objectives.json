@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "0aba4e8cz1348z32fczbb5fz71f6ae753ef9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "cf314e4c-580a-4b3b-b2f2-a6d17e0fe7ab",
+      "Salesforce Opportunity ID": "006PH00000slkptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4080e428zc702z38f1za72fz5e9d240e7da9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "cf314e4c-580a-4b3b-b2f2-a6d17e0fe7ab",
+      "Salesforce Opportunity ID": "006PH00000slkptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7b86defazd5dbz30b2zb6c8z74b6f1bf3f36",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "cf314e4c-580a-4b3b-b2f2-a6d17e0fe7ab",
+      "Salesforce Opportunity ID": "006PH00000slkptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "58b16f88zf7cbz35bczb3d6z250cb26e2bb5",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -353,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 16,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 19,
   "im_name": "Tanner Schavey"
 }
