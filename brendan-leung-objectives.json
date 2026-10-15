@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "5dd64a6cz0b6dz3bb8z9aeezd03c8e55d823",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Savanah Wilshire",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "5ab6fff8-1fd2-42b2-9ada-b9a46f22c92d",
+      "Salesforce Opportunity ID": "006PH00000r0uN3YAI",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "dd412a0bz24e3z3af0z8e41z946415287bb0",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -35,9 +57,9 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Josh Paradise",
       "Objective Created Date": "2026-10-05",
       "Account ID": "00d297da-b9b3-4575-9898-604c3a228793",
       "Salesforce Opportunity ID": "006PH00000jpGFJYA2",
@@ -262,28 +284,6 @@
       "Account ID": "5ab6fff8-1fd2-42b2-9ada-b9a46f22c92d",
       "Salesforce Opportunity ID": "006PH00000r0uN3YAI",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a72d1ab2zdeb8z30fbza3efz305d77939591",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "MI API Articles Exported 30d",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-09-23",
-      "Account ID": "6af99ec3-b55c-4a7a-97d7-fca1de281a47",
-      "Salesforce Opportunity ID": "006PH00000ndbOTYAY",
-      "Objective Created By": "marty.sloane@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -529,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "fetched_at": "2026-10-15T10:51:18.466Z",
   "total": 24,
   "im_name": "Brendan Leung"
 }
