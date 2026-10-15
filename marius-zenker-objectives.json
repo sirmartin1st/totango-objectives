@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Vanessa Viertel",
       "Objective Created Date": "2026-10-07",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -403,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -503,28 +503,6 @@
       "Objective Created Date": "2026-09-18",
       "Account ID": "0f2f202e-ccbf-4efe-acac-e13d02d76168",
       "Salesforce Opportunity ID": "006PH00000opJ2EYAU",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4b27e9b0z2613z30dez8a2ez03776d7b43c4",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 11.111111,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-09-11",
-      "Account ID": "e807e8af-ae2c-4d6d-a6a6-b25f0f13a430",
-      "Salesforce Opportunity ID": "006PH00000rfixpYAA",
       "Objective Created By": "marius.zenker@meltwater.com",
       "Objective Description": ""
     },
@@ -815,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 37,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 36,
   "im_name": "Marius Zenker"
 }
