@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Camila Henriquez",
       "Objective Created Date": "2026-10-12",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Camila Henriquez",
       "Objective Created Date": "2026-10-09",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-05",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-04",
@@ -623,11 +623,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
@@ -805,7 +805,7 @@
       },
       "Pct Milestones Completed": 85.71429,
       "Milestone Names": "MI Created Dashboards,Nbr of MI users Active 30d,users in community,Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-09-16",
@@ -865,11 +865,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
@@ -887,11 +887,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 10,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 10,
+      "Pct Milestones Completed": 20,
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
@@ -903,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
+  "fetched_at": "2026-10-15T10:51:18.466Z",
   "total": 41,
   "im_name": "Albert Bright"
 }
