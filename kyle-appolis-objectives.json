@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "233d62ddz44a3z3f1fz8f0fz03b6dc944600",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Helena Ossanna",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "ba6b7e07-db33-4656-b9b9-c120c4f2f004",
+      "Salesforce Opportunity ID": "006PH00000iyGQLYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "993dc0ddz0d7cz3044zafe8z49718ed98ef6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Helena Ossanna",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "ba6b7e07-db33-4656-b9b9-c120c4f2f004",
+      "Salesforce Opportunity ID": "006PH00000iyGQLYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "432e1599z3948z3b90z89c0ze5fe2ecf14cb",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -161,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Kyle Appolis",
@@ -235,7 +279,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Kyle Appolis",
-      "CSM Owner": null,
+      "CSM Owner": "Abi Wendt",
       "Objective Created Date": "2026-09-28",
       "Account ID": "b9a74d09-4449-4505-9717-af9adcb9df2b",
       "Salesforce Opportunity ID": "006PH00000shghdYAA",
@@ -257,7 +301,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Kyle Appolis",
-      "CSM Owner": null,
+      "CSM Owner": "Abi Wendt",
       "Objective Created Date": "2026-09-28",
       "Account ID": "b9a74d09-4449-4505-9717-af9adcb9df2b",
       "Salesforce Opportunity ID": "006PH00000shghdYAA",
@@ -331,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 15,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 17,
   "im_name": "Kyle Appolis"
 }
