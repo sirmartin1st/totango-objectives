@@ -125,7 +125,7 @@
       "Milestone Names": "",
       "Onboarding Stage": null,
       "Implementation Manager": "Anna Genova",
-      "CSM Owner": null,
+      "CSM Owner": "Anne-Frederic Duval",
       "Objective Created Date": "2026-10-07",
       "Account ID": "ef75765a-d9c8-4d9d-b9f9-c3157eb9822c",
       "Salesforce Opportunity ID": "006PH00000rhlI5YAI",
@@ -147,7 +147,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Anna Genova",
-      "CSM Owner": null,
+      "CSM Owner": "Anne-Frederic Duval",
       "Objective Created Date": "2026-10-07",
       "Account ID": "ef75765a-d9c8-4d9d-b9f9-c3157eb9822c",
       "Salesforce Opportunity ID": "006PH00000rhlI5YAI",
@@ -601,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -1101,72 +1101,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2eccd003zc998z369cz8bf5zfd157b00c407",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "58a8c7de-c2f0-4232-8e0e-35cd2ab7b6ad",
-      "Salesforce Opportunity ID": "006PH00000rmlu9YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "67085e48z0ff5z3ec1z8835z6df301556062",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "58a8c7de-c2f0-4232-8e0e-35cd2ab7b6ad",
-      "Salesforce Opportunity ID": "006PH00000rmlu9YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c0f8e508zfd52z3e17z8cd0z80385b1e00de",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "58a8c7de-c2f0-4232-8e0e-35cd2ab7b6ad",
-      "Salesforce Opportunity ID": "006PH00000rmlu9YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "664c9df6zed56z3dfcz8bc5zdb67eedc29ef",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -1629,7 +1563,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 74,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 71,
   "im_name": "Anna Genova"
 }
