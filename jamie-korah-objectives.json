@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "575ecc11z29f6z3907z8420ze83abef96b99",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "8e57ea89-676b-4262-8c0c-dc126a7355ef",
+      "Salesforce Opportunity ID": "006PH00000qlWphYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f2dcd8d7zbbb3z3694z8b4fz8fc66803ea97",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-10-14",
+      "Account ID": "8e57ea89-676b-4262-8c0c-dc126a7355ef",
+      "Salesforce Opportunity ID": "006PH00000qlWphYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4ab2f5d5z2a7cz3b30z8d1cz866dc47291bb",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -287,7 +331,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 13,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 15,
   "im_name": "Jamie Korah"
 }
