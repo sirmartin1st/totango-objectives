@@ -15,7 +15,7 @@
       "Milestone Names": "",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": null,
+      "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-10-09",
       "Account ID": "4c2a3d1b-40f1-4ddd-bb7b-ba2214cb5e68",
       "Salesforce Opportunity ID": "006PH00000p8qorYAA",
@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Alejandra Arismendi",
@@ -173,28 +173,6 @@
       "Objective Created Date": "2026-10-01",
       "Account ID": "04c77cae-869a-4c2c-8202-6a8723374f7c",
       "Salesforce Opportunity ID": "006PH00000rLONNYA4",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e54fcbaazf347z3e1dz9547z4685756ed5ab",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Ana Mart?nez P?rez",
-      "Objective Created Date": "2026-09-26",
-      "Account ID": "ec4cefce-d45c-4cac-b070-b2ecaabcdaee",
-      "Salesforce Opportunity ID": "006PH00000eF7BqYAK",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -331,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1e1df9e3z05c2z3388z97eczf2679e7edf88",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Ana Mart?nez P?rez",
-      "Objective Created Date": "2026-07-31",
-      "Account ID": "ec4cefce-d45c-4cac-b070-b2ecaabcdaee",
-      "Salesforce Opportunity ID": "006PH00000eF7BqYAK",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "746ab271zd6fez3d36z9afeza659a407eb4c",
       "display_name": null,
       "Objective Name": "(FIP) Executive Reporting & Dashboards",
@@ -397,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-14T10:51:26.923Z",
-  "total": 18,
+  "fetched_at": "2026-10-15T10:51:18.466Z",
+  "total": 16,
   "im_name": "Alejandra Arismendi"
 }
