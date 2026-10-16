@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "78fcd1f0z0efaz3107zb3cbz612b60c787c2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",HS20 Articles Clicked 90D,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jake Brudenell",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "00322b46-73a5-4dcd-b7b7-f40dbb221a3c",
+      "Salesforce Opportunity ID": "006PH00000tJKHtYAO",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a2096190z7753z3ef9zaa0czf8561e5823c3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "fb1b799c-06f0-4cfc-92d2-46215556ead3",
+      "Salesforce Opportunity ID": "006PH00000skNNWYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c3eaa724zd3e9z3f41z9f88za5a7a3dd2aa2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jake Brudenell",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "8784db76-53c1-4999-a4e4-32414312a895",
+      "Salesforce Opportunity ID": "006PH00000qDL2HYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d81a75faz7031z3b31z8960zd59eb42431fe",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jake Brudenell",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "00322b46-73a5-4dcd-b7b7-f40dbb221a3c",
+      "Salesforce Opportunity ID": "006PH00000tJKHtYAO",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "db08d174z4434z38e4z849ez49b34bce6530",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jake Brudenell",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "00322b46-73a5-4dcd-b7b7-f40dbb221a3c",
+      "Salesforce Opportunity ID": "006PH00000tJKHtYAO",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "61cd0e08z25f2z364czb80ez1f5f66d4b0b4",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -15,7 +125,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Hana Yoshida",
-      "CSM Owner": null,
+      "CSM Owner": "Jess Andrews",
       "Objective Created Date": "2026-10-14",
       "Account ID": "fb1b799c-06f0-4cfc-92d2-46215556ead3",
       "Salesforce Opportunity ID": "006PH00000skNNWYA2",
@@ -37,7 +147,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Hana Yoshida",
-      "CSM Owner": null,
+      "CSM Owner": "Jess Andrews",
       "Objective Created Date": "2026-10-14",
       "Account ID": "fb1b799c-06f0-4cfc-92d2-46215556ead3",
       "Salesforce Opportunity ID": "006PH00000skNNWYA2",
@@ -183,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -227,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -359,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -403,11 +513,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Hana Yoshida",
@@ -793,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 36,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 41,
   "im_name": "Hana Yoshida"
 }
