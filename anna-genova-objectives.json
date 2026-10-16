@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "723d5ef4z006fz3202z8774ze4053172b17c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "6936741e-7e2d-4e1e-bcbc-35f1b1596a1d",
+      "Salesforce Opportunity ID": "006PH00000tn75VYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ad795450zef68z3fbczb2d3z17b723ff1a5e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "290b549d-752d-4cec-a6e6-7fdf8cf8ed43",
+      "Salesforce Opportunity ID": "006PH00000r8ijhYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ee1d4884z5de6z348ezb8fbzce53c99dd667",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "890ffc42-0b99-49b9-b2f2-2c8031c4f4ed",
+      "Salesforce Opportunity ID": "006PH00000t0R0XYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "630ff2c3z084fz3fd5z80c5z3a5f105637f0",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -403,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1195,11 +1261,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1247,7 +1313,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Bridget Lindh",
+      "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-08-27",
       "Account ID": "5754157c-9737-4848-8bcb-9e6ccb510345",
       "Salesforce Opportunity ID": "006PH00000pB8PtYAK",
@@ -1313,7 +1379,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Bridget Lindh",
+      "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-08-27",
       "Account ID": "5754157c-9737-4848-8bcb-9e6ccb510345",
       "Salesforce Opportunity ID": "006PH00000pB8PtYAK",
@@ -1563,7 +1629,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 71,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 74,
   "im_name": "Anna Genova"
 }
