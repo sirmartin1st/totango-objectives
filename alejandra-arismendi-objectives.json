@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Alejandra Arismendi",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 57.142857,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,,",
       "Onboarding Stage": "Live",
       "Implementation Manager": "Alejandra Arismendi",
@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
@@ -239,94 +239,6 @@
       "Objective Created Date": "2026-09-18",
       "Account ID": "cd1c0ec6-aadc-4999-80c0-3cec26f95651",
       "Salesforce Opportunity ID": "006Rf00000RrY7FIAV",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8074631fz31b4z3049z8bacz443f1a46e565",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "2ba18acd-c9e6-45b5-9757-eee5dd641fe2",
-      "Salesforce Opportunity ID": "006PH00000oZkhXYAS",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "286f02a4zacc7z303dza01cz2bd6edcfeb52",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "R?my Da Costa",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "3c4a09f8-1899-47d7-9252-e51039f3b2c8",
-      "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a8f691a2z2512z3c00z875ez7c6986f93176",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "R?my Da Costa",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "3c4a09f8-1899-47d7-9252-e51039f3b2c8",
-      "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "746ab271zd6fez3d36z9afeza659a407eb4c",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,,1. Executive Dashboard & Alerts Fully Operational",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "R?my Da Costa",
-      "Objective Created Date": "2026-07-03",
-      "Account ID": "3c4a09f8-1899-47d7-9252-e51039f3b2c8",
-      "Salesforce Opportunity ID": "006Rf00000XOfJzIAL",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
     },
@@ -353,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 16,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 12,
   "im_name": "Alejandra Arismendi"
 }
