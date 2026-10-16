@@ -309,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3057d18cza2d7z3925za4e6zb4c78e79031e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Katherin Duque",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "ead7304d-7fbb-4898-8949-928cd70f6dff",
-      "Salesforce Opportunity ID": "006PH00000qzjlSYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "6664b8d3z9d82z3389za685z1fef7d43e4dc",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -349,28 +327,6 @@
       "Objective Created Date": "2026-08-31",
       "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
       "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e2714726z2382z332cza0faz2dbe21723cf8",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Helena Herzberg",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "4c72cacb-efbe-4bab-8848-fc09ca82bab1",
-      "Salesforce Opportunity ID": "006PH00000h9RElYAM",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -529,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 24,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 22,
   "im_name": "Mizan Pretorius"
 }
