@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "a7676899z2c9bz3df7za06azadae767d313b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Jessie Page",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "cf314e4c-580a-4b3b-b2f2-a6d17e0fe7ab",
+      "Salesforce Opportunity ID": "006PH00000slkptYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0aba4e8cz1348z32fczbb5fz71f6ae753ef9",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -211,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-09-30",
@@ -233,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-09-30",
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 19,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 20,
   "im_name": "Tanner Schavey"
 }
