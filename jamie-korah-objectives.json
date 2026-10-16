@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "82405979ze4caz3a19z8451z16cf1d7197ce",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "ac905e8e-efc1-4131-9cdc-99f195c38bb8",
+      "Salesforce Opportunity ID": "006Rf00000X82T3IAJ",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "575ecc11z29f6z3907z8420ze83abef96b99",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-02",
@@ -331,7 +353,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 15,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 16,
   "im_name": "Jamie Korah"
 }
