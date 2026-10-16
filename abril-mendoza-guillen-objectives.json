@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "3572322fzb1c7z3ef2zaea0zb114b28c887a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "610b7e27-8a63-4515-9595-9f9a4d505c91",
+      "Salesforce Opportunity ID": "006PH00000u3jWbYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f8376b61za698z33c7zbabaze4e878ecb765",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "610b7e27-8a63-4515-9595-9f9a4d505c91",
+      "Salesforce Opportunity ID": "006PH00000u3jWbYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "d798c837z9b47z3255z8a92zc2b2cf1cf399",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -29,13 +73,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-08",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-07",
@@ -79,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-07",
@@ -117,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -161,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -227,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -293,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Live",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -337,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -925,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 42,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 44,
   "im_name": "Abril Mendoza Guillen"
 }
