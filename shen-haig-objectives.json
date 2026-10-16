@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "0905175fzad0az39cfzab1cz3af97c54c098",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Shen Haig",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "ecbd29cd-19f6-4707-8d8d-be55440f2f6c",
-      "Salesforce Opportunity ID": "006Rf00000XIZifIAH",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "7df07b93z91a9z3779za0e3zaa63aaa556ba",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -67,7 +45,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 3,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 2,
   "im_name": "Shen Haig"
 }
