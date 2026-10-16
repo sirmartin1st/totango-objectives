@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "7a984a3ez5e33z37acz8aa5z34fc9627f431",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Bobby Choppa",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "e4772d60-4864-4919-86c6-ba8e469edfa6",
+      "Salesforce Opportunity ID": "006PH00000sGXIgYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b8da8c28z773cz3fe3zac6dz78109c082f49",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Simon Broadway",
+      "Objective Created Date": "2026-10-15",
+      "Account ID": "ea157bab-e821-4272-8383-6f27a7b5774b",
+      "Salesforce Opportunity ID": "006PH00000sRJyjYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5dd64a6cz0b6dz3bb8z9aeezd03c8e55d823",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -529,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-15T10:51:18.466Z",
-  "total": 24,
+  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "total": 26,
   "im_name": "Brendan Leung"
 }
