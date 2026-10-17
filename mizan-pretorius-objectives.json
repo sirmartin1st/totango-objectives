@@ -89,28 +89,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6404472dz43d3z3ccaza4a0z7909e37cbf28",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Merle Johann",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "14a1c6b0-3e5f-4afa-a1a1-d1dfdfa64e28",
-      "Salesforce Opportunity ID": "006PH00000gjF7aYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ae0b1011z0440z3783zb430z36f0a2a8786f",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -139,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -161,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -331,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "f465349bz1c89z34eezafcbzf2803d80f906",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Merle Johann",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "14a1c6b0-3e5f-4afa-a1a1-d1dfdfa64e28",
-      "Salesforce Opportunity ID": "006PH00000gjF7aYAE",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2f190182zf0fdz39c1z8c43z399b8cb08c56",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -485,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-16T10:51:14.908Z",
-  "total": 22,
+  "fetched_at": "2026-10-17T10:51:16.397Z",
+  "total": 20,
   "im_name": "Mizan Pretorius"
 }
