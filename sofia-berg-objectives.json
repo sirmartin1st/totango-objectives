@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "fe546f91z95ebz3a53za407zbf6b00d5212a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-16",
+      "Account ID": "7bfb4875-6c5d-4bfb-adad-e295e673fca3",
+      "Salesforce Opportunity ID": "006PH00000u71OvYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0a21b9adzc30bz336bz9a22z3f26ff2f576b",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -183,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
@@ -447,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 57.142857,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 57.142857,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
@@ -551,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-16T10:51:14.908Z",
-  "total": 25,
+  "fetched_at": "2026-10-17T10:51:16.397Z",
+  "total": 26,
   "im_name": "Sofia ?berg"
 }
