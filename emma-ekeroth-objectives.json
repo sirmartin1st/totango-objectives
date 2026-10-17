@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "92ec14e0z9c81z38c5z8667z25965c346497",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-10-16",
+      "Account ID": "6304d10b-b7f7-45f5-afef-119872a3a713",
+      "Salesforce Opportunity ID": "006PH00000u7FRvYAM",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2928e3c4zd7eez3e73z8d85z5600193f69ce",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-10-14",
@@ -133,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-16T10:51:14.908Z",
-  "total": 6,
+  "fetched_at": "2026-10-17T10:51:16.397Z",
+  "total": 7,
   "im_name": "Emma Ekeroth"
 }
