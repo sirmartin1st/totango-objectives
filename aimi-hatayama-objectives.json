@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "fetched_at": "2026-10-17T10:51:16.397Z",
   "total": 36,
   "im_name": "Aimi Hatayama"
 }
