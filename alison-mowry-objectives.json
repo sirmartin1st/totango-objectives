@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-15",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-15",
@@ -365,7 +365,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": ",MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,users in community,MI Created Dashboards",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-18",
@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-09-17",
@@ -617,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-16T10:51:14.908Z",
+  "fetched_at": "2026-10-17T10:51:16.397Z",
   "total": 28,
   "im_name": "Alison Mowry"
 }
