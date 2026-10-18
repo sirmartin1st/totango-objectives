@@ -497,7 +497,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,Mira Studio Usage,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Keanna Chang",
       "Objective Created Date": "2026-09-15",
@@ -519,7 +519,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Keanna Chang",
       "Objective Created Date": "2026-09-15",
@@ -541,7 +541,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Keanna Chang",
       "Objective Created Date": "2026-09-15",
@@ -613,28 +613,6 @@
       "Objective Created Date": "2026-09-15",
       "Account ID": "a39dd0a4-12fe-4878-8484-50fc21bced0c",
       "Salesforce Opportunity ID": "006PH00000pn4l5YAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "eb432ff3zf969z31a7zb960z779ef4a2bc24",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Shivani Parasher",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "6f21319c-9bc6-4ded-98d8-bda92fd5e6e3",
-      "Salesforce Opportunity ID": "006PH00000sP2qjYAC",
       "Objective Created By": "ankhiyan.ranjan@meltwater.com",
       "Objective Description": ""
     },
@@ -947,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-17T10:51:16.397Z",
-  "total": 43,
+  "fetched_at": "2026-10-18T10:51:14.593Z",
+  "total": 42,
   "im_name": "Ankhiyan Ranjan"
 }
