@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 71.42857,
       "Milestone Names": "MI Created Dashboards,users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-05",
@@ -211,7 +211,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-05",
@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-04",
@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-04",
@@ -925,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-17T10:51:16.397Z",
+  "fetched_at": "2026-10-18T10:51:14.593Z",
   "total": 42,
   "im_name": "Albert Bright"
 }
