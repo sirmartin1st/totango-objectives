@@ -353,28 +353,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "9fcd6b4cz817ez349dzb72cz86e550c31999",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": ",MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,users in community,MI Created Dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-09-18",
-      "Account ID": "f9fe4216-111f-46f6-b373-620386dbd3ec",
-      "Salesforce Opportunity ID": "006PH00000sj0spYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "9e3dfbccz9c9dz395cz98f9z1c515106d9e9",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -393,28 +371,6 @@
       "Objective Created Date": "2026-09-17",
       "Account ID": "6aa492e0-f03c-4e9e-bbfb-8c036356b6b0",
       "Salesforce Opportunity ID": "006PH00000sImDZYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c8e217acz26cez3176z8533z91e3103e2527",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-09-17",
-      "Account ID": "f9fe4216-111f-46f6-b373-620386dbd3ec",
-      "Salesforce Opportunity ID": "006PH00000sj0spYAA",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -491,11 +447,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
@@ -617,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-17T10:51:16.397Z",
-  "total": 28,
+  "fetched_at": "2026-10-18T10:51:14.593Z",
+  "total": 26,
   "im_name": "Alison Mowry"
 }
