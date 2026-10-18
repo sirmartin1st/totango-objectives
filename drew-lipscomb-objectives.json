@@ -7,11 +7,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Total Num Workshop Registrations ALL TIME",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-11",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-10-04",
@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-10-04",
@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-01",
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Drew Lipscomb",
@@ -519,7 +519,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-29",
@@ -607,7 +607,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-29",
@@ -695,7 +695,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Dashboards,users in community,Nbr of MI users Active 30d,,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Walker Prince",
       "Objective Created Date": "2026-09-28",
@@ -903,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-17T10:51:16.397Z",
+  "fetched_at": "2026-10-18T10:51:14.593Z",
   "total": 41,
   "im_name": "Drew Lipscomb"
 }
