@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "77d340a8z0d28z3e75za7a1zba9520121805",
+      "display_name": null,
+      "Objective Name": "Digital SMB Customer Onboarding",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 42.857143,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 42.857143,
+      "Milestone Names": ",Nbr of MI users Active 30d,users in community,MI Created Searches,Total Num Workshop Registrations ALL TIME,MI Created Dashboards,MI Daily Digest Sent",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "b06acc90-0844-4a5a-a0a0-80ab5337e8dc",
+      "Salesforce Opportunity ID": "006PH00000uHPWPYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "d622a62ezd434z3fdaz89fbzce76be141904",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Albert Bright",
@@ -211,7 +233,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,,MI Created Dashboards,users in community,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-05",
@@ -233,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-04",
@@ -925,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
-  "total": 42,
+  "fetched_at": "2026-10-19T10:51:15.752Z",
+  "total": 43,
   "im_name": "Albert Bright"
 }
