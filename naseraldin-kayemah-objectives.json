@@ -219,53 +219,9 @@
       "Salesforce Opportunity ID": "006PH00000o6z5fYAA",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "bc175441zc3eaz31c5z9c51z7ab4823707d2",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d30c8d1f-e773-4686-9f1f-306edc18a28c",
-      "Salesforce Opportunity ID": "006PH00000mgIbBYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e29d6ed4z0afaz3278z83e8zfffdc4ebde5b",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d30c8d1f-e773-4686-9f1f-306edc18a28c",
-      "Salesforce Opportunity ID": "006PH00000mgIbBYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
-  "total": 12,
+  "fetched_at": "2026-10-19T10:51:15.752Z",
+  "total": 10,
   "im_name": "Naseraldin Kayemah"
 }
