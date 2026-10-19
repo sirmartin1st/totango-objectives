@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "93f06e53z1f4bz346cz88f2zb7d8b319031c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Ellen Bruns",
+      "Objective Created Date": "2026-10-18",
+      "Account ID": "f5e1b50e-1468-4141-a5e5-71352f01358c",
+      "Salesforce Opportunity ID": "006PH00000udd2sYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ade466f5z3a80z35b5z9b50zbd0850aba309",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -133,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
-  "total": 6,
+  "fetched_at": "2026-10-19T10:51:15.752Z",
+  "total": 7,
   "im_name": "Mike Rose"
 }
