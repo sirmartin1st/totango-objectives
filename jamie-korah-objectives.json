@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6f9d69cdzf518z3278z92d3zfca7288962d9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-10-18",
+      "Account ID": "f58e28c3-ad39-45a5-9fdf-e694ff70446f",
+      "Salesforce Opportunity ID": "006PH00000qXvj7YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "82405979ze4caz3a19z8451z16cf1d7197ce",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -309,7 +331,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
-  "total": 14,
+  "fetched_at": "2026-10-19T10:51:15.752Z",
+  "total": 15,
   "im_name": "Jamie Korah"
 }
