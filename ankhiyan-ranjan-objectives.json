@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Shalini Govindasamy",
       "Objective Created Date": "2026-10-13",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Shalini Govindasamy",
       "Objective Created Date": "2026-10-13",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": "Shalini Govindasamy",
       "Objective Created Date": "2026-10-13",
@@ -925,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
+  "fetched_at": "2026-10-19T10:51:15.752Z",
   "total": 42,
   "im_name": "Ankhiyan Ranjan"
 }
