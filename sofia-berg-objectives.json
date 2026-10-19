@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "861e96c6zde00z31fbzbd10zfb05f7c6cea4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "7bfb4875-6c5d-4bfb-adad-e295e673fca3",
+      "Salesforce Opportunity ID": "006PH00000u71OvYAI",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ef6c63b3z75c6z3047z9eabzebf06643e16e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "7bfb4875-6c5d-4bfb-adad-e295e673fca3",
+      "Salesforce Opportunity ID": "006PH00000u71OvYAI",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fe546f91z95ebz3a53za407zbf6b00d5212a",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -189,7 +233,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-10-02",
@@ -211,7 +255,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-10-01",
@@ -233,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-09-30",
@@ -255,7 +299,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-09-30",
@@ -277,7 +321,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Evelina Delsing",
       "Objective Created Date": "2026-09-30",
@@ -573,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-18T10:51:14.593Z",
-  "total": 26,
+  "fetched_at": "2026-10-19T10:51:15.752Z",
+  "total": 28,
   "im_name": "Sofia ?berg"
 }
