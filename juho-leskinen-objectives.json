@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0c2acb25z374az3f1azbbcczf41c809dcbe8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Natallia Sanchez",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "f726a277-e86f-4e2e-8888-9a72d8a91850",
+      "Salesforce Opportunity ID": "006PH00000kMDaQYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3331c333z1c99z33b1z845ez08ec919ff874",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Malin Jiremark",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "6820f8aa-efa4-4a0a-8646-ebfb6887beb6",
+      "Salesforce Opportunity ID": "006PH00000jgtuEYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f4c37f1bz19b0z35b5zaaa3z32b0f89d109d",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Juho Leskinen",
@@ -353,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 16,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 18,
   "im_name": "Juho Leskinen"
 }
