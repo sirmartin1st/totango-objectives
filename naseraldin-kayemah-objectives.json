@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "aee0b8c1z2899z3c24zba85zc9b3b26fcf60",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": "Marina Shafik",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "2968db37-5d82-45e5-95d5-063d526ec745",
+      "Salesforce Opportunity ID": "006PH00000qIDbxYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "202d99a3zd60bz39bfzb6e6z20d0c01db369",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -221,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 10,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 11,
   "im_name": "Naseraldin Kayemah"
 }
