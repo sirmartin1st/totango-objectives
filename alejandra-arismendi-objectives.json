@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "9dc5dcd0z0f01z3396zb1bez3af48f3eead8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Voice of Customer Segmentation",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,MI API Exports 30d,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Patricia Moreno",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "50b69301-4498-4ede-b1f1-20430a75558a",
+      "Salesforce Opportunity ID": "006PH00000qmh7xYAA",
+      "Objective Created By": "alejandra.arismendi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ef82c806zaccfz344azaad6z278ab51b4fae",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Live",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "R?my Da Costa",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "e9ab1851-62d5-4cac-9090-c99d8356bb6f",
+      "Salesforce Opportunity ID": "006PH00000gViqzYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "55cbf566zfbfaz3ad3z8544zd1244432364a",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-10-09",
@@ -73,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Alejandra Arismendi",
@@ -265,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 12,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 14,
   "im_name": "Alejandra Arismendi"
 }
