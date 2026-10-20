@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "cc85a84aze23cz39c3zb3e4za5063cbd9c83",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Muhammed Hussain",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "19681967-c264-42f2-b070-2e30c7d785d7",
+      "Salesforce Opportunity ID": "006PH00000iYnWQYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d5024fbbz0176z3462z8d31zd40064739754",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Wesley Howell",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "5f48310e-3bc6-4c1c-a222-ebbb416b9f9b",
+      "Salesforce Opportunity ID": "006PH00000tLwcQYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "9a3352daz2958z31b8z97e3ze398b00d2473",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-16",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-16",
@@ -57,7 +101,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-16",
@@ -211,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
@@ -233,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
@@ -255,7 +299,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
@@ -277,7 +321,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": "Muhammed Hussain",
       "Objective Created Date": "2026-10-01",
@@ -507,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 23,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 25,
   "im_name": "Tanner Schavey"
 }
