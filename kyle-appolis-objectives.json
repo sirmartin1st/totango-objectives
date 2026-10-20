@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "2d5a7c05z8852z3be1zbd49za1a887a00f00",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Yannick Kattenberg",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "89c1cf56-79bc-4c6c-9b5b-f9dbc335d5b8",
+      "Salesforce Opportunity ID": "006PH00000tK0fKYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f58306bcz4320z3aaczb87dz49c963e3ced7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "35ddf67c-2cdd-4aaa-9e9e-caed9302d236",
+      "Salesforce Opportunity ID": "006PH00000rRhK5YAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "bf7afa27zb9adz332bz96abzf187800855ee",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -167,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-05",
@@ -189,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-05",
@@ -211,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-05",
@@ -277,7 +321,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,,,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": "Louisa Isaacs",
       "Objective Created Date": "2026-10-01",
@@ -485,7 +529,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 22,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 24,
   "im_name": "Kyle Appolis"
 }
