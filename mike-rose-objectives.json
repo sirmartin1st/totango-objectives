@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "19994ce2zfdfez352aza84fz4bc5affa0ee0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Ellen Bruns",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "f5e1b50e-1468-4141-a5e5-71352f01358c",
+      "Salesforce Opportunity ID": "006PH00000udd2sYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dcde6105z0b72z3086zb7d0z59944ddd8b39",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Ellen Bruns",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "f5e1b50e-1468-4141-a5e5-71352f01358c",
+      "Salesforce Opportunity ID": "006PH00000udd2sYAA",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e1d2869dz9994z3e85zacbbzc4655945f0bc",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Ellen Bruns",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "f5e1b50e-1468-4141-a5e5-71352f01358c",
+      "Salesforce Opportunity ID": "006PH00000udd2sYAA",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "93f06e53z1f4bz346cz88f2zb7d8b319031c",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -155,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 7,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 10,
   "im_name": "Mike Rose"
 }
