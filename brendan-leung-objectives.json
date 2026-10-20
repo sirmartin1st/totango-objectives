@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "10784463zcc85z3342zaa3bz7ba9007fe7e9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Darby Tingue",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "b00b615d-5d76-4cfc-a323-ba2e54c4401d",
+      "Salesforce Opportunity ID": "006PH00000jNXpNYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "50cf3288z9440z3e57zac83zaec459e6beba",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Connor Sikora",
+      "Objective Created Date": "2026-10-19",
+      "Account ID": "6a4bdc56-97ad-4c9c-aa6a-08bb44247b00",
+      "Salesforce Opportunity ID": "006PH00000nJxZdYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "7a984a3ez5e33z37acz8aa5z34fc9627f431",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -293,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -507,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 23,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 25,
   "im_name": "Brendan Leung"
 }
