@@ -45,28 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "c0e19b22zffa5z33e3z8f35z68f61aa69c9e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 14.285714,
-      "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Merle Johann",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "38d81f10-8224-4414-9d5d-ae2d60d2ee26",
-      "Salesforce Opportunity ID": "006Rf00000NxJFzIAN",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "f45ef4ebzd66bz3a9dzb31cz4f1499a527bf",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -81,7 +59,7 @@
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Eva Brynjarsdottir",
       "Objective Created Date": "2026-10-12",
       "Account ID": "bb7999fb-d17f-45e5-a6e6-2c42a64fc14c",
       "Salesforce Opportunity ID": "006PH00000r3TWnYAM",
@@ -249,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -279,7 +257,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Eva Brynjarsdottir",
       "Objective Created Date": "2026-09-30",
       "Account ID": "bb7999fb-d17f-45e5-a6e6-2c42a64fc14c",
       "Salesforce Opportunity ID": "006PH00000r3TWnYAM",
@@ -301,7 +279,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Eva Brynjarsdottir",
       "Objective Created Date": "2026-09-30",
       "Account ID": "bb7999fb-d17f-45e5-a6e6-2c42a64fc14c",
       "Salesforce Opportunity ID": "006PH00000r3TWnYAM",
@@ -727,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-19T10:51:15.752Z",
-  "total": 33,
+  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "total": 32,
   "im_name": "Marius Zenker"
 }
