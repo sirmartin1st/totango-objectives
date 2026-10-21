@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "2e344cccz2cadz33c7z8196zcbc6f25d12d7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-10-20",
+      "Account ID": "215f3446-dfb7-4686-b171-e555dba3d89f",
+      "Salesforce Opportunity ID": "006PH00000pegBFYAY",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "67e72ea2z417cz3cb6zb167za5aad57faac6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-10-20",
+      "Account ID": "215f3446-dfb7-4686-b171-e555dba3d89f",
+      "Salesforce Opportunity ID": "006PH00000pegBFYAY",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1a3553c2z159bz36ebz9d33zd4e601ea1a18",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -381,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
@@ -793,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
-  "total": 36,
+  "fetched_at": "2026-10-21T10:51:15.256Z",
+  "total": 38,
   "im_name": "Sean DeRossett"
 }
