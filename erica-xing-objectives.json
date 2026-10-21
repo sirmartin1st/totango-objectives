@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "f4f26299z865az3a90zb40ez82fdf68c3c64",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Yee Jian Ng",
+      "Objective Created Date": "2026-10-20",
+      "Account ID": "1c97851b-bd68-4515-a161-9b7b74161ad3",
+      "Salesforce Opportunity ID": "006PH00000r6EZdYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0186a69dzd733z3ddez98a4z10badc4746a0",
       "display_name": null,
       "Objective Name": "(Onboarding) Risk & Crisis Management",
@@ -111,7 +133,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
-  "total": 5,
+  "fetched_at": "2026-10-21T10:51:15.256Z",
+  "total": 6,
   "im_name": "Erica Xing"
 }
