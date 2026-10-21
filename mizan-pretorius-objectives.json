@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-13",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-13",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 25,
       "Milestone Names": "HS20 Searches Completed 90D,,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-13",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-13",
@@ -441,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "fetched_at": "2026-10-21T10:51:15.256Z",
   "total": 20,
   "im_name": "Mizan Pretorius"
 }
