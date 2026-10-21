@@ -505,53 +505,9 @@
       "Salesforce Opportunity ID": "006PH00000nJxZdYAK",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "616b5c65z8fc9z3003z9469zc1e5521a6897",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Catie Farwick",
-      "Objective Created Date": "2026-08-12",
-      "Account ID": "d97919e0-4dbb-4515-9959-51c267b26f31",
-      "Salesforce Opportunity ID": "006PH00000l8fe1YAA",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d3601345zc74dz33c2z891ezeec86b3c03d0",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Catie Farwick",
-      "Objective Created Date": "2026-08-09",
-      "Account ID": "d97919e0-4dbb-4515-9959-51c267b26f31",
-      "Salesforce Opportunity ID": "006PH00000l8fe1YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
-  "total": 25,
+  "fetched_at": "2026-10-21T10:51:15.256Z",
+  "total": 23,
   "im_name": "Brendan Leung"
 }
