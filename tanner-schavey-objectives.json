@@ -59,7 +59,7 @@
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Sachin Rao",
       "Objective Created Date": "2026-10-16",
       "Account ID": "4bd8b6d2-ffc7-4787-84c4-dda2528ba7ad",
       "Salesforce Opportunity ID": "006PH00000omMCjYAM",
@@ -81,7 +81,7 @@
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Sachin Rao",
       "Objective Created Date": "2026-10-16",
       "Account ID": "4bd8b6d2-ffc7-4787-84c4-dda2528ba7ad",
       "Salesforce Opportunity ID": "006PH00000omMCjYAM",
@@ -103,7 +103,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Tanner Schavey",
-      "CSM Owner": null,
+      "CSM Owner": "Sachin Rao",
       "Objective Created Date": "2026-10-16",
       "Account ID": "4bd8b6d2-ffc7-4787-84c4-dda2528ba7ad",
       "Salesforce Opportunity ID": "006PH00000omMCjYAM",
@@ -551,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "fetched_at": "2026-10-21T10:51:15.256Z",
   "total": 25,
   "im_name": "Tanner Schavey"
 }
