@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-09-18",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-20T10:51:14.101Z",
+  "fetched_at": "2026-10-21T10:51:15.256Z",
   "total": 14,
   "im_name": "Alejandra Arismendi"
 }
