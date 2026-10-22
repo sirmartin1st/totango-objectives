@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-10-20",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-10-20",
@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 60,
+      "Pct Milestones Completed": 80,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
@@ -425,13 +425,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-30",
@@ -837,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-21T10:51:15.256Z",
+  "fetched_at": "2026-10-22T10:51:13.644Z",
   "total": 38,
   "im_name": "Sean DeRossett"
 }
