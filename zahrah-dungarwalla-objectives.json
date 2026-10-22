@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "4704c083z5ea8z37edzada5zcd45e03a1f32",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "David Spelbos",
+      "Objective Created Date": "2026-10-21",
+      "Account ID": "d76be123-d2a5-4010-9717-6e4c19d56aff",
+      "Salesforce Opportunity ID": "006PH00000kD5XIYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "52547dcfz45f4z3bb9z9f3bz903b785626c2",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -155,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-21T10:51:15.256Z",
-  "total": 7,
+  "fetched_at": "2026-10-22T10:51:13.644Z",
+  "total": 8,
   "im_name": "Zahrah Dungarwalla"
 }
