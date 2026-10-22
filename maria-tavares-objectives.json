@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d2d9227ezb207z3455z8154zed251078e6a5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-10-21",
+      "Account ID": "640bf0cd-c46a-4d2d-8e8e-b687269e8033",
+      "Salesforce Opportunity ID": "006PH00000sL6g1YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4f61005cz95b4z3995z9062z34c5c49d3782",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -101,28 +123,6 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Nicole Lively",
-      "Objective Created Date": "2026-10-15",
-      "Account ID": "640bf0cd-c46a-4d2d-8e8e-b687269e8033",
-      "Salesforce Opportunity ID": "006PH00000sL6g1YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "101d70b2zcd8ez39a2z8fe3z7cb796614049",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Nicole Lively",
@@ -791,75 +791,9 @@
       "Salesforce Opportunity ID": "006PH00000oM4zRYAS",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "78047ed0z0f6cz3251zb9f5zdc933e2375bf",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",HS20 Articles Clicked 90D,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d9e6e6eb-e465-4959-9818-a1da9cd6b7d0",
-      "Salesforce Opportunity ID": "006PH00000mDWG9YAO",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "bd41dbd0z2d7ez3807za930z33608a4ba89e",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d9e6e6eb-e465-4959-9818-a1da9cd6b7d0",
-      "Salesforce Opportunity ID": "006PH00000mDWG9YAO",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d168692fz97d4z3611zad14zc575ad4cb686",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,,1. Content Curation Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "d9e6e6eb-e465-4959-9818-a1da9cd6b7d0",
-      "Salesforce Opportunity ID": "006PH00000mDWG9YAO",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-21T10:51:15.256Z",
-  "total": 39,
+  "fetched_at": "2026-10-22T10:51:13.644Z",
+  "total": 36,
   "im_name": "Maria Tavares"
 }
