@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -381,11 +381,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Marius Zenker",
@@ -507,28 +507,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "0a468895z5429z3417zb8e1zd17fe9982a66",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "663b6956-e55a-4050-9ede-0ac00eecade8",
-      "Salesforce Opportunity ID": "006Rf00000U6yrSIAR",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "1d2dec37z4326z3954zbc17zc58b24929c57",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -547,28 +525,6 @@
       "Objective Created Date": "2026-09-01",
       "Account ID": "4d4cb3a3-3622-4dfd-b7f7-4794b5196b93",
       "Salesforce Opportunity ID": "006PH00000nQRWbYAO",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "1d8b999fz8131z3e65z95a2z6fdb7f8b3e84",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "663b6956-e55a-4050-9ede-0ac00eecade8",
-      "Salesforce Opportunity ID": "006Rf00000U6yrSIAR",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -595,28 +551,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6116621dzd982z368ez9199z9c9ea505a311",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "663b6956-e55a-4050-9ede-0ac00eecade8",
-      "Salesforce Opportunity ID": "006Rf00000U6yrSIAR",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "7d62c11fz00f7z38d1z9421z7eec83338797",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -637,28 +571,6 @@
       "Salesforce Opportunity ID": "006PH00000nQRWbYAO",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "d42ac47ez019dz3a1ez8286zbf92b9f3da31",
-      "display_name": null,
-      "Objective Name": "Brand Narrative Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "3. Brand Search Tracking Fully Operational,1. Brand Search Foundation Defined,2. Integration of Brand Search Analytics into Dashboards",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Katja Gottfried",
-      "Objective Created Date": "2026-08-28",
-      "Account ID": "663b6956-e55a-4050-9ede-0ac00eecade8",
-      "Salesforce Opportunity ID": "006Rf00000U6yrSIAR",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": "Why is this important to the customer?"
     },
     {
       "objective_id": "aaff306cz2b16z3857zb937z2eff43f80c74",
@@ -683,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-21T10:51:15.256Z",
-  "total": 31,
+  "fetched_at": "2026-10-22T10:51:13.644Z",
+  "total": 27,
   "im_name": "Marius Zenker"
 }
