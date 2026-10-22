@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "64620822za0c5z3a8bz8906z4a4d78e2ba13",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "2",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Erica Xing",
+      "CSM Owner": "Ameerah Suhaimi",
+      "Objective Created Date": "2026-10-21",
+      "Account ID": "b9080eec-a507-4343-a9e9-ef2c6b6f994d",
+      "Salesforce Opportunity ID": "006Rf00000LFWtBIAX",
+      "Objective Created By": "erica.xing@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f4f26299z865az3a90zb40ez82fdf68c3c64",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -29,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Erica Xing",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Erica Xing",
@@ -133,7 +155,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-21T10:51:15.256Z",
-  "total": 6,
+  "fetched_at": "2026-10-22T10:51:13.644Z",
+  "total": 7,
   "im_name": "Erica Xing"
 }
