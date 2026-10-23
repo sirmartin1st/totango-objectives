@@ -45,72 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "27534ecfzdc99z394az8c8bz2120f9e545e1",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Louisa Isaacs",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "8e7399c6-877b-4373-b6b6-b99cf8e06846",
-      "Salesforce Opportunity ID": "006PH00000qwBbRYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8bff46d9zfe81z3663zb25azb9759e974822",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "2d27b8cd-cca1-4f1f-a2a2-fe16e29e12a6",
-      "Salesforce Opportunity ID": "006PH00000m51xVYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b6f1c185z323bz3770za651z827f0fced214",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 71.42857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 71.42857,
-      "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Louisa Isaacs",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8e7399c6-877b-4373-b6b6-b99cf8e06846",
-      "Salesforce Opportunity ID": "006PH00000qwBbRYAU",
-      "Objective Created By": "yasmina.khelfellah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "b7c5a217z88c4z30c5z9c3cz0534fceeb3b0",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -153,31 +87,9 @@
       "Salesforce Opportunity ID": "006PH00000qvy6LYAQ",
       "Objective Created By": "yasmina.khelfellah@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "278d210bz4497z3554za93fza993a4f8eef6",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Yasmina Khelfellah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-08-20",
-      "Account ID": "2d27b8cd-cca1-4f1f-a2a2-fe16e29e12a6",
-      "Salesforce Opportunity ID": "006PH00000m51xVYAQ",
-      "Objective Created By": "yasmina.khelfellah@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 8,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 4,
   "im_name": "Yasmina Khelfellah"
 }
