@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "bcd85cd0zb549z32b8za667z4ca372de717a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Anne Laure Fulidis",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "8ac1815d-dd0d-4e8e-9353-4f32aecda2e4",
+      "Salesforce Opportunity ID": "006PH00000tz0mqYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "15c4625az088cz35d8zabcbz02121082fcce",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -287,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 13,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 14,
   "im_name": "Mike Rogan"
 }
