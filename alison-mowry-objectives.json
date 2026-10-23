@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "cf811f49za459z3189z9aa0z02af465bc0d1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "4607b412-caa0-4e4e-8686-f1f410463b76",
+      "Salesforce Opportunity ID": "006PH00000uVUPlYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "052cf095z5bedz38cfza316zd61082bd0ee7",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -116,12 +138,12 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
+        "number_of_overdue_milestones": 2,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 57.142857,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,Nbr of MI users Active 30d,users in community,MI Daily Digest Sent,MI Created Searches,MI Created Dashboards",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
@@ -529,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 24,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 25,
   "im_name": "Alison Mowry"
 }
