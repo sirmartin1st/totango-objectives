@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -133,28 +133,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8892fb4czd520z3811z86ebz1ebe87e2cde2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-09-22",
-      "Account ID": "169d3f93-4f40-48c8-ba7a-1485b0b4e978",
-      "Salesforce Opportunity ID": "006PH00000lLPefYAG",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ea86da29za979z330cz8325z8f3a69650060",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -174,50 +152,6 @@
       "Account ID": "c1f60b0c-6b58-4313-81c1-b3e8d998f5b8",
       "Salesforce Opportunity ID": "006PH00000igvoXYAQ",
       "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "ecdf538ezc4e1z3f33zb02bz86ee3a8280ad",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-09-22",
-      "Account ID": "169d3f93-4f40-48c8-ba7a-1485b0b4e978",
-      "Salesforce Opportunity ID": "006PH00000lLPefYAG",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a0414dffze2afz3aa6z8001z4c5dbe8a5a17",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-09-14",
-      "Account ID": "169d3f93-4f40-48c8-ba7a-1485b0b4e978",
-      "Salesforce Opportunity ID": "006PH00000lLPefYAG",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -309,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 14,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 11,
   "im_name": "Taneil Mindham"
 }
