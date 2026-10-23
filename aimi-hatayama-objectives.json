@@ -695,7 +695,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-09-03",
@@ -717,7 +717,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-09-03",
@@ -771,72 +771,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3c719a69z9fd1z3a3az8465zb222bc6b1d7c",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,1. Content Curation Defined,2. Target Audience Assessed & Activated,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Shoko Enomoto",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
-      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c51554d3zee8fz32adzb922zb3b3ab669579",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Shoko Enomoto",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
-      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "3f5cbb03z32ddz3238z8647z406e2e058cf2",
-      "display_name": null,
-      "Objective Name": "(FIP) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 2,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "1. Data Scope Defined,2. Connectors & Integrations Fully Operational",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Shoko Enomoto",
-      "Objective Created Date": "2026-08-06",
-      "Account ID": "8d7e98c0-885e-45a5-9f5f-51c3cbafd030",
-      "Salesforce Opportunity ID": "006PH00000jcIYLYA2",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "426a7d04z2355z3d42za2bdzf520438e2c74",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -881,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 40,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 37,
   "im_name": "Aimi Hatayama"
 }
