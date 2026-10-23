@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-10-20",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-10-20",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -793,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
+  "fetched_at": "2026-10-23T10:51:14.734Z",
   "total": 36,
   "im_name": "Maria Tavares"
 }
