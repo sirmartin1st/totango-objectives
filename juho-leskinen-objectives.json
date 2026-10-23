@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "99551e77zf498z3ab3zb615z4cc8fb197c75",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Joel Rausch",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "ebc6cead-97ae-4dbd-b5f5-6b669a0a7e61",
+      "Salesforce Opportunity ID": "006PH00000hO5iXYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "99e74459z2dbfz37e9z9cddzd1825eed6662",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Joel Rausch",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "ebc6cead-97ae-4dbd-b5f5-6b669a0a7e61",
+      "Salesforce Opportunity ID": "006PH00000hO5iXYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a3ad0458z3277z3238z9f2dz904c6689ab9d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Joel Rausch",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "ebc6cead-97ae-4dbd-b5f5-6b669a0a7e61",
+      "Salesforce Opportunity ID": "006PH00000hO5iXYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0c2acb25z374az3f1azbbcczf41c809dcbe8",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -73,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
@@ -117,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
@@ -397,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 18,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 21,
   "im_name": "Juho Leskinen"
 }
