@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Sandra Salonen",
       "Objective Created Date": "2026-10-19",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Sandra Salonen",
       "Objective Created Date": "2026-10-19",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
       "CSM Owner": "Sandra Salonen",
       "Objective Created Date": "2026-10-16",
@@ -337,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
@@ -491,11 +491,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
@@ -549,9 +549,75 @@
       "Salesforce Opportunity ID": "006PH00000rtAczYAE",
       "Objective Created By": "sofia.aberg@meltwater.com",
       "Objective Description": ""
+    },
+    {
+      "objective_id": "d0e2857dzb6cbz35e0z9657z6e96687adad8",
+      "display_name": null,
+      "Objective Name": "(FIP) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Tanja Huhta-Koivisto",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
+      "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "de310af1z08cez3f96z9d66zea31229375e0",
+      "display_name": null,
+      "Objective Name": "(FIP) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Tanja Huhta-Koivisto",
+      "Objective Created Date": "2026-08-27",
+      "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
+      "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ca6d2d2fz1e44z3f01za9e0z1d7f85b35d11",
+      "display_name": null,
+      "Objective Name": "(FIP) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Tanja Huhta-Koivisto",
+      "Objective Created Date": "2026-08-20",
+      "Account ID": "a5495a9a-579d-4050-b8f8-dd64b8b1b0e8",
+      "Salesforce Opportunity ID": "006PH00000h9F5WYAU",
+      "Objective Created By": "sofia.aberg@meltwater.com",
+      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 25,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 28,
   "im_name": "Sofia ?berg"
 }
