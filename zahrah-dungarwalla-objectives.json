@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c4bb25d4zcc7fz36cez81ffze1795bba325d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "David Spelbos",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "d76be123-d2a5-4010-9717-6e4c19d56aff",
+      "Salesforce Opportunity ID": "006PH00000kD5XIYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4704c083z5ea8z37edzada5zcd45e03a1f32",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
@@ -177,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-22T10:51:13.644Z",
-  "total": 8,
+  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "total": 9,
   "im_name": "Zahrah Dungarwalla"
 }
