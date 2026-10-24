@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rose",
       "CSM Owner": "Sophie Deziel",
       "Objective Created Date": "2026-10-22",
@@ -243,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-23T10:51:14.734Z",
+  "fetched_at": "2026-10-24T10:51:14.240Z",
   "total": 11,
   "im_name": "Mike Rose"
 }
