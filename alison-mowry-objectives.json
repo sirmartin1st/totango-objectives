@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-19",
@@ -94,7 +94,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -182,7 +182,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -327,50 +327,6 @@
       "Objective Created Date": "2026-09-24",
       "Account ID": "9780d9ac-5fe6-4171-8040-10ab00b92fb8",
       "Salesforce Opportunity ID": "006PH00000sfpkDYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d3148285z4e37z32bcz9f8fz0f7b2cafe71a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-09-23",
-      "Account ID": "0fd7412e-830b-46b6-a020-a4bd3920ddca",
-      "Salesforce Opportunity ID": "006PH00000t7BezYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "61d0289fz9798z37e4z86d3ze7a1299feff8",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": "users in community,MI Created Dashboards,Nbr of MI users Active 30d,MI Created Searches,Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-09-22",
-      "Account ID": "0fd7412e-830b-46b6-a020-a4bd3920ddca",
-      "Salesforce Opportunity ID": "006PH00000t7BezYAE",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -551,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-24T10:51:14.240Z",
-  "total": 25,
+  "fetched_at": "2026-10-25T10:51:13.464Z",
+  "total": 23,
   "im_name": "Alison Mowry"
 }
