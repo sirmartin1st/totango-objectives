@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "2f47d784z7bcfz3ce2zbec0zc1fe56ee9015",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Walker Prince",
-      "Objective Created Date": "2026-10-23",
-      "Account ID": "635c0599-297b-4343-9555-a8a7bdddd13b",
-      "Salesforce Opportunity ID": "006PH00000stjjlYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "59b6d29bz3bdaz32f5zae30z2134b6818068",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -57,7 +35,7 @@
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "users in community,MI Created Dashboards,Nbr of MI users Active 30d,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-23",
@@ -189,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-11",
@@ -365,7 +343,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "users in community,Nbr of MI users Active 30d,Total Num Workshop Registrations ALL TIME,MI Created Searches,MI Daily Digest Sent,MI Created Dashboards,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-10-01",
@@ -859,7 +837,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-24T10:51:14.240Z",
-  "total": 39,
+  "fetched_at": "2026-10-25T10:51:13.464Z",
+  "total": 38,
   "im_name": "Drew Lipscomb"
 }
