@@ -497,7 +497,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -519,7 +519,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -585,7 +585,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,Mira Studio Usage,MI IG Setup New,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -683,50 +683,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "06d77629zd988z3993zb77cz68db345753cb",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Kozue Irei",
-      "Objective Created Date": "2026-09-03",
-      "Account ID": "5b81f0d4-3d53-4171-81c1-6f8839a93d8b",
-      "Salesforce Opportunity ID": "006PH00000kjb2XYAQ",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "746a8721z3ebaz314ezb9bczabc5c539be31",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Kozue Irei",
-      "Objective Created Date": "2026-09-03",
-      "Account ID": "5b81f0d4-3d53-4171-81c1-6f8839a93d8b",
-      "Salesforce Opportunity ID": "006PH00000kjb2XYAQ",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "30c23afezc1b0z331bza492zd401cd9fde7c",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -815,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
-  "total": 37,
+  "fetched_at": "2026-10-26T10:51:13.309Z",
+  "total": 35,
   "im_name": "Aimi Hatayama"
 }
