@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "643bacd2zf931z3eb3za829z2262e8f7c408",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 12.5,
+        "number_of_linked_milestones": 8,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 12.5,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "fb1b799c-06f0-4cfc-92d2-46215556ead3",
+      "Salesforce Opportunity ID": "006PH00000skNNWYA2",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a74cf4acz0f38z373az97e1z9a438c26e553",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "9eaadd62-c172-4d4d-afaf-12e3d20501e3",
+      "Salesforce Opportunity ID": "006PH00000rNw81YAC",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e7fe7ed1z80c5z3481z9184za9b1dbd29e84",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "fb1b799c-06f0-4cfc-92d2-46215556ead3",
+      "Salesforce Opportunity ID": "006PH00000skNNWYA2",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8a68c03dzfa1cz3f97z9cabz2434c8a0e0cf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Abbey Thompson",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "05c6bfcb-3248-4777-acec-939a4baf0f04",
+      "Salesforce Opportunity ID": "006PH00000pqY9tYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b4457acaz8adez37cfzb54dzd845140d410f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Abbey Thompson",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "05c6bfcb-3248-4777-acec-939a4baf0f04",
+      "Salesforce Opportunity ID": "006PH00000pqY9tYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4aeb0c06zb967z35e3z942ez27f7fad2f9eb",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -79,7 +189,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
       "CSM Owner": "Jess Andrews",
       "Objective Created Date": "2026-10-15",
@@ -101,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Hana Yoshida",
       "CSM Owner": "Jake Brudenell",
       "Objective Created Date": "2026-10-15",
@@ -167,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
       "CSM Owner": "Jess Andrews",
       "Objective Created Date": "2026-10-14",
@@ -189,7 +299,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
       "CSM Owner": "Jess Andrews",
       "Objective Created Date": "2026-10-14",
@@ -837,7 +947,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
-  "total": 38,
+  "fetched_at": "2026-10-26T10:51:13.309Z",
+  "total": 43,
   "im_name": "Hana Yoshida"
 }
