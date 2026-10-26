@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "89e964d1z93d3z3e8bza947z82ec63dbdb81",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Maria Maceikianec",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "f9b44b4f-df6c-4535-9e9e-f4ea07d17fc3",
+      "Salesforce Opportunity ID": "006PH00000sZpBsYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2c79b43fz7e6ez3c9fz9bb9ze77b579ecf20",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -309,7 +331,7 @@
       "Objective Description": "Why is this important to the customer?"
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
-  "total": 14,
+  "fetched_at": "2026-10-26T10:51:13.309Z",
+  "total": 15,
   "im_name": "Jamie Korah"
 }
