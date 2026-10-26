@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "05ac729ez5e23z39f5zae2cz1fb734dc2d9e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "dabdebe2-15cf-4d5d-a565-fcfe78aa7909",
+      "Salesforce Opportunity ID": "006PH00000gan0PYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3924f6e0zc7e9z3b79zba9bzed5087478054",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": "Sannia Iqbal",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "dabdebe2-15cf-4d5d-a565-fcfe78aa7909",
+      "Salesforce Opportunity ID": "006PH00000gan0PYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "cc85a84aze23cz39c3zb3e4za5063cbd9c83",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -551,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
-  "total": 25,
+  "fetched_at": "2026-10-26T10:51:13.309Z",
+  "total": 27,
   "im_name": "Tanner Schavey"
 }
