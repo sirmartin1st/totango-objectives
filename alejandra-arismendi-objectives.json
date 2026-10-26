@@ -227,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 60,
+      "Pct Milestones Completed": 80,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
@@ -331,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
+  "fetched_at": "2026-10-26T10:51:13.309Z",
   "total": 15,
   "im_name": "Alejandra Arismendi"
 }
