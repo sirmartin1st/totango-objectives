@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "18874904zc3f3z3b5cz8b1aza17366e30678",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "da295966-c681-49d9-a6e6-7a6a9e0e5d75",
+      "Salesforce Opportunity ID": "006PH00000uP9vtYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5a7020f7z42cdz324bz9258z45535ab56234",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Nikita Sharma",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "da295966-c681-49d9-a6e6-7a6a9e0e5d75",
+      "Salesforce Opportunity ID": "006PH00000uP9vtYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0f92ab00z56b4z3d3fz9204z712ab23b6d88",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -881,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-25T10:51:13.464Z",
-  "total": 40,
+  "fetched_at": "2026-10-26T10:51:13.309Z",
+  "total": 42,
   "im_name": "Albert Bright"
 }
