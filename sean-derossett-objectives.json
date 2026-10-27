@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "12a61df3za421z35c3z97cdz26afa6c2bbe9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,Mira Studio Usage,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "31cf38d0-d9cd-4cbc-9656-09f8db14bde6",
+      "Salesforce Opportunity ID": "006PH00000tj913YAA",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "43ce62cfzed07z3e17z81b1zbbcf497391ae",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Product Ratings & Review Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "31cf38d0-d9cd-4cbc-9656-09f8db14bde6",
+      "Salesforce Opportunity ID": "006PH00000tj913YAA",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2e344cccz2cadz33c7z8196zcbc6f25d12d7",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-10-20",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-10-20",
@@ -431,7 +475,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Caroline Weatherly",
       "Objective Created Date": "2026-09-30",
@@ -837,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-26T10:51:13.309Z",
-  "total": 38,
+  "fetched_at": "2026-10-27T10:51:14.288Z",
+  "total": 40,
   "im_name": "Sean DeRossett"
 }
