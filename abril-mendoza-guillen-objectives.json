@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "5135c0a9z8e33z3d3cza69fz373040d45917",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Eric Gomes",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "96a8d971-08d1-4efe-9818-fb3efada1df2",
+      "Salesforce Opportunity ID": "006PH00000tza8XYAQ",
+      "Objective Created By": "abril.mendoza@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ba933e5ez7d0bz3cd2za1dazc9f3a012f8aa",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-08",
@@ -123,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-07",
@@ -145,7 +167,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Cassia Meditz",
       "Objective Created Date": "2026-10-07",
@@ -211,7 +233,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Andre Fiechter",
       "Objective Created Date": "2026-10-05",
@@ -249,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,Mira Studio Usage,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -579,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Abril Mendoza Guillen",
@@ -815,50 +837,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5f7675a3z1348z3a57zaf56ze9d32d59c88f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Connor Sikora",
-      "Objective Created Date": "2026-09-11",
-      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
-      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b6fc401bzeb48z3219za14ezd6dcbb463eb0",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,Mira Studio Usage,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Connor Sikora",
-      "Objective Created Date": "2026-09-11",
-      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
-      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "04a2c192z1badz3c41za13azd3f8f1d6d849",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -878,50 +856,6 @@
       "Account ID": "ca257b63-410e-44f4-bbfb-ab93845093ac",
       "Salesforce Opportunity ID": "006PH00000rZebxYAC",
       "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4689d008za954z3d4bzaa04z8481536a9bde",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Connor Sikora",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
-      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
-      "Objective Created By": "abril.mendoza@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "705538cfzffccz30a0zaa80z4dd77e2380f1",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Connor Sikora",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "9b86c2a4-1ab5-4bcb-a1e1-2568bea59bd2",
-      "Salesforce Opportunity ID": "006PH00000qFeiLYAS",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -991,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-26T10:51:13.309Z",
-  "total": 45,
+  "fetched_at": "2026-10-27T10:51:14.288Z",
+  "total": 42,
   "im_name": "Abril Mendoza Guillen"
 }
