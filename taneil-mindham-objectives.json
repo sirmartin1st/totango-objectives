@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6cb11223z999cz335bzae54z85ea8b3216bf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Evelina Delsing",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "a64d02fe-fd2d-4a3a-a525-78c670562a06",
+      "Salesforce Opportunity ID": "006PH00000uU7bkYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f2e72477z2960z37bbza20czfc6c93ea2c00",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -189,7 +211,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": "Alex Malin",
       "Objective Created Date": "2026-09-09",
@@ -243,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-26T10:51:13.309Z",
-  "total": 11,
+  "fetched_at": "2026-10-27T10:51:14.288Z",
+  "total": 12,
   "im_name": "Taneil Mindham"
 }
