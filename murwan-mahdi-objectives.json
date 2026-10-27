@@ -221,28 +221,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "be6fc7b5ze40bz3f05z86f6z69ddabfbfc12",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Nada Alsaad",
-      "Objective Created Date": "2026-09-28",
-      "Account ID": "0072ae9b-ad6d-4626-9999-0c7fae5f1013",
-      "Salesforce Opportunity ID": "006PH00000s4LZpYAM",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2783e802zb7f5z3e81zb016z57d908c4a278",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -306,28 +284,6 @@
       "Account ID": "79e2828d-3b88-4979-aaaa-28d659cdd90b",
       "Salesforce Opportunity ID": "006PH00000oKG2DYAW",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "3df837f0z23f9z3ca9zabcdz1d97496d0322",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Jaimey-Ann Dyers",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "e2cc5f65-48b5-4bbb-a222-d17803fc9ef4",
-      "Salesforce Opportunity ID": "006PH00000s0pwHYAQ",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -419,28 +375,6 @@
       "Objective Description": "1- Brand Health & Industry Monitoring\n2- Competitive Intelligence & Benchmarking\n3- Journalist Discovery & Outreach"
     },
     {
-      "objective_id": "23469766z21f1z3e20z927azbe5a4732a7e1",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Jaimey-Ann Dyers",
-      "Objective Created Date": "2026-09-04",
-      "Account ID": "e2cc5f65-48b5-4bbb-a222-d17803fc9ef4",
-      "Salesforce Opportunity ID": "006PH00000s0pwHYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "42c1c787z6555z340bza11ez27e629825d7c",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -485,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-26T10:51:13.309Z",
-  "total": 22,
+  "fetched_at": "2026-10-27T10:51:14.288Z",
+  "total": 19,
   "im_name": "Murwan Mahdi"
 }
