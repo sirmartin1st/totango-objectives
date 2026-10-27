@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "b9c6bfceza933z35b0zab4dze9704b9775b6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "276e220b-e8bb-4070-9999-29ac52ad9578",
+      "Salesforce Opportunity ID": "006PH00000tfq6DYAQ",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ed057911ze4a4z38b8zbad9zf12688a71a5f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-26",
+      "Account ID": "c9271564-3b5d-4727-b636-b298e517cbaa",
+      "Salesforce Opportunity ID": "006PH00000uHIoHYAW",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0e4a7b85z083bz39e2z8163zf7abd65e81b8",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Rob Casper",
       "Objective Created Date": "2026-10-25",
@@ -221,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-26T10:51:13.309Z",
-  "total": 10,
+  "fetched_at": "2026-10-27T10:51:14.288Z",
+  "total": 12,
   "im_name": "Emma Ekeroth"
 }
