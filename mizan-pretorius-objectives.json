@@ -287,28 +287,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "6664b8d3z9d82z3389za685z1fef7d43e4dc",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Vanessa Viertel",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
-      "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2f190182zf0fdz39c1z8c43z399b8cb08c56",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -351,97 +329,9 @@
       "Salesforce Opportunity ID": "006PH00000hH9aoYAC",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "23fcb991z5aa8z31f2z87bdzf69344e27d04",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "3. Tracking of Competitor and Market Signals Fully Operational,2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,MI FB Setup New,Mira Studio Usage,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Vanessa Viertel",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
-      "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "dc7283b7z1bf9z3376zb10dz70fe6c1c78c7",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Vanessa Viertel",
-      "Objective Created Date": "2026-08-26",
-      "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
-      "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "785ca07czc335z3b7cz9fbez706517baee6a",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,b. Integration of Brand Search Analytics into dashboards,,,,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Vanessa Viertel",
-      "Objective Created Date": "2026-08-24",
-      "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
-      "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9c9fdb1dz0356z36c4zb285zb9f65bec67ad",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 28.571428,
-      "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Vanessa Viertel",
-      "Objective Created Date": "2026-08-24",
-      "Account ID": "dcb76df6-c919-4171-80c0-b76d0093589d",
-      "Salesforce Opportunity ID": "006PH00000pebBZYAY",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 20,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 15,
   "im_name": "Mizan Pretorius"
 }
