@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-19",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-19",
@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -287,28 +287,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "befe9831ze7ddz3e2eza585zdf6df0a238bf",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Nada Alsaad",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "3bee7e21-ef3c-42e2-b8b8-89cde8d22e0b",
-      "Salesforce Opportunity ID": "006PH00000t1yk2YAA",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "cf049f10zd8a3z3191z819ezc36d6a9a9fde",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -327,28 +305,6 @@
       "Objective Created Date": "2026-09-15",
       "Account ID": "79e2828d-3b88-4979-aaaa-28d659cdd90b",
       "Salesforce Opportunity ID": "006PH00000oKG2DYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "20dd4e5bzf330z377eza6b2zf5ed7f24065a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Nada Alsaad",
-      "Objective Created Date": "2026-09-13",
-      "Account ID": "3bee7e21-ef3c-42e2-b8b8-89cde8d22e0b",
-      "Salesforce Opportunity ID": "006PH00000t1yk2YAA",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -419,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 19,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 17,
   "im_name": "Murwan Mahdi"
 }
