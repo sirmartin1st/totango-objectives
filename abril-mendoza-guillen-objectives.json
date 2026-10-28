@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "3495de90z08e9z3481z9e1dze3bc4d50b529",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Andre Fiechter",
+      "Objective Created Date": "2026-10-27",
+      "Account ID": "fcb5f0a1-94da-4eae-ba3a-84a610b71820",
+      "Salesforce Opportunity ID": "006PH00000uRUZeYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3d264c1dz541bz3dabz873bzfe8d676c0a5a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-10-27",
+      "Account ID": "29615461-3ab7-4626-82c2-a244f336bcd7",
+      "Salesforce Opportunity ID": "006PH00000syS8nYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5135c0a9z8e33z3d3cza69fz373040d45917",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Eric Gomes",
       "Objective Created Date": "2026-10-26",
@@ -925,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 42,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 44,
   "im_name": "Abril Mendoza Guillen"
 }
