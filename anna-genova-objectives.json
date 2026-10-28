@@ -23,28 +23,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "75962804z6c6ez310cza5c8z31da6088e7b8",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "723d5ef4z006fz3202z8774ze4053172b17c",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -409,7 +387,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-10-02",
@@ -453,7 +431,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-10-02",
@@ -975,11 +953,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1233,28 +1211,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1ac5de2dzcf50z353eza336z2113f3296db6",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "2. Target Audience Assessed & Activated,1. Content Curation Defined,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "625ed958z68dcz3c4fz9cfezb73abed18e3b",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -1273,28 +1229,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "f348b5e6-d455-4565-8909-bb731d6a4967",
       "Salesforce Opportunity ID": "006PH00000fcoLxYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6530c917zb206z3750za9ddz4caea5c57c09",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -1519,72 +1453,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "33994c04z04e8z346ezaaffz07330acfa04a",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": ",MI IG Setup New,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-08-07",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "782a341az0e6az3366zbc42z90579059f9c0",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-08-07",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "ec179e96zaf07z3d60zba99zf87a9dbc7212",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Jenny Qin",
-      "Objective Created Date": "2026-08-06",
-      "Account ID": "0f63c96f-1d4c-4e8e-8888-29430a33ad25",
-      "Salesforce Opportunity ID": "006PH00000rPo7xYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "3e76d90cz91a9z3aa9zba6bz228ab89101b0",
       "display_name": null,
       "Objective Name": "(FIP) Competitive Benchmarking",
@@ -1651,7 +1519,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 75,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 69,
   "im_name": "Anna Genova"
 }
