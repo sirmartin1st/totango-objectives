@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "a26ff6e2z60a9z3a6dzbfd7z2a8160721b6e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Campaign Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Jaimey-Ann Dyers",
+      "Objective Created Date": "2026-10-27",
+      "Account ID": "1362fe38-c82d-4e5e-b5b5-ac965c562785",
+      "Salesforce Opportunity ID": "006PH00000tTgAfYAK",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6cb11223z999cz335bzae54z85ea8b3216bf",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -155,50 +177,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ea86da29za979z330cz8325z8f3a69650060",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-09-22",
-      "Account ID": "c1f60b0c-6b58-4313-81c1-b3e8d998f5b8",
-      "Salesforce Opportunity ID": "006PH00000igvoXYAQ",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e8dcf25bz8f7dz32e3zba7dz795b110d0a06",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-09-13",
-      "Account ID": "c1f60b0c-6b58-4313-81c1-b3e8d998f5b8",
-      "Salesforce Opportunity ID": "006PH00000igvoXYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "33a151efzcdcez3e47z9d60z3c305a9f6328",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -219,53 +197,9 @@
       "Salesforce Opportunity ID": "006PH00000mWrK5YAK",
       "Objective Created By": "taneil.mindham@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "e4d8fcaaz9eeaz3d15zac5fz30eced8b2f09",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Jakob Holst",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "13c93934-e5f3-4ddd-9515-37062b9075a6",
-      "Salesforce Opportunity ID": "006PH00000s43OPYAY",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5ef3b4a6za9c3z3ab4z8f38z9699820fa1d5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Jakob Holst",
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "13c93934-e5f3-4ddd-9515-37062b9075a6",
-      "Salesforce Opportunity ID": "006PH00000s43OPYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 12,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 9,
   "im_name": "Taneil Mindham"
 }
