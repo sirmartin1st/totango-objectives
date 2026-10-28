@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "ee5a7664zfd88z3e0fz9cfczf7cec43359d3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-27",
+      "Account ID": "d22ae91d-131b-4434-8585-bd39ae3b980b",
+      "Salesforce Opportunity ID": "006PH00000nYsg5YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "aee0b8c1z2899z3c24zba85zc9b3b26fcf60",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -29,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
@@ -243,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-27T10:51:14.288Z",
-  "total": 11,
+  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "total": 12,
   "im_name": "Naseraldin Kayemah"
 }
