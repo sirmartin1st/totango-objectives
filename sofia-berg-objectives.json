@@ -67,50 +67,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "0a21b9adzc30bz336bz9a22z3f26ff2f576b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Lorant Herczeg",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "84b148d9-2858-46f6-bb3b-17c3ad922832",
-      "Salesforce Opportunity ID": "006PH00000jNDXJYA4",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b346b4aazc84az3fabzb425zb65062fc7925",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Lorant Herczeg",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "84b148d9-2858-46f6-bb3b-17c3ad922832",
-      "Salesforce Opportunity ID": "006PH00000jNDXJYA4",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2d3cfaddz848dz32dfzb90cz48390a3031cd",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -161,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
@@ -205,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sofia ?berg",
@@ -331,28 +287,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "748c7267z4e54z3285z93daz284da0e9aa26",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Lorant Herczeg",
-      "Objective Created Date": "2026-09-28",
-      "Account ID": "84b148d9-2858-46f6-bb3b-17c3ad922832",
-      "Salesforce Opportunity ID": "006PH00000jNDXJYA4",
-      "Objective Created By": "sofia.aberg@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "76514c14z1f27z3affz9b6ez757c3629b704",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -463,28 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "169d78c1z8474z3902zbbd3zedf85a460584",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Lorant Herczeg",
-      "Objective Created Date": "2026-09-21",
-      "Account ID": "84b148d9-2858-46f6-bb3b-17c3ad922832",
-      "Salesforce Opportunity ID": "006PH00000jNDXJYA4",
-      "Objective Created By": "sofia.aberg@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "52758ca6ze152z3d5cz8414zbcf4a435ed35",
       "display_name": null,
       "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
@@ -573,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
-  "total": 26,
+  "fetched_at": "2026-10-29T10:51:14.394Z",
+  "total": 22,
   "im_name": "Sofia ?berg"
 }
