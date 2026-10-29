@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -617,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "fetched_at": "2026-10-29T10:51:14.394Z",
   "total": 28,
   "im_name": "Ma Concepcion Zapanta"
 }
