@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -103,7 +103,7 @@
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Jamie Korah",
-      "CSM Owner": null,
+      "CSM Owner": "Eva Brynjarsdottir",
       "Objective Created Date": "2026-10-26",
       "Account ID": "51867cfe-1eb8-49a9-9b9b-07410c597d2d",
       "Salesforce Opportunity ID": "006PH00000qACV1YAO",
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
@@ -419,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "fetched_at": "2026-10-29T10:51:14.394Z",
   "total": 19,
   "im_name": "Jamie Korah"
 }
