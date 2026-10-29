@@ -1,6 +1,182 @@
 {
   "objectives": [
     {
+      "objective_id": "06a8d69az4912z30afz8648zcd852e388752",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Product Ratings & Review Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "666b4df0-f196-4a0a-ae6e-2e500cefbbd5",
+      "Salesforce Opportunity ID": "006PH00000uHn46YAC",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "36aad1dfzbcc4z39b7zacdezeb83fe3aacdb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Natascha Woodard",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "8a5dfcc4-bb6b-4a3a-8303-1b9fb2ddbb1e",
+      "Salesforce Opportunity ID": "006PH00000raXVBYA2",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "4490b7e0z0cf9z3d93z95edz50daa610d473",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Natascha Woodard",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "8a5dfcc4-bb6b-4a3a-8303-1b9fb2ddbb1e",
+      "Salesforce Opportunity ID": "006PH00000raXVBYA2",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5c03191fzb1efz3b04za13fzbcac193ae0cf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Natascha Woodard",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "8a5dfcc4-bb6b-4a3a-8303-1b9fb2ddbb1e",
+      "Salesforce Opportunity ID": "006PH00000raXVBYA2",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5f1efebfzb851z3a83zb8eezfd8204436750",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Rob Casper",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "666b4df0-f196-4a0a-ae6e-2e500cefbbd5",
+      "Salesforce Opportunity ID": "006PH00000uHn46YAC",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6334fa53z85abz3d9czbac8z00d2e9b8b600",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Ron Nocek",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "7fc33eef-99b5-4787-9515-2359343e4f6f",
+      "Salesforce Opportunity ID": "006PH00000ra2xdYAA",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "99678b64z9508z301eza77bzb3b48c9a3424",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Ron Nocek",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "7fc33eef-99b5-4787-9515-2359343e4f6f",
+      "Salesforce Opportunity ID": "006PH00000ra2xdYAA",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bea3048ez73c6z3c59z98b1zd96596dd13b4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Natascha Woodard",
+      "Objective Created Date": "2026-10-28",
+      "Account ID": "8a5dfcc4-bb6b-4a3a-8303-1b9fb2ddbb1e",
+      "Salesforce Opportunity ID": "006PH00000raXVBYA2",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "12a61df3za421z35c3z97cdz26afa6c2bbe9",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -95,13 +271,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 88.888885,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Simon Broadway",
       "Objective Created Date": "2026-10-13",
@@ -255,7 +431,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-10-09",
@@ -475,7 +651,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-30",
@@ -563,7 +739,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Simon Broadway",
       "Objective Created Date": "2026-09-29",
@@ -585,7 +761,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-29",
@@ -607,7 +783,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-09-29",
@@ -755,11 +931,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -793,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
-  "total": 36,
+  "fetched_at": "2026-10-29T10:51:14.394Z",
+  "total": 44,
   "im_name": "Sean DeRossett"
 }
