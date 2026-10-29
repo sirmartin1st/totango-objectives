@@ -29,13 +29,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-10-27",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-10-15",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Luken Dalessandro",
       "Objective Created Date": "2026-10-15",
@@ -585,7 +585,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-09-30",
@@ -695,7 +695,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-09-30",
@@ -761,7 +761,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Abril Mendoza Guillen",
       "CSM Owner": "Jordan Cooper",
       "Objective Created Date": "2026-09-30",
@@ -969,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "fetched_at": "2026-10-29T10:51:14.394Z",
   "total": 44,
   "im_name": "Abril Mendoza Guillen"
 }
