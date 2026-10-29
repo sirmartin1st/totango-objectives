@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Mike Rogan",
       "CSM Owner": "Victoria Tessmar",
       "Objective Created Date": "2026-09-26",
@@ -189,7 +189,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Mike Rogan",
       "CSM Owner": "Victoria Tessmar",
       "Objective Created Date": "2026-09-04",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-28T10:51:16.125Z",
+  "fetched_at": "2026-10-29T10:51:14.394Z",
   "total": 14,
   "im_name": "Mike Rogan"
 }
