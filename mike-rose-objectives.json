@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "ea3403e5z0decz3cf2zb2afz0e5aa9b8d79c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Catie Farwick",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "f5daa848-733c-4121-8686-2670a41b0930",
+      "Salesforce Opportunity ID": "006PH00000uLVzqYAG",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "29931a52z8460z31f1z89bdza24d123c3173",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -265,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 12,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 13,
   "im_name": "Mike Rose"
 }
