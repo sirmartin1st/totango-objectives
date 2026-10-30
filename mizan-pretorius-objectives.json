@@ -1,7 +1,29 @@
 {
   "objectives": [
     {
-      "objective_id": "107ee0cdz7241z30fdzba71z11e300af49b7",
+      "objective_id": "0040a144z5c09z37fcza97fz41687178f57b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Merle Johann",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "fb951e69-3b57-44b4-afef-8ee926ef1614",
+      "Salesforce Opportunity ID": "006PH00000qIe4IYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f0baf843zb489z33b6z8ffezc863e4dbfc4b",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
       "Objective Status": "1",
@@ -12,6 +34,28 @@
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Merle Johann",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "fb951e69-3b57-44b4-afef-8ee926ef1614",
+      "Salesforce Opportunity ID": "006PH00000qIe4IYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "107ee0cdz7241z30fdzba71z11e300af49b7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -307,31 +351,9 @@
       "Salesforce Opportunity ID": "006Rf00000SNDywIAH",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "6baae8c6z28c3z3fa9zaa9ez4937f8b7b483",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational,2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ",
-      "Onboarding Stage": "On Hold",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Nina Kenyon",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "beb5709a-e6a3-4525-b6b6-4cb3ac5d65d5",
-      "Salesforce Opportunity ID": "006PH00000hH9aoYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 15,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 16,
   "im_name": "Mizan Pretorius"
 }
