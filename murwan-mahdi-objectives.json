@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "10ed9d66zc18dz3dbazafc2z89471bc7d606",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "a4861cf6-99de-45b5-8000-3d913ee0213c",
+      "Salesforce Opportunity ID": "006PH00000kyrgTYAQ",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e8883ec0zef2ez3bfbz8a7bz68058efe8620",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "b251ce9c-8f28-4454-9151-1f8cd00d0c6c",
+      "Salesforce Opportunity ID": "006PH00000t9MMhYAM",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b7cb0c96ze750z3846zb694za9c4f9d15728",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Jaimey-Ann Dyers",
       "Objective Created Date": "2026-10-22",
@@ -375,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 17,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 19,
   "im_name": "Murwan Mahdi"
 }
