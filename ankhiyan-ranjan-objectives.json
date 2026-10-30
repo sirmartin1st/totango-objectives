@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "1cd822eezac75z3be4zbe8ez2aefedd12879",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6beb27b1zc0d7z3b98za3f9z0490b0c28ed8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "60911cf3z98d8z369cz88b0zdd48b6cbd872",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -815,7 +859,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 37,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 39,
   "im_name": "Ankhiyan Ranjan"
 }
