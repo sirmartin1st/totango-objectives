@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "9ae54daez24b0z33fbz84e1zdbf4101ddc8a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Ron Nocek",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "7fc33eef-99b5-4787-9515-2359343e4f6f",
+      "Salesforce Opportunity ID": "006PH00000ra2xdYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "06a8d69az4912z30afz8648zcd852e388752",
       "display_name": null,
       "Objective Name": "(Onboarding) Product Ratings & Review Monitoring",
@@ -601,11 +623,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -969,7 +991,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 44,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 45,
   "im_name": "Sean DeRossett"
 }
