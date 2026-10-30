@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
@@ -309,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "45ce05f1z67e7z35caz8dbaz7f48172bbc9d",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 50,
-      "Milestone Names": "2. Target Audience Assessed & Activated,,1. Content Curation Defined,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Jesse Kiuru",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "6c738e38-85c4-4666-9353-d48d722340b5",
-      "Salesforce Opportunity ID": "006PH00000gtT2nYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d0ee13fez0eaaz3731z87b0z8648740b6456",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -373,31 +351,9 @@
       "Salesforce Opportunity ID": "006PH00000jgtuEYAQ",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "ed4b264bze836z31c1zbe9azd31fdb1c3014",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,1. Campaign & Media Contacts Framework Defined,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Jesse Kiuru",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "6c738e38-85c4-4666-9353-d48d722340b5",
-      "Salesforce Opportunity ID": "006PH00000gtT2nYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 18,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 16,
   "im_name": "Juho Leskinen"
 }
