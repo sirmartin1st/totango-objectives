@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "9f313564zc2efz37e6z8c19za44d11b2b455",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Eva Brynjarsdottir",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "51867cfe-1eb8-49a9-9b9b-07410c597d2d",
+      "Salesforce Opportunity ID": "006PH00000qACV1YAO",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "7268e180z0490z359dzbf1czc13e631c55ef",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -51,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Eva Brynjarsdottir",
       "Objective Created Date": "2026-10-26",
@@ -315,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 19,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 20,
   "im_name": "Jamie Korah"
 }
