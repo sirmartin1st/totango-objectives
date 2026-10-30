@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Will McCullough",
       "Objective Created Date": "2026-10-23",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-15",
@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Alyson Harrington",
       "Objective Created Date": "2026-10-12",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Alyson Harrington",
       "Objective Created Date": "2026-10-11",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Alyson Harrington",
       "Objective Created Date": "2026-10-11",
@@ -211,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Anne-Frederic Duval",
       "Objective Created Date": "2026-10-07",
@@ -233,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Anne-Frederic Duval",
       "Objective Created Date": "2026-10-07",
@@ -453,7 +453,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Asfara Noormohammed",
       "Objective Created Date": "2026-10-01",
@@ -475,7 +475,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Asfara Noormohammed",
       "Objective Created Date": "2026-10-01",
@@ -541,7 +541,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Antonia Spencer",
       "Objective Created Date": "2026-09-30",
@@ -579,11 +579,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -601,11 +601,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -623,11 +623,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,Mira Studio Usage,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -689,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,,,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -777,11 +777,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -843,13 +843,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Kearstine Griffin",
       "Objective Created Date": "2026-09-30",
@@ -953,11 +953,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1047,7 +1047,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
       "CSM Owner": "Antonia Spencer",
       "Objective Created Date": "2026-09-24",
@@ -1343,28 +1343,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "c6d9a841z1808z350cz8c10zd3933846def6",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,2. Target Audience Assessed & Activated,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Danielle Lagman",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
-      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "e61395a6za4fez3292za328z8e8646263e6d",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -1383,28 +1361,6 @@
       "Objective Created Date": "2026-08-27",
       "Account ID": "a6566bb7-f3ff-4f2f-8303-f60380a5e70a",
       "Salesforce Opportunity ID": "006PH00000mo8RlYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e6251e5ez6e5cz3476z8d9ezed619d7acb28",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Danielle Lagman",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
-      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -1451,75 +1407,9 @@
       "Salesforce Opportunity ID": "006PH00000qKDCtYAO",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "3e76d90cz91a9z3aa9zba6bz228ab89101b0",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 80,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 80,
-      "Milestone Names": "2. Integration of Brand Search Analytics into dashboards,1. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,3. Tracking of Competitor and Market Signals Fully Operational,,HS20 Searches Completed 90D,MI IG Setup New,,MI FB Setup New,Mira Studio Usage",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Danielle Lagman",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
-      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5bf8c77cz5ca5z349bz9f99z2b6a489c94f9",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": ",,b. Integration of Brand Search Analytics into dashboards,,HS20 Articles Clicked 90D,a. Brand Search Foundation Defined ,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Danielle Lagman",
-      "Objective Created Date": "2026-07-22",
-      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
-      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b6a4a5ffz9112z3a58zbd14z3f2dbb7090c8",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "a. Brand Search Foundation Defined,b. Prompt Criteria Fully Operational,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Danielle Lagman",
-      "Objective Created Date": "2026-07-21",
-      "Account ID": "c411d690-9723-4a6a-8d4d-8c3c4d1befce",
-      "Salesforce Opportunity ID": "006PH00000md6WXYAY",
-      "Objective Created By": "natalie.smith@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 69,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 64,
   "im_name": "Anna Genova"
 }
