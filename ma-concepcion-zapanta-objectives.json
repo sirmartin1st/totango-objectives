@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "173a4ddfz3f79z329az9560zbf55ff01e2eb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "b9704756-f345-4cdc-8f4f-3ebaba34f7e9",
+      "Salesforce Opportunity ID": "006PH00000qI0GXYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "358cb782ze756z3fe3z87e8z7f2bef42b488",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "b9704756-f345-4cdc-8f4f-3ebaba34f7e9",
+      "Salesforce Opportunity ID": "006PH00000qI0GXYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "50f537adza20az362bza302zf0eca9619ef5",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -227,11 +271,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -271,11 +315,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -491,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -617,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 28,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 30,
   "im_name": "Ma Concepcion Zapanta"
 }
