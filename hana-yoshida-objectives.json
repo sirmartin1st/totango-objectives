@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -925,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
+  "fetched_at": "2026-10-30T10:51:14.082Z",
   "total": 42,
   "im_name": "Hana Yoshida"
 }
