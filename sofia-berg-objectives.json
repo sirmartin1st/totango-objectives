@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "56fbab59zd574z38a6zbcbaz9f2c0538e59f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "On Hold",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Alex Malin",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "4c4297d1-faa7-4ede-8a8a-cc39dbc86648",
+      "Salesforce Opportunity ID": "006PH00000r09rCYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "861e96c6zde00z31fbzbd10zfb05f7c6cea4",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -249,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
@@ -485,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 22,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 23,
   "im_name": "Sofia ?berg"
 }
