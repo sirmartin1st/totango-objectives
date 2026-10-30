@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "7224cbabz5cf6z3916z85d9z2168d355b9ca",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "124bd704-93e7-4020-8bcb-46ca7a22d590",
+      "Salesforce Opportunity ID": "006PH00000rDJeFYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f048bd45z8301z3a0bz93edz319ba0728c0b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sherries Enriquez",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "90bfb658-2847-49d9-8b8b-a1509c5a1cf4",
+      "Salesforce Opportunity ID": "006PH00000sgN7aYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "8ce6eb31z7338z3cf1za506zd08d99418437",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -89,7 +133,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 4,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 6,
   "im_name": "Sherries Enriquez"
 }
