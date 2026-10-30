@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "3f573036z30ffz3d0dzb8e8zf7f957bb6717",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Catherine Innocenzi",
+      "Objective Created Date": "2026-10-29",
+      "Account ID": "5839cdc7-549d-4a9a-8e4e-8e83a81b2cda",
+      "Salesforce Opportunity ID": "006PH00000qhaS5YAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1825f8e6zc8c0z36abzb81ez600bee74bfc9",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -1145,7 +1167,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-29T10:51:14.394Z",
-  "total": 52,
+  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "total": 53,
   "im_name": "Sabhari Bala"
 }
