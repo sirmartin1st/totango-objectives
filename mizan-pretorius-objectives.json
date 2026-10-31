@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "5ac689b0zed9dz369bzb267z22f779fe0b17",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "cfdfb3b7-0e77-4404-b2b2-3f8ad8f989a7",
+      "Salesforce Opportunity ID": "006PH00000igvgTYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "76ccbf8az9e1cz3e2fza492z39c6c79ff1e2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Helena Herzberg",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "937a5991-4275-4faf-84c4-6ee140dbfe00",
+      "Salesforce Opportunity ID": "006PH00000qE84gYAC",
+      "Objective Created By": "mizan.pretorius@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a3890db6zff8cz334ez888az05c210662c09",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "cfdfb3b7-0e77-4404-b2b2-3f8ad8f989a7",
+      "Salesforce Opportunity ID": "006PH00000igvgTYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0040a144z5c09z37fcza97fz41687178f57b",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -353,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 16,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 19,
   "im_name": "Mizan Pretorius"
 }
