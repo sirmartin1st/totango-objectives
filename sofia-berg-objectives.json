@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "57771552z60caz3c56z81faz850e4a1f68c9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Linda Wallin",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "37431f8b-9bc8-45a5-8ccc-c4231ea94373",
+      "Salesforce Opportunity ID": "006PH00000rtQY1YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "63d64cc8z75d3z3587z92c7z00652c903b7f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Linda Wallin",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "37431f8b-9bc8-45a5-8ccc-c4231ea94373",
+      "Salesforce Opportunity ID": "006PH00000rtQY1YAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c15a00d0z29a0z3647z8e1bz60815e3e38f8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Jakob Holst",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "3d557857-2e70-4c5c-9ddd-8215f1cb3415",
+      "Salesforce Opportunity ID": "006PH00000njAdJYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "56fbab59zd574z38a6zbcbaz9f2c0538e59f",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -271,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sofia ?berg",
@@ -507,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 23,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 26,
   "im_name": "Sofia ?berg"
 }
