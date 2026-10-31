@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6ea8c794z4df9z3ea6z86f9za98410bf8dcf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Devan Wallace",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "4adb7e33-2c84-4bfb-b5f5-4a76923aeb25",
+      "Salesforce Opportunity ID": "006PH00000nnYHFYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "9f313564zc2efz37e6z8c19za44d11b2b455",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-10-27",
@@ -189,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Tirza Lammers",
       "Objective Created Date": "2026-10-18",
@@ -287,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "61a64cecz5b39z3727z8911zd4eb2fc4ed6d",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Campaign Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Th?o Qu?va",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "c7d64fbe-5df7-4949-9191-6efac4972d09",
-      "Salesforce Opportunity ID": "006PH00000ta9d0YAA",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "011bd35fz1826z38ffzaeb8z8d655aa5cece",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Kiki Fabel",
       "Objective Created Date": "2026-10-01",
@@ -441,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "fetched_at": "2026-10-31T10:51:14.408Z",
   "total": 20,
   "im_name": "Jamie Korah"
 }
