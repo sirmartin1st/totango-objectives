@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "34ecbac9zaf93z32efzbce8zf88c6648510e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Marley Bratman",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "968c23d5-94c0-4a0a-9717-198df6fbb7ed",
+      "Salesforce Opportunity ID": "006PH00000mBFPtYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "a7cb3e3dzd291z3b6dz88d6z099114051541",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -315,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -1409,7 +1431,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 64,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 65,
   "im_name": "Anna Genova"
 }
