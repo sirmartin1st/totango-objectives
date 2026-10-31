@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "1d3d8667z1af7z35a2zb96czd9de4d7989fa",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Luken Dalessandro",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "0046dba3-8de3-41b1-bfff-0963fb05460e",
+      "Salesforce Opportunity ID": "006PH00000s4bmgYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3a862344za56az3e8dz841czb00da07f2ed5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
+      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6d04a7d9zb25az3ca8za391z19ea49182cba",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "17e29831-4658-4545-aaea-2b783faabaca",
+      "Salesforce Opportunity ID": "006PH00000sUrpNYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a082e33fzc5b9z3919zb13bz2a7a9e664ecd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
+      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a6df8d69ze9f6z325azb7b3za6eae653aa7c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
+      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4e949c95zf81fz39f8zbc11z0ee972aacb15",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -771,7 +881,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 35,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 40,
   "im_name": "Maria Tavares"
 }
