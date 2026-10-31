@@ -1,17 +1,61 @@
 {
   "objectives": [
     {
+      "objective_id": "0bbb60cezcc5cz336ezb7a4z0f0fb1017ca5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "6fd223b8-1704-4b5b-ac2c-50cfd2df039a",
+      "Salesforce Opportunity ID": "006PH00000tAcNjYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "38844439zcb40z33b0zad27z7ff33ca80703",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Camila Henriquez",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "a6775f21-9271-4161-8909-3ea36d730ba9",
+      "Salesforce Opportunity ID": "006PH00000qd9lSYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "010f79f7zd606z3a20za1f7z3d6002cdd46d",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Emma Ekeroth",
@@ -397,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 18,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 20,
   "im_name": "Emma Ekeroth"
 }
