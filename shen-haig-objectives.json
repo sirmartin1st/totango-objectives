@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "3b5f9d82ze051z3e4bza321z3964f3a88fec",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "c57f2251-8d1f-4e8e-a0e0-3e5692139d31",
+      "Salesforce Opportunity ID": "006PH00000uatDpYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "54371904zd005z3f4fz85e6z9d6c0dac2b93",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "80ee61ad-c288-4858-b9b9-6f8d5f623030",
+      "Salesforce Opportunity ID": "006PH00000t0rPeYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "dffdfd0fz32f0z3d70z8c88z973287c6fe83",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Shen Haig",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "c57f2251-8d1f-4e8e-a0e0-3e5692139d31",
+      "Salesforce Opportunity ID": "006PH00000uatDpYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f4e03191z14c6z30eaza5d2zc87d305429e3",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -111,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 5,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 8,
   "im_name": "Shen Haig"
 }
