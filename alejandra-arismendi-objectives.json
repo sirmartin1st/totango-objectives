@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "e384fe1az8872z3210za3c9z8f82582aca7d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Patricia Moreno",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "50b69301-4498-4ede-b1f1-20430a75558a",
+      "Salesforce Opportunity ID": "006PH00000qmh7xYAA",
+      "Objective Created By": "alejandra.arismendi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "67f1d0eazdfd7z35bez8830z86c60e032d9c",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "B?n?dicte Bucharles",
       "Objective Created Date": "2026-10-26",
@@ -35,35 +57,13 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-22",
       "Account ID": "15f10a8d-da56-4646-8b8b-cd7036f0aecf",
       "Salesforce Opportunity ID": "006PH00000r6fbRYAQ",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9dc5dcd0z0f01z3396zb1bez3af48f3eead8",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Voice of Customer Segmentation",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Articles Clicked 90D,,,MI API Exports 30d,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Alejandra Arismendi",
-      "CSM Owner": "Patricia Moreno",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "50b69301-4498-4ede-b1f1-20430a75558a",
-      "Salesforce Opportunity ID": "006PH00000qmh7xYAA",
-      "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -161,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
@@ -243,7 +243,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
+  "fetched_at": "2026-10-31T10:51:14.408Z",
   "total": 11,
   "im_name": "Alejandra Arismendi"
 }
