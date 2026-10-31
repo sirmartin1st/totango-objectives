@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "251aaf69z083ez34e4z9fdfz04adf70ee37c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Klear Campaigns Opened 90D,,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "6e9cd852-a187-4aea-b7b7-2bb3fc38a320",
+      "Salesforce Opportunity ID": "0065f00000IridRAAR",
+      "Objective Created By": "brendan.leung@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2b0d5c73z2c65z382ez9340z28eece095570",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -375,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 17,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 18,
   "im_name": "Brendan Leung"
 }
