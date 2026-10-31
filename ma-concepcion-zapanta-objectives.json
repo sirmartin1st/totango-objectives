@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "0634f4e9z2c4ez32deza800zda9a1e570e51",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "b3c0c1ab-9976-43d3-bcfc-d20fcc0ada4a",
+      "Salesforce Opportunity ID": "006PH00000rKNLJYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "17e36ea7z80edz3f59za573zb5d791e540ca",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "b691d083-d71c-44d4-bdbd-49dfe0265a61",
+      "Salesforce Opportunity ID": "006PH00000u9YNBYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6276c3adz0412z3903zb3afz986e7e30831e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": "Jess Andrews",
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "b691d083-d71c-44d4-bdbd-49dfe0265a61",
+      "Salesforce Opportunity ID": "006PH00000u9YNBYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "173a4ddfz3f79z329az9560zbf55ff01e2eb",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -95,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -661,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 30,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 33,
   "im_name": "Ma Concepcion Zapanta"
 }
