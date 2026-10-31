@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "a0e2ae04z228az3773zab95zd265fb064f34",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "b251ce9c-8f28-4454-9151-1f8cd00d0c6c",
+      "Salesforce Opportunity ID": "006PH00000t9MMhYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b9688629zbe8dz347azb11fzeda24563dc7c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-30",
+      "Account ID": "b251ce9c-8f28-4454-9151-1f8cd00d0c6c",
+      "Salesforce Opportunity ID": "006PH00000t9MMhYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "10ed9d66zc18dz3dbazafc2z89471bc7d606",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -419,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 19,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 21,
   "im_name": "Murwan Mahdi"
 }
