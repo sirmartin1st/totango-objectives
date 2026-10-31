@@ -45,28 +45,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "52547dcfz45f4z3bb9z9f3bz903b785626c2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Zahrah Dungarwalla",
-      "CSM Owner": "David Samuelsson",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "6b50ecf5-f1d6-4e6e-a0e0-f6a5fab863fd",
-      "Salesforce Opportunity ID": "006PH00000pC4KFYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "20564065z7dd2z357cz8fadzba4562cf8712",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -199,7 +177,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-30T10:51:14.082Z",
-  "total": 9,
+  "fetched_at": "2026-10-31T10:51:14.408Z",
+  "total": 8,
   "im_name": "Zahrah Dungarwalla"
 }
