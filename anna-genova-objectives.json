@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "3cb4fbdcz1209z3a85zb6b6z2039b8b260ec",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Marley Bratman",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "968c23d5-94c0-4a0a-9717-198df6fbb7ed",
+      "Salesforce Opportunity ID": "006PH00000mBFPtYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d9e16ac1zfdf4z3ac1za438z16c7017ca39a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Bobby Choppa",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "1307adcf-0f4f-48e8-94d4-71608726c0f7",
+      "Salesforce Opportunity ID": "006PH00000tS9zxYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "34ecbac9zaf93z32efzbce8zf88c6648510e",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -1431,7 +1475,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 65,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 67,
   "im_name": "Anna Genova"
 }
