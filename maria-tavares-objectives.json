@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "2ea7f73bz7b59z3bb1za65azf3be62d99da7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "17e29831-4658-4545-aaea-2b783faabaca",
+      "Salesforce Opportunity ID": "006PH00000sUrpNYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6f380bcezf094z3d74zba30ze46c0a3dafd3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lauren Damp",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "cf3e0075-a85b-43a3-9555-4bf59dbe1a87",
+      "Salesforce Opportunity ID": "006PH00000uAszlYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1d3d8667z1af7z35a2zb96czd9de4d7989fa",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -881,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 40,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 42,
   "im_name": "Maria Tavares"
 }
