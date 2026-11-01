@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "240e2c60z5ed0z31a7z8c2cz811d3c51e583",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "b5cbef66-dce6-40b0-aa2a-c75c374d4678",
+      "Salesforce Opportunity ID": "006PH00000tf8efYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2d5a7c05z8852z3be1zbd49za1a887a00f00",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -529,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 24,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 25,
   "im_name": "Kyle Appolis"
 }
