@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d74a042bz7674z3d55zb92cz0a70edfb0a6c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Ma Concepcion Zapanta",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0634f4e9z2c4ez32deza800zda9a1e570e51",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -727,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 33,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 34,
   "im_name": "Ma Concepcion Zapanta"
 }
