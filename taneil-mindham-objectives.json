@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "501a30d8z9b1ez39c1z88b8zcd971191a21f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "97081918-47b0-4c5c-a9e9-bde62e98b07b",
+      "Salesforce Opportunity ID": "006PH00000t9E47YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "670eceb3zed56z318bz8551ze1e17d9e0d45",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "97081918-47b0-4c5c-a9e9-bde62e98b07b",
+      "Salesforce Opportunity ID": "006PH00000t9E47YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "cd2301b2z3904z3250z9eb7z321af988a2df",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -95,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
@@ -243,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 11,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 13,
   "im_name": "Taneil Mindham"
 }
