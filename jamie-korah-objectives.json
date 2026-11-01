@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "a33cb9e3z82acz34e8z93d4z81cff2c8d091",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "d53a5bff-4c9a-4b8b-b2f2-0754a8985fa2",
+      "Salesforce Opportunity ID": "006PH00000tzaJpYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a5c09e55z7eebz3b66z9ec3z73feae0c6195",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "d53a5bff-4c9a-4b8b-b2f2-0754a8985fa2",
+      "Salesforce Opportunity ID": "006PH00000tzaJpYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "baab0ffcz62eez3a89z9071z8e61e1132b2c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Maria Maceikianec",
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "1e082a40-ad35-4000-ac2c-1b9acf91af4a",
+      "Salesforce Opportunity ID": "006PH00000u7MmjYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6ea8c794z4df9z3ea6z86f9za98410bf8dcf",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -205,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
       "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Jamie Korah",
@@ -441,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 20,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 23,
   "im_name": "Jamie Korah"
 }
