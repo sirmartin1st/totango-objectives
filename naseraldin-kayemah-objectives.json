@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "2dab3d26z3201z3954z9214z4cb1ddfd69cf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "2b191fb4-61cc-4c4c-bc7c-169d408cb25d",
+      "Salesforce Opportunity ID": "006PH00000tbpwjYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fc993028z6744z3feazbc74zbd4bf24214e7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Naseraldin Kayemah",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-10-31",
+      "Account ID": "2b191fb4-61cc-4c4c-bc7c-169d408cb25d",
+      "Salesforce Opportunity ID": "006PH00000tbpwjYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "ee5a7664zfd88z3e0fz9cfczf7cec43359d3",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -265,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-10-31T10:51:14.408Z",
-  "total": 12,
+  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "total": 14,
   "im_name": "Naseraldin Kayemah"
 }
