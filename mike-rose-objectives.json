@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "e6b4e1e4z0930z3a65z8b38zeb09f0ca9abd",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "54d41b43-69fd-4c1c-be3e-db231466673a",
+      "Salesforce Opportunity ID": "006PH00000tHzVeYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fa8c7717z3d65z3e02z96abz31e31fc881b1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "54d41b43-69fd-4c1c-be3e-db231466673a",
+      "Salesforce Opportunity ID": "006PH00000tHzVeYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "7c7fc8ffz0feez3a63zb965z02506fb11ad5",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -397,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 18,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 20,
   "im_name": "Mike Rose"
 }
