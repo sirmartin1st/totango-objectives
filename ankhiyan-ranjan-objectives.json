@@ -529,72 +529,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1ebfc159z7b4fz3229z9655zb117fa1583e1",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,Mira Studio Usage,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Keanna Chang",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "f20753e8-f30f-4292-b7b7-6d8d84667c62",
-      "Salesforce Opportunity ID": "006PH00000lc6xRYAQ",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5e5e57bdzed9dz317fz8b92zf73b1125b091",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Keanna Chang",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "f20753e8-f30f-4292-b7b7-6d8d84667c62",
-      "Salesforce Opportunity ID": "006PH00000lc6xRYAQ",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7cd7d348z541ez351ezbe0dz2719e6485f45",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Keanna Chang",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "f20753e8-f30f-4292-b7b7-6d8d84667c62",
-      "Salesforce Opportunity ID": "006PH00000lc6xRYAQ",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "8169c49bza97cz3b12z8e9fz2406f906dc15",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -791,75 +725,9 @@
       "Salesforce Opportunity ID": "006PH00000nmbicYAA",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "05f72494z8495z3826z9864zfb0ffbe756d0",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,1. Market & Industry Search Foundation Defined,,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-07-05",
-      "Account ID": "6adb5448-5906-4646-bdbd-a829dbde3395",
-      "Salesforce Opportunity ID": "006PH00000lkXHFYA2",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "94c80133za6a3z33efz9d41z3617e29b522c",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 10,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,MI IG Setup New,Mira Studio Usage,,,MI FB Setup New,1. Brand Search Foundation Defined ",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-07-05",
-      "Account ID": "6adb5448-5906-4646-bdbd-a829dbde3395",
-      "Salesforce Opportunity ID": "006PH00000lkXHFYA2",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "aacc1f83zcf61z39a1za83ez1e6523c7c717",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Cynthia Tian",
-      "Objective Created Date": "2026-07-05",
-      "Account ID": "6adb5448-5906-4646-bdbd-a829dbde3395",
-      "Salesforce Opportunity ID": "006PH00000lkXHFYA2",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 39,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 33,
   "im_name": "Ankhiyan Ranjan"
 }
