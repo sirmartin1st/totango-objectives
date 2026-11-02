@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "d042a88dz7fc1z3b8bz93eez2db0be9ce1df",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "d1060ee9-7a93-4929-9757-12b772396eeb",
+      "Salesforce Opportunity ID": "006PH00000uUZUjYAO",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "efa9cd97zdf53z347fzb329ze9b87d1661bf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "4490c18d-a92b-48b8-bb3b-842ff6e9fe59",
+      "Salesforce Opportunity ID": "006PH00000uffGfYAI",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "067bfa90z442ez3765z92a8za64383924de8",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-31",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-31",
@@ -117,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Murwan Mahdi",
@@ -365,7 +409,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
-      "Onboarding Stage": "On Hold",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-25",
@@ -507,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 23,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 25,
   "im_name": "Murwan Mahdi"
 }
