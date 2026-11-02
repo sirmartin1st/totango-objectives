@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,1. Content Curation Defined,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-08-27",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,2. Campaign Performance Tracking Fully Operational,1. Campaign & Media Contacts Framework Defined",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-08-27",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Structure RTA/Topic/Competitor Infrastructure,3. Operationalize alerts for EAC & US media teams,1. Risk Landscape Defined with Ruth & EAC",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-02-07",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "2. Build dashboard framework,3. Tracking of Competitor and Market Signals Fully Operational,1. Search Framework Defined - brand comms, eac, storylab, us media",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Amanda Shaw",
       "CSM Owner": "Tayler McElvain",
       "Objective Created Date": "2026-02-07",
@@ -89,7 +89,7 @@
       "Objective Description": "Trend analysis: eg: anti-American sentiment,Earnings coverage"
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
+  "fetched_at": "2026-11-02T11:51:16.292Z",
   "total": 4,
   "im_name": "Amanda Shaw"
 }
