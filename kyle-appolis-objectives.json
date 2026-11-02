@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "d3098f24z9624z3012z87e6zc8c24fd728ea",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "b5cbef66-dce6-40b0-aa2a-c75c374d4678",
+      "Salesforce Opportunity ID": "006PH00000tf8efYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "240e2c60z5ed0z31a7z8c2cz811d3c51e583",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -551,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 25,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 26,
   "im_name": "Kyle Appolis"
 }
