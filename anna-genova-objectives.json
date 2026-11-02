@@ -111,28 +111,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ad795450zef68z3fbczb2d3z17b723ff1a5e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-10-15",
-      "Account ID": "290b549d-752d-4cec-a6e6-7fdf8cf8ed43",
-      "Salesforce Opportunity ID": "006PH00000r8ijhYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ee1d4884z5de6z348ezb8fbzce53c99dd667",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -261,50 +239,6 @@
       "Objective Created Date": "2026-10-09",
       "Account ID": "6a53a874-af4d-45d5-acec-400adb31ecbc",
       "Salesforce Opportunity ID": "006PH00000uS7RJYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b551999dz5a16z35a6z90aezb66e60263728",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Anne-Frederic Duval",
-      "Objective Created Date": "2026-10-07",
-      "Account ID": "ef75765a-d9c8-4d9d-b9f9-c3157eb9822c",
-      "Salesforce Opportunity ID": "006PH00000rhlI5YAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f288befbz911ez3679z9fb1za751cad193ff",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Anne-Frederic Duval",
-      "Objective Created Date": "2026-10-07",
-      "Account ID": "ef75765a-d9c8-4d9d-b9f9-c3157eb9822c",
-      "Salesforce Opportunity ID": "006PH00000rhlI5YAI",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -1475,7 +1409,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 67,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 64,
   "im_name": "Anna Genova"
 }
