@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "1706b6a8zdbc4z30c5z978fz868a9ab4b83a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "8d04f3fc-87b9-4202-a727-22ac7285c816",
+      "Salesforce Opportunity ID": "006PH00000lknUEYAY",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "20974831z0fcbz3766z972cz386d863d0013",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "8b2b71a0-3fff-4888-b232-f24cb8cb055a",
+      "Salesforce Opportunity ID": "006PH00000jNr89YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "70f743e8z0d45z3cb5zaeedz7386985ae977",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Franziska Adelmann",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "8d04f3fc-87b9-4202-a727-22ac7285c816",
+      "Salesforce Opportunity ID": "006PH00000lknUEYAY",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "747cfa37z91edz33f8z83f3z0d866620db50",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Vanessa Viertel",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "8b2b71a0-3fff-4888-b232-f24cb8cb055a",
+      "Salesforce Opportunity ID": "006PH00000jNr89YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "888de510ze1b5z3de7z8cbdz5589d97dc05d",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -13,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-31",
@@ -661,7 +749,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 30,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 34,
   "im_name": "Marius Zenker"
 }
