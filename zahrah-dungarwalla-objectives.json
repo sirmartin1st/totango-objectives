@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "33ba5254zbd67z39e1z9f4bz2749984036e0",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "2a947e39-8ddb-43b3-8e4e-0fd889a56a37",
+      "Salesforce Opportunity ID": "006PH00000r776HYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "67f2c44dz908dz33e6z8b06z37dd8cc9a10c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-11-01",
+      "Account ID": "2a947e39-8ddb-43b3-8e4e-0fd889a56a37",
+      "Salesforce Opportunity ID": "006PH00000r776HYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "c4bb25d4zcc7fz36cez81ffze1795bba325d",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -177,7 +221,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-01T11:51:15.514Z",
-  "total": 8,
+  "fetched_at": "2026-11-02T11:51:16.292Z",
+  "total": 10,
   "im_name": "Zahrah Dungarwalla"
 }
