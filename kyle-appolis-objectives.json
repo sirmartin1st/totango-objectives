@@ -1,7 +1,29 @@
 {
   "objectives": [
     {
-      "objective_id": "d3098f24z9624z3012z87e6zc8c24fd728ea",
+      "objective_id": "4f23daeez6b5ez38d5za755z718ae94e033e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "241b63d6-61e6-47c7-9c5c-ba4e7eea185d",
+      "Salesforce Opportunity ID": "006PH00000iHT5wYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7221db2eze531z3cdez93e0ze7c4bf56eb45",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
       "Objective Status": "1",
@@ -14,6 +36,50 @@
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
       "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "241b63d6-61e6-47c7-9c5c-ba4e7eea185d",
+      "Salesforce Opportunity ID": "006PH00000iHT5wYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d5fc50d6z307ez397czbaeaz4d52326cc8ed",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 40,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 40,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Kyle Appolis",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "241b63d6-61e6-47c7-9c5c-ba4e7eea185d",
+      "Salesforce Opportunity ID": "006PH00000iHT5wYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d3098f24z9624z3012z87e6zc8c24fd728ea",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-01",
@@ -35,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Kyle Appolis",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-31",
@@ -573,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 26,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 29,
   "im_name": "Kyle Appolis"
 }
