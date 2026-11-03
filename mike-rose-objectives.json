@@ -1,6 +1,116 @@
 {
   "objectives": [
     {
+      "objective_id": "0c37b23bzedabz315eza510z33a07fffea2a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "407f89f1-ddcd-4c0c-92d2-1d205f838caa",
+      "Salesforce Opportunity ID": "006PH00000vKjbGYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "1f88ee9azfa3dz3dc0z98c4zc099d2e734d8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "407f89f1-ddcd-4c0c-92d2-1d205f838caa",
+      "Salesforce Opportunity ID": "006PH00000vKjbGYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "2dc081a9zcff9z3d13z8745z455c82afc610",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "adeae3bf-ff50-4909-bafa-e270076ae31a",
+      "Salesforce Opportunity ID": "006PH00000rSyIrYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "784cd729za5fcz362ezbecez035578570aca",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "54d41b43-69fd-4c1c-be3e-db231466673a",
+      "Salesforce Opportunity ID": "006PH00000tHzVeYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a71be527z1218z311ez9776zd336fd061681",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "adeae3bf-ff50-4909-bafa-e270076ae31a",
+      "Salesforce Opportunity ID": "006PH00000rSyIrYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e6b4e1e4z0930z3a65z8b38zeb09f0ca9abd",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -441,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 20,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 25,
   "im_name": "Mike Rose"
 }
