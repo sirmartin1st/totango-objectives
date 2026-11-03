@@ -909,11 +909,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 9
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Anna Genova",
@@ -931,11 +931,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -987,28 +987,6 @@
       "Objective Created Date": "2026-09-29",
       "Account ID": "753b69db-6478-4848-a6e6-e6a3e6d38911",
       "Salesforce Opportunity ID": "006PH00000ovbm2YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "20c7297az4b69z340cz96e6zd514161d41cf",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-09-26",
-      "Account ID": "1dbc463f-407b-4434-a929-36f7e2b7dad0",
-      "Salesforce Opportunity ID": "006PH00000s2WhSYAU",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -1119,50 +1097,6 @@
       "Objective Created Date": "2026-09-13",
       "Account ID": "6b13afa9-70c1-44b4-b737-428ac864f8a7",
       "Salesforce Opportunity ID": "006PH00000qF7UfYAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5e5aa0f3zff7fz3ee0z82afzea51446b8b5f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "1dbc463f-407b-4434-a929-36f7e2b7dad0",
-      "Salesforce Opportunity ID": "006PH00000s2WhSYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "98be4a6fzee53z321ezae51z8d3a0d0cd32c",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "1dbc463f-407b-4434-a929-36f7e2b7dad0",
-      "Salesforce Opportunity ID": "006PH00000s2WhSYAU",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -1409,7 +1343,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 64,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 61,
   "im_name": "Anna Genova"
 }
