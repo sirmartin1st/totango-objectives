@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0267392dz52ecz392bzab61z64283adc5f96",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 6
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Tirza Lammers",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "53ba78c4-7b27-4636-91d1-23d2b2d8087b",
+      "Salesforce Opportunity ID": "006PH00000mc0OLYAY",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "370c7e23z4df9z325dzad7dzd010c92c2db8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Louisa Isaacs",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "dc6708e4-a6f6-4414-97d7-e4c6a89e8a1a",
+      "Salesforce Opportunity ID": "006PH00000vNKI9YAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "a33cb9e3z82acz34e8z93d4z81cff2c8d091",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -507,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 23,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 25,
   "im_name": "Jamie Korah"
 }
