@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Juho Leskinen",
@@ -221,28 +221,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "a2c24b55z1cd3z3b98zbf10z5666b794b5aa",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-09-08",
-      "Account ID": "f0024707-ef6f-4aea-acac-12ca2d8cf35d",
-      "Salesforce Opportunity ID": "006PH00000mbTkAYAU",
-      "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "5c1baab5zdabez370bz8956z4ea08effbbb3",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -262,50 +240,6 @@
       "Account ID": "6820f8aa-efa4-4a0a-8646-ebfb6887beb6",
       "Salesforce Opportunity ID": "006PH00000jgtuEYAQ",
       "Objective Created By": "juho.leskinen@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "0cf56e90z6606z3846z8ed0z57859cf7cc5b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-28",
-      "Account ID": "f0024707-ef6f-4aea-acac-12ca2d8cf35d",
-      "Salesforce Opportunity ID": "006PH00000mbTkAYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "fb8961caz0f9cz3676za422zf1112e3d8b28",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Juho Leskinen",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-08-28",
-      "Account ID": "f0024707-ef6f-4aea-acac-12ca2d8cf35d",
-      "Salesforce Opportunity ID": "006PH00000mbTkAYAU",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -353,7 +287,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 16,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 13,
   "im_name": "Juho Leskinen"
 }
