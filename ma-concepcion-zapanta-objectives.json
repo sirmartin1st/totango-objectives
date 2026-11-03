@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "d74a042bz7674z3d55zb92cz0a70edfb0a6c",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-10-31",
-      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
-      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "0634f4e9z2c4ez32deza800zda9a1e570e51",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -41,94 +19,6 @@
       "Objective Created Date": "2026-10-30",
       "Account ID": "b3c0c1ab-9976-43d3-bcfc-d20fcc0ada4a",
       "Salesforce Opportunity ID": "006PH00000rKNLJYA4",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "17e36ea7z80edz3f59za573zb5d791e540ca",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-10-30",
-      "Account ID": "b691d083-d71c-44d4-bdbd-49dfe0265a61",
-      "Salesforce Opportunity ID": "006PH00000u9YNBYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6276c3adz0412z3903zb3afz986e7e30831e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-10-30",
-      "Account ID": "b691d083-d71c-44d4-bdbd-49dfe0265a61",
-      "Salesforce Opportunity ID": "006PH00000u9YNBYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "173a4ddfz3f79z329az9560zbf55ff01e2eb",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-10-29",
-      "Account ID": "b9704756-f345-4cdc-8f4f-3ebaba34f7e9",
-      "Salesforce Opportunity ID": "006PH00000qI0GXYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "358cb782ze756z3fe3z87e8z7f2bef42b488",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-10-29",
-      "Account ID": "b9704756-f345-4cdc-8f4f-3ebaba34f7e9",
-      "Salesforce Opportunity ID": "006PH00000qI0GXYA0",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -183,13 +73,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-10-26",
@@ -265,127 +155,17 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "e81580c4ze01dz3ccdzaf73z65e062104a39",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-10-13",
-      "Account ID": "57cf6ba8-f513-4cac-9999-ede959fd120d",
-      "Salesforce Opportunity ID": "006PH00000ta1ifYAA",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "2404c1fbz80fez3b6ezbe04z1355a530fe3a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "7b8c5308-11ba-4393-96d6-650bd2fbdf12",
-      "Salesforce Opportunity ID": "006PH00000sE3BpYAK",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "70bd95a5zc1aez3a86z84a1z74b8693d1eee",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Market & Industry Research",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "7b8c5308-11ba-4393-96d6-650bd2fbdf12",
-      "Salesforce Opportunity ID": "006PH00000sE3BpYAK",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "823c5f7azcda0z3fa5za4dbzd75547d394b6",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "7b8c5308-11ba-4393-96d6-650bd2fbdf12",
-      "Salesforce Opportunity ID": "006PH00000sE3BpYAK",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "48f2eae8z56f4z37b3z865dza328e6eba6b2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "49c95641-693c-48e8-b0b0-b726b54f0c04",
-      "Salesforce Opportunity ID": "006Rf00000SwL3DIAV",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "72085daczfe25z3ebdzac61za663c340d111",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
@@ -393,28 +173,6 @@
       "Objective Created Date": "2026-10-08",
       "Account ID": "33155e01-0e46-4979-bbbb-046ae465e01a",
       "Salesforce Opportunity ID": "006PH00000s75K2YAI",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7a9a33eez06fdz3c6ez84a1z52c710eb612f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "49c95641-693c-48e8-b0b0-b726b54f0c04",
-      "Salesforce Opportunity ID": "006Rf00000SwL3DIAV",
       "Objective Created By": "maricon.zapanta@meltwater.com",
       "Objective Description": ""
     },
@@ -453,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-10-02",
@@ -475,7 +233,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ma Concepcion Zapanta",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-10-02",
@@ -551,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "aea90280z6e14z3ed8z860fzf04c9a00101e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "57cf6ba8-f513-4cac-9999-ede959fd120d",
-      "Salesforce Opportunity ID": "006PH00000ta1ifYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "bad20198z573dz3774z886ezcd743a3d7fe9",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -615,141 +351,9 @@
       "Salesforce Opportunity ID": "006PH00000s75K2YAI",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "142830cczec36z3486zba15z4a860de3eff4",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "49c95641-693c-48e8-b0b0-b726b54f0c04",
-      "Salesforce Opportunity ID": "006Rf00000SwL3DIAV",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b38bfd41z248az3263zb86fz1045b8104897",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,Mira Studio Usage,MI IG Setup New,MI FB Setup New,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "c0a7d291-30a9-4313-bafa-5e12cf1daf06",
-      "Salesforce Opportunity ID": "006PH00000okw94YAA",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c270b57az6e08z3168zb8f2z5b011a0edf9c",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Monica Bondoc",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "c0a7d291-30a9-4313-bafa-5e12cf1daf06",
-      "Salesforce Opportunity ID": "006PH00000okw94YAA",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "104c9d03z2151z322az8766ze8e71c6a399b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Emma Witting",
-      "Objective Created Date": "2026-09-20",
-      "Account ID": "7db514c7-05f0-4797-aded-79972357d771",
-      "Salesforce Opportunity ID": "006PH00000rskVaYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "1645f351z557bz31d2z84cazf6abcfaceae5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Emma Witting",
-      "Objective Created Date": "2026-09-16",
-      "Account ID": "7db514c7-05f0-4797-aded-79972357d771",
-      "Salesforce Opportunity ID": "006PH00000rskVaYAI",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4ac285c1z4478z347bz8bf1z49d8d6e6e04a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Ma Concepcion Zapanta",
-      "CSM Owner": "Emma Witting",
-      "Objective Created Date": "2026-09-16",
-      "Account ID": "7db514c7-05f0-4797-aded-79972357d771",
-      "Salesforce Opportunity ID": "006PH00000rskVaYAI",
-      "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 34,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 16,
   "im_name": "Ma Concepcion Zapanta"
 }
