@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "b639e2a8z0683z357aza717zcd122bba86b1",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Zachary Leibell",
+      "Objective Created Date": "2026-11-02",
+      "Account ID": "ed47ad49-09f4-4b9b-b232-403436f7c06d",
+      "Salesforce Opportunity ID": "006PH00000ltJ29YAE",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1357d94azdd1cz3a04za052z8fae14f705c5",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -453,7 +475,7 @@
       },
       "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,,,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Nikita Sharma",
       "Objective Created Date": "2026-10-09",
@@ -585,7 +607,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Zachary Leibell",
       "Objective Created Date": "2026-10-01",
@@ -607,7 +629,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Zachary Leibell",
       "Objective Created Date": "2026-10-01",
@@ -629,7 +651,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Zachary Leibell",
       "Objective Created Date": "2026-10-01",
@@ -1013,7 +1035,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-02T11:51:16.292Z",
-  "total": 46,
+  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "total": 47,
   "im_name": "Sean DeRossett"
 }
