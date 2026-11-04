@@ -1,0 +1,51 @@
+{
+  "objectives": [
+    {
+      "objective_id": "2ace51fbzddecz323fzb38cz31db8aac5c61",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Marco Cheng",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
+      "Salesforce Opportunity ID": "006PH00000skKFyYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a64fe567z8630z3573za46bze7b86aad3691",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Marco Cheng",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
+      "Salesforce Opportunity ID": "006PH00000skKFyYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-11-04T11:51:14.873Z",
+  "total": 2,
+  "im_name": "Marco Cheng"
+}
