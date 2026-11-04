@@ -111,28 +111,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5dd64a6cz0b6dz3bb8z9aeezd03c8e55d823",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Savanah Wilshire",
-      "Objective Created Date": "2026-10-14",
-      "Account ID": "5ab6fff8-1fd2-42b2-9ada-b9a46f22c92d",
-      "Salesforce Opportunity ID": "006PH00000r0uN3YAI",
-      "Objective Created By": "brendan.leung@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "dd412a0bz24e3z3af0z8e41z946415287bb0",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -351,31 +329,9 @@
       "Salesforce Opportunity ID": "006PH00000mcq5BYAQ",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "05b7a792z2d02z36b0za792z5aed228b451e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Savanah Wilshire",
-      "Objective Created Date": "2026-09-23",
-      "Account ID": "5ab6fff8-1fd2-42b2-9ada-b9a46f22c92d",
-      "Salesforce Opportunity ID": "006PH00000r0uN3YAI",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-03T11:51:13.935Z",
-  "total": 17,
+  "fetched_at": "2026-11-04T11:51:14.873Z",
+  "total": 15,
   "im_name": "Brendan Leung"
 }
