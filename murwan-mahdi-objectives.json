@@ -1,7 +1,7 @@
 {
   "objectives": [
     {
-      "objective_id": "d042a88dz7fc1z3b8bz93eez2db0be9ce1df",
+      "objective_id": "0fb214cfz861bz36dczadfdz9b6a607464fc",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
       "Objective Status": "1",
@@ -12,6 +12,72 @@
         "number_of_completed_milestones": 0
       },
       "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "17cc4dbe-952d-4c3c-80c0-cf556e4a8373",
+      "Salesforce Opportunity ID": "006PH00000vNt2zYAC",
+      "Objective Created By": "murwan.mahdi@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "10610d1fzf905z334bzb123z31f3f5dab62a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "17cc4dbe-952d-4c3c-80c0-cf556e4a8373",
+      "Salesforce Opportunity ID": "006PH00000vNt2zYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "74a8c67ez277ez3f63za80fz1b10d6bdb572",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": "Khushboo Manghnani",
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "17cc4dbe-952d-4c3c-80c0-cf556e4a8373",
+      "Salesforce Opportunity ID": "006PH00000vNt2zYAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d042a88dz7fc1z3b8bz93eez2db0be9ce1df",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
       "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Murwan Mahdi",
@@ -29,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
@@ -117,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
@@ -243,28 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "616141b2zf217z3ee0zbb49zfc9eaa978c97",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Khushboo Manghnani",
-      "Objective Created Date": "2026-10-09",
-      "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
-      "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "3341e0f0zc73ez3ec3zbb06z2e5033adba8b",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -353,50 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "bb4f3014z1802z3820z838azec0590b3ea5f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Khushboo Manghnani",
-      "Objective Created Date": "2026-10-01",
-      "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
-      "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "23797f02zed79z3a7fza209z236815c91c69",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Khushboo Manghnani",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "6f1f0a2f-5eb7-4beb-a727-e45e31e87cf0",
-      "Salesforce Opportunity ID": "006PH00000tQH0kYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2783e802zb7f5z3e81zb016z57d908c4a278",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -469,11 +469,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
@@ -551,7 +551,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-03T11:51:13.935Z",
+  "fetched_at": "2026-11-04T11:51:14.873Z",
   "total": 25,
   "im_name": "Murwan Mahdi"
 }
