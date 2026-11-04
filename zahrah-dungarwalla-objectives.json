@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0b479851za104z3fa7z8572z37cf71fa48e4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Zahrah Dungarwalla",
+      "CSM Owner": "James Rogan",
+      "Objective Created Date": "2026-11-03",
+      "Account ID": "2a947e39-8ddb-43b3-8e4e-0fd889a56a37",
+      "Salesforce Opportunity ID": "006PH00000r776HYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "593b93f8z3addz3f0cz8908za9828ebc526e",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -243,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-03T11:51:13.935Z",
-  "total": 11,
+  "fetched_at": "2026-11-04T11:51:14.873Z",
+  "total": 12,
   "im_name": "Zahrah Dungarwalla"
 }
