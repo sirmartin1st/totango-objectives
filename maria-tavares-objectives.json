@@ -1,6 +1,138 @@
 {
   "objectives": [
     {
+      "objective_id": "4f678065z72fez33a3zaedbzaaf2f0f7fc9f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "17e29831-4658-4545-aaea-2b783faabaca",
+      "Salesforce Opportunity ID": "006PH00000sUrpNYAS",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "540806d4z18dcz3918z8b47z6a39905f1bb8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
+      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "69359537z0532z3384zbdfbz3398169a8c04",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "317d8b3f-06a0-4f2f-aa2a-ca9763f101d1",
+      "Salesforce Opportunity ID": "006PH00000scL5zYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6ad446a4z6e7ez37bcz9a7bzf545ed719a58",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Articles Clicked 90D,Mira Studio Usage,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Jordan Cooper",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "17e29831-4658-4545-aaea-2b783faabaca",
+      "Salesforce Opportunity ID": "006PH00000sUrpNYAS",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6b92d6cbza518z36cbz9017zc6111d3abab4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Nicole Lively",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "640bf0cd-c46a-4d2d-8e8e-b687269e8033",
+      "Salesforce Opportunity ID": "006PH00000sL6g1YAC",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8549f02azce66z3c32za3ecz42ae7507c5c4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Meredith Sutherland",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
+      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "f626274ez4665z3895zbbf8z8a6629f2324c",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -35,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-11-02",
@@ -79,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-11-01",
@@ -123,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Lauren Damp",
       "Objective Created Date": "2026-10-31",
@@ -195,28 +327,6 @@
       "Objective Created Date": "2026-10-30",
       "Account ID": "17e29831-4658-4545-aaea-2b783faabaca",
       "Salesforce Opportunity ID": "006PH00000sUrpNYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a082e33fzc5b9z3919zb13bz2a7a9e664ecd",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Meredith Sutherland",
-      "Objective Created Date": "2026-10-30",
-      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
-      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -293,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -441,28 +551,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "d2d9227ezb207z3455z8154zed251078e6a5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Nicole Lively",
-      "Objective Created Date": "2026-10-21",
-      "Account ID": "640bf0cd-c46a-4d2d-8e8e-b687269e8033",
-      "Salesforce Opportunity ID": "006PH00000sL6g1YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "2ef77e7dz0033z3a5fz8b76zded4af38b5ab",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -585,34 +673,12 @@
       },
       "Pct Milestones Completed": 44.444443,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Maria Tavares",
       "CSM Owner": "Juliana Wallace",
       "Objective Created Date": "2026-10-08",
       "Account ID": "c0ad6816-7ed6-4b5b-87c7-c077b2887bce",
       "Salesforce Opportunity ID": "006PH00000txVePYAU",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "92045ac3zae00z362dzb7d7z930909986d15",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Lauren Damp",
-      "Objective Created Date": "2026-10-07",
-      "Account ID": "6f3d4e36-3a1e-4292-abeb-4f155ec18530",
-      "Salesforce Opportunity ID": "0065f00000Is2oPAAR",
       "Objective Created By": "maria.tavares@meltwater.com",
       "Objective Description": ""
     },
@@ -683,28 +749,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5e8d64a7zd758z32fcz8e3ez42fcc3514cee",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Connor Love",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "317d8b3f-06a0-4f2f-aa2a-ca9763f101d1",
-      "Salesforce Opportunity ID": "006PH00000scL5zYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "71dd6421z3206z38c9zbacdz59d85c3d5553",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -746,72 +790,6 @@
       "Account ID": "640bf0cd-c46a-4d2d-8e8e-b687269e8033",
       "Salesforce Opportunity ID": "006PH00000sL6g1YAC",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "49f3407dz6bb7z3edbzb912z6a9c7e70ccae",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Connor Love",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "317d8b3f-06a0-4f2f-aa2a-ca9763f101d1",
-      "Salesforce Opportunity ID": "006PH00000scL5zYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7cd1a5f7z332az3a6bzb6e3zf5574f686f10",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Connor Love",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "317d8b3f-06a0-4f2f-aa2a-ca9763f101d1",
-      "Salesforce Opportunity ID": "006PH00000scL5zYAE",
-      "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e6d7d67dzeb2bz34a8zb691zb5da010d3d76",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Connor Love",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "317d8b3f-06a0-4f2f-aa2a-ca9763f101d1",
-      "Salesforce Opportunity ID": "006PH00000scL5zYAE",
-      "Objective Created By": "maria.tavares@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -881,7 +859,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-04T11:51:14.873Z",
-  "total": 40,
+  "fetched_at": "2026-11-05T11:51:16.790Z",
+  "total": 39,
   "im_name": "Maria Tavares"
 }
