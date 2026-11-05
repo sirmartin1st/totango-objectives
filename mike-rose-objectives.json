@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "24652d21zaea5z39f7z9c4cz44f8e1245004",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-04",
+      "Account ID": "ab9bc7eb-177d-4a7a-91d1-58daee323675",
+      "Salesforce Opportunity ID": "006PH00000tR2AvYAK",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0b65b17dzb713z3867z9ba1zafc92bdc4e3c",
       "display_name": null,
       "Objective Name": "(Onboarding) Market & Industry Research",
@@ -389,7 +411,7 @@
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mike Rose",
-      "CSM Owner": null,
+      "CSM Owner": "Nathan Roshelli",
       "Objective Created Date": "2026-10-30",
       "Account ID": "c3e9556d-c0c2-4757-b8f8-a2637cdd2240",
       "Salesforce Opportunity ID": "006PH00000sz7tVYAQ",
@@ -557,11 +579,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mike Rose",
@@ -653,7 +675,7 @@
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mike Rose",
-      "CSM Owner": null,
+      "CSM Owner": "Nathan Roshelli",
       "Objective Created Date": "2026-10-06",
       "Account ID": "c3e9556d-c0c2-4757-b8f8-a2637cdd2240",
       "Salesforce Opportunity ID": "006PH00000sz7tVYAQ",
@@ -683,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-04T11:51:14.873Z",
-  "total": 31,
+  "fetched_at": "2026-11-05T11:51:16.790Z",
+  "total": 32,
   "im_name": "Mike Rose"
 }
