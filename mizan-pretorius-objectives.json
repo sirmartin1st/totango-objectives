@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "4978abe9ze5a4z3ff1z99fbz3a9ce6192efc",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Merle Johann",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "fb951e69-3b57-44b4-afef-8ee926ef1614",
+      "Salesforce Opportunity ID": "006PH00000qIe4IYAS",
+      "Objective Created By": "mizan.pretorius@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6035606dz789az34d5zbd53z20e938c96d1f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": "Merle Johann",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "fb951e69-3b57-44b4-afef-8ee926ef1614",
+      "Salesforce Opportunity ID": "006PH00000qIe4IYAS",
+      "Objective Created By": "mizan.pretorius@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "5c37b013zf6ebz3c95zb9e6z5292c77ac61f",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Vanessa Viertel",
       "Objective Created Date": "2026-10-30",
@@ -51,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
@@ -79,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Vanessa Viertel",
       "Objective Created Date": "2026-10-30",
@@ -101,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Merle Johann",
       "Objective Created Date": "2026-10-29",
@@ -123,7 +167,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Merle Johann",
       "Objective Created Date": "2026-10-29",
@@ -419,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-04T11:51:14.873Z",
-  "total": 19,
+  "fetched_at": "2026-11-05T11:51:16.790Z",
+  "total": 21,
   "im_name": "Mizan Pretorius"
 }
