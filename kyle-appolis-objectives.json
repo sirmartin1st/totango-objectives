@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Kyle Appolis",
@@ -639,7 +639,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-05T11:51:16.790Z",
+  "fetched_at": "2026-11-06T11:51:16.006Z",
   "total": 29,
   "im_name": "Kyle Appolis"
 }
