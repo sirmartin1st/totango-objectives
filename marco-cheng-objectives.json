@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "61c536b3z53b5z38e9za80aze4e2a4120d88",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marco Cheng",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
+      "Salesforce Opportunity ID": "006PH00000skKFyYAM",
+      "Objective Created By": "marco.cheng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2ace51fbzddecz323fzb38cz31db8aac5c61",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marco Cheng",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-03",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marco Cheng",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-03",
@@ -45,7 +67,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-05T11:51:16.790Z",
-  "total": 2,
+  "fetched_at": "2026-11-06T11:51:16.006Z",
+  "total": 3,
   "im_name": "Marco Cheng"
 }
