@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "300aac8ez0efbz35bez976az74204e050b82",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Gene Lim",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "484cfe49-1f45-4bdb-8dcd-cda2c044a2cd",
+      "Salesforce Opportunity ID": "006PH00000sad71YAA",
+      "Objective Created By": "sean.derossett@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b639e2a8z0683z357aza717zcd122bba86b1",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -35,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-10-30",
@@ -57,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-10-29",
@@ -161,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sean DeRossett",
@@ -189,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-10-28",
@@ -211,7 +233,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Ron Nocek",
       "Objective Created Date": "2026-10-28",
@@ -249,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,Mira Studio Usage,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -271,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 80,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
@@ -381,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
@@ -639,28 +661,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "36824a07za0b8z366bzbb39zb5097bd8bd34",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 60,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "1cd31536-b3e1-4dbd-b1b1-b936bb07eb89",
-      "Salesforce Opportunity ID": "006PH00000iWkG6YAK",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "4edb06a1z1512z3c87za4bbz7bb6f33268f7",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -701,28 +701,6 @@
       "Objective Created Date": "2026-09-30",
       "Account ID": "1f410565-726f-46a6-b0b0-d96e3e37a464",
       "Salesforce Opportunity ID": "006PH00000qjJ2AYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "73e9e856zd346z3156z94afz550556ffa2bc",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "1cd31536-b3e1-4dbd-b1b1-b936bb07eb89",
-      "Salesforce Opportunity ID": "006PH00000iWkG6YAK",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -947,7 +925,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-05T11:51:16.790Z",
-  "total": 43,
+  "fetched_at": "2026-11-06T11:51:16.006Z",
+  "total": 42,
   "im_name": "Sean DeRossett"
 }
