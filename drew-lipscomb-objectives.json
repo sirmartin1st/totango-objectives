@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "4d1943d1z482az3d93z8a39z0205b1213074",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "f5f20d9a-899a-41e1-bdbd-7ac96f991930",
+      "Salesforce Opportunity ID": "006PH00000tGIsXYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "eb4fe3c8z74c9z3108zb1bdz48585627a454",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -117,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -491,11 +513,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
@@ -683,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-05T11:51:16.790Z",
-  "total": 31,
+  "fetched_at": "2026-11-06T11:51:16.006Z",
+  "total": 32,
   "im_name": "Drew Lipscomb"
 }
