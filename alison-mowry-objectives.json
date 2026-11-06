@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
@@ -309,6 +309,28 @@
       "Objective Description": ""
     },
     {
+      "objective_id": "a4e5b9fbzae84z3e58za984z3e0a7a24125f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Simon Broadway",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "383dfdc6-7bfc-41f1-a0a0-64b432f41499",
+      "Salesforce Opportunity ID": "006PH00000tlrh7YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "cf811f49za459z3189z9aa0z02af465bc0d1",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -327,6 +349,28 @@
       "Objective Created Date": "2026-10-22",
       "Account ID": "4607b412-caa0-4e4e-8686-f1f410463b76",
       "Salesforce Opportunity ID": "006PH00000uVUPlYAO",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e28bed7ez7ed1z3862za04bz546f02ec5117",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Simon Broadway",
+      "Objective Created Date": "2026-10-22",
+      "Account ID": "383dfdc6-7bfc-41f1-a0a0-64b432f41499",
+      "Salesforce Opportunity ID": "006PH00000tlrh7YAA",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -683,7 +727,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-05T11:51:16.790Z",
-  "total": 31,
+  "fetched_at": "2026-11-06T11:51:16.006Z",
+  "total": 33,
   "im_name": "Alison Mowry"
 }
