@@ -285,31 +285,9 @@
       "Salesforce Opportunity ID": "006PH00000rwhakYAA",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "b7075a5cze57dz3dc6zb5d9zec74ff3399c9",
-      "display_name": null,
-      "Objective Name": "(FIP) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "2. Influencer Assessed and Selection Completed,1. Influencer Discovery Framework Defined ,,,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,3. Influencer Management and Activation Fully Operational",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "69be6247-4aa4-44b4-a060-105e5799fb8b",
-      "Salesforce Opportunity ID": "006PH00000o6z5fYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-06T11:51:16.006Z",
-  "total": 14,
+  "fetched_at": "2026-11-07T11:51:13.778Z",
+  "total": 13,
   "im_name": "Naseraldin Kayemah"
 }
