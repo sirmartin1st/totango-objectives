@@ -265,28 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "32e4cd59z447cz3f1dzb82dz979815da0ef8",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Articles Clicked 90D,,,,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Evelina Delsing",
-      "Objective Created Date": "2026-10-02",
-      "Account ID": "4ea50a79-aeb8-4efe-aa6a-fa638b78fdd3",
-      "Salesforce Opportunity ID": "006PH00000rxXz8YAE",
-      "Objective Created By": "sofia.aberg@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "13be80c2z2acdz3edcza145z0c20273701a2",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -327,28 +305,6 @@
       "Objective Created Date": "2026-09-30",
       "Account ID": "038c44ff-0a53-4808-9656-1c57f8760e35",
       "Salesforce Opportunity ID": "006PH00000m4aR3YAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "a6a902bfzb74az3a46z84c0z428d91f3e2dc",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sofia ?berg",
-      "CSM Owner": "Evelina Delsing",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "4ea50a79-aeb8-4efe-aa6a-fa638b78fdd3",
-      "Salesforce Opportunity ID": "006PH00000rxXz8YAE",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -529,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-06T11:51:16.006Z",
-  "total": 24,
+  "fetched_at": "2026-11-07T11:51:13.778Z",
+  "total": 22,
   "im_name": "Sofia ?berg"
 }
