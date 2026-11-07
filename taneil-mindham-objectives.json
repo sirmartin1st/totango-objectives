@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -351,31 +351,9 @@
       "Salesforce Opportunity ID": "006PH00000s0TnhYAE",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "33a151efzcdcez3e47z9d60z3c305a9f6328",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Alex Malin",
-      "Objective Created Date": "2026-09-09",
-      "Account ID": "b4b7f010-6901-4b9b-b636-a4bb53a24c4b",
-      "Salesforce Opportunity ID": "006PH00000mWrK5YAK",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-06T11:51:16.006Z",
-  "total": 17,
+  "fetched_at": "2026-11-07T11:51:13.778Z",
+  "total": 16,
   "im_name": "Taneil Mindham"
 }
