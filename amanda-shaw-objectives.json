@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "073d9b50z95f7z3119zbacaze19565a57b02",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-06",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3eae86cfzfa5az3243za100zae9f3ba7b9d7",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -133,7 +155,7 @@
       "Objective Description": "Trend analysis: eg: anti-American sentiment,Earnings coverage"
     }
   ],
-  "fetched_at": "2026-11-06T11:51:16.006Z",
-  "total": 6,
+  "fetched_at": "2026-11-07T11:51:13.778Z",
+  "total": 7,
   "im_name": "Amanda Shaw"
 }
