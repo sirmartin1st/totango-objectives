@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "5b285701z4a38z3b5cz8ef1za61db338e103",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Client Kickoff",
+      "Implementation Manager": "Albert Bright",
+      "CSM Owner": "Ashley Rocchio",
+      "Objective Created Date": "2026-11-08",
+      "Account ID": "3f0b87d9-7c40-4d5d-8787-6994c9fbbcf6",
+      "Salesforce Opportunity ID": "006PH00000vZMxiYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "463205f4z935fz3b82z9d05z8c6ebefc1c0f",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -51,11 +73,11 @@
       "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 57.142857,
+        "percentage_of_completed_milestones": 71.42857,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 57.142857,
+      "Pct Milestones Completed": 71.42857,
       "Milestone Names": ",Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Created Searches,MI Daily Digest Sent",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
@@ -683,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-08T11:51:16.968Z",
-  "total": 31,
+  "fetched_at": "2026-11-09T11:51:15.899Z",
+  "total": 32,
   "im_name": "Albert Bright"
 }
