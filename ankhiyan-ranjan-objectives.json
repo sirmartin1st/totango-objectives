@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "0e73bf29z6b3fz3a39z871dz0b05f12f486b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,Mira Studio Usage",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-08",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "215c3e93z642fz3150za076z0b85790c2261",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-08",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d23dbab9zce73z3fe2zbda4z61a6d885d812",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-08",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f41cb948z9415z3f4az89b0za284a7ba1246",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Campaign Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Ankhiyan Ranjan",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-08",
+      "Account ID": "4515178a-b093-4717-a6a6-df854479fad8",
+      "Salesforce Opportunity ID": "006PH00000rK5mcYAC",
+      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "1cd822eezac75z3be4zbe8ez2aefedd12879",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-29",
@@ -35,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
       "CSM Owner": null,
       "Objective Created Date": "2026-10-29",
@@ -659,75 +747,9 @@
       "Salesforce Opportunity ID": "006Rf00000XNlT5IAL",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "c76a55fcz9102z3833z9265za5603819a43d",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Patricia Victoria",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "e1c0bc7c-8ef5-4030-aded-3871ccbe7342",
-      "Salesforce Opportunity ID": "006PH00000nmbicYAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "dfe052e6z540ez33b4z86cfza01c9e4c94f6",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Patricia Victoria",
-      "Objective Created Date": "2026-09-01",
-      "Account ID": "e1c0bc7c-8ef5-4030-aded-3871ccbe7342",
-      "Salesforce Opportunity ID": "006PH00000nmbicYAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "cc16dfc9ze44ez350bzb065zbe3dc0967ede",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 25,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 25,
-      "Milestone Names": "2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,1. Content Curation Defined,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Patricia Victoria",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "e1c0bc7c-8ef5-4030-aded-3871ccbe7342",
-      "Salesforce Opportunity ID": "006PH00000nmbicYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-08T11:51:16.968Z",
-  "total": 33,
+  "fetched_at": "2026-11-09T11:51:15.899Z",
+  "total": 34,
   "im_name": "Ankhiyan Ranjan"
 }
