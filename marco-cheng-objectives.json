@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "94b024faz5c7bz309cza468z4440dfd2e481",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marco Cheng",
+      "CSM Owner": "Chihiro Saito",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "0922d29a-ce3f-4727-aa6a-97bb32793dce",
+      "Salesforce Opportunity ID": "006PH00000tFwglYAC",
+      "Objective Created By": "marco.cheng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ab91ec83zf393z395bz90f3zbda4d404b069",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marco Cheng",
+      "CSM Owner": "Chihiro Saito",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "0922d29a-ce3f-4727-aa6a-97bb32793dce",
+      "Salesforce Opportunity ID": "006PH00000tFwglYAC",
+      "Objective Created By": "marco.cheng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "61c536b3z53b5z38e9za80aze4e2a4120d88",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -13,9 +57,9 @@
       },
       "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marco Cheng",
-      "CSM Owner": null,
+      "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-11-05",
       "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
       "Salesforce Opportunity ID": "006PH00000skKFyYAM",
@@ -35,9 +79,9 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marco Cheng",
-      "CSM Owner": null,
+      "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-11-03",
       "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
       "Salesforce Opportunity ID": "006PH00000skKFyYAM",
@@ -57,9 +101,9 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Marco Cheng",
-      "CSM Owner": null,
+      "CSM Owner": "Kozue Irei",
       "Objective Created Date": "2026-11-03",
       "Account ID": "3ecdcab0-0b82-4131-afaf-a5a9be607872",
       "Salesforce Opportunity ID": "006PH00000skKFyYAM",
@@ -67,7 +111,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
-  "total": 3,
+  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "total": 5,
   "im_name": "Marco Cheng"
 }
