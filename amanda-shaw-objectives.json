@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "227736baz209ez30a3z9a1azbcf2aa667c54",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Amanda Shaw",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "073d9b50z95f7z3119zbacaze19565a57b02",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -155,7 +177,7 @@
       "Objective Description": "Trend analysis: eg: anti-American sentiment,Earnings coverage"
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
-  "total": 7,
+  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "total": 8,
   "im_name": "Amanda Shaw"
 }
