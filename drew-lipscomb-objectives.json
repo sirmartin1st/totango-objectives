@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "4c6eb38cz63bez35c9za43dzb652ae22aa12",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Ellen Bruns",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "916ea8e1-fb1c-46c6-94d4-def10ae3050b",
+      "Salesforce Opportunity ID": "006PH00000rvASLYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "95b0fd7ezcf56z381dzbab9z2a5a8a4f6a7e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Thomas Moore",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "5e553109-396b-4e0e-ab2b-5173eedbab00",
+      "Salesforce Opportunity ID": "006PH00000tUEidYAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4a7c95f5zd89az3713za513zed646ac0227e",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
@@ -13,7 +57,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME,Nbr of MI users Active 30d,MI Created Dashboards,users in community",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-11-06",
@@ -35,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-11-05",
@@ -397,28 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3ce73fa1zfee0z3e5cz8640z6a374dd04879",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Drew Lipscomb",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "5e553109-396b-4e0e-ab2b-5173eedbab00",
-      "Salesforce Opportunity ID": "006PH00000tUEidYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "277821efzd387z300fz8a0az8d7e3fd46c32",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -683,7 +705,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
-  "total": 31,
+  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "total": 32,
   "im_name": "Drew Lipscomb"
 }
