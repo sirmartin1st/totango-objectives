@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6b72b921zf4b0z396cz8691zd3329f9b35c8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "6562bedc-085c-4313-a969-dcb213895668",
+      "Salesforce Opportunity ID": "006PH00000tzMFHYA2",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "78649884z2960z3bf0z85f2z0c04572873ee",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Katja Gottfried",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "6562bedc-085c-4313-a969-dcb213895668",
+      "Salesforce Opportunity ID": "006PH00000tzMFHYA2",
+      "Objective Created By": "marius.zenker@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4814a627z1d37z38f4zbfb5z9893ecdfef22",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -639,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
-  "total": 29,
+  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "total": 31,
   "im_name": "Marius Zenker"
 }
