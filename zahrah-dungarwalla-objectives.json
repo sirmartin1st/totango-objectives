@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
@@ -265,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
+  "fetched_at": "2026-11-10T11:51:20.121Z",
   "total": 12,
   "im_name": "Zahrah Dungarwalla"
 }
