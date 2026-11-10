@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "7c965f14zdf87z3717zb51fzaa399d8c0240",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Georgia Girdler",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "466a376e-bf83-4747-9d5d-87eec861f1b9",
+      "Salesforce Opportunity ID": "006PH00000njCdVYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "59c2f460z776az395bz8874z8fbb13dc322b",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Maria Tavares",
@@ -262,28 +284,6 @@
       "Account ID": "cf3e0075-a85b-43a3-9555-4bf59dbe1a87",
       "Salesforce Opportunity ID": "006PH00000uAszlYAC",
       "Objective Created By": "maria.tavares@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "75563474z7670z3c33z9525z5cb8cd70a5a1",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Georgia Girdler",
-      "Objective Created Date": "2026-11-02",
-      "Account ID": "466a376e-bf83-4747-9d5d-87eec861f1b9",
-      "Salesforce Opportunity ID": "006PH00000njCdVYAU",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -705,28 +705,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "71dd6421z3206z38c9zbacdz59d85c3d5553",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Ryan Dotter",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "67fe5206-55bf-4d1d-ab6b-a64828f09e62",
-      "Salesforce Opportunity ID": "006PH00000t7BThYAM",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "e23e1e72z9fcfz3a73z91f2za6dd35704840",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -793,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-09T11:51:15.899Z",
-  "total": 36,
+  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "total": 35,
   "im_name": "Maria Tavares"
 }
