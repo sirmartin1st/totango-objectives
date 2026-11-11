@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "72ca031czc9ffz3f01zbb4bz0ccaa9875ba2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Jamie Korah",
+      "CSM Owner": "Maria Maceikianec",
+      "Objective Created Date": "2026-11-10",
+      "Account ID": "5e58ac0b-5fc1-4191-85c5-e7708768aa37",
+      "Salesforce Opportunity ID": "006PH00000oqFB3YAM",
+      "Objective Created By": "jamie.korah@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2ab0098czb93cz374aza179z8abf40870730",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand & Competitor Monitoring",
@@ -73,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -139,11 +161,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 14.285714,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 14.285714,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -271,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
@@ -365,7 +387,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-10-23",
@@ -505,31 +527,9 @@
       "Salesforce Opportunity ID": "006Rf00000X82T3IAJ",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "29d4e926z278bz33d0za14dz618872b5ef79",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Kiki Fabel",
-      "Objective Created Date": "2026-10-01",
-      "Account ID": "d9e70cb5-90dd-4848-a666-8667447e6953",
-      "Salesforce Opportunity ID": "006PH00000oxhnJYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "fetched_at": "2026-11-11T11:51:12.459Z",
   "total": 24,
   "im_name": "Jamie Korah"
 }
