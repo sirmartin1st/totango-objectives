@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "1f1611fbz9af5z3a2dz8342zc082a4c8f15b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-11-10",
+      "Account ID": "379c419e-cd9b-41b1-9bdb-00455918d750",
+      "Salesforce Opportunity ID": "006PH00000kgN0vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "78146688z1711z3b49z8795z3a2e131218cb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-11-10",
+      "Account ID": "379c419e-cd9b-41b1-9bdb-00455918d750",
+      "Salesforce Opportunity ID": "006PH00000kgN0vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f6b32376zb2ebz3345z99c9z3cc9c938cc82",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": "Carina Zamudio",
+      "Objective Created Date": "2026-11-10",
+      "Account ID": "379c419e-cd9b-41b1-9bdb-00455918d750",
+      "Salesforce Opportunity ID": "006PH00000kgN0vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "300aac8ez0efbz35bez976az74204e050b82",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -13,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-11-05",
@@ -57,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Gene Lim",
       "Objective Created Date": "2026-10-30",
@@ -123,7 +189,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Natascha Woodard",
       "Objective Created Date": "2026-10-28",
@@ -145,7 +211,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Natascha Woodard",
       "Objective Created Date": "2026-10-28",
@@ -167,7 +233,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Natascha Woodard",
       "Objective Created Date": "2026-10-28",
@@ -183,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Sean DeRossett",
@@ -255,7 +321,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Natascha Woodard",
       "Objective Created Date": "2026-10-28",
@@ -349,28 +415,6 @@
       "Objective Created Date": "2026-10-20",
       "Account ID": "215f3446-dfb7-4686-b171-e555dba3d89f",
       "Salesforce Opportunity ID": "006PH00000pegBFYAY",
-      "Objective Created By": "sean.derossett@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "45f3d807z5834z3c9dzb6a8z7b077e8c801e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ron Nocek",
-      "Objective Created Date": "2026-10-13",
-      "Account ID": "eb7b7054-f00a-4ece-8343-8846ee6d8271",
-      "Salesforce Opportunity ID": "006PH00000qEVdtYAG",
       "Objective Created By": "sean.derossett@meltwater.com",
       "Objective Description": ""
     },
@@ -727,28 +771,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "cf261ecczea02z38eazb2ccz154f4aa33e18",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Ron Nocek",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "eb7b7054-f00a-4ece-8343-8846ee6d8271",
-      "Salesforce Opportunity ID": "006PH00000qEVdtYAG",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "542470a6zd9d5z378bza673zd255a923439c",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -859,50 +881,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "1af7c400z0ff0z3e15z80cfza2dc1024afe3",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-09-14",
-      "Account ID": "10cbffea-a0d6-4494-aeae-80368ed74d4c",
-      "Salesforce Opportunity ID": "006PH00000pKdhNYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4fd28607zcc42z3ca2zaa0bz12dcbe14febb",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sean DeRossett",
-      "CSM Owner": "Austin Gilkey",
-      "Objective Created Date": "2026-09-14",
-      "Account ID": "10cbffea-a0d6-4494-aeae-80368ed74d4c",
-      "Salesforce Opportunity ID": "006PH00000pKdhNYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a402a057z8423z3720zacf2z00bb9e67f0bd",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -925,7 +903,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-10T11:51:20.121Z",
-  "total": 42,
+  "fetched_at": "2026-11-11T11:51:12.459Z",
+  "total": 41,
   "im_name": "Sean DeRossett"
 }
