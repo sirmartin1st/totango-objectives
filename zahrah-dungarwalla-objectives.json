@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 50,
       "Milestone Names": "MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d,MI API Exports 30d",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-11-03",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-11-02",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-11-01",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Zahrah Dungarwalla",
       "CSM Owner": "James Rogan",
       "Objective Created Date": "2026-11-01",
@@ -265,7 +265,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-10T11:51:20.121Z",
+  "fetched_at": "2026-11-11T11:51:12.459Z",
   "total": 12,
   "im_name": "Zahrah Dungarwalla"
 }
