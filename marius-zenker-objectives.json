@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -265,28 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3b2b9407zc190z3edcz904fz06de7d4e32b6",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 44.444443,
-      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "46a6a942-0e0f-4ebe-b5b5-bd29d42cbb70",
-      "Salesforce Opportunity ID": "006Rf00000YG8xJIAT",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "760102bdzd618z32b4zbb3fzca0e82277545",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -397,28 +375,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "78ff6c0az19e2z3a39zb9e2z08b2725112d6",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "46a6a942-0e0f-4ebe-b5b5-bd29d42cbb70",
-      "Salesforce Opportunity ID": "006Rf00000YG8xJIAT",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a425d8b1zcb95z30fdz80c6z7a357a78982d",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -437,28 +393,6 @@
       "Objective Created Date": "2026-10-05",
       "Account ID": "877e7c0e-d073-4010-9696-ed54850f6e50",
       "Salesforce Opportunity ID": "006PH00000svmf9YAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d3ec89d6z53a9z3466zb4aaz0c4090683710",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "46a6a942-0e0f-4ebe-b5b5-bd29d42cbb70",
-      "Salesforce Opportunity ID": "006Rf00000YG8xJIAT",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -683,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-10T11:51:20.121Z",
-  "total": 31,
+  "fetched_at": "2026-11-11T11:51:12.459Z",
+  "total": 28,
   "im_name": "Marius Zenker"
 }
