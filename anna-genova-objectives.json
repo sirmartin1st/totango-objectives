@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "6553e5f4z6d22z309fz8935zcb2fed0afe36",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Exports 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-11-10",
+      "Account ID": "6a53a874-af4d-45d5-acec-400adb31ecbc",
+      "Salesforce Opportunity ID": "006PH00000uS7RJYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "39b8ad71zdd94z3a56z907fz12c9a2ed4ebd",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -161,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -507,28 +529,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5175a0d4z061dz3a27z8b07zf68c1280361e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-10-02",
-      "Account ID": "3d182d0d-31e8-4999-a4e4-c0557260a2ac",
-      "Salesforce Opportunity ID": "006PH00000okiUJYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "59603392zdd65z3fcez9fe9zb97240f42afd",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -547,28 +547,6 @@
       "Objective Created Date": "2026-10-02",
       "Account ID": "6dc2a78b-8700-4787-9595-a47065387e35",
       "Salesforce Opportunity ID": "006PH00000k9ZbyYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f64c7272z3667z3f18z8125ze3ab0e9f9161",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Luken Dalessandro",
-      "Objective Created Date": "2026-10-02",
-      "Account ID": "3d182d0d-31e8-4999-a4e4-c0557260a2ac",
-      "Salesforce Opportunity ID": "006PH00000okiUJYAY",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -679,28 +657,6 @@
       "Objective Created Date": "2026-09-30",
       "Account ID": "bf746b82-e8ad-44e4-a060-dfc771501141",
       "Salesforce Opportunity ID": "006PH00000tW5JRYA0",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "072ed15dz2b12z30d8zb8f2z979ef55cccc4",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "99aae12e-c1a7-4c1c-a2a2-e5d3a5170ac5",
-      "Salesforce Opportunity ID": "006PH00000nhChdYAE",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
@@ -991,28 +947,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "d4e3eebfzaa12z3eabzb065z78ab5e3e9dee",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "99aae12e-c1a7-4c1c-a2a2-e5d3a5170ac5",
-      "Salesforce Opportunity ID": "006PH00000nhChdYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d800016cz54a1z315ez8a14z449355a3cb1c",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -1031,28 +965,6 @@
       "Objective Created Date": "2026-09-30",
       "Account ID": "890ffc42-0b99-49b9-b2f2-2c8031c4f4ed",
       "Salesforce Opportunity ID": "006PH00000t0R0XYAU",
-      "Objective Created By": "anna.genova@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "db0c6ad7z9a45z3aaez82c1z1c89a7713bae",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,Mira Studio Usage,,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Caroline Weatherly",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "99aae12e-c1a7-4c1c-a2a2-e5d3a5170ac5",
-      "Salesforce Opportunity ID": "006PH00000nhChdYAE",
       "Objective Created By": "anna.genova@meltwater.com",
       "Objective Description": ""
     },
@@ -1145,50 +1057,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "664c9df6zed56z3dfcz8bc5zdb67eedc29ef",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Kearstine Griffin",
-      "Objective Created Date": "2026-08-29",
-      "Account ID": "e7dfc93e-50a7-42d2-b5f5-b65087a7a150",
-      "Salesforce Opportunity ID": "006PH00000nQ6f3YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c0d329c9zeb45z3594zbd4bz61a03c4bcb5f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Kearstine Griffin",
-      "Objective Created Date": "2026-08-29",
-      "Account ID": "e7dfc93e-50a7-42d2-b5f5-b65087a7a150",
-      "Salesforce Opportunity ID": "006PH00000nQ6f3YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "625ed958z68dcz3c4fz9cfezb73abed18e3b",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -1277,7 +1145,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-10T11:51:20.121Z",
-  "total": 58,
+  "fetched_at": "2026-11-11T11:51:12.459Z",
+  "total": 52,
   "im_name": "Anna Genova"
 }
