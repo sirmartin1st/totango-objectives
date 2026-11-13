@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Anna Genova",
@@ -315,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Anna Genova",
@@ -1101,7 +1101,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
+  "fetched_at": "2026-11-13T11:51:15.447Z",
   "total": 50,
   "im_name": "Anna Genova"
 }
