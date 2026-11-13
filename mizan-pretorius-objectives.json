@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 44.444443,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 44.444443,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Mizan Pretorius",
@@ -397,28 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ae0b1011z0440z3783zb430z36f0a2a8786f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "100c6dd4-f484-4545-8f4f-10d0179dc7f3",
-      "Salesforce Opportunity ID": "006PH00000oln3hYAA",
-      "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "ed7c067az5e2az3e42za54azcf7b3bebb84f",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -431,35 +409,13 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-10-02",
       "Account ID": "b3d4840c-409e-4979-8848-bd536db0473c",
       "Salesforce Opportunity ID": "006PH00000s43UrYAI",
       "Objective Created By": "mizan.pretorius@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "ba7d5a6fz566bz3283z92eaz707f11953205",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 66.666664,
-      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Mizan Pretorius",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-01",
-      "Account ID": "100c6dd4-f484-4545-8f4f-10d0179dc7f3",
-      "Salesforce Opportunity ID": "006PH00000oln3hYAA",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -497,7 +453,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Mizan Pretorius",
       "CSM Owner": "Franziska Adelmann",
       "Objective Created Date": "2026-09-30",
@@ -529,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
-  "total": 24,
+  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "total": 22,
   "im_name": "Mizan Pretorius"
 }
