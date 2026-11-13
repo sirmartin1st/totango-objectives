@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "7224cbabz5cf6z3916z85d9z2168d355b9ca",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sherries Enriquez",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-10-29",
-      "Account ID": "124bd704-93e7-4020-8bcb-46ca7a22d590",
-      "Salesforce Opportunity ID": "006PH00000rDJeFYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "f048bd45z8301z3a0bz93edz319ba0728c0b",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -51,40 +29,18 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Sherries Enriquez",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-10-25",
-      "Account ID": "674ba64f-029b-4a8a-9fdf-9279fee2e13a",
-      "Salesforce Opportunity ID": "006PH00000toBgXYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8ce33cdaz1141z3083zaf91zad214c34290a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
         "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
         "number_of_completed_milestones": 3
       },
       "Pct Milestones Completed": 60,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Onboarding Closure",
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Sherries Enriquez",
       "CSM Owner": null,
-      "Objective Created Date": "2026-08-31",
-      "Account ID": "8334c886-33f1-41b1-bb7b-ab5bdd091512",
-      "Salesforce Opportunity ID": "006PH00000ndweDYAQ",
+      "Objective Created Date": "2026-10-25",
+      "Account ID": "674ba64f-029b-4a8a-9fdf-9279fee2e13a",
+      "Salesforce Opportunity ID": "006PH00000toBgXYAU",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -133,7 +89,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
-  "total": 6,
+  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "total": 4,
   "im_name": "Sherries Enriquez"
 }
