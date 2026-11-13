@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "e5947bb0z7b28z3734zb1e5z92ae3fbb8b00",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": "Caroline Weatherly",
+      "Objective Created Date": "2026-11-12",
+      "Account ID": "e663314b-627a-45f5-8b8b-18a720c68441",
+      "Salesforce Opportunity ID": "006PH00000onsnGYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "897d4298z1c81z3e9bza254zcdb0270f4861",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -375,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
-  "total": 17,
+  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "total": 18,
   "im_name": "Brendan Leung"
 }
