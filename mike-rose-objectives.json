@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "17e23595z5eb5z3e03z8a6ez33a8ee4e5159",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-12",
+      "Account ID": "9fc75653-f14f-40b0-8aca-ff279d10436a",
+      "Salesforce Opportunity ID": "006PH00000uWfFtYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "22a66061z4003z3a1eza11fz590eeed1097f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-12",
+      "Account ID": "9fc75653-f14f-40b0-8aca-ff279d10436a",
+      "Salesforce Opportunity ID": "006PH00000uWfFtYAK",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "31049b5cz82aez3670z852ez145514d05a38",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Mike Rose",
@@ -771,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
-  "total": 35,
+  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "total": 37,
   "im_name": "Mike Rose"
 }
