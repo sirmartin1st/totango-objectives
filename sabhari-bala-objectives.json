@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c5d65f7ez192bz32feza89czff91865c515d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-12",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "b25465b6z5834z3e1dz9680z0182d288299d",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -1101,7 +1123,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-12T11:51:13.131Z",
-  "total": 50,
+  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "total": 51,
   "im_name": "Sabhari Bala"
 }
