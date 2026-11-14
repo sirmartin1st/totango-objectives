@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Tanner Schavey",
@@ -617,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "fetched_at": "2026-11-14T11:51:15.857Z",
   "total": 28,
   "im_name": "Tanner Schavey"
 }
