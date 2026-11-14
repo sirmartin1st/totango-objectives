@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
       "Onboarding Stage": null,
       "Implementation Manager": "Amanda Shaw",
@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": null,
       "Implementation Manager": "Amanda Shaw",
@@ -177,7 +177,7 @@
       "Objective Description": "Trend analysis: eg: anti-American sentiment,Earnings coverage"
     }
   ],
-  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "fetched_at": "2026-11-14T11:51:15.857Z",
   "total": 8,
   "im_name": "Amanda Shaw"
 }
