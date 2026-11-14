@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 22.222221,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rogan",
@@ -271,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 25,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 25,
       "Milestone Names": "1. Content Curation Defined,2. Target Audience Assessed & Activated,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rogan",
@@ -331,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "fetched_at": "2026-11-14T11:51:15.857Z",
   "total": 15,
   "im_name": "Mike Rogan"
 }
