@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 50,
+        "percentage_of_completed_milestones": 75,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 50,
+      "Pct Milestones Completed": 75,
       "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Brendan Leung",
@@ -397,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-13T11:51:15.447Z",
+  "fetched_at": "2026-11-14T11:51:15.857Z",
   "total": 18,
   "im_name": "Brendan Leung"
 }
