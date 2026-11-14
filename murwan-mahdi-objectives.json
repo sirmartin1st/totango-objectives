@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "e396719bz94a3z334bzac34za17da76c28b9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-13",
+      "Account ID": "2759c830-5614-4f2f-ba7a-6a2a9c5ce975",
+      "Salesforce Opportunity ID": "006PH00000veoLRYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fa5dbb30zb633z38ddz855cz6e26a32d860b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 40,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 40,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Murwan Mahdi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-13",
+      "Account ID": "2759c830-5614-4f2f-ba7a-6a2a9c5ce975",
+      "Salesforce Opportunity ID": "006PH00000veoLRYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "29eb4e53zfe51z3a2fz9939z07b0512fe6b1",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -441,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-13T11:51:15.447Z",
-  "total": 20,
+  "fetched_at": "2026-11-14T11:51:15.857Z",
+  "total": 22,
   "im_name": "Murwan Mahdi"
 }
