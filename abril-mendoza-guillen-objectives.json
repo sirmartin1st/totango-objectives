@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0f24d401z7876z39b8z95c1z9de63bb79423",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": "Ellen Silva",
+      "Objective Created Date": "2026-11-14",
+      "Account ID": "3a588bab-2d29-4616-9f9f-06f9de9ecf6b",
+      "Salesforce Opportunity ID": "006PH00000oTWkTYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "707c9f5bz54aaz340fz8b55z21a7fefc8321",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -595,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-14T11:51:15.857Z",
-  "total": 27,
+  "fetched_at": "2026-11-15T11:51:13.925Z",
+  "total": 28,
   "im_name": "Abril Mendoza Guillen"
 }
