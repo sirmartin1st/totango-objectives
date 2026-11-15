@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "c59f2872z2cdfz3038zbc30z8e1ec8a53689",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Isabella Grassick",
+      "Objective Created Date": "2026-11-14",
+      "Account ID": "485848d9-d341-4818-94d4-9798cb194d15",
+      "Salesforce Opportunity ID": "006PH00000tiZNNYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "c20eec5cz579bz3808zb151z9aff4b0244ea",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -573,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-14T11:51:15.857Z",
-  "total": 26,
+  "fetched_at": "2026-11-15T11:51:13.925Z",
+  "total": 27,
   "im_name": "Marius Zenker"
 }
