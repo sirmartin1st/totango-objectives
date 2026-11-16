@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "27792ddczf147z3c36z8029zbc19b2501a9c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": "Linh Ha",
+      "Objective Created Date": "2026-11-15",
+      "Account ID": "0d81b107-03c7-46c6-b676-f2c6be4daca3",
+      "Salesforce Opportunity ID": "006PH00000sdRAxYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "000d376fz6282z30b0z9ec4ze3e934220c53",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -309,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
-  "total": 14,
+  "fetched_at": "2026-11-16T11:51:17.533Z",
+  "total": 15,
   "im_name": "Alejandra Arismendi"
 }
