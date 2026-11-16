@@ -6,14 +6,14 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 4,
+        "number_of_overdue_milestones": 5,
         "percentage_of_completed_milestones": 14.285714,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 1
       },
       "Pct Milestones Completed": 14.285714,
       "Milestone Names": "MI Created Searches,MI Daily Digest Sent,,Total Num Workshop Registrations ALL TIME,users in community,Nbr of MI users Active 30d,MI Created Dashboards",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-11-10",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",Nbr of MI users Active 30d,MI Created Dashboards,users in community,MI Daily Digest Sent,Total Num Workshop Registrations ALL TIME,MI Created Searches",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Thomas Moore",
       "Objective Created Date": "2026-11-10",
@@ -57,7 +57,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-11-10",
@@ -79,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Albert Bright",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-11-10",
@@ -815,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
+  "fetched_at": "2026-11-16T11:51:17.533Z",
   "total": 37,
   "im_name": "Albert Bright"
 }
