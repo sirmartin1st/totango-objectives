@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "967649a1z6537z3251zb6d3z779846197a3b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Asfara Noormohammed",
+      "Objective Created Date": "2026-11-15",
+      "Account ID": "e519e1f1-a6bb-49a9-afef-7ebfc0a20d76",
+      "Salesforce Opportunity ID": "006PH00000r7TtBYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f30748dfz4fa7z3e7ez9fa4z671b379c7e1f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": "Asfara Noormohammed",
+      "Objective Created Date": "2026-11-15",
+      "Account ID": "e519e1f1-a6bb-49a9-afef-7ebfc0a20d76",
+      "Salesforce Opportunity ID": "006PH00000r7TtBYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6553e5f4z6d22z309fz8935zcb2fed0afe36",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -1101,7 +1145,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
-  "total": 50,
+  "fetched_at": "2026-11-16T11:51:17.533Z",
+  "total": 52,
   "im_name": "Anna Genova"
 }
