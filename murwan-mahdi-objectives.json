@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-13",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-13",
@@ -345,7 +345,7 @@
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "On Hold",
       "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Alex Malin",
+      "CSM Owner": null,
       "Objective Created Date": "2026-10-07",
       "Account ID": "1f7bdfbd-e168-4919-b434-8ee3018de729",
       "Salesforce Opportunity ID": "006PH00000oli2PYAQ",
@@ -485,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
+  "fetched_at": "2026-11-16T11:51:17.533Z",
   "total": 22,
   "im_name": "Murwan Mahdi"
 }
