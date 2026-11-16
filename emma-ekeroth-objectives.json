@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0265c2cfz5bbez3582z8ecdzf2e92e2e0cf9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-15",
+      "Account ID": "14797eb9-fd9d-4ede-adad-cb1836362d67",
+      "Salesforce Opportunity ID": "006PH00000tNYm5YAG",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "51c03d75zc66cz3366z82ebz30e586116ad0",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -463,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
-  "total": 21,
+  "fetched_at": "2026-11-16T11:51:17.533Z",
+  "total": 22,
   "im_name": "Emma Ekeroth"
 }
