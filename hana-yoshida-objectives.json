@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "481fb3bbzf925z3806zbcffz1f17b01956be",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Shiori Masumitsu",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "694b59e2-a55d-4090-a9e9-2eb31f7c192f",
+      "Salesforce Opportunity ID": "006PH00000tTSkPYAW",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f9b43be1z753ez3fa8zb84bzdd4ae69efeea",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Cynthia Tian",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "bf5c8c61-0358-4525-a767-aeb14c3f37d1",
+      "Salesforce Opportunity ID": "006PH00000tcyRjYAI",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fd3ce9a4zf6ddz3a77z99a5zda014563a655",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Shiori Masumitsu",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "694b59e2-a55d-4090-a9e9-2eb31f7c192f",
+      "Salesforce Opportunity ID": "006PH00000tTSkPYAW",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6302346cze74fz3445z8101z9c019b15705a",
       "display_name": null,
       "Objective Name": "(Onboarding) Market & Industry Research",
@@ -1079,7 +1145,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
-  "total": 49,
+  "fetched_at": "2026-11-16T11:51:17.533Z",
+  "total": 52,
   "im_name": "Hana Yoshida"
 }
