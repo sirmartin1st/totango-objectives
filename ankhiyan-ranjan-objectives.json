@@ -535,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Campaigns Opened 90D,,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Ankhiyan Ranjan",
@@ -617,72 +617,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "8169c49bza97cz3b12z8e9fz2406f906dc15",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,,,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Jannelle Leong",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "a39dd0a4-12fe-4878-8484-50fc21bced0c",
-      "Salesforce Opportunity ID": "006PH00000pn4l5YAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "9be550e8z0539z3147zaa65zfd3f8d8f380a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Jannelle Leong",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "a39dd0a4-12fe-4878-8484-50fc21bced0c",
-      "Salesforce Opportunity ID": "006PH00000pn4l5YAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "c7e4c899z0dbfz37d3za2c5ze7a77742bf4d",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Ankhiyan Ranjan",
-      "CSM Owner": "Jannelle Leong",
-      "Objective Created Date": "2026-09-15",
-      "Account ID": "a39dd0a4-12fe-4878-8484-50fc21bced0c",
-      "Salesforce Opportunity ID": "006PH00000pn4l5YAA",
-      "Objective Created By": "ankhiyan.ranjan@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "7b0711f4z181az34e6za552z691230c55c6b",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -749,7 +683,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-15T11:51:13.925Z",
-  "total": 34,
+  "fetched_at": "2026-11-16T11:51:17.533Z",
+  "total": 31,
   "im_name": "Ankhiyan Ranjan"
 }
