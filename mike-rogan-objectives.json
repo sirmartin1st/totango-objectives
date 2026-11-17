@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "4a86252czbf46z3e4az92a5ze220ee8e12d8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "ef6abc9a-d510-48d8-8989-ad41d373441a",
+      "Salesforce Opportunity ID": "006PH00000vNYTBYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5f7c8b12zf260z3815z9a4bzb51b7d14d3d2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "ef6abc9a-d510-48d8-8989-ad41d373441a",
+      "Salesforce Opportunity ID": "006PH00000vNYTBYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "bcd85cd0zb549z32b8za667z4ca372de717a",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -177,6 +221,28 @@
       "Objective Description": ""
     },
     {
+      "objective_id": "73d52a62z2693z3a61z966fz50b3d72ec350",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Nathalie Litvine",
+      "Objective Created Date": "2026-09-17",
+      "Account ID": "dca94553-e3fc-4686-b3b3-a5301133bb25",
+      "Salesforce Opportunity ID": "006PH00000idHxKYAU",
+      "Objective Created By": "nathalie.litvine@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "28f6514bz5e19z3b33za4e8z4c20fd39da43",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -263,9 +329,53 @@
       "Salesforce Opportunity ID": "006PH00000pzau3YAA",
       "Objective Created By": "michael.rogan@meltwater.com",
       "Objective Description": ""
+    },
+    {
+      "objective_id": "9074c047z9d5az3d4dzaf02zde095afe371a",
+      "display_name": null,
+      "Objective Name": "(FIP) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 6,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,3. Executive Insight Narrative Developed,2. Market & Competitive Context Added,,HS20 Searches Completed 90D,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Nathalie Litvine",
+      "Objective Created Date": "2026-06-19",
+      "Account ID": "dca94553-e3fc-4686-b3b3-a5301133bb25",
+      "Salesforce Opportunity ID": "006PH00000idHxKYAU",
+      "Objective Created By": "nathalie.litvine@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3f595993zdbc3z3330z9721z9aaf2eadf81a",
+      "display_name": null,
+      "Objective Name": "First Impact Onboarding Objective",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Template Milestone 1 - To be updated",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Mike Rogan",
+      "CSM Owner": "Nathalie Litvine",
+      "Objective Created Date": "2026-04-15",
+      "Account ID": "dca94553-e3fc-4686-b3b3-a5301133bb25",
+      "Salesforce Opportunity ID": "006PH00000idHxKYAU",
+      "Objective Created By": "nathalie.litvine@meltwater.com",
+      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-16T11:51:17.533Z",
-  "total": 12,
+  "fetched_at": "2026-11-17T11:51:13.862Z",
+  "total": 17,
   "im_name": "Mike Rogan"
 }
