@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "69a0989bz3089z3a16zb70bzd73442baaaec",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Drew Lipscomb",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-11-16",
+      "Account ID": "6dfeae95-8846-4a2a-acec-1153651c6422",
+      "Salesforce Opportunity ID": "006PH00000u1F6PYAU",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "7bec1f56zea97z352fzaa0az492d8794b1a7",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -336,7 +358,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 2,
+        "number_of_overdue_milestones": 3,
         "percentage_of_completed_milestones": 57.142857,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 4
@@ -402,7 +424,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 85.71429,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 6
@@ -431,7 +453,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-10-01",
@@ -519,7 +541,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Catie Farwick",
       "Objective Created Date": "2026-09-30",
@@ -541,7 +563,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ellen Bruns",
       "Objective Created Date": "2026-09-29",
@@ -585,7 +607,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Drew Lipscomb",
       "CSM Owner": "Ellen Bruns",
       "Objective Created Date": "2026-09-21",
@@ -639,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-16T11:51:17.533Z",
-  "total": 29,
+  "fetched_at": "2026-11-17T11:51:13.862Z",
+  "total": 30,
   "im_name": "Drew Lipscomb"
 }
