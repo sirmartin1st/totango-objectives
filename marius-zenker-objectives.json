@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "1221bfd6z04b0z3f95z952cz60b75d41adf5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": "Devan Wallace",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "e43d1d84-ad5c-4212-9999-019bbf018e7d",
+      "Salesforce Opportunity ID": "006PH00000tQCaXYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "5dc4696cz7e77z3390z8d67z6b4d6c815a65",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
+      "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9150cd91z056ez3418z9413z8bb43139c8f8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
+      "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b26dc97ez5c4dz3c35za222zf66c80761c57",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Marius Zenker",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
+      "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6bdedf01z16e4z318azb7c6zb0c541344659",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -29,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Marius Zenker",
@@ -315,11 +403,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Marius Zenker",
@@ -573,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 26,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 30,
   "im_name": "Marius Zenker"
 }
