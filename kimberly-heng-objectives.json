@@ -1,0 +1,117 @@
+{
+  "objectives": [
+    {
+      "objective_id": "3a0dda0fz4513z374bzac15zc479a58ee830",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Kimberly Heng",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "37ffde0f-dd41-4898-9d1d-228f029de3ee",
+      "Salesforce Opportunity ID": "006PH00000sP8bBYAS",
+      "Objective Created By": "kimberly.heng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "99e348e6z10c5z3a8bza849z4bb04b3e511a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Kimberly Heng",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "37ffde0f-dd41-4898-9d1d-228f029de3ee",
+      "Salesforce Opportunity ID": "006PH00000sP8bBYAS",
+      "Objective Created By": "kimberly.heng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d32ceaabz0351z347fz9fc0z2f0c77ff3f11",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Reputation Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Kimberly Heng",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "37ffde0f-dd41-4898-9d1d-228f029de3ee",
+      "Salesforce Opportunity ID": "006PH00000sP8bBYAS",
+      "Objective Created By": "kimberly.heng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d955ec0dz634cz3828z914bz26b52375c703",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Kimberly Heng",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "37ffde0f-dd41-4898-9d1d-228f029de3ee",
+      "Salesforce Opportunity ID": "006PH00000sP8bBYAS",
+      "Objective Created By": "kimberly.heng@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e9aa0fb4zdc4ez3440z9785zc2d7f34d951c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Kimberly Heng",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "37ffde0f-dd41-4898-9d1d-228f029de3ee",
+      "Salesforce Opportunity ID": "006PH00000sP8bBYAS",
+      "Objective Created By": "kimberly.heng@meltwater.com",
+      "Objective Description": ""
+    }
+  ],
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 5,
+  "im_name": "Kimberly Heng"
+}
