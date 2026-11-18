@@ -160,7 +160,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 85.71429,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 6
@@ -204,7 +204,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 85.71429,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 6
@@ -441,28 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "5b17aedbz4eb4z398fzb9b0z8a9e06681040",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Thomas Moore",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "4230e289-7c31-44d4-bf3f-c4b6e4f3d8f6",
-      "Salesforce Opportunity ID": "006PH00000uo7cMYAQ",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "78b90c92z19a1z3374z9fb9z0b1b1c00fd9e",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -497,7 +475,7 @@
       },
       "Pct Milestones Completed": 57.142857,
       "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-15",
@@ -519,7 +497,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Ashley Rocchio",
       "Objective Created Date": "2026-10-15",
@@ -639,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 29,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 28,
   "im_name": "Alison Mowry"
 }
