@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "041bdf52z6172z3f3fz9e6cze0a0eaa1e5ca",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Miranda Mart",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "9320e943-e156-4232-8fcf-1125736e3067",
+      "Salesforce Opportunity ID": "006PH00000qsfoEYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "67ab4decz5749z307czaec3zf5bbacf429c5",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -793,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 36,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 37,
   "im_name": "Maria Tavares"
 }
