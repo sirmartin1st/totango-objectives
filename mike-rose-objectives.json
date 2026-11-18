@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "0b50ddb7z2395z38cbzbe1azc6cf15f069cf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Gene Lim",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "dfd03a1e-b7ef-4d8d-b939-f26b219d521a",
+      "Salesforce Opportunity ID": "006PH00000l83bxYAA",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a6960cafze932z3ed4z817ezd94772df9ac8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Camila Henriquez",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "b2a6c3f9-1562-4e6e-a9e9-3ced914e927a",
+      "Salesforce Opportunity ID": "006PH00000uOCRBYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b102c4c5z1ddcz355bz864fz8168748f7f8f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Sharlene Wenner",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "9fc75653-f14f-40b0-8aca-ff279d10436a",
+      "Salesforce Opportunity ID": "006PH00000uWfFtYAK",
+      "Objective Created By": "mike.rose@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "17e23595z5eb5z3e03z8a6ez33a8ee4e5159",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,7 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rose",
       "CSM Owner": "Sharlene Wenner",
       "Objective Created Date": "2026-11-12",
@@ -35,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Mike Rose",
       "CSM Owner": "Sharlene Wenner",
       "Objective Created Date": "2026-11-12",
@@ -73,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Mike Rose",
@@ -101,7 +167,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Mike Rose",
       "CSM Owner": "Camila Henriquez",
       "Objective Created Date": "2026-11-09",
@@ -727,7 +793,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 33,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 36,
   "im_name": "Mike Rose"
 }
