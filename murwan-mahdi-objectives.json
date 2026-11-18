@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-13",
@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 40,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "On Hold",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-13",
@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -249,11 +249,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
@@ -309,39 +309,17 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3341e0f0zc73ez3ec3zbb06z2e5033adba8b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,MI FB Setup New,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Maria Hakim",
-      "Objective Created Date": "2026-10-07",
-      "Account ID": "536e810d-c3ec-4888-8646-06214f52e4ea",
-      "Salesforce Opportunity ID": "006PH00000tbwoXYAQ",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "4dfa799dz2b8dz3d2eza5e5z45c0eb8eb786",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "On Hold",
       "Implementation Manager": "Murwan Mahdi",
@@ -349,50 +327,6 @@
       "Objective Created Date": "2026-10-07",
       "Account ID": "1f7bdfbd-e168-4919-b434-8ee3018de729",
       "Salesforce Opportunity ID": "006PH00000oli2PYAQ",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "11fe2e69z2bb5z3d38z9229z57b34434f419",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Articles Clicked 90D,Mira Studio Usage,,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Maria Hakim",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "4cfe12be-9ec7-4a0a-a2e2-4d3008b5d895",
-      "Salesforce Opportunity ID": "006PH00000toChSYAU",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "910dbaf9z3a45z3190z966azf61b7fbec9bf",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Maria Hakim",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "4cfe12be-9ec7-4a0a-a2e2-4d3008b5d895",
-      "Salesforce Opportunity ID": "006PH00000toChSYAU",
       "Objective Created By": "murwan.mahdi@meltwater.com",
       "Objective Description": ""
     },
@@ -409,7 +343,7 @@
       },
       "Pct Milestones Completed": 88.888885,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-09-25",
@@ -485,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 22,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 19,
   "im_name": "Murwan Mahdi"
 }
