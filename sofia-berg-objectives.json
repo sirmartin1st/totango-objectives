@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "0705858azda99z3ebazbe15zd6c2d98cd389",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Maria Maceikianec",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "38589ee6-2591-4b7b-9e9e-06094f2438d3",
+      "Salesforce Opportunity ID": "006PH00000v5mCrYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8de78d44z01b5z3353z8043z8f470bcd3bdf",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "26bdfd3f-1e91-4dad-aeae-5db7f80f4bff",
+      "Salesforce Opportunity ID": "006PH00000lh76PYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9579be6cz7424z38f3z8f31z3b0ba4b0256a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": "Maria Maceikianec",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "38589ee6-2591-4b7b-9e9e-06094f2438d3",
+      "Salesforce Opportunity ID": "006PH00000v5mCrYAI",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "9cada62fz75c7z39b8za8a1zab6ba7e40148",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sofia ?berg",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "26bdfd3f-1e91-4dad-aeae-5db7f80f4bff",
+      "Salesforce Opportunity ID": "006PH00000lh76PYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "57771552z60caz3c56z81faz850e4a1f68c9",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -485,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 22,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 26,
   "im_name": "Sofia ?berg"
 }
