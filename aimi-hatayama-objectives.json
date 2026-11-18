@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "a439da5bzf16az39a5z808cz50a0e6681d69",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Chihiro Saito",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "d0c8554b-7961-4242-9e1e-edac7e4aa607",
+      "Salesforce Opportunity ID": "006PH00000kbJXRYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e4e31e7bz221az334cz8870zd4844c182008",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Chihiro Saito",
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "d0c8554b-7961-4242-9e1e-edac7e4aa607",
+      "Salesforce Opportunity ID": "006PH00000kbJXRYA2",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "18b4b2f0z8e33z31d1z8e4bz640d7f79031c",
       "display_name": null,
       "Objective Name": "(Onboarding) Content & Campaign Optimization",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
@@ -227,11 +271,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
@@ -239,28 +283,6 @@
       "Objective Created Date": "2026-10-19",
       "Account ID": "01a35800-ba67-4929-bc3c-a29fda29f941",
       "Salesforce Opportunity ID": "006PH00000lgeFhYAI",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "63ec2d1fzb65dz3877zb46ez6ed82ad6743e",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Shiori Masumitsu",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "c8b0d7fc-a3f7-4c9c-84c4-d955e82e1792",
-      "Salesforce Opportunity ID": "006PH00000oJ09GYAS",
       "Objective Created By": "aimi.hatayama@meltwater.com",
       "Objective Description": ""
     },
@@ -284,28 +306,6 @@
       "Account ID": "c222c4c4-a8f1-45b5-9e1e-79bc694febab",
       "Salesforce Opportunity ID": "006PH00000u1w06YAA",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f0056e17z1694z39ccz8b02z56f9b9bcb59b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,Mira Studio Usage,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Shiori Masumitsu",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "c8b0d7fc-a3f7-4c9c-84c4-d955e82e1792",
-      "Salesforce Opportunity ID": "006PH00000oJ09GYAS",
-      "Objective Created By": "aimi.hatayama@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -441,50 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2f523f39zf658z3e9dz9c9dz869fc60ba409",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Chihiro Saito",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "d0c8554b-7961-4242-9e1e-edac7e4aa607",
-      "Salesforce Opportunity ID": "006PH00000kbJXRYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "63987a71z3c0ez3311z972bz7ee377bda494",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Aimi Hatayama",
-      "CSM Owner": "Chihiro Saito",
-      "Objective Created Date": "2026-10-05",
-      "Account ID": "d0c8554b-7961-4242-9e1e-edac7e4aa607",
-      "Salesforce Opportunity ID": "006PH00000kbJXRYA2",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d50eb946zf3e7z3edaz9a23z93681a0cd6e1",
       "display_name": null,
       "Objective Name": "(Onboarding) Competitive Benchmarking",
@@ -579,11 +535,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
@@ -815,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 37,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 35,
   "im_name": "Aimi Hatayama"
 }
