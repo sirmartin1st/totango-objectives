@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "0d6c32d2zac60z39baz8eb0z60b7e77d10a2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "722602c4-4e23-4f0f-adad-05d83dee0141",
+      "Salesforce Opportunity ID": "006PH00000v6TsvYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "80c2d709z52fbz3987za141z6db58dbf3ac8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alejandra Arismendi",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-17",
+      "Account ID": "722602c4-4e23-4f0f-adad-05d83dee0141",
+      "Salesforce Opportunity ID": "006PH00000v6TsvYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "27792ddczf147z3c36z8029zbc19b2501a9c",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Alejandra Arismendi",
@@ -101,7 +145,7 @@
       },
       "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Patricia Moreno",
       "Objective Created Date": "2026-10-30",
@@ -194,7 +238,7 @@
       "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-10-07",
       "Account ID": "0317ee5d-078e-4939-8e0e-6d02b53e69b1",
-      "Salesforce Opportunity ID": "006PH00000poIKXYA2",
+      "Salesforce Opportunity ID": "006PH00000vOmCLYA0",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
     },
@@ -331,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 15,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 17,
   "im_name": "Alejandra Arismendi"
 }
