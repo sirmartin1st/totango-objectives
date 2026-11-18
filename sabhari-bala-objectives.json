@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 20,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -425,11 +425,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Sabhari Bala",
@@ -837,116 +837,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "09ec6df3z1255z38ebz9331z49cdfc5ef269",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Lizzie Cooper",
-      "Objective Created Date": "2026-08-30",
-      "Account ID": "f8d6685f-ccb0-4464-b777-ebcedcc87459",
-      "Salesforce Opportunity ID": "006PH00000l2WSCYA2",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "4665983bz15bfz3703za182z364c3c727b61",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,Mira Studio Usage,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Lizzie Cooper",
-      "Objective Created Date": "2026-08-30",
-      "Account ID": "f8d6685f-ccb0-4464-b777-ebcedcc87459",
-      "Salesforce Opportunity ID": "006PH00000l2WSCYA2",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7abb035az6abfz36e7zbb74zc0e4b26c5265",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Reputation Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": ",,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Lizzie Cooper",
-      "Objective Created Date": "2026-08-30",
-      "Account ID": "f8d6685f-ccb0-4464-b777-ebcedcc87459",
-      "Salesforce Opportunity ID": "006PH00000l2WSCYA2",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b028cb60z99baz3c73za647z7ae9a75a6e8b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Lizzie Cooper",
-      "Objective Created Date": "2026-08-30",
-      "Account ID": "f8d6685f-ccb0-4464-b777-ebcedcc87459",
-      "Salesforce Opportunity ID": "006PH00000l2WSCYA2",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d189c69bza07az3365za16czeaf6c8e554de",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Lizzie Cooper",
-      "Objective Created Date": "2026-08-30",
-      "Account ID": "f8d6685f-ccb0-4464-b777-ebcedcc87459",
-      "Salesforce Opportunity ID": "006PH00000l2WSCYA2",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "38e180abze68fz3282zb691z4d83b5502b86",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -1167,7 +1057,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
-  "total": 53,
+  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "total": 48,
   "im_name": "Sabhari Bala"
 }
