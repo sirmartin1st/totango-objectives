@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "67964288z1d50z3eb0z9974zb87cc95bf17e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 33.333332,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Katie White",
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "aa832824-0502-4eae-8484-c950dbab6544",
+      "Salesforce Opportunity ID": "006PH00000s0TnhYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e0207fa7z5f91z38cfzbcf9z595b07603b2f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Onboarding Closure",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Katie White",
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "aa832824-0502-4eae-8484-c950dbab6544",
+      "Salesforce Opportunity ID": "006PH00000s0TnhYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e47165fezde96z397dzbdf3z72b6f8cfb3a9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 44.444443,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 4
+      },
+      "Pct Milestones Completed": 44.444443,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "bf3d7a15-a7c9-4f8f-9797-373d2690f020",
+      "Salesforce Opportunity ID": "006PH00000uK42SYAS",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "19316b16za679z3491z955dzcb51afd6a4fe",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -29,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -199,28 +265,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "aaec46e8z876az35cazbe48zc2c7ed70ca64",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": null,
-      "Objective Created Date": "2026-11-02",
-      "Account ID": "bf3d7a15-a7c9-4f8f-9797-373d2690f020",
-      "Salesforce Opportunity ID": "006PH00000uK42SYAS",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d54c4f1azf482z3126z95d8zc752f20e6052",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -293,11 +337,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -353,50 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "29b113f1zab61z33daz9ec8z1f175529036b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Katie White",
-      "Objective Created Date": "2026-10-08",
-      "Account ID": "aa832824-0502-4eae-8484-c950dbab6544",
-      "Salesforce Opportunity ID": "006PH00000s0TnhYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "877297c9z81b0z3eacza1cfz3d3a871109d6",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Katie White",
-      "Objective Created Date": "2026-09-29",
-      "Account ID": "aa832824-0502-4eae-8484-c950dbab6544",
-      "Salesforce Opportunity ID": "006PH00000s0TnhYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a1ad6ed1z7319z3002zb419ze33b226eefeb",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": "Katie White",
       "Objective Created Date": "2026-09-29",
@@ -419,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-17T11:51:13.862Z",
+  "fetched_at": "2026-11-18T11:51:15.750Z",
   "total": 19,
   "im_name": "Taneil Mindham"
 }
