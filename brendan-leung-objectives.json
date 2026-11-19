@@ -1,24 +1,46 @@
 {
   "objectives": [
     {
-      "objective_id": "43120c06z3952z3676za393z27895ea42996",
+      "objective_id": "cadd34f4z680bz3c89z91d5z30bbc457b75f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Brendan Leung",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "565361f1-7d41-4212-b636-33bc1b56f79d",
+      "Salesforce Opportunity ID": "006PH00000rg9IDYAY",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fd25a5b6zb829z3f63z852dz60fafc076e58",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 0,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 0
       },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Kelsey White",
-      "Objective Created Date": "2026-11-17",
-      "Account ID": "d0188ae3-0b9b-4c3c-91d1-ad50b1d99c07",
-      "Salesforce Opportunity ID": "006PH00000t2WSMYA2",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "565361f1-7d41-4212-b636-33bc1b56f79d",
+      "Salesforce Opportunity ID": "006PH00000rg9IDYAY",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -419,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 19,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 20,
   "im_name": "Brendan Leung"
 }
