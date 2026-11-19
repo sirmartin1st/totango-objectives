@@ -37,7 +37,7 @@
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Louisa Isaacs",
       "Objective Created Date": "2026-11-17",
       "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
       "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
@@ -59,7 +59,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Louisa Isaacs",
       "Objective Created Date": "2026-11-17",
       "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
       "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
@@ -81,7 +81,7 @@
       "Milestone Names": "",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
-      "CSM Owner": null,
+      "CSM Owner": "Louisa Isaacs",
       "Objective Created Date": "2026-11-17",
       "Account ID": "7ccf1319-4a9f-4c4c-9fdf-ba5411d337ee",
       "Salesforce Opportunity ID": "006PH00000uGT7RYAW",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Marius Zenker",
@@ -293,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marius Zenker",
@@ -573,72 +573,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ca9d1530z3ef1z34c9za76azc4d545d1b256",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-09-26",
-      "Account ID": "0f2f202e-ccbf-4efe-acac-e13d02d76168",
-      "Salesforce Opportunity ID": "006PH00000opJ2EYAU",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "23e01f6dza0efz3290zaa03zf54a7910ad7f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-09-18",
-      "Account ID": "0f2f202e-ccbf-4efe-acac-e13d02d76168",
-      "Salesforce Opportunity ID": "006PH00000opJ2EYAU",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "60168756zf34cz332dzbc4ez5cd655c23c34",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Campaign Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,,,HS20 Articles Clicked 90D,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-09-18",
-      "Account ID": "0f2f202e-ccbf-4efe-acac-e13d02d76168",
-      "Salesforce Opportunity ID": "006PH00000opJ2EYAU",
-      "Objective Created By": "marius.zenker@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "aaff306cz2b16z3857zb937z2eff43f80c74",
       "display_name": null,
       "Objective Name": "(FIP) AI Visibility Tracking",
@@ -661,7 +595,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 30,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 27,
   "im_name": "Marius Zenker"
 }
