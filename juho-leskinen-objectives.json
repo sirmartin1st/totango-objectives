@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0c4118acz6bf2z3220z99adzfc53c165e09e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 50,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 50,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Juho Leskinen",
+      "CSM Owner": "Joel Rausch",
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "0bf713ca-5a6d-46d6-a525-0996ea636de2",
+      "Salesforce Opportunity ID": "006Rf00000XmLWzIAN",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "08e60956z2a8bz349cza2efz7784ec69e97b",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -331,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 15,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 16,
   "im_name": "Juho Leskinen"
 }
