@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "7cfc25b2z647az3e62zbc40z46cfce065ea7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Tanner Schavey",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "d5f2cb20-cc53-4303-a8e8-54148b185476",
+      "Salesforce Opportunity ID": "006PH00000qFHXFYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "fb2afd44za618z3794z8c1czae2b988d2717",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Tanner Schavey",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-17",
@@ -639,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 29,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 30,
   "im_name": "Tanner Schavey"
 }
