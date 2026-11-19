@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "0ac7a58azce2az3e36z8cd7z47cc0bf8f16a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Mizan Pretorius",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "2ecff5ef-f56c-4bbb-9090-3c54762abd90",
+      "Salesforce Opportunity ID": "006PH00000mwwSzYAI",
+      "Objective Created By": "mizan.pretorius@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "206fffd8z6497z3777z985bz1cc529b468c8",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -485,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 22,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 23,
   "im_name": "Mizan Pretorius"
 }
