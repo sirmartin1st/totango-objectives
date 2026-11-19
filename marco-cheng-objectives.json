@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Marco Cheng",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-18",
@@ -133,7 +133,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "fetched_at": "2026-11-19T11:51:12.730Z",
   "total": 6,
   "im_name": "Marco Cheng"
 }
