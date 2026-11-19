@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 28.571428,
+        "percentage_of_completed_milestones": 42.857143,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 28.571428,
+      "Pct Milestones Completed": 42.857143,
       "Milestone Names": ",,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -331,28 +331,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "ffcbe38aza3a4z3e21z8c47z2efe075cb757",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Tirza Lammers",
-      "Objective Created Date": "2026-10-27",
-      "Account ID": "f58e28c3-ad39-45a5-9fdf-e694ff70446f",
-      "Salesforce Opportunity ID": "006PH00000qXvj7YAC",
-      "Objective Created By": "jamie.korah@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "70629d0bzd636z3f74z9afdz6ffef9ec9539",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -415,28 +393,6 @@
       "Objective Created Date": "2026-10-23",
       "Account ID": "5e58ac0b-5fc1-4191-85c5-e7708768aa37",
       "Salesforce Opportunity ID": "006PH00000oqFB3YAM",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6f9d69cdzf518z3278z92d3zfca7288962d9",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
-      },
-      "Pct Milestones Completed": 40,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Jamie Korah",
-      "CSM Owner": "Tirza Lammers",
-      "Objective Created Date": "2026-10-18",
-      "Account ID": "f58e28c3-ad39-45a5-9fdf-e694ff70446f",
-      "Salesforce Opportunity ID": "006PH00000qXvj7YAC",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -529,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 24,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 22,
   "im_name": "Jamie Korah"
 }
