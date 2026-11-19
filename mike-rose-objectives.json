@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "642aba71zfe5az3dfazb778z139eb19441e2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Mike Rose",
+      "CSM Owner": "Connor Love",
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "867c042d-73ba-43c3-9d5d-0e62b57c4874",
+      "Salesforce Opportunity ID": "006PH00000vEpwIYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0b50ddb7z2395z38cbzbe1azc6cf15f069cf",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -793,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 36,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 37,
   "im_name": "Mike Rose"
 }
