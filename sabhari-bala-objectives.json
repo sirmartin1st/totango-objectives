@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "081239b8z3c3ez331fzae75za0c5ac206621",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 66.666664,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 66.666664,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "8cad165d-4d33-4505-99d9-2db403c5657b",
+      "Salesforce Opportunity ID": "006PH00000uxypVYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6fc05234z8dd9z3d7az9e8cz9f6a51f185af",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "8cad165d-4d33-4505-99d9-2db403c5657b",
+      "Salesforce Opportunity ID": "006PH00000uxypVYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "c15ca034z6995z3fb2z8050z61076fd565a2",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -1057,7 +1101,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 48,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 50,
   "im_name": "Sabhari Bala"
 }
