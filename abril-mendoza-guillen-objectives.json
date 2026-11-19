@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "40f209cczeff0z3a19z84e7z1efafac12ef9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Abril Mendoza Guillen",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "6e30b35a-01a5-49c9-8606-be0397ae63b0",
+      "Salesforce Opportunity ID": "006PH00000w7QQzYAM",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0f24d401z7876z39b8z95c1z9de63bb79423",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -397,28 +419,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "b4293768z7282z3899zaa2cz62edcd4bb1af",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Abril Mendoza Guillen",
-      "CSM Owner": "Bobby Choppa",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "a1159fbb-fe57-4b7b-8383-f01fb0fdd39f",
-      "Salesforce Opportunity ID": "006PH00000tlnonYAA",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d89e182dz0c83z399czbdecz18ad54482bde",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -617,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
+  "fetched_at": "2026-11-19T11:51:12.730Z",
   "total": 28,
   "im_name": "Abril Mendoza Guillen"
 }
