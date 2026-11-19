@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "54103d17z5870z3211za857z7f6b5745397d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 20,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 20,
+      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Nathan Roshelli",
+      "Objective Created Date": "2026-11-18",
+      "Account ID": "0bc077c9-c039-4585-9d5d-aa0ab687f0e0",
+      "Salesforce Opportunity ID": "006PH00000rfrufYAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "3056e6dbz3739z39a6z87ffzbc9f4c9f9486",
       "display_name": null,
       "Objective Name": "(Onboarding) Influencer Marketing",
@@ -13,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,,,HS20 Klear Campaigns Opened 90D",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Anne-Claire Penvern",
       "Objective Created Date": "2026-11-17",
@@ -79,7 +101,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Anne-Claire Penvern",
       "Objective Created Date": "2026-11-04",
@@ -101,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alison Mowry",
       "CSM Owner": "Anne-Claire Penvern",
       "Objective Created Date": "2026-11-04",
@@ -463,50 +485,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "83eae7d3z573cz34d2zb32cz54233d1048e1",
-      "display_name": null,
-      "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "2",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 3,
-        "percentage_of_completed_milestones": 57.142857,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 57.142857,
-      "Milestone Names": "Total Num Workshop Registrations ALL TIME,,MI Daily Digest Sent,MI Created Searches,users in community,MI Created Dashboards,Nbr of MI users Active 30d",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-10-15",
-      "Account ID": "6f581d73-644d-4626-91d1-e6819b4cae50",
-      "Salesforce Opportunity ID": "006PH00000tnxLrYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "f9dad22ez99b9z3391z8305z62051643ee55",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Ashley Rocchio",
-      "Objective Created Date": "2026-10-15",
-      "Account ID": "6f581d73-644d-4626-91d1-e6819b4cae50",
-      "Salesforce Opportunity ID": "006PH00000tnxLrYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "61d9b9efz25a5z3b18z83bbz420526a029d9",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -548,28 +526,6 @@
       "Account ID": "6b17a7df-dcdf-4424-9616-ca7662720d6d",
       "Salesforce Opportunity ID": "006PH00000r0MLOYA2",
       "Objective Created By": "alison.mowry@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "cb47bfe8z8fecz37e0zb3a5z09a2caeaa125",
-      "display_name": null,
-      "Objective Name": "(FIP) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": ",1. Campaign & Media Contacts Framework Defined,2. Campaign Performance Tracking Fully Operational,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Alison Mowry",
-      "CSM Owner": "Sharlene Wenner",
-      "Objective Created Date": "2026-08-04",
-      "Account ID": "9c5532b9-5bdb-4474-9b9b-263f538c27f5",
-      "Salesforce Opportunity ID": "006PH00000nCj6nYAC",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -617,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-18T11:51:15.750Z",
-  "total": 28,
+  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "total": 26,
   "im_name": "Alison Mowry"
 }
