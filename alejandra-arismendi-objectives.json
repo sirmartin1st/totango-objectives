@@ -101,7 +101,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": ",,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "B?n?dicte Bucharles",
       "Objective Created Date": "2026-11-04",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "B?n?dicte Bucharles",
       "Objective Created Date": "2026-11-04",
@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "B?n?dicte Bucharles",
       "Objective Created Date": "2026-11-04",
@@ -260,7 +260,7 @@
       "CSM Owner": "Linh Ha",
       "Objective Created Date": "2026-10-07",
       "Account ID": "0317ee5d-078e-4939-8e0e-6d02b53e69b1",
-      "Salesforce Opportunity ID": "006PH00000poIKXYA2",
+      "Salesforce Opportunity ID": "006PH00000vOmCLYA0",
       "Objective Created By": "alejandra.arismendi@meltwater.com",
       "Objective Description": ""
     },
@@ -397,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "fetched_at": "2026-11-20T11:51:13.429Z",
   "total": 18,
   "im_name": "Alejandra Arismendi"
 }
