@@ -1,6 +1,94 @@
 {
   "objectives": [
     {
+      "objective_id": "227736baz209ez30a3z9a1azbcf2aa667c54",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Data Connections & Integrations",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 75,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 3
+      },
+      "Pct Milestones Completed": 75,
+      "Milestone Names": "MI API Articles Exported 30d,MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-09",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "073d9b50z95f7z3119zbacaze19565a57b02",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 100,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 100,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-06",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3eae86cfzfa5az3243za100zae9f3ba7b9d7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "c4686cebz8d1cz3e96z8598zf5d16ac686a9",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Evan Zhao",
+      "CSM Owner": "Yuan Pancho",
+      "Objective Created Date": "2026-11-05",
+      "Account ID": "24af95bb-04ea-4161-b6f6-3f8556dfcd57",
+      "Salesforce Opportunity ID": "006PH00000jbQkoYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e8ef8b99z24bbz3454z80c3z1c9def316e85",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -221,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
-  "total": 10,
+  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "total": 14,
   "im_name": "Evan Zhao"
 }
