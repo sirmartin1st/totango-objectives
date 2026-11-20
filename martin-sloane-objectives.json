@@ -4,14 +4,14 @@
       "objective_id": "800a39c1zb00cz3cd4z8755z6d878ab7346b",
       "display_name": null,
       "Objective Name": "Digital SMB Customer Onboarding",
-      "Objective Status": "1",
+      "Objective Status": "2",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 28.571428,
       "Milestone Names": "Nbr of MI users Active 30d,users in community,MI Created Dashboards,MI Daily Digest Sent,MI Created Searches,Total Num Workshop Registrations ALL TIME,",
       "Onboarding Stage": null,
       "Implementation Manager": "Martin Sloane",
@@ -23,7 +23,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
+  "fetched_at": "2026-11-20T11:51:13.429Z",
   "total": 1,
   "im_name": "Martin Sloane"
 }
