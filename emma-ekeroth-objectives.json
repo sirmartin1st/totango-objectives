@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "29460ae2z362dz3a68z8da1zf830aea85f94",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Will Swift",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "4ee14dd8-bc3c-4c2c-8f0f-10b263c352a1",
+      "Salesforce Opportunity ID": "006PH00000s237ZYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "f1d8a96bzaf83z3af8za592zf67749834f0c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Will Swift",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "4ee14dd8-bc3c-4c2c-8f0f-10b263c352a1",
+      "Salesforce Opportunity ID": "006PH00000s237ZYAQ",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "0265c2cfz5bbez3582z8ecdzf2e92e2e0cf9",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -161,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Emma Ekeroth",
@@ -419,7 +463,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
-  "total": 19,
+  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "total": 21,
   "im_name": "Emma Ekeroth"
 }
