@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "1d221167za606z3557z89fcz4f9c2e797f4e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 55.555557,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 5
+      },
+      "Pct Milestones Completed": 55.555557,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Kelsey White",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "72f8c6de-23f0-4888-8c8c-cb812f68500f",
+      "Salesforce Opportunity ID": "006PH00000vfQDqYAM",
+      "Objective Created By": "maria.tavares@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3922134az95eez35dfza153zee8c1fb31533",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Maria Tavares",
+      "CSM Owner": "Lauren Watkins",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "126a142c-c7f5-4808-bdbd-ee3df768cad2",
+      "Salesforce Opportunity ID": "006PH00000vWH3JYAW",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "4d8fa5b5z409fz32aezb1b1zac6bfcf291a8",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -397,28 +441,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3a862344za56az3e8dz841czb00da07f2ed5",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 33.333332,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Maria Tavares",
-      "CSM Owner": "Meredith Sutherland",
-      "Objective Created Date": "2026-10-30",
-      "Account ID": "4bbfac55-ae54-4292-9454-5fb6335f810f",
-      "Salesforce Opportunity ID": "006PH00000tjZd3YAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "6d04a7d9zb25az3ca8za391z19ea49182cba",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -469,11 +491,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 6
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -667,11 +689,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Maria Tavares",
@@ -749,7 +771,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
-  "total": 34,
+  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "total": 35,
   "im_name": "Maria Tavares"
 }
