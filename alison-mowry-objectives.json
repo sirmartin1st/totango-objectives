@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "a4606b77z9673z3e28z8463z6cba08a2ef97",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Catie Farwick",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "3ee035f5-df3b-4737-8040-7abafd6a6ca5",
+      "Salesforce Opportunity ID": "006PH00000uB3aDYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "fbed5498z8aa1z367bz847ez1db42a317fbb",
+      "display_name": null,
+      "Objective Name": "(Onboarding) AI Visibility Tracking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 1,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Alison Mowry",
+      "CSM Owner": "Owen Tracy",
+      "Objective Created Date": "2026-11-19",
+      "Account ID": "a0b1b074-317b-49f9-9a9a-f814c559cf27",
+      "Salesforce Opportunity ID": "006PH00000smUvxYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "54103d17z5870z3211za857z7f6b5745397d",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -573,7 +617,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
-  "total": 26,
+  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "total": 28,
   "im_name": "Alison Mowry"
 }
