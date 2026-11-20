@@ -507,28 +507,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "932a1e7bzd118z3092z8398z249845d8406a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Anna Genova",
-      "CSM Owner": "Lyndsey Golden",
-      "Objective Created Date": "2026-10-03",
-      "Account ID": "258565f3-46f5-4c7c-a4e4-e70faad9e2df",
-      "Salesforce Opportunity ID": "006PH00000kM9YPYA0",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "3b8d14bbz7be8z3e04zb0eczc32b049a9dd5",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -1013,7 +991,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-19T11:51:12.730Z",
-  "total": 46,
+  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "total": 45,
   "im_name": "Anna Genova"
 }
