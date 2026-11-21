@@ -15,7 +15,7 @@
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Kimberly Heng",
-      "CSM Owner": null,
+      "CSM Owner": "Shivani Parasher",
       "Objective Created Date": "2026-11-19",
       "Account ID": "cfb58f10-0d91-4cdc-bb7b-a34e0e4418a7",
       "Salesforce Opportunity ID": "006PH00000tuyxvYAA",
@@ -37,7 +37,7 @@
       "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Kimberly Heng",
-      "CSM Owner": null,
+      "CSM Owner": "Shivani Parasher",
       "Objective Created Date": "2026-11-19",
       "Account ID": "cfb58f10-0d91-4cdc-bb7b-a34e0e4418a7",
       "Salesforce Opportunity ID": "006PH00000tuyxvYAA",
@@ -59,7 +59,7 @@
       "Milestone Names": ",,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Kimberly Heng",
-      "CSM Owner": null,
+      "CSM Owner": "Shivani Parasher",
       "Objective Created Date": "2026-11-19",
       "Account ID": "cfb58f10-0d91-4cdc-bb7b-a34e0e4418a7",
       "Salesforce Opportunity ID": "006PH00000tuyxvYAA",
@@ -81,7 +81,7 @@
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Kimberly Heng",
-      "CSM Owner": null,
+      "CSM Owner": "Shivani Parasher",
       "Objective Created Date": "2026-11-19",
       "Account ID": "cfb58f10-0d91-4cdc-bb7b-a34e0e4418a7",
       "Salesforce Opportunity ID": "006PH00000tuyxvYAA",
@@ -199,7 +199,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-20T11:51:13.429Z",
+  "fetched_at": "2026-11-21T11:51:14.317Z",
   "total": 9,
   "im_name": "Kimberly Heng"
 }
