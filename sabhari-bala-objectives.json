@@ -1,6 +1,292 @@
 {
   "objectives": [
     {
+      "objective_id": "0e5e004fzeaf2z3788za362z8409032d6ef6",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Reputation Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "3407313az9933z31aeza7c3z1274f3f29be7",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "6a81f802z8414z3222z846aze3e0d31b2e8a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content & Campaign Optimization",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "78027b11z48cdz3064zba2bz06d432961828",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
+      "Onboarding Stage": "Adoption",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "b3c0c1ab-9976-43d3-bcfc-d20fcc0ada4a",
+      "Salesforce Opportunity ID": "006PH00000rKNLJYA4",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7aaf91b9zed08z30a6z8fafz8f24ff7150f4",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "7d661ab6z2eeez307dz9ccbzbf3a2a6afe2c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Voice of Customer Segmentation",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,MI API Exports 30d,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "81eeeef9zfad0z3f5fz9e9czd3813cf8515e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Competitive Benchmarking",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8a5260d7za479z3d60z856ezd5cf8e87a21e",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a752dbbazba27z30a1z9f3bzaa1d77bdeee5",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "abe370c5z117cz3727zaa91zb9765f8cced3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,Mira Studio Usage,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Monica Bondoc",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "c9ddb877-d71f-4cfc-a2a2-db5284ddc10a",
+      "Salesforce Opportunity ID": "006PH00000u2S4nYAE",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b5256befz53fez3ddbzbdc1z241cc3ccbd00",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Risk & Crisis Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,MI IG Setup New,Mira Studio Usage,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b88a16f4z5172z39f1z8f4cz0db50ce2358f",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Campaign Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "MI IG Setup New,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e80bf282z015cz30d2zaa25zfc6e21c01690",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 4,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Sabhari Bala",
+      "CSM Owner": "Haruka Matsuzaki",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
+      "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
+      "Objective Created By": "sabhari.bala@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "081239b8z3c3ez331fzae75za0c5ac206621",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -63,28 +349,6 @@
       "Objective Created Date": "2026-11-16",
       "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
       "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e0c87048zc045z3523z9a7az314dc9242793",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Haruka Matsuzaki",
-      "Objective Created Date": "2026-11-16",
-      "Account ID": "b3c0c1ab-9976-43d3-bcfc-d20fcc0ada4a",
-      "Salesforce Opportunity ID": "006PH00000rKNLJYA4",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -173,7 +437,7 @@
       "Objective Created Date": "2026-10-31",
       "Account ID": "69ded028-9901-4757-8787-cbd82ee2d4dd",
       "Salesforce Opportunity ID": "006PH00000rbfTtYAI",
-      "Objective Created By": null,
+      "Objective Created By": "sabhari.bala@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -482,28 +746,6 @@
       "Account ID": "5839cdc7-549d-4a9a-8e4e-8e83a81b2cda",
       "Salesforce Opportunity ID": "006PH00000qhaS5YAI",
       "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "98436718ze33dz3b30zbcaez91ec46e1f67a",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 20,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 20,
-      "Milestone Names": "HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": null,
       "Objective Description": ""
     },
     {
@@ -903,28 +1145,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "3d680206zca47z3f3bza382z56f1082e5ddf",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d90e9fe2zae2ez3108z9d50z9566167914b9",
       "display_name": null,
       "Objective Name": "(FIP) Content Distribution",
@@ -945,163 +1165,9 @@
       "Salesforce Opportunity ID": "006PH00000mRwCLYA0",
       "Objective Created By": "sabhari.bala@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "03eaea19z5d15z325cz9336za941f0edfaed",
-      "display_name": null,
-      "Objective Name": "(FIP) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,Mira Studio Usage,MI FB Setup New,1. Risk Landscape Defined,2. Crisis Detection & Monitoring Fully Operational",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "225e4f6bzc413z3201z8a3az4e94e66cfaf4",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",,,b. Integration of Brand Search Analytics into dashboards,a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "24334adbz912dz32f3zb8f7z1ba192b1945c",
-      "display_name": null,
-      "Objective Name": "(FIP) Reputation Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",MI FB Setup New,1. Reputation Pillars & Scoring Framework Defined,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "34a29281zbbcez321fzba7cz016fb6dd52c7",
-      "display_name": null,
-      "Objective Name": "(FIP) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Executive Dashboard & Alerts Fully Operational,2. Market & Competitive Context Added,3. Executive Insight Narrative Developed,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "3e23b8f0z883fz3424z8aa5z796253fa9423",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI FB Setup New",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "58bfaf93z268dz3b93zb4a9zbf807227df38",
-      "display_name": null,
-      "Objective Name": "(FIP) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "1. Content Curation Defined,2. Target Audience Assessed & Activated,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "e0a306dez6090z3f91z9c32z66f382073ac0",
-      "display_name": null,
-      "Objective Name": "(FIP) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 9
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Searches Completed 90D,,,Mira Studio Usage,MI FB Setup New,1. Brand Search Foundation Defined ,2. Integration of Brand Search Analytics into dashboards,3. Tracking of Competitor and Market Signals Fully Operational,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Live",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Stuart Oldham",
-      "Objective Created Date": "2026-08-15",
-      "Account ID": "b7307b09-0db8-4cec-83c3-a9426c3c0922",
-      "Salesforce Opportunity ID": "006PH00000jUJmTYAW",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-22T11:51:13.778Z",
-  "total": 50,
+  "fetched_at": "2026-11-23T11:51:15.841Z",
+  "total": 53,
   "im_name": "Sabhari Bala"
 }
