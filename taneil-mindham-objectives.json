@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "6715a160zcf87z3116za35eza59a3bd3de56",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "329a9bac-729b-4b3b-b878-12dea311d869",
+      "Salesforce Opportunity ID": "006PH00000u3F3vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b7a8daccz606az3c2azae3fze47600b7de0b",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-22",
+      "Account ID": "329a9bac-729b-4b3b-b878-12dea311d869",
+      "Salesforce Opportunity ID": "006PH00000u3F3vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "94a4c6a6z1a9ez3e6cza9c0z2bad8610efbc",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -397,7 +441,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-22T11:51:13.778Z",
-  "total": 18,
+  "fetched_at": "2026-11-23T11:51:15.841Z",
+  "total": 20,
   "im_name": "Taneil Mindham"
 }
