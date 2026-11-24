@@ -1,6 +1,50 @@
 {
   "objectives": [
     {
+      "objective_id": "76c4aacbzb37fz3b6bzaeecz0abc2eaeb55c",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": ",HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Abbey Thompson",
+      "Objective Created Date": "2026-11-23",
+      "Account ID": "f0f1d11f-cc56-45d5-bebe-83be93eacb96",
+      "Salesforce Opportunity ID": "006PH00000m80YfYAI",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "d616eabfzc037z3fb7z9ff4z144c162b03ca",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Market & Industry Research",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 22.222221,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 2
+      },
+      "Pct Milestones Completed": 22.222221,
+      "Milestone Names": "HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
+      "Onboarding Stage": "Training",
+      "Implementation Manager": "Hana Yoshida",
+      "CSM Owner": "Abbey Thompson",
+      "Objective Created Date": "2026-11-23",
+      "Account ID": "f0f1d11f-cc56-45d5-bebe-83be93eacb96",
+      "Salesforce Opportunity ID": "006PH00000m80YfYAI",
+      "Objective Created By": "hana.yoshida@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "481fb3bbzf925z3806zbcffz1f17b01956be",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -29,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 44.444443,
+        "percentage_of_completed_milestones": 55.555557,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 4
+        "number_of_completed_milestones": 5
       },
-      "Pct Milestones Completed": 44.444443,
+      "Pct Milestones Completed": 55.555557,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -183,11 +227,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Hana Yoshida",
@@ -857,53 +901,9 @@
       "Salesforce Opportunity ID": "006PH00000mqAakYAE",
       "Objective Created By": "hana.yoshida@meltwater.com",
       "Objective Description": ""
-    },
-    {
-      "objective_id": "45fe4251z508bz3c50zb3e1zccda87dfaeb9",
-      "display_name": null,
-      "Objective Name": "(FIP) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "a. Brand Search Foundation Defined ,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,,,,b. Integration of Brand Search Analytics into dashboards",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Hana Yoshida",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-08-05",
-      "Account ID": "325eedda-172f-4f7f-bbbb-36788987a95c",
-      "Salesforce Opportunity ID": "006PH00000t8uGfYAI",
-      "Objective Created By": "hana.yoshida@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "8911ea41z97adz3a5dza8a0z6aa667797adb",
-      "display_name": null,
-      "Objective Name": "(FIP) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "MI IG Setup New,,MI FB Setup New,1. Market & Industry Search Foundation Defined,2. Tracking of Market and Industry Signals Fully Operational,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Hana Yoshida",
-      "CSM Owner": "Jess Andrews",
-      "Objective Created Date": "2026-08-05",
-      "Account ID": "325eedda-172f-4f7f-bbbb-36788987a95c",
-      "Salesforce Opportunity ID": "006PH00000t8uGfYAI",
-      "Objective Created By": "hana.yoshida@meltwater.com",
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-23T11:51:15.841Z",
+  "fetched_at": "2026-11-24T11:51:15.963Z",
   "total": 41,
   "im_name": "Hana Yoshida"
 }
