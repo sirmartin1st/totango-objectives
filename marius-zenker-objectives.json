@@ -527,31 +527,9 @@
       "Salesforce Opportunity ID": "006PH00000svmf9YAA",
       "Objective Created By": null,
       "Objective Description": ""
-    },
-    {
-      "objective_id": "aaff306cz2b16z3857zb937z2eff43f80c74",
-      "display_name": null,
-      "Objective Name": "(FIP) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",b. Prompt Criteria Fully Operational,a. Brand Search Foundation Defined",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Marius Zenker",
-      "CSM Owner": "Isabella Grassick",
-      "Objective Created Date": "2026-08-27",
-      "Account ID": "c7aa1b11-d262-4b0b-afaf-e0b82a04d814",
-      "Salesforce Opportunity ID": "006PH00000oWEmDYAW",
-      "Objective Created By": null,
-      "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-23T11:51:15.841Z",
-  "total": 25,
+  "fetched_at": "2026-11-24T11:51:15.963Z",
+  "total": 24,
   "im_name": "Marius Zenker"
 }
