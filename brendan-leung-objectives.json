@@ -15,7 +15,7 @@
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Kendra Igoe",
       "Objective Created Date": "2026-11-18",
       "Account ID": "565361f1-7d41-4212-b636-33bc1b56f79d",
       "Salesforce Opportunity ID": "006PH00000rg9IDYAY",
@@ -37,7 +37,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": null,
       "Implementation Manager": "Brendan Leung",
-      "CSM Owner": null,
+      "CSM Owner": "Kendra Igoe",
       "Objective Created Date": "2026-11-18",
       "Account ID": "565361f1-7d41-4212-b636-33bc1b56f79d",
       "Salesforce Opportunity ID": "006PH00000rg9IDYAY",
@@ -108,28 +108,6 @@
       "Account ID": "b3f8cbb5-9545-4d6d-8646-b22896a868a8",
       "Salesforce Opportunity ID": "006PH00000jyAp1YAE",
       "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "251aaf69z083ez34e4z9fdfz04adf70ee37c",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Influencer Marketing",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 7,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Klear Campaigns Opened 90D,,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Brendan Leung",
-      "CSM Owner": "Lauren Watkins",
-      "Objective Created Date": "2026-10-30",
-      "Account ID": "6e9cd852-a187-4aea-b7b7-2bb3fc38a320",
-      "Salesforce Opportunity ID": "0065f00000IridRAAR",
-      "Objective Created By": "brendan.leung@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -419,7 +397,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-23T11:51:15.841Z",
-  "total": 19,
+  "fetched_at": "2026-11-24T11:51:15.963Z",
+  "total": 18,
   "im_name": "Brendan Leung"
 }
