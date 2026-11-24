@@ -6,7 +6,7 @@
       "Objective Name": "Digital SMB Customer Onboarding",
       "Objective Status": "2",
       "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
+        "number_of_overdue_milestones": 1,
         "percentage_of_completed_milestones": 28.571428,
         "number_of_linked_milestones": 7,
         "number_of_completed_milestones": 2
@@ -23,7 +23,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-23T11:51:15.841Z",
+  "fetched_at": "2026-11-24T11:51:15.963Z",
   "total": 1,
   "im_name": "Martin Sloane"
 }
