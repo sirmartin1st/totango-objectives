@@ -13,7 +13,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,,Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Naseraldin Kayemah",
       "CSM Owner": "Khushboo Manghnani",
       "Objective Created Date": "2026-11-22",
@@ -139,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 100,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
@@ -151,28 +151,6 @@
       "Objective Created Date": "2026-10-27",
       "Account ID": "d22ae91d-131b-4434-8585-bd39ae3b980b",
       "Salesforce Opportunity ID": "006PH00000nYsg5YAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "aee0b8c1z2899z3c24zba85zc9b3b26fcf60",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Data Connections & Integrations",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "MI API Exports 30d,MI API Exports 30d,MI API Articles Exported 30d,MI API Articles Exported 30d",
-      "Onboarding Stage": "Setup",
-      "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": "Marina Shafik",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "2968db37-5d82-45e5-95d5-063d526ec745",
-      "Salesforce Opportunity ID": "006PH00000qIDbxYAG",
       "Objective Created By": null,
       "Objective Description": ""
     },
@@ -353,7 +331,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-23T11:51:15.841Z",
-  "total": 16,
+  "fetched_at": "2026-11-24T11:51:15.963Z",
+  "total": 15,
   "im_name": "Naseraldin Kayemah"
 }
