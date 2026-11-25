@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "8a5a9cadzd265z3b95z819cz490f0b012067",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 77.77778,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 7
+      },
+      "Pct Milestones Completed": 77.77778,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Aimi Hatayama",
+      "CSM Owner": "Shiori Masumitsu",
+      "Objective Created Date": "2026-11-23",
+      "Account ID": "01b11b2c-71f3-4dad-9d1d-812221a04c2a",
+      "Salesforce Opportunity ID": "006PH00000sLRR7YAO",
+      "Objective Created By": "aimi.hatayama@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "18b4b2f0z8e33z31d1z8e4bz640d7f79031c",
       "display_name": null,
       "Objective Name": "(Onboarding) Content & Campaign Optimization",
@@ -639,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
-  "total": 29,
+  "fetched_at": "2026-11-25T11:51:15.689Z",
+  "total": 30,
   "im_name": "Aimi Hatayama"
 }
