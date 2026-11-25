@@ -1,6 +1,28 @@
 {
   "objectives": [
     {
+      "objective_id": "2e8820d2z0a46z34a8zb9e2zc6a3d765b1ee",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Influencer Marketing",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 7,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "Klear eCommerce Connected Nbr,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,HS20 Klear Influencer Profiles Viewed 90D,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Sean DeRossett",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-24",
+      "Account ID": "f1db156c-7136-43f3-9858-68c1cfbb4c0e",
+      "Salesforce Opportunity ID": "006PH00000sRikDYAS",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "28dd17ccz25f1z3201zb15az96604a9a6d7a",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -79,7 +101,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Miranda Mart",
       "Objective Created Date": "2026-11-13",
@@ -95,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
@@ -117,11 +139,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 22.222221,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 22.222221,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Sean DeRossett",
@@ -563,7 +585,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sean DeRossett",
       "CSM Owner": "Miranda Mart",
       "Objective Created Date": "2026-10-12",
@@ -793,7 +815,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
-  "total": 36,
+  "fetched_at": "2026-11-25T11:51:15.689Z",
+  "total": 37,
   "im_name": "Sean DeRossett"
 }
