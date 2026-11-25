@@ -145,7 +145,7 @@
       },
       "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-11-09",
@@ -277,7 +277,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Jamie Korah",
       "CSM Owner": "Maria Maceikianec",
       "Objective Created Date": "2026-10-31",
@@ -507,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
+  "fetched_at": "2026-11-25T11:51:15.689Z",
   "total": 23,
   "im_name": "Jamie Korah"
 }
