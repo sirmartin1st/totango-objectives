@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "0e03d213zb505z385czb59bzb2c5d18582f3",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-24",
+      "Account ID": "329a9bac-729b-4b3b-b878-12dea311d869",
+      "Salesforce Opportunity ID": "006PH00000u3F3vYAE",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "b03417b3za192z3e8aza953z4b6f3549222d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": ",,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Jaimey-Ann Dyers",
+      "Objective Created Date": "2026-11-24",
+      "Account ID": "21c852f4-13a1-4969-8f8f-7598915d75de",
+      "Salesforce Opportunity ID": "006PH00000v5g5pYAA",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "bc3a2f60zc2c3z30a9z9c7cz84d32d57338a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Taneil Mindham",
+      "CSM Owner": "Gina Kempen",
+      "Objective Created Date": "2026-11-24",
+      "Account ID": "329a9bac-729b-4b3b-b878-12dea311d869",
+      "Salesforce Opportunity ID": "006PH00000u3F3vYAE",
+      "Objective Created By": "taneil.mindham@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "6715a160zcf87z3116za35eza59a3bd3de56",
       "display_name": null,
       "Objective Name": "(Onboarding) Content Distribution",
@@ -13,29 +79,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
-      "Onboarding Stage": "Internal Alignment",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Gina Kempen",
-      "Objective Created Date": "2026-11-22",
-      "Account ID": "329a9bac-729b-4b3b-b878-12dea311d869",
-      "Salesforce Opportunity ID": "006PH00000u3F3vYAE",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "b7a8daccz606az3c2azae3fze47600b7de0b",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
       "CSM Owner": "Gina Kempen",
       "Objective Created Date": "2026-11-22",
@@ -249,11 +293,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": "HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
@@ -271,11 +315,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 75,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
@@ -441,7 +485,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
-  "total": 20,
+  "fetched_at": "2026-11-25T11:51:15.689Z",
+  "total": 22,
   "im_name": "Taneil Mindham"
 }
