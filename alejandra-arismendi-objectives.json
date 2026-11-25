@@ -167,7 +167,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "B?n?dicte Bucharles",
       "Objective Created Date": "2026-10-26",
@@ -343,7 +343,7 @@
       },
       "Pct Milestones Completed": 100,
       "Milestone Names": "",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-26",
@@ -365,7 +365,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Alejandra Arismendi",
       "CSM Owner": "Isabella Grassick",
       "Objective Created Date": "2026-09-22",
@@ -375,7 +375,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
+  "fetched_at": "2026-11-25T11:51:15.689Z",
   "total": 17,
   "im_name": "Alejandra Arismendi"
 }
