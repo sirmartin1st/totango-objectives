@@ -243,28 +243,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "2647f573z213dz330ez9dccz91c6a261c439",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Adoption",
-      "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": "Anna Bergling",
-      "Objective Created Date": "2026-09-30",
-      "Account ID": "c966c830-fdbc-4909-a4e4-3fe955ec0b3c",
-      "Salesforce Opportunity ID": "006PH00000qecNBYAY",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "1476f3b5z0644z3d2fz87f1z12a75d2d7bd0",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -331,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-24T11:51:15.963Z",
-  "total": 15,
+  "fetched_at": "2026-11-25T11:51:15.689Z",
+  "total": 14,
   "im_name": "Naseraldin Kayemah"
 }
