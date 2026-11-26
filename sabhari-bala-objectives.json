@@ -1,28 +1,6 @@
 {
   "objectives": [
     {
-      "objective_id": "0d5ee448z8a0fz3c60zbdd4z0a1a57028597",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Media Relations Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
-      },
-      "Pct Milestones Completed": 0,
-      "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-11-24",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "02c0dfadzd750z340fz9458zd45b3f5d6b29",
       "display_name": null,
       "Objective Name": "(Onboarding) Media Relations Management",
@@ -771,28 +749,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "18c08d5bza922z3c7dza45dz410ab0086234",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-15",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "e81580c4ze01dz3ccdzaf73z65e062104a39",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -812,160 +768,6 @@
       "Account ID": "57cf6ba8-f513-4cac-9999-ede959fd120d",
       "Salesforce Opportunity ID": "006PH00000ta1ifYAA",
       "Objective Created By": "maricon.zapanta@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "1ab8411dzf572z332fzabd9z5da7c3773dc2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content & Campaign Optimization",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "1e627c3ez3195z3f55z9a1azc1da92f85b13",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "463c46caza4ecz3c54zb3e9ze35afe9bed68",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": "HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "5b2651e3z471dz3355za43ez6a3165f20c46",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Reputation Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 75,
-        "number_of_linked_milestones": 8,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 75,
-      "Milestone Names": ",HS20 Articles Clicked 90D,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "6b97899bz0474z363bz87e8z760ebcd778f7",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Competitive Benchmarking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "7b4b1889ze9a7z3c27z89c3zc173861b2ba2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Market & Industry Research",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "d9342368zc5c1z3a83z81f7ze40a5acaf354",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Risk & Crisis Management",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 6,
-        "number_of_completed_milestones": 6
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-10-11",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": "sabhari.bala@meltwater.com",
       "Objective Description": ""
     },
     {
@@ -1123,28 +925,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "b3fc71bcz208bz3162zadcazf282348ea067",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Content Distribution",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 3
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Sabhari Bala",
-      "CSM Owner": "Catherine Innocenzi",
-      "Objective Created Date": "2026-09-08",
-      "Account ID": "32481e81-fc0c-42a2-9494-8439f22af0b2",
-      "Salesforce Opportunity ID": "006PH00000o34LeYAI",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "38e180abze68fz3282zb691z4d83b5502b86",
       "display_name": null,
       "Objective Name": "(FIP) Media Relations Management",
@@ -1189,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-25T11:51:15.689Z",
-  "total": 54,
+  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "total": 44,
   "im_name": "Sabhari Bala"
 }
