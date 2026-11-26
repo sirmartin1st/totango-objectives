@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "23a1db94z2e49z3806z927azb67d3f93dc0a",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Sophie Deziel",
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "6374d128-a673-4545-a626-56897329f521",
+      "Salesforce Opportunity ID": "006PH00000v6suXYAQ",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "a9d9de42zffe0z3c5fz8a50zdf834a84e218",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": ",,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
+      "Onboarding Stage": "Internal Alignment",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Mike Mauldin",
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "81e68c64-bc4d-4444-a929-19db84bbc30f",
+      "Salesforce Opportunity ID": "006PH00000vJvmXYAS",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "e420c577z9915z3775za439z6034c629fe6d",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Brand Monitoring",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
+        "number_of_linked_milestones": 9,
+        "number_of_completed_milestones": 1
+      },
+      "Pct Milestones Completed": 11.111111,
+      "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
+      "Onboarding Stage": "Setup",
+      "Implementation Manager": "Emma Ekeroth",
+      "CSM Owner": "Bryan Bartolome",
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "2fb8e370-353e-4f3f-8c8c-40f403ba149a",
+      "Salesforce Opportunity ID": "006PH00000sjWPeYAM",
+      "Objective Created By": "emma.ekeroth@meltwater.com",
+      "Objective Description": ""
+    },
+    {
       "objective_id": "e9582d91z51e7z3806z9258z3c23434804fb",
       "display_name": null,
       "Objective Name": "(Onboarding) Data Connections & Integrations",
@@ -57,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-11-19",
@@ -79,7 +145,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": null,
+      "Onboarding Stage": "Internal Alignment",
       "Implementation Manager": "Emma Ekeroth",
       "CSM Owner": "Will Swift",
       "Objective Created Date": "2026-11-19",
@@ -139,11 +205,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 11.111111,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 1
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 11.111111,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": "HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,MI IG Setup New,,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Emma Ekeroth",
@@ -381,11 +447,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
+        "percentage_of_completed_milestones": 66.666664,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
+        "number_of_completed_milestones": 6
       },
-      "Pct Milestones Completed": 55.555557,
+      "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Emma Ekeroth",
@@ -507,7 +573,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-25T11:51:15.689Z",
-  "total": 23,
+  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "total": 26,
   "im_name": "Emma Ekeroth"
 }
