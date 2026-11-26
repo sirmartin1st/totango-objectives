@@ -7,11 +7,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 40,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 2
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 40,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Jamie Korah",
@@ -507,7 +507,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-25T11:51:15.689Z",
+  "fetched_at": "2026-11-26T11:51:15.433Z",
   "total": 23,
   "im_name": "Jamie Korah"
 }
