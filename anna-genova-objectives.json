@@ -1,6 +1,72 @@
 {
   "objectives": [
     {
+      "objective_id": "5f30966fza55dz3eb4zb308zdc299a3da3c8",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "b8b3b1d5-b65b-4545-bd3d-3623aac45bc7",
+      "Salesforce Opportunity ID": "006PH00000hsd21YAA",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "8fa9552az4fffz3477zb687z89bf8e6df6e2",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Media Relations Management",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 5,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "f7e27191-8888-4949-bd7d-0e0eb31a3487",
+      "Salesforce Opportunity ID": "006PH00000uKcFPYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
+      "objective_id": "ff0e356cz4155z3d16z9c5bzabea69ec5b48",
+      "display_name": null,
+      "Objective Name": "(Onboarding) Content Distribution",
+      "Objective Status": "1",
+      "Milestones Progress": {
+        "number_of_overdue_milestones": 0,
+        "percentage_of_completed_milestones": 0,
+        "number_of_linked_milestones": 3,
+        "number_of_completed_milestones": 0
+      },
+      "Pct Milestones Completed": 0,
+      "Milestone Names": "HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D,",
+      "Onboarding Stage": null,
+      "Implementation Manager": "Anna Genova",
+      "CSM Owner": null,
+      "Objective Created Date": "2026-11-25",
+      "Account ID": "f7e27191-8888-4949-bd7d-0e0eb31a3487",
+      "Salesforce Opportunity ID": "006PH00000uKcFPYA0",
+      "Objective Created By": null,
+      "Objective Description": ""
+    },
+    {
       "objective_id": "2914d747zcac7z3a60zbbecz966bdd99cd52",
       "display_name": null,
       "Objective Name": "(Onboarding) AI Visibility Tracking",
@@ -991,7 +1057,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-25T11:51:15.689Z",
-  "total": 45,
+  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "total": 48,
   "im_name": "Anna Genova"
 }
