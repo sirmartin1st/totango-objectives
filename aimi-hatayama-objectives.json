@@ -29,11 +29,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 80,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 4
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 80,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": ",HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New,Mira Studio Usage,HS20 Articles Clicked 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
@@ -73,11 +73,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "Mira Studio Usage,HS20 Articles Clicked 90D,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
@@ -117,11 +117,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 33.333332,
+        "percentage_of_completed_milestones": 77.77778,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 3
+        "number_of_completed_milestones": 7
       },
-      "Pct Milestones Completed": 33.333332,
+      "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Articles Clicked 90D,,,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,MI IG Setup New",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Aimi Hatayama",
@@ -183,11 +183,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
+        "percentage_of_completed_milestones": 88.888885,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
+        "number_of_completed_milestones": 8
       },
-      "Pct Milestones Completed": 77.77778,
+      "Pct Milestones Completed": 88.888885,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Aimi Hatayama",
@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 77.77778,
       "Milestone Names": "HS20 Articles Clicked 90D,MI IG Setup New,,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-12",
@@ -387,7 +387,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": ",HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Influencer Profiles Viewed 90D,HS20 Klear Campaigns Opened 90D,,HS20 Klear Campaigns Opened 90D,Klear eCommerce Connected Nbr",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-02",
@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,",
-      "Onboarding Stage": "Adoption",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Shizuku Takayama",
       "Objective Created Date": "2026-10-02",
@@ -497,7 +497,7 @@
       },
       "Pct Milestones Completed": 28.571428,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Searches Completed 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -519,7 +519,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,Mira Studio Usage,MI IG Setup New,MI FB Setup New,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -541,7 +541,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": "HS20 Articles Clicked 90D,Mira Studio Usage,,,HS20 Articles Clicked 90D,MI IG Setup New,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -563,7 +563,7 @@
       },
       "Pct Milestones Completed": 66.666664,
       "Milestone Names": ",,,MI FB Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI IG Setup New",
-      "Onboarding Stage": "Training",
+      "Onboarding Stage": "Onboarding Closure",
       "Implementation Manager": "Aimi Hatayama",
       "CSM Owner": "Chihiro Saito",
       "Objective Created Date": "2026-09-27",
@@ -661,7 +661,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "fetched_at": "2026-11-27T11:51:15.033Z",
   "total": 30,
   "im_name": "Aimi Hatayama"
 }
