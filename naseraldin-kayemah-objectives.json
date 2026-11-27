@@ -37,7 +37,7 @@
       "Milestone Names": "HS20 Newsletters Articles Read 90D,,HS20 Newsletters Articles Read 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": null,
+      "CSM Owner": "Anna Bergling",
       "Objective Created Date": "2026-11-10",
       "Account ID": "afa32c60-c511-43d3-9212-93e1ca1eea78",
       "Salesforce Opportunity ID": "006PH00000s0WQdYAM",
@@ -59,7 +59,7 @@
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,,HS20 Media List Updates 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Naseraldin Kayemah",
-      "CSM Owner": null,
+      "CSM Owner": "Anna Bergling",
       "Objective Created Date": "2026-11-10",
       "Account ID": "afa32c60-c511-43d3-9212-93e1ca1eea78",
       "Salesforce Opportunity ID": "006PH00000s0WQdYAM",
@@ -309,7 +309,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "fetched_at": "2026-11-27T11:51:15.033Z",
   "total": 14,
   "im_name": "Naseraldin Kayemah"
 }
