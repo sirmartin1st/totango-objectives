@@ -95,13 +95,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-22",
@@ -123,7 +123,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Articles Clicked 90D,HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-22",
@@ -227,13 +227,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-22",
@@ -255,7 +255,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-22",
@@ -271,13 +271,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 11.111111,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 11.111111,
       "Milestone Names": "MI FB Setup New,MI IG Setup New,HS20 Searches Completed 90D,HS20 Searches Completed 90D,HS20 Articles Clicked 90D,,,Mira Studio Usage,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-22",
@@ -359,13 +359,13 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 66.666664,
+        "percentage_of_completed_milestones": 100,
         "number_of_linked_milestones": 3,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 66.666664,
+      "Pct Milestones Completed": 100,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Emma Witting",
       "Objective Created Date": "2026-11-18",
@@ -387,7 +387,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D",
-      "Onboarding Stage": "Internal Alignment",
+      "Onboarding Stage": "Client Kickoff",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Emma Witting",
       "Objective Created Date": "2026-11-18",
@@ -409,7 +409,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-13",
@@ -431,7 +431,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Newsletters Articles Read 90D,HS20 Newsletters Articles Read 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Sabhari Bala",
       "CSM Owner": "Monica Bondoc",
       "Objective Created Date": "2026-11-12",
@@ -969,7 +969,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-26T11:51:15.433Z",
+  "fetched_at": "2026-11-27T11:51:15.033Z",
   "total": 44,
   "im_name": "Sabhari Bala"
 }
