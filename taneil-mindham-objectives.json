@@ -51,11 +51,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 20,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 1
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 20,
       "Milestone Names": "HS20 Journalist Outreach 90D,HS20 Media List Updates 90D,HS20 Media List Updates 90D,,HS20 Journalist Outreach 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -95,11 +95,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 0,
+        "percentage_of_completed_milestones": 33.333332,
         "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 0
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 0,
+      "Pct Milestones Completed": 33.333332,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D",
       "Onboarding Stage": "Setup",
       "Implementation Manager": "Taneil Mindham",
@@ -309,72 +309,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "030006c4z45d1z363az8299z17878d33020f",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 88.888885,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 8
-      },
-      "Pct Milestones Completed": 88.888885,
-      "Milestone Names": "HS20 Searches Completed 90D,MI IG Setup New,MI FB Setup New,HS20 Articles Clicked 90D,,,,HS20 Searches Completed 90D,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Evelina Delsing",
-      "Objective Created Date": "2026-11-03",
-      "Account ID": "a64d02fe-fd2d-4a3a-a525-78c670562a06",
-      "Salesforce Opportunity ID": "006PH00000uU7bkYAC",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "50abd059z8814z3437za931zc2caf3856bf7",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Executive Reporting & Dashboards",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 4,
-        "number_of_completed_milestones": 4
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": ",HS20 Searches Completed 90D,,HS20 Searches Completed 90D",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Evelina Delsing",
-      "Objective Created Date": "2026-11-03",
-      "Account ID": "a64d02fe-fd2d-4a3a-a525-78c670562a06",
-      "Salesforce Opportunity ID": "006PH00000uU7bkYAC",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "bea6532dz6a5az358dza6bbz63d8f12f3577",
-      "display_name": null,
-      "Objective Name": "(Onboarding) AI Visibility Tracking",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 100,
-        "number_of_linked_milestones": 1,
-        "number_of_completed_milestones": 1
-      },
-      "Pct Milestones Completed": 100,
-      "Milestone Names": "",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Evelina Delsing",
-      "Objective Created Date": "2026-11-03",
-      "Account ID": "a64d02fe-fd2d-4a3a-a525-78c670562a06",
-      "Salesforce Opportunity ID": "006PH00000uU7bkYAC",
-      "Objective Created By": null,
-      "Objective Description": ""
-    },
-    {
       "objective_id": "d54c4f1azf482z3126z95d8zc752f20e6052",
       "display_name": null,
       "Objective Name": "(Onboarding) Brand Monitoring",
@@ -425,11 +359,11 @@
       "Objective Status": "1",
       "Milestones Progress": {
         "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 40,
+        "percentage_of_completed_milestones": 60,
         "number_of_linked_milestones": 5,
-        "number_of_completed_milestones": 2
+        "number_of_completed_milestones": 3
       },
-      "Pct Milestones Completed": 40,
+      "Pct Milestones Completed": 60,
       "Milestone Names": "HS20 Media List Updates 90D,HS20 Media List Updates 90D,HS20 Journalist Outreach 90D,HS20 Journalist Outreach 90D,",
       "Onboarding Stage": "Training",
       "Implementation Manager": "Taneil Mindham",
@@ -463,28 +397,6 @@
       "Objective Description": ""
     },
     {
-      "objective_id": "89930396z52e6z362cz8c35zf6d33d69ec90",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 77.77778,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 7
-      },
-      "Pct Milestones Completed": 77.77778,
-      "Milestone Names": "HS20 Searches Completed 90D,HS20 Searches Completed 90D,,HS20 Articles Clicked 90D,HS20 Articles Clicked 90D,MI FB Setup New,MI IG Setup New,,",
-      "Onboarding Stage": "Training",
-      "Implementation Manager": "Taneil Mindham",
-      "CSM Owner": "Franziska Adelmann",
-      "Objective Created Date": "2026-10-12",
-      "Account ID": "ea330b9d-4327-4dcd-8444-580ebf2911c9",
-      "Salesforce Opportunity ID": "006PH00000rHIV5YAO",
-      "Objective Created By": "taneil.mindham@meltwater.com",
-      "Objective Description": ""
-    },
-    {
       "objective_id": "a7497704z646az3d51z8d06za4a75183ce82",
       "display_name": null,
       "Objective Name": "(Onboarding) Risk & Crisis Management",
@@ -507,7 +419,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-26T11:51:15.433Z",
-  "total": 23,
+  "fetched_at": "2026-11-27T11:51:15.033Z",
+  "total": 19,
   "im_name": "Taneil Mindham"
 }
