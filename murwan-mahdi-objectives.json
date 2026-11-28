@@ -35,7 +35,7 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": "MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,,,",
-      "Onboarding Stage": "Client Kickoff",
+      "Onboarding Stage": "Setup",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": null,
       "Objective Created Date": "2026-11-26",
@@ -235,7 +235,7 @@
       "Milestone Names": ",,HS20 Articles Clicked 90D,,HS20 Searches Completed 90D,HS20 Searches Completed 90D,MI FB Setup New,HS20 Articles Clicked 90D,MI IG Setup New",
       "Onboarding Stage": "Adoption",
       "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": null,
+      "CSM Owner": "Nada Alsaad",
       "Objective Created Date": "2026-10-29",
       "Account ID": "a4861cf6-99de-45b5-8000-3d913ee0213c",
       "Salesforce Opportunity ID": "006PH00000kyrgTYAQ",
@@ -299,34 +299,12 @@
       },
       "Pct Milestones Completed": 0,
       "Milestone Names": ",HS20 Articles Clicked 90D,,,HS20 Searches Completed 90D,MI FB Setup New,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D",
-      "Onboarding Stage": "Setup",
+      "Onboarding Stage": "Training",
       "Implementation Manager": "Murwan Mahdi",
       "CSM Owner": "Sapna Tej Manglani",
       "Objective Created Date": "2026-10-19",
       "Account ID": "f7bd3e02-d105-4f3f-9212-0bfc6f40de71",
       "Salesforce Opportunity ID": "006PH00000igjZ0YAI",
-      "Objective Created By": "murwan.mahdi@meltwater.com",
-      "Objective Description": ""
-    },
-    {
-      "objective_id": "83f7747fzc9aez3a36za5c6z7a268ddc37e2",
-      "display_name": null,
-      "Objective Name": "(Onboarding) Brand Monitoring",
-      "Objective Status": "1",
-      "Milestones Progress": {
-        "number_of_overdue_milestones": 0,
-        "percentage_of_completed_milestones": 55.555557,
-        "number_of_linked_milestones": 9,
-        "number_of_completed_milestones": 5
-      },
-      "Pct Milestones Completed": 55.555557,
-      "Milestone Names": ",,,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI IG Setup New,HS20 Articles Clicked 90D,HS20 Searches Completed 90D,MI FB Setup New",
-      "Onboarding Stage": "Onboarding Closure",
-      "Implementation Manager": "Murwan Mahdi",
-      "CSM Owner": "Sapna Tej Manglani",
-      "Objective Created Date": "2026-10-19",
-      "Account ID": "854e3b85-b9b2-4c9c-9fdf-1c06df6e6645",
-      "Salesforce Opportunity ID": "006PH00000sPL29YAG",
       "Objective Created By": "murwan.mahdi@meltwater.com",
       "Objective Description": ""
     },
@@ -375,7 +353,7 @@
       "Objective Description": ""
     }
   ],
-  "fetched_at": "2026-11-27T11:51:15.033Z",
-  "total": 17,
+  "fetched_at": "2026-11-28T11:51:12.669Z",
+  "total": 16,
   "im_name": "Murwan Mahdi"
 }
